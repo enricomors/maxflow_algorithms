@@ -5,6 +5,10 @@
 #include <inttypes.h>
 #include <tuple>
 #include <vector>
+#include <atomic>
+#include <string>
+#include <algorithm>
+#include <sys/resource.h>
 
 #include "graph_io.h"
 
@@ -23,6 +27,32 @@
 #include "reimpls/hpf.h"
 #include "hi_pr/hi_pr.h"
 #include "reimpls/strandmarkkahl.h"
+
+std::atomic<bool> keepMonitoring{true};
+std::atomic<size_t> maxMemoryUsage{0};
+std::atomic<size_t> memorySamplesCount{0};
+std::atomic<size_t> totalMemoryUsage{0};
+
+// Function to get current memory usage (in kilobytes)
+size_t getMemoryUsage() {
+    struct rusage usage;
+    if (getrusage(RUSAGE_SELF, &usage) == 0) {
+        return usage.ru_maxrss; // Resident Set Size (RSS) in kilobytes
+    }
+    return 0;
+}
+
+// Background thread function for monitoring memory usage
+void monitorMemory() {
+    while (keepMonitoring) {
+        size_t currentMemory = getMemoryUsage();
+        maxMemoryUsage.store(std::max(maxMemoryUsage.load(), currentMemory));
+        totalMemoryUsage.fetch_add(currentMemory);
+        memorySamplesCount.fetch_add(1);
+
+        std::this_thread::sleep_for(std::chrono::milliseconds(100)); // Sample every 100ms
+    }
+}
 
 using Duration = std::chrono::duration<double>;
 static const auto now = std::chrono::steady_clock::now;
@@ -836,6 +866,9 @@ int main(int argc, const char* argv[])
     }
     std::cout << "reading " << fname << "..." << std::endl;
 
+    // Start memory monitoring thread
+    std::thread memoryMonitor(monitorMemory);
+
     try {
         auto bkg = read_graph<int, int>(fname);
 
@@ -901,6 +934,20 @@ int main(int argc, const char* argv[])
         std::cout << "ERROR: " << e.what() << "\n";
         return -1;
     }
+
+    // Stop memory monitoring
+    keepMonitoring = false;
+    memoryMonitor.join();
+
+    // Compute average memory usage
+    size_t avgMemoryUsage = 0;
+    if (memorySamplesCount > 0) {
+        avgMemoryUsage = totalMemoryUsage / memorySamplesCount;
+    }
+
+    // Display memory usage statistics
+    std::cout << "Maximum memory usage: " << maxMemoryUsage.load() << " KB" << std::endl;
+    std::cout << "Average memory usage: " << avgMemoryUsage << " KB" << std::endl;
 
     return 0;
 }

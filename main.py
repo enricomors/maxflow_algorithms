@@ -37,7 +37,7 @@ def run_cpp_program(executable, dataset, algorithm):
     finally:
         # Stop the tracker and print the emission report
         emissions = tracker.stop()
-        print(f"Emissions: {emissions} kg CO2e")
+        print(f"Emissions: {emissions} kg CO2e\n")
 
 if __name__ == "__main__":
     # Set up command-line argument parsing

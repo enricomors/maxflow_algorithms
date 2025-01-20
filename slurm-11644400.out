@@ -1,0 +1,448 @@
+Output from C++ program:
+reading data/export/bone.n26c10.max.bbk...
+building... 4.35482 seconds
+solving... 26.9806 seconds
+total: 31.3354 seconds, maxflow: 6593
+Maximum memory usage: 17379.8 MB
+Average memory usage: 15066.5 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.0011795032359922023 kg CO2e
+Output from C++ program:
+reading data/export/bone.n26c100.max.bbk...
+building... 4.43933 seconds
+solving... 27.3199 seconds
+total: 31.7593 seconds, maxflow: 83195
+Maximum memory usage: 17379.8 MB
+Average memory usage: 15088 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.001198365965940794 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c10.max.bbk...
+building... 1.11725 seconds
+solving... 5.96048 seconds
+total: 7.07773 seconds, maxflow: 5454
+Maximum memory usage: 4289.66 MB
+Average memory usage: 3629.07 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.0002728366485659338 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c100.max.bbk...
+building... 1.10914 seconds
+solving... 7.27336 seconds
+total: 8.3825 seconds, maxflow: 71344
+Maximum memory usage: 4289.63 MB
+Average memory usage: 3708.19 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.0003227343248684436 kg CO2e
+Output from C++ program:
+reading data/export/bone.n26c10.max.bbk...
+building... 3.06278 seconds
+solving... 15.9241 seconds
+total: 18.9869 seconds, maxflow: 6593
+Maximum memory usage: 9458.51 MB
+Average memory usage: 8423.4 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.0007136358728816447 kg CO2e
+Output from C++ program:
+reading data/export/bone.n26c100.max.bbk...
+building... 3.05181 seconds
+solving... 18.4044 seconds
+total: 21.4562 seconds, maxflow: 83195
+Maximum memory usage: 9458.86 MB
+Average memory usage: 8530.24 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.0007985699367437815 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c10.max.bbk...
+building... 0.764595 seconds
+solving... 4.13382 seconds
+total: 4.89841 seconds, maxflow: 5454
+Maximum memory usage: 2318.55 MB
+Average memory usage: 2017.24 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.00019933544724677933 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c100.max.bbk...
+building... 0.763443 seconds
+solving... 5.19056 seconds
+total: 5.954 seconds, maxflow: 71344
+Maximum memory usage: 2318.64 MB
+Average memory usage: 2059.61 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.0002350363786216225 kg CO2e
+Output from C++ program:
+reading data/export/bone.n26c10.max.bbk...
+building... 3.12465 seconds
+init... 7.31628 seconds
+solving... 5.89427 seconds
+total: 16.3352 seconds, maxflow: 6593
+Maximum memory usage: 14873.5 MB
+Average memory usage: 11471.7 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 0.0006313232421750694 kg CO2e
+Output from C++ program:
+reading data/export/bone.n26c100.max.bbk...
+building... 3.12826 seconds
+init... 7.30062 seconds
+solving... 8.09607 seconds
+total: 18.5249 seconds, maxflow: 83195
+Maximum memory usage: 14873.4 MB
+Average memory usage: 11837 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 0.00070957489394939 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c10.max.bbk...
+building... 0.76883 seconds
+init... 1.04544 seconds
+solving... 2.25634 seconds
+total: 4.07061 seconds, maxflow: 5454
+Maximum memory usage: 3568.44 MB
+Average memory usage: 2715.01 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 0.00017478814445649602 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c100.max.bbk...
+building... 0.762789 seconds
+init... 1.04501 seconds
+solving... 3.34685 seconds
+total: 5.15464 seconds, maxflow: 71344
+Maximum memory usage: 3568.16 MB
+Average memory usage: 2854.13 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 0.00021076239220827435 kg CO2e
+Output from C++ program:
+reading data/export/bone.n26c10.max.bbk...
+building...5.69668 seconds
+init... 3.56403 seconds
+solving... 6.02265 seconds
+total: 15.2834 seconds, maxflow: 6593
+Maximum memory usage: 19127.5 MB
+Average memory usage: 15166.4 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 0.0006021251344186981 kg CO2e
+Output from C++ program:
+reading data/export/bone.n26c100.max.bbk...
+building...5.65672 seconds
+init... 3.6473 seconds
+solving... 6.8511 seconds
+total: 16.1551 seconds, maxflow: 83195
+Maximum memory usage: 19127.3 MB
+Average memory usage: 15357 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 0.0006248024732725742 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c10.max.bbk...
+building...1.51933 seconds
+init... 0.85955 seconds
+solving... 1.7032 seconds
+total: 4.08209 seconds, maxflow: 5454
+Maximum memory usage: 4847.5 MB
+Average memory usage: 3632.72 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 0.00017355209878236125 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c100.max.bbk...
+building...1.5175 seconds
+init... 0.860518 seconds
+solving... 2.06548 seconds
+total: 4.44349 seconds, maxflow: 71344
+Maximum memory usage: 4847.58 MB
+Average memory usage: 3687.07 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 0.0001842035529900489 kg CO2e
+Output from C++ program:
+reading data/export/bone.n26c10.max.bbk...
+building...1.9456 seconds
+init... 3.29708 seconds
+solving... 6.12888 seconds
+total: 11.3716 seconds, maxflow: 6593
+Maximum memory usage: 16148.9 MB
+Average memory usage: 12055 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 0.00046522558056946635 kg CO2e
+Output from C++ program:
+reading data/export/bone.n26c100.max.bbk...
+building...1.93908 seconds
+init... 3.36779 seconds
+solving... 6.98496 seconds
+total: 12.2918 seconds, maxflow: 83195
+Maximum memory usage: 16148.6 MB
+Average memory usage: 12271.6 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 0.0004939853146027366 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c10.max.bbk...
+building...0.532145 seconds
+init... 0.864103 seconds
+solving... 1.66556 seconds
+total: 3.06181 seconds, maxflow: 5454
+Maximum memory usage: 3951.22 MB
+Average memory usage: 2808.26 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 0.00014323228121333826 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c100.max.bbk...
+building...0.533557 seconds
+init... 0.860612 seconds
+solving... 2.04845 seconds
+total: 3.44262 seconds, maxflow: 71344
+Maximum memory usage: 3951.39 MB
+Average memory usage: 2883.7 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 0.00015403334587432593 kg CO2e
+Output from C++ program:
+reading data/export/bone.n26c10.max.bbk...
+building...1.96177 seconds
+init... 0.0211617 seconds
+solving... 19.6081 seconds
+total: 21.591 seconds, maxflow: 6593
+Maximum memory usage: 9532.14 MB
+Average memory usage: 8711.7 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 0.0007938148405634201 kg CO2e
+Output from C++ program:
+reading data/export/bone.n26c100.max.bbk...
+building...1.9615 seconds
+init... 0.0210182 seconds
+solving... 21.607 seconds
+total: 23.5895 seconds, maxflow: 83195
+Maximum memory usage: 9544.27 MB
+Average memory usage: 8785.64 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 0.0008581644291025533 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c10.max.bbk...
+building...0.52054 seconds
+init... 0.0213393 seconds
+solving... 3.19249 seconds
+total: 3.73437 seconds, maxflow: 5454
+Maximum memory usage: 2382.55 MB
+Average memory usage: 2017.08 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 0.00016194488221425607 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c100.max.bbk...
+building...0.523245 seconds
+init... 0.0217887 seconds
+solving... 3.87127 seconds
+total: 4.4163 seconds, maxflow: 71344
+Maximum memory usage: 2389.05 MB
+Average memory usage: 2057.95 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 0.0001875152897185877 kg CO2e
+Output from C++ program:
+reading data/export/bone.n26c10.max.bbk...
+Maximum memory usage: 4646.5 MB
+Average memory usage: 3173.02 MB
+
+Errors from C++ program:
+Unknown algorithm: hpf_hf
+
+Emissions: 8.187700541952067e-05 kg CO2e
+Output from C++ program:
+reading data/export/bone.n26c100.max.bbk...
+Maximum memory usage: 4646.48 MB
+Average memory usage: 3154.65 MB
+
+Errors from C++ program:
+Unknown algorithm: hpf_hf
+
+Emissions: 7.651767139448206e-05 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c10.max.bbk...
+Maximum memory usage: 1341.6 MB
+Average memory usage: 1029.84 MB
+
+Errors from C++ program:
+Unknown algorithm: hpf_hf
+
+Emissions: 3.795584160531394e-05 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c100.max.bbk...
+Maximum memory usage: 1355.56 MB
+Average memory usage: 1064.84 MB
+
+Errors from C++ program:
+Unknown algorithm: hpf_hf
+
+Emissions: 3.847526892588539e-05 kg CO2e
+Output from C++ program:
+reading data/export/bone.n26c10.max.bbk...
+Maximum memory usage: 4646.79 MB
+Average memory usage: 3168.47 MB
+
+Errors from C++ program:
+Unknown algorithm: hpf_hl
+
+Emissions: 8.315144977051692e-05 kg CO2e
+Output from C++ program:
+reading data/export/bone.n26c100.max.bbk...
+Maximum memory usage: 4646.66 MB
+Average memory usage: 3149.7 MB
+
+Errors from C++ program:
+Unknown algorithm: hpf_hl
+
+Emissions: 7.617818252181684e-05 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c10.max.bbk...
+Maximum memory usage: 1341.88 MB
+Average memory usage: 1030.26 MB
+
+Errors from C++ program:
+Unknown algorithm: hpf_hl
+
+Emissions: 3.819400809044238e-05 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c100.max.bbk...
+Maximum memory usage: 1355.63 MB
+Average memory usage: 1062.94 MB
+
+Errors from C++ program:
+Unknown algorithm: hpf_hl
+
+Emissions: 4.126642147795198e-05 kg CO2e
+Output from C++ program:
+reading data/export/bone.n26c10.max.bbk...
+Maximum memory usage: 4646.66 MB
+Average memory usage: 3144.65 MB
+
+Errors from C++ program:
+Unknown algorithm: hpf_lf
+
+Emissions: 7.57804609439712e-05 kg CO2e
+Output from C++ program:
+reading data/export/bone.n26c100.max.bbk...
+Maximum memory usage: 4646.79 MB
+Average memory usage: 3161.53 MB
+
+Errors from C++ program:
+Unknown algorithm: hpf_lf
+
+Emissions: 8.332318624834178e-05 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c10.max.bbk...
+Maximum memory usage: 1341.97 MB
+Average memory usage: 1030.27 MB
+
+Errors from C++ program:
+Unknown algorithm: hpf_lf
+
+Emissions: 3.547721390415989e-05 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c100.max.bbk...
+Maximum memory usage: 1355.49 MB
+Average memory usage: 1064.25 MB
+
+Errors from C++ program:
+Unknown algorithm: hpf_lf
+
+Emissions: 3.9104891195786456e-05 kg CO2e
+Output from C++ program:
+reading data/export/bone.n26c10.max.bbk...
+Maximum memory usage: 4646.45 MB
+Average memory usage: 3168.76 MB
+
+Errors from C++ program:
+Unknown algorithm: hpf_ll
+
+Emissions: 8.304677309988209e-05 kg CO2e
+Output from C++ program:
+reading data/export/bone.n26c100.max.bbk...
+Maximum memory usage: 4646.48 MB
+Average memory usage: 3150.61 MB
+
+Errors from C++ program:
+Unknown algorithm: hpf_ll
+
+Emissions: 7.604102392825918e-05 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c10.max.bbk...
+Maximum memory usage: 1341.69 MB
+Average memory usage: 1029.14 MB
+
+Errors from C++ program:
+Unknown algorithm: hpf_ll
+
+Emissions: 3.8302254926963525e-05 kg CO2e
+Output from C++ program:
+reading data/export/bone.n6c100.max.bbk...
+Maximum memory usage: 1355.66 MB
+Average memory usage: 1065.19 MB
+
+Errors from C++ program:
+Unknown algorithm: hpf_ll
+
+Emissions: 3.876650163204075e-05 kg CO2e

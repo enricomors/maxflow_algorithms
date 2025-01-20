@@ -1,0 +1,852 @@
+[codecarbon INFO @ 16:41:01] offline tracker init
+[codecarbon INFO @ 16:41:02] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:41:03] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:41:03] [setup] GPU Tracking...
+[codecarbon INFO @ 16:41:03] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:41:03] [setup] CPU Tracking...
+[codecarbon INFO @ 16:41:03] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:41:03] >>> Tracker's metadata:
+[codecarbon INFO @ 16:41:03]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:41:03]   Python version: 3.11.6
+[codecarbon INFO @ 16:41:03]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:41:03]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:41:03]   CPU count: 8
+[codecarbon INFO @ 16:41:03]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:41:03]   GPU count: 0
+[codecarbon INFO @ 16:41:03]   GPU model: 
+[codecarbon INFO @ 16:41:18] Energy consumed for RAM : 0.000786 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:41:18] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:41:18] Energy consumed for all CPUs : 0.000671 kWh. Total CPU Power : 161.13103059003666 W
+[codecarbon INFO @ 16:41:18] 0.001457 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:41:33] Energy consumed for RAM : 0.001571 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:41:33] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:41:33] Energy consumed for all CPUs : 0.001332 kWh. Total CPU Power : 158.56208406834696 W
+[codecarbon INFO @ 16:41:33] 0.002904 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:41:39] Energy consumed for RAM : 0.001878 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:41:39] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:41:39] Energy consumed for all CPUs : 0.001583 kWh. Total CPU Power : 154.44535510501524 W
+[codecarbon INFO @ 16:41:39] 0.003461 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:41:40] offline tracker init
+[codecarbon INFO @ 16:41:40] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:41:40] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:41:40] [setup] GPU Tracking...
+[codecarbon INFO @ 16:41:40] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:41:40] [setup] CPU Tracking...
+[codecarbon INFO @ 16:41:40] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:41:41] >>> Tracker's metadata:
+[codecarbon INFO @ 16:41:41]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:41:41]   Python version: 3.11.6
+[codecarbon INFO @ 16:41:41]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:41:41]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:41:41]   CPU count: 8
+[codecarbon INFO @ 16:41:41]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:41:41]   GPU count: 0
+[codecarbon INFO @ 16:41:41]   GPU model: 
+[codecarbon INFO @ 16:41:56] Energy consumed for RAM : 0.000786 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:41:56] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:41:56] Energy consumed for all CPUs : 0.000660 kWh. Total CPU Power : 158.49602965897196 W
+[codecarbon INFO @ 16:41:56] 0.001446 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:42:11] Energy consumed for RAM : 0.001571 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:42:11] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:42:11] Energy consumed for all CPUs : 0.001327 kWh. Total CPU Power : 159.85277145626736 W
+[codecarbon INFO @ 16:42:11] 0.002898 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:42:17] Energy consumed for RAM : 0.001903 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:42:17] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:42:17] Energy consumed for all CPUs : 0.001613 kWh. Total CPU Power : 163.13382404409225 W
+[codecarbon INFO @ 16:42:17] 0.003516 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:42:18] offline tracker init
+[codecarbon INFO @ 16:42:18] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:42:18] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:42:18] [setup] GPU Tracking...
+[codecarbon INFO @ 16:42:18] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:42:18] [setup] CPU Tracking...
+[codecarbon INFO @ 16:42:18] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:42:19] >>> Tracker's metadata:
+[codecarbon INFO @ 16:42:19]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:42:19]   Python version: 3.11.6
+[codecarbon INFO @ 16:42:19]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:42:19]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:42:19]   CPU count: 8
+[codecarbon INFO @ 16:42:19]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:42:19]   GPU count: 0
+[codecarbon INFO @ 16:42:19]   GPU model: 
+[codecarbon INFO @ 16:42:27] Energy consumed for RAM : 0.000435 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:42:27] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:42:27] Energy consumed for all CPUs : 0.000365 kWh. Total CPU Power : 158.1811920293449 W
+[codecarbon INFO @ 16:42:27] 0.000801 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:42:28] offline tracker init
+[codecarbon INFO @ 16:42:28] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:42:28] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:42:28] [setup] GPU Tracking...
+[codecarbon INFO @ 16:42:28] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:42:28] [setup] CPU Tracking...
+[codecarbon INFO @ 16:42:28] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:42:28] >>> Tracker's metadata:
+[codecarbon INFO @ 16:42:28]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:42:28]   Python version: 3.11.6
+[codecarbon INFO @ 16:42:28]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:42:28]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:42:28]   CPU count: 8
+[codecarbon INFO @ 16:42:28]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:42:28]   GPU count: 0
+[codecarbon INFO @ 16:42:28]   GPU model: 
+[codecarbon INFO @ 16:42:38] Energy consumed for RAM : 0.000509 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:42:38] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:42:38] Energy consumed for all CPUs : 0.000438 kWh. Total CPU Power : 162.41056722812 W
+[codecarbon INFO @ 16:42:38] 0.000947 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:42:39] offline tracker init
+[codecarbon INFO @ 16:42:39] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:42:40] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:42:40] [setup] GPU Tracking...
+[codecarbon INFO @ 16:42:40] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:42:40] [setup] CPU Tracking...
+[codecarbon INFO @ 16:42:40] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:42:40] >>> Tracker's metadata:
+[codecarbon INFO @ 16:42:40]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:42:40]   Python version: 3.11.6
+[codecarbon INFO @ 16:42:40]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:42:40]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:42:40]   CPU count: 8
+[codecarbon INFO @ 16:42:40]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:42:40]   GPU count: 0
+[codecarbon INFO @ 16:42:40]   GPU model: 
+[codecarbon INFO @ 16:42:55] Energy consumed for RAM : 0.000786 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:42:55] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:42:55] Energy consumed for all CPUs : 0.000667 kWh. Total CPU Power : 160.15270209069283 W
+[codecarbon INFO @ 16:42:55] 0.001453 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:43:01] Energy consumed for RAM : 0.001138 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:43:01] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:43:01] Energy consumed for all CPUs : 0.000956 kWh. Total CPU Power : 154.76561167544003 W
+[codecarbon INFO @ 16:43:01] 0.002094 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:43:02] offline tracker init
+[codecarbon INFO @ 16:43:03] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:43:03] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:43:03] [setup] GPU Tracking...
+[codecarbon INFO @ 16:43:03] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:43:03] [setup] CPU Tracking...
+[codecarbon INFO @ 16:43:03] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:43:03] >>> Tracker's metadata:
+[codecarbon INFO @ 16:43:03]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:43:03]   Python version: 3.11.6
+[codecarbon INFO @ 16:43:03]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:43:03]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:43:03]   CPU count: 8
+[codecarbon INFO @ 16:43:03]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:43:03]   GPU count: 0
+[codecarbon INFO @ 16:43:03]   GPU model: 
+[codecarbon INFO @ 16:43:18] Energy consumed for RAM : 0.000786 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:43:18] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:43:18] Energy consumed for all CPUs : 0.000673 kWh. Total CPU Power : 161.57101980102078 W
+[codecarbon INFO @ 16:43:18] 0.001459 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:43:27] Energy consumed for RAM : 0.001264 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:43:27] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:43:27] Energy consumed for all CPUs : 0.001080 kWh. Total CPU Power : 160.37764151569482 W
+[codecarbon INFO @ 16:43:27] 0.002343 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:43:28] offline tracker init
+[codecarbon INFO @ 16:43:29] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:43:29] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:43:29] [setup] GPU Tracking...
+[codecarbon INFO @ 16:43:29] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:43:29] [setup] CPU Tracking...
+[codecarbon INFO @ 16:43:29] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:43:29] >>> Tracker's metadata:
+[codecarbon INFO @ 16:43:29]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:43:29]   Python version: 3.11.6
+[codecarbon INFO @ 16:43:29]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:43:29]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:43:29]   CPU count: 8
+[codecarbon INFO @ 16:43:29]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:43:29]   GPU count: 0
+[codecarbon INFO @ 16:43:29]   GPU model: 
+[codecarbon INFO @ 16:43:35] Energy consumed for RAM : 0.000320 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:43:35] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:43:35] Energy consumed for all CPUs : 0.000265 kWh. Total CPU Power : 156.0507375556423 W
+[codecarbon INFO @ 16:43:35] 0.000585 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:43:36] offline tracker init
+[codecarbon INFO @ 16:43:36] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:43:36] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:43:36] [setup] GPU Tracking...
+[codecarbon INFO @ 16:43:36] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:43:36] [setup] CPU Tracking...
+[codecarbon INFO @ 16:43:36] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:43:37] >>> Tracker's metadata:
+[codecarbon INFO @ 16:43:37]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:43:37]   Python version: 3.11.6
+[codecarbon INFO @ 16:43:37]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:43:37]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:43:37]   CPU count: 8
+[codecarbon INFO @ 16:43:37]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:43:37]   GPU count: 0
+[codecarbon INFO @ 16:43:37]   GPU model: 
+[codecarbon INFO @ 16:43:44] Energy consumed for RAM : 0.000378 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:43:44] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:43:44] Energy consumed for all CPUs : 0.000312 kWh. Total CPU Power : 155.7343950047673 W
+[codecarbon INFO @ 16:43:44] 0.000690 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:43:45] offline tracker init
+[codecarbon INFO @ 16:43:45] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:43:45] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:43:45] [setup] GPU Tracking...
+[codecarbon INFO @ 16:43:45] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:43:45] [setup] CPU Tracking...
+[codecarbon INFO @ 16:43:45] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:43:45] >>> Tracker's metadata:
+[codecarbon INFO @ 16:43:45]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:43:45]   Python version: 3.11.6
+[codecarbon INFO @ 16:43:45]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:43:45]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:43:45]   CPU count: 8
+[codecarbon INFO @ 16:43:45]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:43:45]   GPU count: 0
+[codecarbon INFO @ 16:43:45]   GPU model: 
+[codecarbon INFO @ 16:44:00] Energy consumed for RAM : 0.000786 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:44:00] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:44:00] Energy consumed for all CPUs : 0.000666 kWh. Total CPU Power : 159.8282453593515 W
+[codecarbon INFO @ 16:44:00] 0.001452 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:44:04] Energy consumed for RAM : 0.000996 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:44:04] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:44:04] Energy consumed for all CPUs : 0.000856 kWh. Total CPU Power : 170.47740752075492 W
+[codecarbon INFO @ 16:44:04] 0.001853 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:44:05] offline tracker init
+[codecarbon INFO @ 16:44:06] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:44:06] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:44:06] [setup] GPU Tracking...
+[codecarbon INFO @ 16:44:06] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:44:06] [setup] CPU Tracking...
+[codecarbon INFO @ 16:44:06] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:44:06] >>> Tracker's metadata:
+[codecarbon INFO @ 16:44:06]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:44:06]   Python version: 3.11.6
+[codecarbon INFO @ 16:44:06]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:44:06]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:44:06]   CPU count: 8
+[codecarbon INFO @ 16:44:06]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:44:06]   GPU count: 0
+[codecarbon INFO @ 16:44:06]   GPU model: 
+[codecarbon INFO @ 16:44:21] Energy consumed for RAM : 0.000786 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:44:21] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:44:21] Energy consumed for all CPUs : 0.000695 kWh. Total CPU Power : 166.76729031600155 W
+[codecarbon INFO @ 16:44:21] 0.001481 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:44:27] Energy consumed for RAM : 0.001112 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:44:27] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:44:27] Energy consumed for all CPUs : 0.000971 kWh. Total CPU Power : 159.55681414025733 W
+[codecarbon INFO @ 16:44:27] 0.002082 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:44:28] offline tracker init
+[codecarbon INFO @ 16:44:29] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:44:29] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:44:29] [setup] GPU Tracking...
+[codecarbon INFO @ 16:44:29] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:44:29] [setup] CPU Tracking...
+[codecarbon INFO @ 16:44:29] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:44:29] >>> Tracker's metadata:
+[codecarbon INFO @ 16:44:29]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:44:29]   Python version: 3.11.6
+[codecarbon INFO @ 16:44:29]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:44:29]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:44:29]   CPU count: 8
+[codecarbon INFO @ 16:44:29]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:44:29]   GPU count: 0
+[codecarbon INFO @ 16:44:29]   GPU model: 
+[codecarbon INFO @ 16:44:34] Energy consumed for RAM : 0.000278 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:44:34] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:44:34] Energy consumed for all CPUs : 0.000235 kWh. Total CPU Power : 159.1827855574443 W
+[codecarbon INFO @ 16:44:34] 0.000513 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:44:35] offline tracker init
+[codecarbon INFO @ 16:44:36] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:44:36] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:44:36] [setup] GPU Tracking...
+[codecarbon INFO @ 16:44:36] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:44:36] [setup] CPU Tracking...
+[codecarbon INFO @ 16:44:36] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:44:36] >>> Tracker's metadata:
+[codecarbon INFO @ 16:44:36]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:44:36]   Python version: 3.11.6
+[codecarbon INFO @ 16:44:36]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:44:36]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:44:36]   CPU count: 8
+[codecarbon INFO @ 16:44:36]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:44:36]   GPU count: 0
+[codecarbon INFO @ 16:44:36]   GPU model: 
+[codecarbon INFO @ 16:44:42] Energy consumed for RAM : 0.000336 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:44:42] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:44:42] Energy consumed for all CPUs : 0.000283 kWh. Total CPU Power : 158.74174710698153 W
+[codecarbon INFO @ 16:44:43] 0.000618 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:44:43] offline tracker init
+[codecarbon INFO @ 16:44:44] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:44:44] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:44:44] [setup] GPU Tracking...
+[codecarbon INFO @ 16:44:44] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:44:44] [setup] CPU Tracking...
+[codecarbon INFO @ 16:44:44] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:44:44] >>> Tracker's metadata:
+[codecarbon INFO @ 16:44:44]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:44:44]   Python version: 3.11.6
+[codecarbon INFO @ 16:44:44]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:44:44]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:44:44]   CPU count: 8
+[codecarbon INFO @ 16:44:44]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:44:44]   GPU count: 0
+[codecarbon INFO @ 16:44:44]   GPU model: 
+[codecarbon INFO @ 16:44:59] Energy consumed for RAM : 0.000786 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:44:59] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:44:59] Energy consumed for all CPUs : 0.000673 kWh. Total CPU Power : 161.4629598351236 W
+[codecarbon INFO @ 16:44:59] 0.001459 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:45:02] Energy consumed for RAM : 0.000949 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:45:02] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:45:02] Energy consumed for all CPUs : 0.000818 kWh. Total CPU Power : 167.39201552534828 W
+[codecarbon INFO @ 16:45:02] 0.001767 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:45:03] offline tracker init
+[codecarbon INFO @ 16:45:03] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:45:04] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:45:04] [setup] GPU Tracking...
+[codecarbon INFO @ 16:45:04] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:45:04] [setup] CPU Tracking...
+[codecarbon INFO @ 16:45:04] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:45:04] >>> Tracker's metadata:
+[codecarbon INFO @ 16:45:04]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:45:04]   Python version: 3.11.6
+[codecarbon INFO @ 16:45:04]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:45:04]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:45:04]   CPU count: 8
+[codecarbon INFO @ 16:45:04]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:45:04]   GPU count: 0
+[codecarbon INFO @ 16:45:04]   GPU model: 
+[codecarbon INFO @ 16:45:19] Energy consumed for RAM : 0.000786 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:45:19] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:45:19] Energy consumed for all CPUs : 0.000677 kWh. Total CPU Power : 162.4900987581863 W
+[codecarbon INFO @ 16:45:19] 0.001463 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:45:23] Energy consumed for RAM : 0.000991 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:45:23] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:45:23] Energy consumed for all CPUs : 0.000842 kWh. Total CPU Power : 151.8639819679376 W
+[codecarbon INFO @ 16:45:23] 0.001833 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:45:24] offline tracker init
+[codecarbon INFO @ 16:45:25] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:45:26] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:45:26] [setup] GPU Tracking...
+[codecarbon INFO @ 16:45:26] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:45:26] [setup] CPU Tracking...
+[codecarbon INFO @ 16:45:26] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:45:26] >>> Tracker's metadata:
+[codecarbon INFO @ 16:45:26]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:45:26]   Python version: 3.11.6
+[codecarbon INFO @ 16:45:26]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:45:26]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:45:26]   CPU count: 8
+[codecarbon INFO @ 16:45:26]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:45:26]   GPU count: 0
+[codecarbon INFO @ 16:45:26]   GPU model: 
+[codecarbon INFO @ 16:45:31] Energy consumed for RAM : 0.000278 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:45:31] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:45:31] Energy consumed for all CPUs : 0.000231 kWh. Total CPU Power : 156.71435644626484 W
+[codecarbon INFO @ 16:45:31] 0.000509 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:45:32] offline tracker init
+[codecarbon INFO @ 16:45:34] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:45:35] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:45:35] [setup] GPU Tracking...
+[codecarbon INFO @ 16:45:35] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:45:35] [setup] CPU Tracking...
+[codecarbon INFO @ 16:45:35] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:45:35] >>> Tracker's metadata:
+[codecarbon INFO @ 16:45:35]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:45:35]   Python version: 3.11.6
+[codecarbon INFO @ 16:45:35]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:45:35]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:45:35]   CPU count: 8
+[codecarbon INFO @ 16:45:35]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:45:35]   GPU count: 0
+[codecarbon INFO @ 16:45:35]   GPU model: 
+[codecarbon INFO @ 16:45:41] Energy consumed for RAM : 0.000299 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:45:41] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:45:41] Energy consumed for all CPUs : 0.000241 kWh. Total CPU Power : 152.1901640855649 W
+[codecarbon INFO @ 16:45:41] 0.000541 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:45:42] offline tracker init
+[codecarbon INFO @ 16:45:42] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:45:43] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:45:43] [setup] GPU Tracking...
+[codecarbon INFO @ 16:45:43] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:45:43] [setup] CPU Tracking...
+[codecarbon INFO @ 16:45:43] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:45:43] >>> Tracker's metadata:
+[codecarbon INFO @ 16:45:43]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:45:43]   Python version: 3.11.6
+[codecarbon INFO @ 16:45:43]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:45:43]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:45:43]   CPU count: 8
+[codecarbon INFO @ 16:45:43]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:45:43]   GPU count: 0
+[codecarbon INFO @ 16:45:43]   GPU model: 
+[codecarbon INFO @ 16:45:57] Energy consumed for RAM : 0.000739 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:45:57] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:45:57] Energy consumed for all CPUs : 0.000626 kWh. Total CPU Power : 159.564730352578 W
+[codecarbon INFO @ 16:45:57] 0.001365 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:45:58] offline tracker init
+[codecarbon INFO @ 16:45:58] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:45:58] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:45:58] [setup] GPU Tracking...
+[codecarbon INFO @ 16:45:58] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:45:58] [setup] CPU Tracking...
+[codecarbon INFO @ 16:45:58] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:45:59] >>> Tracker's metadata:
+[codecarbon INFO @ 16:45:59]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:45:59]   Python version: 3.11.6
+[codecarbon INFO @ 16:45:59]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:45:59]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:45:59]   CPU count: 8
+[codecarbon INFO @ 16:45:59]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:45:59]   GPU count: 0
+[codecarbon INFO @ 16:45:59]   GPU model: 
+[codecarbon INFO @ 16:46:14] Energy consumed for RAM : 0.000786 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:46:14] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:46:14] Energy consumed for all CPUs : 0.000662 kWh. Total CPU Power : 158.926520678099 W
+[codecarbon INFO @ 16:46:14] 0.001448 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:46:14] Energy consumed for RAM : 0.000787 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:46:14] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:46:14] Energy consumed for all CPUs : 0.000663 kWh. Total CPU Power : 156.30184099531968 W
+[codecarbon INFO @ 16:46:14] 0.001450 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:46:14] offline tracker init
+[codecarbon INFO @ 16:46:15] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:46:15] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:46:15] [setup] GPU Tracking...
+[codecarbon INFO @ 16:46:15] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:46:15] [setup] CPU Tracking...
+[codecarbon INFO @ 16:46:15] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:46:15] >>> Tracker's metadata:
+[codecarbon INFO @ 16:46:15]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:46:15]   Python version: 3.11.6
+[codecarbon INFO @ 16:46:15]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:46:15]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:46:15]   CPU count: 8
+[codecarbon INFO @ 16:46:15]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:46:15]   GPU count: 0
+[codecarbon INFO @ 16:46:15]   GPU model: 
+[codecarbon INFO @ 16:46:19] Energy consumed for RAM : 0.000226 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:46:19] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:46:19] Energy consumed for all CPUs : 0.000195 kWh. Total CPU Power : 162.5814256906319 W
+[codecarbon INFO @ 16:46:19] 0.000420 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:46:20] offline tracker init
+[codecarbon INFO @ 16:46:21] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:46:21] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:46:21] [setup] GPU Tracking...
+[codecarbon INFO @ 16:46:21] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:46:21] [setup] CPU Tracking...
+[codecarbon INFO @ 16:46:21] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:46:21] >>> Tracker's metadata:
+[codecarbon INFO @ 16:46:21]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:46:21]   Python version: 3.11.6
+[codecarbon INFO @ 16:46:21]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:46:21]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:46:21]   CPU count: 8
+[codecarbon INFO @ 16:46:21]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:46:21]   GPU count: 0
+[codecarbon INFO @ 16:46:21]   GPU model: 
+[codecarbon INFO @ 16:46:26] Energy consumed for RAM : 0.000247 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:46:26] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:46:26] Energy consumed for all CPUs : 0.000205 kWh. Total CPU Power : 156.92070655310826 W
+[codecarbon INFO @ 16:46:26] 0.000452 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:46:27] offline tracker init
+[codecarbon INFO @ 16:46:27] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:46:27] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:46:27] [setup] GPU Tracking...
+[codecarbon INFO @ 16:46:27] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:46:27] [setup] CPU Tracking...
+[codecarbon INFO @ 16:46:27] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:46:27] >>> Tracker's metadata:
+[codecarbon INFO @ 16:46:27]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:46:27]   Python version: 3.11.6
+[codecarbon INFO @ 16:46:27]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:46:27]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:46:27]   CPU count: 8
+[codecarbon INFO @ 16:46:27]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:46:27]   GPU count: 0
+[codecarbon INFO @ 16:46:27]   GPU model: 
+[codecarbon INFO @ 16:46:42] Energy consumed for RAM : 0.000786 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:46:42] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:46:42] Energy consumed for all CPUs : 0.000659 kWh. Total CPU Power : 158.1302181770116 W
+[codecarbon INFO @ 16:46:42] 0.001445 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:46:51] Energy consumed for RAM : 0.001264 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:46:51] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:46:51] Energy consumed for all CPUs : 0.001066 kWh. Total CPU Power : 160.50637921565658 W
+[codecarbon INFO @ 16:46:51] 0.002329 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:46:52] offline tracker init
+[codecarbon INFO @ 16:46:53] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:46:53] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:46:53] [setup] GPU Tracking...
+[codecarbon INFO @ 16:46:53] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:46:53] [setup] CPU Tracking...
+[codecarbon INFO @ 16:46:53] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:46:53] >>> Tracker's metadata:
+[codecarbon INFO @ 16:46:53]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:46:53]   Python version: 3.11.6
+[codecarbon INFO @ 16:46:53]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:46:53]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:46:53]   CPU count: 8
+[codecarbon INFO @ 16:46:53]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:46:53]   GPU count: 0
+[codecarbon INFO @ 16:46:53]   GPU model: 
+[codecarbon INFO @ 16:47:08] Energy consumed for RAM : 0.000786 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:47:08] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:47:08] Energy consumed for all CPUs : 0.000666 kWh. Total CPU Power : 159.9400477416271 W
+[codecarbon INFO @ 16:47:08] 0.001452 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:47:19] Energy consumed for RAM : 0.001368 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:47:19] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:47:19] Energy consumed for all CPUs : 0.001150 kWh. Total CPU Power : 156.38514227928772 W
+[codecarbon INFO @ 16:47:19] 0.002518 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:47:20] offline tracker init
+[codecarbon INFO @ 16:47:20] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:47:21] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:47:21] [setup] GPU Tracking...
+[codecarbon INFO @ 16:47:21] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:47:21] [setup] CPU Tracking...
+[codecarbon INFO @ 16:47:21] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:47:21] >>> Tracker's metadata:
+[codecarbon INFO @ 16:47:21]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:47:21]   Python version: 3.11.6
+[codecarbon INFO @ 16:47:21]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:47:21]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:47:21]   CPU count: 8
+[codecarbon INFO @ 16:47:21]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:47:21]   GPU count: 0
+[codecarbon INFO @ 16:47:21]   GPU model: 
+[codecarbon INFO @ 16:47:26] Energy consumed for RAM : 0.000257 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:47:26] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:47:26] Energy consumed for all CPUs : 0.000218 kWh. Total CPU Power : 159.88498640466455 W
+[codecarbon INFO @ 16:47:26] 0.000475 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:47:27] offline tracker init
+[codecarbon INFO @ 16:47:27] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:47:27] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:47:27] [setup] GPU Tracking...
+[codecarbon INFO @ 16:47:27] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:47:27] [setup] CPU Tracking...
+[codecarbon INFO @ 16:47:27] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:47:27] >>> Tracker's metadata:
+[codecarbon INFO @ 16:47:27]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:47:27]   Python version: 3.11.6
+[codecarbon INFO @ 16:47:27]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:47:27]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:47:27]   CPU count: 8
+[codecarbon INFO @ 16:47:27]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:47:27]   GPU count: 0
+[codecarbon INFO @ 16:47:27]   GPU model: 
+[codecarbon INFO @ 16:47:33] Energy consumed for RAM : 0.000294 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:47:33] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:47:33] Energy consumed for all CPUs : 0.000256 kWh. Total CPU Power : 164.49439631340294 W
+[codecarbon INFO @ 16:47:33] 0.000550 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:47:34] offline tracker init
+[codecarbon INFO @ 16:47:34] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:47:34] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:47:34] [setup] GPU Tracking...
+[codecarbon INFO @ 16:47:34] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:47:34] [setup] CPU Tracking...
+[codecarbon INFO @ 16:47:34] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:47:34] >>> Tracker's metadata:
+[codecarbon INFO @ 16:47:34]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:47:34]   Python version: 3.11.6
+[codecarbon INFO @ 16:47:34]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:47:34]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:47:34]   CPU count: 8
+[codecarbon INFO @ 16:47:34]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:47:34]   GPU count: 0
+[codecarbon INFO @ 16:47:34]   GPU model: 
+[codecarbon INFO @ 16:47:37] Energy consumed for RAM : 0.000126 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:47:37] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:47:37] Energy consumed for all CPUs : 0.000114 kWh. Total CPU Power : 170.72634328572664 W
+[codecarbon INFO @ 16:47:37] 0.000240 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:47:38] offline tracker init
+[codecarbon INFO @ 16:47:38] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:47:40] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:47:40] [setup] GPU Tracking...
+[codecarbon INFO @ 16:47:40] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:47:40] [setup] CPU Tracking...
+[codecarbon INFO @ 16:47:40] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:47:40] >>> Tracker's metadata:
+[codecarbon INFO @ 16:47:40]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:47:40]   Python version: 3.11.6
+[codecarbon INFO @ 16:47:40]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:47:40]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:47:40]   CPU count: 8
+[codecarbon INFO @ 16:47:40]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:47:40]   GPU count: 0
+[codecarbon INFO @ 16:47:40]   GPU model: 
+[codecarbon INFO @ 16:47:43] Energy consumed for RAM : 0.000126 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:47:43] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:47:43] Energy consumed for all CPUs : 0.000098 kWh. Total CPU Power : 147.15668459839455 W
+[codecarbon INFO @ 16:47:43] 0.000225 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:47:44] offline tracker init
+[codecarbon INFO @ 16:47:46] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:47:46] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:47:46] [setup] GPU Tracking...
+[codecarbon INFO @ 16:47:46] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:47:46] [setup] CPU Tracking...
+[codecarbon INFO @ 16:47:46] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:47:46] >>> Tracker's metadata:
+[codecarbon INFO @ 16:47:46]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:47:46]   Python version: 3.11.6
+[codecarbon INFO @ 16:47:46]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:47:46]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:47:46]   CPU count: 8
+[codecarbon INFO @ 16:47:46]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:47:46]   GPU count: 0
+[codecarbon INFO @ 16:47:46]   GPU model: 
+[codecarbon INFO @ 16:47:48] Energy consumed for RAM : 0.000058 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:47:48] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:47:48] Energy consumed for all CPUs : 0.000053 kWh. Total CPU Power : 173.7895601021796 W
+[codecarbon INFO @ 16:47:48] 0.000111 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:47:48] offline tracker init
+[codecarbon INFO @ 16:47:49] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:47:49] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:47:49] [setup] GPU Tracking...
+[codecarbon INFO @ 16:47:49] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:47:49] [setup] CPU Tracking...
+[codecarbon INFO @ 16:47:49] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:47:49] >>> Tracker's metadata:
+[codecarbon INFO @ 16:47:49]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:47:49]   Python version: 3.11.6
+[codecarbon INFO @ 16:47:49]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:47:49]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:47:49]   CPU count: 8
+[codecarbon INFO @ 16:47:49]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:47:49]   GPU count: 0
+[codecarbon INFO @ 16:47:49]   GPU model: 
+[codecarbon INFO @ 16:47:51] Energy consumed for RAM : 0.000063 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:47:51] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:47:51] Energy consumed for all CPUs : 0.000050 kWh. Total CPU Power : 148.3934227435557 W
+[codecarbon INFO @ 16:47:51] 0.000113 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:47:52] offline tracker init
+[codecarbon INFO @ 16:47:52] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:47:52] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:47:52] [setup] GPU Tracking...
+[codecarbon INFO @ 16:47:52] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:47:52] [setup] CPU Tracking...
+[codecarbon INFO @ 16:47:52] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:47:52] >>> Tracker's metadata:
+[codecarbon INFO @ 16:47:52]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:47:52]   Python version: 3.11.6
+[codecarbon INFO @ 16:47:52]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:47:52]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:47:52]   CPU count: 8
+[codecarbon INFO @ 16:47:52]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:47:52]   GPU count: 0
+[codecarbon INFO @ 16:47:52]   GPU model: 
+[codecarbon INFO @ 16:47:55] Energy consumed for RAM : 0.000126 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:47:55] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:47:55] Energy consumed for all CPUs : 0.000118 kWh. Total CPU Power : 176.2922483941122 W
+[codecarbon INFO @ 16:47:55] 0.000244 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:47:56] offline tracker init
+[codecarbon INFO @ 16:47:56] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:47:56] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:47:56] [setup] GPU Tracking...
+[codecarbon INFO @ 16:47:56] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:47:56] [setup] CPU Tracking...
+[codecarbon INFO @ 16:47:56] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:47:56] >>> Tracker's metadata:
+[codecarbon INFO @ 16:47:56]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:47:56]   Python version: 3.11.6
+[codecarbon INFO @ 16:47:56]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:47:56]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:47:56]   CPU count: 8
+[codecarbon INFO @ 16:47:56]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:47:56]   GPU count: 0
+[codecarbon INFO @ 16:47:56]   GPU model: 
+[codecarbon INFO @ 16:47:59] Energy consumed for RAM : 0.000126 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:47:59] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:47:59] Energy consumed for all CPUs : 0.000097 kWh. Total CPU Power : 145.7199726180234 W
+[codecarbon INFO @ 16:47:59] 0.000224 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:47:59] offline tracker init
+[codecarbon INFO @ 16:48:00] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:48:00] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:48:00] [setup] GPU Tracking...
+[codecarbon INFO @ 16:48:00] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:48:00] [setup] CPU Tracking...
+[codecarbon INFO @ 16:48:00] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:48:00] >>> Tracker's metadata:
+[codecarbon INFO @ 16:48:00]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:48:00]   Python version: 3.11.6
+[codecarbon INFO @ 16:48:00]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:48:00]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:48:00]   CPU count: 8
+[codecarbon INFO @ 16:48:00]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:48:00]   GPU count: 0
+[codecarbon INFO @ 16:48:00]   GPU model: 
+[codecarbon INFO @ 16:48:01] Energy consumed for RAM : 0.000058 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:48:01] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:48:01] Energy consumed for all CPUs : 0.000054 kWh. Total CPU Power : 176.1018449200223 W
+[codecarbon INFO @ 16:48:01] 0.000112 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:48:02] offline tracker init
+[codecarbon INFO @ 16:48:02] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:48:03] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:48:03] [setup] GPU Tracking...
+[codecarbon INFO @ 16:48:03] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:48:03] [setup] CPU Tracking...
+[codecarbon INFO @ 16:48:03] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:48:03] >>> Tracker's metadata:
+[codecarbon INFO @ 16:48:03]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:48:03]   Python version: 3.11.6
+[codecarbon INFO @ 16:48:03]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:48:03]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:48:03]   CPU count: 8
+[codecarbon INFO @ 16:48:03]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:48:03]   GPU count: 0
+[codecarbon INFO @ 16:48:03]   GPU model: 
+[codecarbon INFO @ 16:48:04] Energy consumed for RAM : 0.000063 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:48:04] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:48:04] Energy consumed for all CPUs : 0.000058 kWh. Total CPU Power : 172.695836541713 W
+[codecarbon INFO @ 16:48:04] 0.000121 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:48:05] offline tracker init
+[codecarbon INFO @ 16:48:05] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:48:05] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:48:05] [setup] GPU Tracking...
+[codecarbon INFO @ 16:48:05] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:48:06] [setup] CPU Tracking...
+[codecarbon INFO @ 16:48:06] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:48:06] >>> Tracker's metadata:
+[codecarbon INFO @ 16:48:06]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:48:06]   Python version: 3.11.6
+[codecarbon INFO @ 16:48:06]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:48:06]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:48:06]   CPU count: 8
+[codecarbon INFO @ 16:48:06]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:48:06]   GPU count: 0
+[codecarbon INFO @ 16:48:06]   GPU model: 
+[codecarbon INFO @ 16:48:08] Energy consumed for RAM : 0.000126 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:48:08] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:48:08] Energy consumed for all CPUs : 0.000096 kWh. Total CPU Power : 143.96426599579175 W
+[codecarbon INFO @ 16:48:08] 0.000222 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:48:09] offline tracker init
+[codecarbon INFO @ 16:48:09] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:48:09] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:48:09] [setup] GPU Tracking...
+[codecarbon INFO @ 16:48:09] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:48:09] [setup] CPU Tracking...
+[codecarbon INFO @ 16:48:09] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:48:10] >>> Tracker's metadata:
+[codecarbon INFO @ 16:48:10]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:48:10]   Python version: 3.11.6
+[codecarbon INFO @ 16:48:10]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:48:10]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:48:10]   CPU count: 8
+[codecarbon INFO @ 16:48:10]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:48:10]   GPU count: 0
+[codecarbon INFO @ 16:48:10]   GPU model: 
+[codecarbon INFO @ 16:48:12] Energy consumed for RAM : 0.000126 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:48:12] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:48:12] Energy consumed for all CPUs : 0.000118 kWh. Total CPU Power : 177.08442766509054 W
+[codecarbon INFO @ 16:48:12] 0.000244 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:48:13] offline tracker init
+[codecarbon INFO @ 16:48:13] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:48:14] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:48:14] [setup] GPU Tracking...
+[codecarbon INFO @ 16:48:14] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:48:14] [setup] CPU Tracking...
+[codecarbon INFO @ 16:48:14] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:48:14] >>> Tracker's metadata:
+[codecarbon INFO @ 16:48:14]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:48:14]   Python version: 3.11.6
+[codecarbon INFO @ 16:48:14]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:48:14]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:48:14]   CPU count: 8
+[codecarbon INFO @ 16:48:14]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:48:14]   GPU count: 0
+[codecarbon INFO @ 16:48:14]   GPU model: 
+[codecarbon INFO @ 16:48:15] Energy consumed for RAM : 0.000058 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:48:15] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:48:15] Energy consumed for all CPUs : 0.000046 kWh. Total CPU Power : 150.20133483939378 W
+[codecarbon INFO @ 16:48:15] 0.000104 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:48:16] offline tracker init
+[codecarbon INFO @ 16:48:16] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:48:16] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:48:16] [setup] GPU Tracking...
+[codecarbon INFO @ 16:48:16] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:48:16] [setup] CPU Tracking...
+[codecarbon INFO @ 16:48:16] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:48:17] >>> Tracker's metadata:
+[codecarbon INFO @ 16:48:17]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:48:17]   Python version: 3.11.6
+[codecarbon INFO @ 16:48:17]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:48:17]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:48:17]   CPU count: 8
+[codecarbon INFO @ 16:48:17]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:48:17]   GPU count: 0
+[codecarbon INFO @ 16:48:17]   GPU model: 
+[codecarbon INFO @ 16:48:18] Energy consumed for RAM : 0.000063 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:48:18] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:48:18] Energy consumed for all CPUs : 0.000052 kWh. Total CPU Power : 153.77975276806578 W
+[codecarbon INFO @ 16:48:18] 0.000115 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:48:19] offline tracker init
+[codecarbon INFO @ 16:48:19] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:48:19] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:48:19] [setup] GPU Tracking...
+[codecarbon INFO @ 16:48:19] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:48:19] [setup] CPU Tracking...
+[codecarbon INFO @ 16:48:19] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:48:19] >>> Tracker's metadata:
+[codecarbon INFO @ 16:48:19]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:48:19]   Python version: 3.11.6
+[codecarbon INFO @ 16:48:19]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:48:19]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:48:19]   CPU count: 8
+[codecarbon INFO @ 16:48:19]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:48:19]   GPU count: 0
+[codecarbon INFO @ 16:48:19]   GPU model: 
+[codecarbon INFO @ 16:48:22] Energy consumed for RAM : 0.000126 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:48:22] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:48:22] Energy consumed for all CPUs : 0.000118 kWh. Total CPU Power : 175.85112519123055 W
+[codecarbon INFO @ 16:48:22] 0.000244 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:48:23] offline tracker init
+[codecarbon INFO @ 16:48:23] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:48:23] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:48:23] [setup] GPU Tracking...
+[codecarbon INFO @ 16:48:23] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:48:23] [setup] CPU Tracking...
+[codecarbon INFO @ 16:48:23] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:48:23] >>> Tracker's metadata:
+[codecarbon INFO @ 16:48:23]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:48:23]   Python version: 3.11.6
+[codecarbon INFO @ 16:48:23]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:48:23]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:48:23]   CPU count: 8
+[codecarbon INFO @ 16:48:23]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:48:23]   GPU count: 0
+[codecarbon INFO @ 16:48:23]   GPU model: 
+[codecarbon INFO @ 16:48:26] Energy consumed for RAM : 0.000126 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:48:26] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:48:26] Energy consumed for all CPUs : 0.000097 kWh. Total CPU Power : 145.06334055709527 W
+[codecarbon INFO @ 16:48:26] 0.000223 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:48:27] offline tracker init
+[codecarbon INFO @ 16:48:27] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:48:27] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:48:27] [setup] GPU Tracking...
+[codecarbon INFO @ 16:48:27] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:48:27] [setup] CPU Tracking...
+[codecarbon INFO @ 16:48:27] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:48:28] >>> Tracker's metadata:
+[codecarbon INFO @ 16:48:28]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:48:28]   Python version: 3.11.6
+[codecarbon INFO @ 16:48:28]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:48:28]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:48:28]   CPU count: 8
+[codecarbon INFO @ 16:48:28]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:48:28]   GPU count: 0
+[codecarbon INFO @ 16:48:28]   GPU model: 
+[codecarbon INFO @ 16:48:29] Energy consumed for RAM : 0.000058 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:48:29] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:48:29] Energy consumed for all CPUs : 0.000054 kWh. Total CPU Power : 177.14560608426012 W
+[codecarbon INFO @ 16:48:29] 0.000112 kWh of electricity used since the beginning.
+[codecarbon INFO @ 16:48:29] offline tracker init
+[codecarbon INFO @ 16:48:30] [setup] RAM Tracking...
+[codecarbon WARNING @ 16:48:30] Could not find mem= after running `scontrol show job $SLURM_JOB_ID` to count SLURM-available RAM. Using the machine's total RAM.
+[codecarbon INFO @ 16:48:30] [setup] GPU Tracking...
+[codecarbon INFO @ 16:48:30] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 16:48:30] [setup] CPU Tracking...
+[codecarbon INFO @ 16:48:30] Tracking Intel CPU via RAPL interface
+[codecarbon INFO @ 16:48:30] >>> Tracker's metadata:
+[codecarbon INFO @ 16:48:30]   Platform system: Linux-4.18.0-425.19.2.el8_7.x86_64-x86_64-with-glibc2.28
+[codecarbon INFO @ 16:48:30]   Python version: 3.11.6
+[codecarbon INFO @ 16:48:30]   CodeCarbon version: 2.3.2
+[codecarbon INFO @ 16:48:30]   Available RAM : 502.855 GB
+[codecarbon INFO @ 16:48:30]   CPU count: 8
+[codecarbon INFO @ 16:48:30]   CPU model: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz
+[codecarbon INFO @ 16:48:30]   GPU count: 0
+[codecarbon INFO @ 16:48:30]   GPU model: 
+[codecarbon INFO @ 16:48:31] Energy consumed for RAM : 0.000063 kWh. RAM Power : 188.5706877708435 W
+[codecarbon INFO @ 16:48:31] Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+[codecarbon INFO @ 16:48:31] Energy consumed for all CPUs : 0.000051 kWh. Total CPU Power : 150.94676533417666 W
+[codecarbon INFO @ 16:48:31] 0.000114 kWh of electricity used since the beginning.

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsppr.a CMakeFiles/sppr.dir/maxFlow.cpp.o
+/usr/bin/ranlib libsppr.a

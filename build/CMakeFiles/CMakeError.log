@@ -1,0 +1,154 @@
+Determining if the include file windows.h exists failed with the following output:
+Change Dir: /leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_bc6db/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_bc6db.dir/build.make CMakeFiles/cmTC_bc6db.dir/build
+gmake[1]: Entering directory '/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bc6db.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_bc6db.dir/CheckIncludeFile.c.o -c /leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: windows.h: No such file or directory
+ #include <windows.h>
+          ^~~~~~~~~~~
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_bc6db.dir/build.make:78: CMakeFiles/cmTC_bc6db.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory '/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_bc6db/fast] Error 2
+
+
+
+Determining if the function lzo1x_1_15_compress exists in the lzo2 failed with the following output:
+Change Dir: /leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_fb3d7/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_fb3d7.dir/build.make CMakeFiles/cmTC_fb3d7.dir/build
+gmake[1]: Entering directory '/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_fb3d7.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=lzo1x_1_15_compress -o CMakeFiles/cmTC_fb3d7.dir/CheckFunctionExists.c.o -c /usr/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_fb3d7
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fb3d7.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=lzo1x_1_15_compress -rdynamic CMakeFiles/cmTC_fb3d7.dir/CheckFunctionExists.c.o -o cmTC_fb3d7  -llzo2 
+/usr/bin/ld: cannot find -llzo2
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [CMakeFiles/cmTC_fb3d7.dir/build.make:99: cmTC_fb3d7] Error 1
+gmake[1]: Leaving directory '/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_fb3d7/fast] Error 2
+
+
+
+Performing C++ SOURCE FILE Test HAVE_VISUAL_STUDIO_ARCH_AVX failed with the following output:
+Change Dir: /leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_a60ae/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_a60ae.dir/build.make CMakeFiles/cmTC_a60ae.dir/build
+gmake[1]: Entering directory '/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a60ae.dir/src.cxx.o
+/usr/bin/c++ -DHAVE_VISUAL_STUDIO_ARCH_AVX  -Wall -Wextra -Werror -fno-exceptions -fno-rtti    /arch:AVX -o CMakeFiles/cmTC_a60ae.dir/src.cxx.o -c /leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /arch:AVX: No such file or directory
+gmake[1]: *** [CMakeFiles/cmTC_a60ae.dir/build.make:78: CMakeFiles/cmTC_a60ae.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory '/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_a60ae/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test HAVE_VISUAL_STUDIO_ARCH_AVX2 failed with the following output:
+Change Dir: /leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_9520b/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_9520b.dir/build.make CMakeFiles/cmTC_9520b.dir/build
+gmake[1]: Entering directory '/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_9520b.dir/src.cxx.o
+/usr/bin/c++ -DHAVE_VISUAL_STUDIO_ARCH_AVX2  -Wall -Wextra -Werror -fno-exceptions -fno-rtti    /arch:AVX2 -o CMakeFiles/cmTC_9520b.dir/src.cxx.o -c /leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /arch:AVX2: No such file or directory
+gmake[1]: *** [CMakeFiles/cmTC_9520b.dir/build.make:78: CMakeFiles/cmTC_9520b.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory '/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_9520b/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test HAVE_ATTRIBUTE_ALWAYS_INLINE failed with the following output:
+Change Dir: /leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_681fe/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_681fe.dir/build.make CMakeFiles/cmTC_681fe.dir/build
+gmake[1]: Entering directory '/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_681fe.dir/src.cxx.o
+/usr/bin/c++ -DHAVE_ATTRIBUTE_ALWAYS_INLINE  -Wall -Wextra -Werror -fno-exceptions -fno-rtti  -o CMakeFiles/cmTC_681fe.dir/src.cxx.o -c /leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp/src.cxx
+/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp/src.cxx:2:36: error: always_inline function might not be inlinable [-Werror=attributes]
+ __attribute__((always_inline)) int zero() { return 0; }
+                                    ^~~~
+cc1plus: all warnings being treated as errors
+gmake[1]: *** [CMakeFiles/cmTC_681fe.dir/build.make:78: CMakeFiles/cmTC_681fe.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory '/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_681fe/fast] Error 2
+
+
+Source file was:
+
+__attribute__((always_inline)) int zero() { return 0; }
+
+int main() {
+  return zero();
+}
+Performing C++ SOURCE FILE Test SNAPPY_HAVE_SSSE3 failed with the following output:
+Change Dir: /leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_17f3a/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_17f3a.dir/build.make CMakeFiles/cmTC_17f3a.dir/build
+gmake[1]: Entering directory '/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_17f3a.dir/src.cxx.o
+/usr/bin/c++ -DSNAPPY_HAVE_SSSE3  -Wall -Wextra -Werror -fno-exceptions -fno-rtti  -o CMakeFiles/cmTC_17f3a.dir/src.cxx.o -c /leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp/src.cxx
+In file included from /leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp/src.cxx:2:
+/usr/lib/gcc/x86_64-redhat-linux/8/include/tmmintrin.h: In function 'int main()':
+/usr/lib/gcc/x86_64-redhat-linux/8/include/tmmintrin.h:136:1: error: inlining failed in call to always_inline '__m128i _mm_shuffle_epi8(__m128i, __m128i)': target specific option mismatch
+ _mm_shuffle_epi8 (__m128i __X, __m128i __Y)
+ ^~~~~~~~~~~~~~~~
+/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp/src.cxx:8:43: note: called from here
+   const __m128i pattern = _mm_shuffle_epi8(_mm_loadl_epi64(src), shuffle_mask);
+                           ~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from /leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp/src.cxx:2:
+/usr/lib/gcc/x86_64-redhat-linux/8/include/tmmintrin.h:136:1: error: inlining failed in call to always_inline '__m128i _mm_shuffle_epi8(__m128i, __m128i)': target specific option mismatch
+ _mm_shuffle_epi8 (__m128i __X, __m128i __Y)
+ ^~~~~~~~~~~~~~~~
+/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp/src.cxx:8:43: note: called from here
+   const __m128i pattern = _mm_shuffle_epi8(_mm_loadl_epi64(src), shuffle_mask);
+                           ~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+gmake[1]: *** [CMakeFiles/cmTC_17f3a.dir/build.make:78: CMakeFiles/cmTC_17f3a.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory '/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_17f3a/fast] Error 2
+
+
+Source file was:
+
+#include <tmmintrin.h>
+
+int main() {
+  const __m128i *src = 0;
+  __m128i dest;
+  const __m128i shuffle_mask = _mm_load_si128(src);
+  const __m128i pattern = _mm_shuffle_epi8(_mm_loadl_epi64(src), shuffle_mask);
+  _mm_storeu_si128(&dest, pattern);
+  return 0;
+}
+Performing C++ SOURCE FILE Test SNAPPY_HAVE_BMI2 failed with the following output:
+Change Dir: /leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_3d0c7/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_3d0c7.dir/build.make CMakeFiles/cmTC_3d0c7.dir/build
+gmake[1]: Entering directory '/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3d0c7.dir/src.cxx.o
+/usr/bin/c++ -DSNAPPY_HAVE_BMI2  -Wall -Wextra -Werror -fno-exceptions -fno-rtti  -o CMakeFiles/cmTC_3d0c7.dir/src.cxx.o -c /leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp/src.cxx
+In file included from /usr/lib/gcc/x86_64-redhat-linux/8/include/immintrin.h:95,
+                 from /leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp/src.cxx:2:
+/usr/lib/gcc/x86_64-redhat-linux/8/include/bmi2intrin.h: In function 'int main()':
+/usr/lib/gcc/x86_64-redhat-linux/8/include/bmi2intrin.h:39:1: error: inlining failed in call to always_inline 'unsigned int _bzhi_u32(unsigned int, unsigned int)': target specific option mismatch
+ _bzhi_u32 (unsigned int __X, unsigned int __Y)
+ ^~~~~~~~~
+/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp/src.cxx:4:19: note: called from here
+   return _bzhi_u32(0, 1);
+          ~~~~~~~~~^~~~~~
+gmake[1]: *** [CMakeFiles/cmTC_3d0c7.dir/build.make:78: CMakeFiles/cmTC_3d0c7.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory '/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_3d0c7/fast] Error 2
+
+
+Source file was:
+
+#include <immintrin.h>
+int main() {
+  return _bzhi_u32(0, 1);
+}

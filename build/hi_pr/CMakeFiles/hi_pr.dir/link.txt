@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhi_pr.a CMakeFiles/hi_pr.dir/hi_pr.cpp.o CMakeFiles/hi_pr.dir/construct.cpp.o CMakeFiles/hi_pr.dir/timer.cpp.o CMakeFiles/hi_pr.dir/parser.cpp.o
+/usr/bin/ranlib libhi_pr.a

@@ -1,0 +1,2 @@
+usage: main.py [-h] [-e EXECUTABLE] [-d DATASET] [-a ALGORITHM]
+main.py: error: unrecognized arguments: -DHIGHEST_LABEL -DFIFO_BUCKETS

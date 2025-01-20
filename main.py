@@ -1,10 +1,10 @@
 import subprocess
-from codecarbon import EmissionsTracker
+from codecarbon import OfflineEmissionsTracker
 import argparse
 
 def run_cpp_program(executable, dataset, algorithm):
     # Initialize the CodeCarbon emission tracker
-    tracker = EmissionsTracker()
+    tracker = OfflineEmissionsTracker(country_iso_code="ITA")
     tracker.start()
     
     try:

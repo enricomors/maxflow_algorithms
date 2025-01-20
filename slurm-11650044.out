@@ -1,0 +1,152 @@
+Output from C++ program:
+reading data/export/BL06-camel-lrg.max.bbk...
+building... 2.16316 seconds
+solving... 92.0238 seconds
+total: 94.187 seconds, maxflow: 538873536
+Maximum memory usage: 7365.78 MB
+Average memory usage: 7155.03 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.0030001088377808655 kg CO2e
+Output from C++ program:
+reading data/export/BL06-gargoyle-lrg.max.bbk...
+building... 2.0021 seconds
+solving... 209.8 seconds
+total: 211.802 seconds, maxflow: 179059619
+Maximum memory usage: 6790.91 MB
+Average memory usage: 6709.76 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.007273180372212941 kg CO2e
+Output from C++ program:
+reading data/export/BL06-camel-lrg.max.bbk...
+building... 1.37361 seconds
+solving... 84.2089 seconds
+total: 85.5825 seconds, maxflow: 538873536
+Maximum memory usage: 4100.59 MB
+Average memory usage: 4027.43 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.003001415922371035 kg CO2e
+Output from C++ program:
+reading data/export/BL06-gargoyle-lrg.max.bbk...
+building... 1.24558 seconds
+solving... 189.809 seconds
+total: 191.054 seconds, maxflow: 179059619
+Maximum memory usage: 3778.06 MB
+Average memory usage: 3749.92 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.006514079589131135 kg CO2e
+Output from C++ program:
+reading data/export/BL06-camel-lrg.max.bbk...
+building... 1.40696 seconds
+init... 1.60685 seconds
+solving... 88.2805 seconds
+total: 91.2943 seconds, maxflow: 538873536
+Maximum memory usage: 6070.62 MB
+Average memory usage: 5912.1 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 0.0031899456318566833 kg CO2e
+Output from C++ program:
+reading data/export/BL06-gargoyle-lrg.max.bbk...
+building... 1.29803 seconds
+init... 1.46763 seconds
+solving... 196.665 seconds
+total: 199.431 seconds, maxflow: 179059619
+Maximum memory usage: 5599.94 MB
+Average memory usage: 5537.31 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 0.006866185188380925 kg CO2e
+Output from C++ program:
+reading data/export/BL06-camel-lrg.max.bbk...
+building...2.86692 seconds
+init... 1.48605 seconds
+solving... 22.8042 seconds
+total: 27.1571 seconds, maxflow: 538873536
+Maximum memory usage: 8414.99 MB
+Average memory usage: 7668.54 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 0.0009469424679970187 kg CO2e
+Output from C++ program:
+reading data/export/BL06-gargoyle-lrg.max.bbk...
+building...2.71351 seconds
+init... 1.39923 seconds
+solving... 29.9919 seconds
+total: 34.1046 seconds, maxflow: 179059619
+Maximum memory usage: 7754.49 MB
+Average memory usage: 7229.59 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 0.0012950225161983291 kg CO2e
+Output from C++ program:
+reading data/export/BL06-camel-lrg.max.bbk...
+building...1.15077 seconds
+init... 1.40822 seconds
+solving... 22.7746 seconds
+total: 25.3336 seconds, maxflow: 538873536
+Maximum memory usage: 6772.27 MB
+Average memory usage: 6164.09 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 0.0010021287656256663 kg CO2e
+Output from C++ program:
+reading data/export/BL06-gargoyle-lrg.max.bbk...
+building...1.07977 seconds
+init... 1.32526 seconds
+solving... 27.6502 seconds
+total: 30.0552 seconds, maxflow: 179059619
+Maximum memory usage: 6244.71 MB
+Average memory usage: 5792.2 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 0.0010396819763665958 kg CO2e
+Output from C++ program:
+reading data/export/BL06-camel-lrg.max.bbk...
+building...1.05964 seconds
+init... 0.0806382 seconds
+solving... 27.1074 seconds
+total: 28.2477 seconds, maxflow: 538873536
+Maximum memory usage: 4416.97 MB
+Average memory usage: 4178.15 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 0.0010091886851927836 kg CO2e
+Output from C++ program:
+reading data/export/BL06-gargoyle-lrg.max.bbk...
+building...0.985919 seconds
+init... 0.0729546 seconds
+solving... 31.886 seconds
+total: 32.9449 seconds, maxflow: 179059619
+Maximum memory usage: 4136.55 MB
+Average memory usage: 3939.24 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 0.0012443617754376124 kg CO2e

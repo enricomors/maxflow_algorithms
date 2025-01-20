@@ -945,9 +945,13 @@ int main(int argc, const char* argv[])
         avgMemoryUsage = totalMemoryUsage / memorySamplesCount;
     }
 
+    // Convert to MB for display
+    double maxMemoryUsageMB = static_cast<double>(maxMemoryUsage.load()) / 1024.0;
+    double avgMemoryUsageMB = static_cast<double>(avgMemoryUsage) / 1024.0;
+
     // Display memory usage statistics
-    std::cout << "Maximum memory usage: " << maxMemoryUsage.load() << " KB" << std::endl;
-    std::cout << "Average memory usage: " << avgMemoryUsage << " KB" << std::endl;
+    std::cout << "Maximum memory usage: " << maxMemoryUsageMB << " MB" << std::endl;
+    std::cout << "Average memory usage: " << avgMemoryUsageMB << " MB" << std::endl;
 
     return 0;
 }

@@ -1,0 +1,7200 @@
+Loading python/3.11.6--gcc--8.5.0
+  Loading requirement: bzip2/1.0.8-gp5wcz5 libmd/1.0.4-wja3f5q
+    libbsd/0.11.7-cgxjopl expat/2.5.0-bptl3xw ncurses/6.4-asx3jea
+    readline/8.2-nyw6mp6 gdbm/1.23-fs6otck libiconv/1.17-d7yvx2s
+    xz/5.4.1-hubmwr5 zlib-ng/2.1.4-6htiapk libxml2/2.10.3-5eeeokp
+    pigz/2.7-bopr5vp zstd/1.5.5-gawytfl tar/1.34-amqus5s gettext/0.22.3-2g7elif
+    libffi/3.4.4-6r7brdq libxcrypt/4.4.35-ss2rzin sqlite/3.43.2
+    util-linux-uuid/2.38.1-jkdi7kv
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth18.max.bbk...
+building... 0.0409821 seconds
+solving... 0.0951806 seconds
+total: 0.136163 seconds, maxflow: 873526
+Maximum memory usage: 167.086 MB
+Average memory usage: 137.105 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.832383487687442e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.171042129483798e-05
+CPU Energy (kWh): 1.264263066965202e-05
+RAM Energy (kWh): 1.6208767793018808e-05
+Total Energy (kWh): 2.8851398462670827e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth18.max.bbk...
+building... 0.0277997 seconds
+solving... 0.0921966 seconds
+total: 0.119996 seconds, maxflow: 873526
+Maximum memory usage: 93.6758 MB
+Average memory usage: 91.4883 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.556619713473424e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.18191042095403e-05
+CPU Energy (kWh): 8.478717894079817e-06
+RAM Energy (kWh): 1.0760528435002926e-05
+Total Energy (kWh): 1.9239246329082745e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth18.max.bbk...
+building... 0.0281721 seconds
+init... 0.030033 seconds
+solving... 0.0806849 seconds
+total: 0.13889 seconds, maxflow: 873526
+Maximum memory usage: 130.762 MB
+Average memory usage: 110.031 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.585969327751579e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1934231694823154e-05
+CPU Energy (kWh): 8.554960732852024e-06
+RAM Energy (kWh): 1.0770406872656223e-05
+Total Energy (kWh): 1.932536760550825e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth18.max.bbk...
+building...0.0562908 seconds
+init... 0.0204171 seconds
+solving... 0.0448866 seconds
+total: 0.121594 seconds, maxflow: 873526
+Maximum memory usage: 183.039 MB
+Average memory usage: 136.115 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.641344655669804e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2239523133715126e-05
+CPU Energy (kWh): 8.730300595345903e-06
+RAM Energy (kWh): 1.0757556161726713e-05
+Total Energy (kWh): 1.9487856757072614e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth18.max.bbk...
+building...0.0207435 seconds
+init... 0.0257299 seconds
+solving... 0.0439207 seconds
+total: 0.0903941 seconds, maxflow: 873526
+Maximum memory usage: 153.227 MB
+Average memory usage: 121.281 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.5733367115501726e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1871136080800654e-05
+CPU Energy (kWh): 8.517780147552232e-06
+RAM Energy (kWh): 1.077051926954482e-05
+Total Energy (kWh): 1.928829941709705e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth18.max.bbk...
+building...0.0198833 seconds
+init... 0.0013731 seconds
+solving... 0.05951 seconds
+total: 0.0807664 seconds, maxflow: 873526
+Maximum memory usage: 100.137 MB
+Average memory usage: 94.6914 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.518344484020528e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.161718613454487e-05
+CPU Energy (kWh): 8.360174188133977e-06
+RAM Energy (kWh): 1.0766760218048433e-05
+Total Energy (kWh): 1.912693440618241e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth17.max.bbk...
+building... 0.0157575 seconds
+solving... 0.0154844 seconds
+total: 0.0312419 seconds, maxflow: 240399
+Maximum memory usage: 89.3359 MB
+Average memory usage: 89.3359 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.3565107738953794e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.168602255436027e-05
+CPU Energy (kWh): 4.332962910812187e-06
+RAM Energy (kWh): 5.516127078728062e-06
+Total Energy (kWh): 9.849089989540247e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth17.max.bbk...
+building... 0.0104012 seconds
+solving... 0.0149566 seconds
+total: 0.0253578 seconds, maxflow: 240399
+Maximum memory usage: 89.25 MB
+Average memory usage: 89.25 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.3462126244601857e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.160111092363257e-05
+CPU Energy (kWh): 4.304530665843846e-06
+RAM Energy (kWh): 5.514341217053698e-06
+Total Energy (kWh): 9.818871882897544e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth17.max.bbk...
+building... 0.0105411 seconds
+init... 0.0104132 seconds
+solving... 0.0129524 seconds
+total: 0.0339067 seconds, maxflow: 240399
+Maximum memory usage: 89.3555 MB
+Average memory usage: 89.3555 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.342363018513806e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.153670781462621e-05
+CPU Energy (kWh): 4.287627318987942e-06
+RAM Energy (kWh): 5.519948572940337e-06
+Total Energy (kWh): 9.80757589192828e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth17.max.bbk...
+building...0.0218281 seconds
+init... 0.00662582 seconds
+solving... 0.0112007 seconds
+total: 0.0396546 seconds, maxflow: 240399
+Maximum memory usage: 89.2383 MB
+Average memory usage: 89.2383 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.364510168505803e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.170295637810629e-05
+CPU Energy (kWh): 4.346170143600071e-06
+RAM Energy (kWh): 5.526392661219859e-06
+Total Energy (kWh): 9.872562804819927e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth17.max.bbk...
+building...0.00814432 seconds
+init... 0.00958404 seconds
+solving... 0.010755 seconds
+total: 0.0284833 seconds, maxflow: 240399
+Maximum memory usage: 89.3906 MB
+Average memory usage: 89.3906 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.3600736635739128e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1593440640385935e-05
+CPU Energy (kWh): 4.321874846385711e-06
+RAM Energy (kWh): 5.537669815709023e-06
+Total Energy (kWh): 9.859544662094736e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth17.max.bbk...
+building...0.00770143 seconds
+init... 0.000733969 seconds
+solving... 0.0120712 seconds
+total: 0.0205066 seconds, maxflow: 240399
+Maximum memory usage: 89.3008 MB
+Average memory usage: 89.3008 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.3504559834493654e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1633420973360365e-05
+CPU Energy (kWh): 4.316669842221923e-06
+RAM Energy (kWh): 5.514653430633132e-06
+Total Energy (kWh): 9.831323272855057e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth8.max.bbk...
+building... 0.0424442 seconds
+solving... 0.143558 seconds
+total: 0.186002 seconds, maxflow: 1245208
+Maximum memory usage: 169.234 MB
+Average memory usage: 135.029 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.791028569393186e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.196397682764943e-05
+CPU Energy (kWh): 1.2717601840739985e-05
+RAM Energy (kWh): 1.6012447894270567e-05
+Total Energy (kWh): 2.873004973501055e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth8.max.bbk...
+building... 0.0287257 seconds
+solving... 0.139365 seconds
+total: 0.168091 seconds, maxflow: 1245208
+Maximum memory usage: 95.1953 MB
+Average memory usage: 93.2119 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.769866349063441e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.188072132065675e-05
+CPU Energy (kWh): 1.2650259842421786e-05
+RAM Energy (kWh): 1.6017693082405062e-05
+Total Energy (kWh): 2.8667952924826848e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth8.max.bbk...
+building... 0.0287246 seconds
+init... 0.0303389 seconds
+solving... 0.120792 seconds
+total: 0.179856 seconds, maxflow: 1245208
+Maximum memory usage: 141.996 MB
+Average memory usage: 120.924 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.722003695147737e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1716813921700084e-05
+CPU Energy (kWh): 1.2505606671144203e-05
+RAM Energy (kWh): 1.6021901721455833e-05
+Total Energy (kWh): 2.852750839260004e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth8.max.bbk...
+building...0.0564375 seconds
+init... 0.0200634 seconds
+solving... 0.0702435 seconds
+total: 0.146744 seconds, maxflow: 1245208
+Maximum memory usage: 190.328 MB
+Average memory usage: 155.088 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 9.742636671989591e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.177715632888002e-05
+CPU Energy (kWh): 1.256150477141815e-05
+RAM Energy (kWh): 1.6026547459517815e-05
+Total Energy (kWh): 2.8588052230935964e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth8.max.bbk...
+building...0.020426 seconds
+init... 0.0257293 seconds
+solving... 0.0697964 seconds
+total: 0.115952 seconds, maxflow: 1245208
+Maximum memory usage: 156.547 MB
+Average memory usage: 122.904 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.594313861975392e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.200125536684057e-05
+CPU Energy (kWh): 8.588512981915972e-06
+RAM Energy (kWh): 1.0761340190309454e-05
+Total Energy (kWh): 1.9349853172225428e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth8.max.bbk...
+building...0.0202448 seconds
+init... 0.00138935 seconds
+solving... 0.101073 seconds
+total: 0.122707 seconds, maxflow: 1245208
+Maximum memory usage: 100.008 MB
+Average memory usage: 94.6367 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.5840190516593785e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1889163080499706e-05
+CPU Energy (kWh): 8.53778599689027e-06
+RAM Energy (kWh): 1.0781858866749871e-05
+Total Energy (kWh): 1.9319644863640144e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth6.max.bbk...
+building... 0.0423242 seconds
+solving... 0.102819 seconds
+total: 0.145143 seconds, maxflow: 1128726
+Maximum memory usage: 172.48 MB
+Average memory usage: 137.86 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.725663619316032e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.179332186155923e-05
+CPU Energy (kWh): 1.2547754760418132e-05
+RAM Energy (kWh): 1.599049303536475e-05
+Total Energy (kWh): 2.8538247795782883e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth6.max.bbk...
+building... 0.028595 seconds
+solving... 0.104341 seconds
+total: 0.132936 seconds, maxflow: 1128726
+Maximum memory usage: 97.2305 MB
+Average memory usage: 93.2832 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.579113668053143e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1915674443186306e-05
+CPU Energy (kWh): 8.53993933194611e-06
+RAM Energy (kWh): 1.0765311547039858e-05
+Total Energy (kWh): 1.9305250878985967e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth6.max.bbk...
+building... 0.0296303 seconds
+init... 0.0299627 seconds
+solving... 0.0922078 seconds
+total: 0.151801 seconds, maxflow: 1128726
+Maximum memory usage: 144.992 MB
+Average memory usage: 121.282 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.796459192480614e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.198708349696255e-05
+CPU Energy (kWh): 1.2736471855835823e-05
+RAM Energy (kWh): 1.6009513086623883e-05
+Total Energy (kWh): 2.8745984942459708e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth6.max.bbk...
+building...0.0586774 seconds
+init... 0.0204377 seconds
+solving... 0.0459232 seconds
+total: 0.125038 seconds, maxflow: 1128726
+Maximum memory usage: 178.703 MB
+Average memory usage: 134.012 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.884654772234553e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.3463086909384963e-05
+CPU Energy (kWh): 9.458313399978229e-06
+RAM Energy (kWh): 1.0743494062108994e-05
+Total Energy (kWh): 2.0201807462087223e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth6.max.bbk...
+building...0.0212974 seconds
+init... 0.0261918 seconds
+solving... 0.0435045 seconds
+total: 0.0909937 seconds, maxflow: 1128726
+Maximum memory usage: 156.148 MB
+Average memory usage: 122.707 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.556223837605932e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1774719927626626e-05
+CPU Energy (kWh): 8.462170380841693e-06
+RAM Energy (kWh): 1.0775914320197444e-05
+Total Energy (kWh): 1.923808470103914e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth6.max.bbk...
+building...0.0204897 seconds
+init... 0.00148141 seconds
+solving... 0.0663032 seconds
+total: 0.0882743 seconds, maxflow: 1128726
+Maximum memory usage: 102.504 MB
+Average memory usage: 95.9023 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.55635301515904e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1798788236817203e-05
+CPU Energy (kWh): 8.473614278886165e-06
+RAM Energy (kWh): 1.0764849470942295e-05
+Total Energy (kWh): 1.923846374982846e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth12.max.bbk...
+building... 0.0431092 seconds
+solving... 0.0926168 seconds
+total: 0.135726 seconds, maxflow: 1069628
+Maximum memory usage: 176.32 MB
+Average memory usage: 138.217 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.691016983562872e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1657411209342366e-05
+CPU Energy (kWh): 1.2434975503528184e-05
+RAM Energy (kWh): 1.600160783879261e-05
+Total Energy (kWh): 2.8436583342320795e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth12.max.bbk...
+building... 0.0292113 seconds
+solving... 0.0917168 seconds
+total: 0.120928 seconds, maxflow: 1069628
+Maximum memory usage: 98.9766 MB
+Average memory usage: 94.1113 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.6073967316758295e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.20263928384108e-05
+CPU Energy (kWh): 8.615300503346177e-06
+RAM Energy (kWh): 1.077294204692123e-05
+Total Energy (kWh): 1.9388242550267405e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth12.max.bbk...
+building... 0.0302803 seconds
+init... 0.0317937 seconds
+solving... 0.0815854 seconds
+total: 0.143659 seconds, maxflow: 1069628
+Maximum memory usage: 147.859 MB
+Average memory usage: 121.091 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.813124404294441e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.203077606940894e-05
+CPU Energy (kWh): 1.2779603279230046e-05
+RAM Energy (kWh): 1.601528279357183e-05
+Total Energy (kWh): 2.8794886072801875e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth12.max.bbk...
+building...0.0590037 seconds
+init... 0.021787 seconds
+solving... 0.0407851 seconds
+total: 0.121576 seconds, maxflow: 1069628
+Maximum memory usage: 179.008 MB
+Average memory usage: 134.145 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.627278753520038e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.21074750647757e-05
+CPU Energy (kWh): 8.667858600947681e-06
+RAM Energy (kWh): 1.0778724242412352e-05
+Total Energy (kWh): 1.944658284336003e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth12.max.bbk...
+building...0.0220216 seconds
+init... 0.0270783 seconds
+solving... 0.0408402 seconds
+total: 0.0899401 seconds, maxflow: 1069628
+Maximum memory usage: 150 MB
+Average memory usage: 119.633 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.617026249320252e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.204451631058343e-05
+CPU Energy (kWh): 8.633865518198423e-06
+RAM Energy (kWh): 1.078263315642687e-05
+Total Energy (kWh): 1.941649867462529e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth12.max.bbk...
+building...0.020817 seconds
+init... 0.0014471 seconds
+solving... 0.0573926 seconds
+total: 0.0796566 seconds, maxflow: 1069628
+Maximum memory usage: 104.457 MB
+Average memory usage: 96.9199 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.570034443361345e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1801856112866474e-05
+CPU Energy (kWh): 8.490331514481551e-06
+RAM Energy (kWh): 1.078827797794304e-05
+Total Energy (kWh): 1.927860949242459e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth19.max.bbk...
+building... 0.0427859 seconds
+solving... 0.076784 seconds
+total: 0.11957 seconds, maxflow: 799101
+Maximum memory usage: 146.633 MB
+Average memory usage: 117.967 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.612083288543911e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.206081673204844e-05
+CPU Energy (kWh): 8.632898850757884e-06
+RAM Energy (kWh): 1.07690955756226e-05
+Total Energy (kWh): 1.9401994426380487e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth19.max.bbk...
+building... 0.0289955 seconds
+solving... 0.0707697 seconds
+total: 0.0997653 seconds, maxflow: 799101
+Maximum memory usage: 98.1523 MB
+Average memory usage: 93.6699 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.557625192954098e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.177596732981448e-05
+CPU Energy (kWh): 8.466070106183821e-06
+RAM Energy (kWh): 1.077612662543146e-05
+Total Energy (kWh): 1.924219673161528e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth19.max.bbk...
+building... 0.0294186 seconds
+init... 0.0299547 seconds
+solving... 0.0606947 seconds
+total: 0.120068 seconds, maxflow: 799101
+Maximum memory usage: 128.379 MB
+Average memory usage: 108.854 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.596069824084488e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.199966925420281e-05
+CPU Energy (kWh): 8.591005483910702e-06
+RAM Energy (kWh): 1.0764000250006234e-05
+Total Energy (kWh): 1.9355005733916936e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth19.max.bbk...
+building...0.0578335 seconds
+init... 0.0209624 seconds
+solving... 0.0283142 seconds
+total: 0.10711 seconds, maxflow: 799101
+Maximum memory usage: 179.926 MB
+Average memory usage: 134.564 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.587704840289478e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.194826083519165e-05
+CPU Energy (kWh): 8.563437684077843e-06
+RAM Energy (kWh): 1.0767022477455158e-05
+Total Energy (kWh): 1.9330460161533003e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth19.max.bbk...
+building...0.0215134 seconds
+init... 0.0265403 seconds
+solving... 0.0280797 seconds
+total: 0.0761334 seconds, maxflow: 799101
+Maximum memory usage: 150.883 MB
+Average memory usage: 120.049 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.574721592384392e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.185012661315755e-05
+CPU Energy (kWh): 8.513151810515904e-06
+RAM Energy (kWh): 1.077921129559627e-05
+Total Energy (kWh): 1.929236310611217e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth19.max.bbk...
+building...0.0211067 seconds
+init... 0.00136831 seconds
+solving... 0.0422675 seconds
+total: 0.0647425 seconds, maxflow: 799101
+Maximum memory usage: 103.812 MB
+Average memory usage: 96.5703 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.5567229863726034e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.179253148068008e-05
+CPU Energy (kWh): 8.470528720861802e-06
+RAM Energy (kWh): 1.0769020644363536e-05
+Total Energy (kWh): 1.9239549365225335e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth15.max.bbk...
+building... 0.0420709 seconds
+solving... 0.112142 seconds
+total: 0.154213 seconds, maxflow: 992070
+Maximum memory usage: 170.992 MB
+Average memory usage: 136.867 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.778740656246095e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.194230919855364e-05
+CPU Energy (kWh): 1.2690899041600378e-05
+RAM Energy (kWh): 1.6003093975430718e-05
+Total Energy (kWh): 2.8693993017031096e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth15.max.bbk...
+building... 0.0284767 seconds
+solving... 0.10498 seconds
+total: 0.133457 seconds, maxflow: 992070
+Maximum memory usage: 96.0781 MB
+Average memory usage: 92.6562 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.5881819423022745e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.195057462731187e-05
+CPU Energy (kWh): 8.56420074024384e-06
+RAM Energy (kWh): 1.0767659393157203e-05
+Total Energy (kWh): 1.9331860133401043e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth15.max.bbk...
+building... 0.0289151 seconds
+init... 0.03042 seconds
+solving... 0.0918503 seconds
+total: 0.151185 seconds, maxflow: 992070
+Maximum memory usage: 143.52 MB
+Average memory usage: 120.965 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.741155737125926e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.180467625241915e-05
+CPU Energy (kWh): 1.2574118670397733e-05
+RAM Energy (kWh): 1.600958801788295e-05
+Total Energy (kWh): 2.858370668828068e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth15.max.bbk...
+building...0.0571055 seconds
+init... 0.0205295 seconds
+solving... 0.0515265 seconds
+total: 0.129161 seconds, maxflow: 992070
+Maximum memory usage: 183.742 MB
+Average memory usage: 136.521 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.590182006321831e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2015950219774045e-05
+CPU Energy (kWh): 8.59027603888115e-06
+RAM Energy (kWh): 1.074745293029622e-05
+Total Energy (kWh): 1.9337728969177368e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth15.max.bbk...
+building...0.0204463 seconds
+init... 0.0259123 seconds
+solving... 0.0507704 seconds
+total: 0.097129 seconds, maxflow: 992070
+Maximum memory usage: 154.723 MB
+Average memory usage: 121.984 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.577931458288697e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.188202570131737e-05
+CPU Energy (kWh): 8.527291266271879e-06
+RAM Energy (kWh): 1.0774490626275223e-05
+Total Energy (kWh): 1.9301781892547104e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth15.max.bbk...
+building...0.0202995 seconds
+init... 0.00140711 seconds
+solving... 0.0702741 seconds
+total: 0.0919807 seconds, maxflow: 992070
+Maximum memory usage: 101.395 MB
+Average memory usage: 95.3359 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.572671830873162e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.183225552712036e-05
+CPU Energy (kWh): 8.503877636429659e-06
+RAM Energy (kWh): 1.0782470805365564e-05
+Total Energy (kWh): 1.9286348441795224e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth0.max.bbk...
+building... 0.0436921 seconds
+solving... 0.0653656 seconds
+total: 0.109058 seconds, maxflow: 765315
+Maximum memory usage: 151.332 MB
+Average memory usage: 120.287 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.5757127319785154e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1884204349240154e-05
+CPU Energy (kWh): 8.525426542558764e-06
+RAM Energy (kWh): 1.0769844888213245e-05
+Total Energy (kWh): 1.9295271430772007e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth0.max.bbk...
+building... 0.029684 seconds
+solving... 0.0652952 seconds
+total: 0.0949792 seconds, maxflow: 765315
+Maximum memory usage: 100.188 MB
+Average memory usage: 94.7051 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.635692253684555e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.214062572163472e-05
+CPU Energy (kWh): 8.692696398595288e-06
+RAM Energy (kWh): 1.0778574379894224e-05
+Total Energy (kWh): 1.9471270778489512e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth0.max.bbk...
+building... 0.0300986 seconds
+init... 0.0311955 seconds
+solving... 0.0561825 seconds
+total: 0.117477 seconds, maxflow: 765315
+Maximum memory usage: 130.305 MB
+Average memory usage: 109.758 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.590179531554315e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1929545971112645e-05
+CPU Energy (kWh): 8.561182960051435e-06
+RAM Energy (kWh): 1.0776538747356312e-05
+Total Energy (kWh): 1.9337721707407745e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth0.max.bbk...
+building...0.0589168 seconds
+init... 0.0209362 seconds
+solving... 0.0252954 seconds
+total: 0.105148 seconds, maxflow: 765315
+Maximum memory usage: 185.398 MB
+Average memory usage: 137.324 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.5696930763907344e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.188384007807781e-05
+CPU Energy (kWh): 8.516542368783644e-06
+RAM Energy (kWh): 1.0761065442359552e-05
+Total Energy (kWh): 1.92776078111432e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth0.max.bbk...
+building...0.02116 seconds
+init... 0.027144 seconds
+solving... 0.0248529 seconds
+total: 0.0731569 seconds, maxflow: 765315
+Maximum memory usage: 155.273 MB
+Average memory usage: 122.32 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.545130042166116e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1719671062813064e-05
+CPU Energy (kWh): 8.42933035456999e-06
+RAM Energy (kWh): 1.0776201556690524e-05
+Total Energy (kWh): 1.9205531911260517e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth0.max.bbk...
+building...0.0207681 seconds
+init... 0.00141556 seconds
+solving... 0.031236 seconds
+total: 0.0534197 seconds, maxflow: 765315
+Maximum memory usage: 105.031 MB
+Average memory usage: 97.1816 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.567905031036767e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.184181882031062e-05
+CPU Energy (kWh): 8.500368189177758e-06
+RAM Energy (kWh): 1.0771992917639751e-05
+Total Energy (kWh): 1.927236110681751e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth14.max.bbk...
+building... 0.0430078 seconds
+solving... 0.112368 seconds
+total: 0.155376 seconds, maxflow: 1087953
+Maximum memory usage: 174.598 MB
+Average memory usage: 138.256 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.715575928927325e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.174151858998107e-05
+CPU Energy (kWh): 1.2508200839886003e-05
+RAM Energy (kWh): 1.6000446404277112e-05
+Total Energy (kWh): 2.850864724416312e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth14.max.bbk...
+building... 0.0289226 seconds
+solving... 0.110036 seconds
+total: 0.138959 seconds, maxflow: 1087953
+Maximum memory usage: 98.3008 MB
+Average memory usage: 93.8184 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.590198452764866e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.198831593719461e-05
+CPU Energy (kWh): 8.578747418547597e-06
+RAM Energy (kWh): 1.0759029809821642e-05
+Total Energy (kWh): 1.933777722836924e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth14.max.bbk...
+building... 0.0297758 seconds
+init... 0.0310225 seconds
+solving... 0.0966338 seconds
+total: 0.157432 seconds, maxflow: 1087953
+Maximum memory usage: 146.559 MB
+Average memory usage: 121.449 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.745770458994191e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1788490072876114e-05
+CPU Energy (kWh): 1.257128727924408e-05
+RAM Energy (kWh): 1.6025960497988477e-05
+Total Energy (kWh): 2.859724777723256e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth14.max.bbk...
+building...0.0583781 seconds
+init... 0.0209238 seconds
+solving... 0.053243 seconds
+total: 0.132545 seconds, maxflow: 1087953
+Maximum memory usage: 183.113 MB
+Average memory usage: 136.166 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.6269378388209895e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.216761397685195e-05
+CPU Energy (kWh): 8.686440282479682e-06
+RAM Energy (kWh): 1.075914220671024e-05
+Total Energy (kWh): 1.944558248918992e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth14.max.bbk...
+building...0.021087 seconds
+init... 0.026671 seconds
+solving... 0.0520788 seconds
+total: 0.0998368 seconds, maxflow: 1087953
+Maximum memory usage: 152.754 MB
+Average memory usage: 121.029 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.575044025938828e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.18550734449985e-05
+CPU Energy (kWh): 8.515321812251932e-06
+RAM Energy (kWh): 1.0777987418364887e-05
+Total Energy (kWh): 1.929330923061682e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth14.max.bbk...
+building...0.0207304 seconds
+init... 0.00138716 seconds
+solving... 0.0746512 seconds
+total: 0.0967687 seconds, maxflow: 1087953
+Maximum memory usage: 103.762 MB
+Average memory usage: 96.5605 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.559436125405129e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1788892458798284e-05
+CPU Energy (kWh): 8.472258166689235e-06
+RAM Energy (kWh): 1.0775252427409044e-05
+Total Energy (kWh): 1.924751059409828e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth1.max.bbk...
+building... 0.043824 seconds
+solving... 0.069914 seconds
+total: 0.113738 seconds, maxflow: 815318
+Maximum memory usage: 149.988 MB
+Average memory usage: 119.594 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.585537273473999e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1955669029001336e-05
+CPU Energy (kWh): 8.562759627979595e-06
+RAM Energy (kWh): 1.0761340190309454e-05
+Total Energy (kWh): 1.932409981828905e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth1.max.bbk...
+building... 0.0299494 seconds
+solving... 0.0709429 seconds
+total: 0.100892 seconds, maxflow: 815318
+Maximum memory usage: 100.277 MB
+Average memory usage: 94.7461 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.5777927591997274e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1833164468534e-05
+CPU Energy (kWh): 8.511710698251226e-06
+RAM Energy (kWh): 1.0789664206235729e-05
+Total Energy (kWh): 1.9301374904486955e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth1.max.bbk...
+building... 0.0300867 seconds
+init... 0.0316165 seconds
+solving... 0.0613539 seconds
+total: 0.123057 seconds, maxflow: 815318
+Maximum memory usage: 128.605 MB
+Average memory usage: 108.953 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.589368839623896e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.195193429856825e-05
+CPU Energy (kWh): 8.565522963524357e-06
+RAM Energy (kWh): 1.0769819911126889e-05
+Total Energy (kWh): 1.9335342874651245e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth1.max.bbk...
+building...0.0599476 seconds
+init... 0.0210466 seconds
+solving... 0.0270737 seconds
+total: 0.108068 seconds, maxflow: 815318
+Maximum memory usage: 180.371 MB
+Average memory usage: 134.812 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.599478114208351e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.201612990990508e-05
+CPU Energy (kWh): 8.600906602942125e-06
+RAM Energy (kWh): 1.0764100158351652e-05
+Total Energy (kWh): 1.9365006761293777e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth1.max.bbk...
+building...0.0213568 seconds
+init... 0.0271184 seconds
+solving... 0.0262935 seconds
+total: 0.0747687 seconds, maxflow: 815318
+Maximum memory usage: 152.629 MB
+Average memory usage: 120.922 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.584853984147709e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.193849728607355e-05
+CPU Energy (kWh): 8.555621844491199e-06
+RAM Energy (kWh): 1.0766472981555352e-05
+Total Energy (kWh): 1.9322094826046557e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth1.max.bbk...
+building...0.0210161 seconds
+init... 0.00140827 seconds
+solving... 0.0343445 seconds
+total: 0.0567689 seconds, maxflow: 815318
+Maximum memory usage: 104.898 MB
+Average memory usage: 97.1172 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.586601410848775e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.193275590331781e-05
+CPU Energy (kWh): 8.555316844248255e-06
+RAM Energy (kWh): 1.0771905497837507e-05
+Total Energy (kWh): 1.932722234208576e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth13.max.bbk...
+building... 0.0289617 seconds
+solving... 0.118211 seconds
+total: 0.147173 seconds, maxflow: 846885
+Maximum memory usage: 118.883 MB
+Average memory usage: 104.051 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.56841255786259e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1842291848572745e-05
+CPU Energy (kWh): 8.501944857105918e-06
+RAM Energy (kWh): 1.0771905497837507e-05
+Total Energy (kWh): 1.9273850354943426e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth13.max.bbk...
+building... 0.0195088 seconds
+solving... 0.108482 seconds
+total: 0.127991 seconds, maxflow: 846885
+Maximum memory usage: 89.3125 MB
+Average memory usage: 89.3125 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.575887665381075e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.191235260997973e-05
+CPU Energy (kWh): 8.535293772673341e-06
+RAM Energy (kWh): 1.0760490969373394e-05
+Total Energy (kWh): 1.9295784742046736e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth13.max.bbk...
+building... 0.0198865 seconds
+init... 0.0209014 seconds
+solving... 0.0961183 seconds
+total: 0.136906 seconds, maxflow: 846885
+Maximum memory usage: 99.5195 MB
+Average memory usage: 94.4336 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.572364520681495e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1872391090033875e-05
+CPU Energy (kWh): 8.517712369720057e-06
+RAM Energy (kWh): 1.0767734324416268e-05
+Total Energy (kWh): 1.9285446694136327e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth13.max.bbk...
+building...0.0392711 seconds
+init... 0.0132949 seconds
+solving... 0.0631317 seconds
+total: 0.115698 seconds, maxflow: 846885
+Maximum memory usage: 133.914 MB
+Average memory usage: 111.586 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.5645577115212245e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.18396861421574e-05
+CPU Energy (kWh): 8.497926798335664e-06
+RAM Energy (kWh): 1.0764612188621926e-05
+Total Energy (kWh): 1.926253898695759e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth13.max.bbk...
+building...0.0143419 seconds
+init... 0.0177494 seconds
+solving... 0.0618239 seconds
+total: 0.0939152 seconds, maxflow: 846885
+Maximum memory usage: 109.879 MB
+Average memory usage: 99.6094 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.570050848330652e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.18804857982927e-05
+CPU Energy (kWh): 8.515881257144253e-06
+RAM Energy (kWh): 1.0762776372774852e-05
+Total Energy (kWh): 1.9278657629919105e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth13.max.bbk...
+building...0.0141368 seconds
+init... 0.00126934 seconds
+solving... 0.0802045 seconds
+total: 0.0956107 seconds, maxflow: 846885
+Maximum memory usage: 89.3789 MB
+Average memory usage: 89.3789 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.5429121810006095e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1706724511041945e-05
+CPU Energy (kWh): 8.422972293927779e-06
+RAM Energy (kWh): 1.0776051694172395e-05
+Total Energy (kWh): 1.919902398810017e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth7.max.bbk...
+building... 0.0406736 seconds
+solving... 0.125948 seconds
+total: 0.166621 seconds, maxflow: 1126368
+Maximum memory usage: 164.586 MB
+Average memory usage: 138.768 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.755789442554514e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.18688280931422e-05
+CPU Energy (kWh): 1.2624014821426346e-05
+RAM Energy (kWh): 1.6002631899333156e-05
+Total Energy (kWh): 2.8626646720759505e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth7.max.bbk...
+building... 0.0271638 seconds
+solving... 0.126153 seconds
+total: 0.153317 seconds, maxflow: 1126368
+Maximum memory usage: 92.6836 MB
+Average memory usage: 91.54 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.704145733046316e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1691634988140864e-05
+CPU Energy (kWh): 1.2469053586345626e-05
+RAM Energy (kWh): 1.6006053760163753e-05
+Total Energy (kWh): 2.8475107346509375e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth7.max.bbk...
+building... 0.0279639 seconds
+init... 0.0285522 seconds
+solving... 0.111265 seconds
+total: 0.167781 seconds, maxflow: 1126368
+Maximum memory usage: 137.699 MB
+Average memory usage: 119.965 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.739604980350448e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1797756633995564e-05
+CPU Energy (kWh): 1.2568506721463528e-05
+RAM Energy (kWh): 1.6010649544053026e-05
+Total Energy (kWh): 2.8579156265516557e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth7.max.bbk...
+building...0.0552455 seconds
+init... 0.0195756 seconds
+solving... 0.0624537 seconds
+total: 0.137275 seconds, maxflow: 1126368
+Maximum memory usage: 185.227 MB
+Average memory usage: 137.246 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.593011254663478e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1973292831591915e-05
+CPU Energy (kWh): 8.577984362382468e-06
+RAM Energy (kWh): 1.0768046537995702e-05
+Total Energy (kWh): 1.934603090037817e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth7.max.bbk...
+building...0.0201597 seconds
+init... 0.0250523 seconds
+solving... 0.0616777 seconds
+total: 0.10689 seconds, maxflow: 1126368
+Maximum memory usage: 151.949 MB
+Average memory usage: 120.584 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.5823352824757474e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.193688027234088e-05
+CPU Energy (kWh): 8.552027674950217e-06
+RAM Energy (kWh): 1.0762676464429433e-05
+Total Energy (kWh): 1.931470413937965e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth7.max.bbk...
+building...0.0195617 seconds
+init... 0.00145263 seconds
+solving... 0.0895601 seconds
+total: 0.110574 seconds, maxflow: 1126368
+Maximum memory usage: 97.8867 MB
+Average memory usage: 93.5996 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.549259834086911e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.175516907153756e-05
+CPU Energy (kWh): 8.449403703961536e-06
+RAM Energy (kWh): 1.076824635468654e-05
+Total Energy (kWh): 1.9217650058648077e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth10.max.bbk...
+building... 0.0397687 seconds
+solving... 0.114715 seconds
+total: 0.154484 seconds, maxflow: 1097435
+Maximum memory usage: 163.168 MB
+Average memory usage: 137.419 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.747394271445285e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.186460799889952e-05
+CPU Energy (kWh): 1.2611519533651389e-05
+RAM Energy (kWh): 1.599049303536475e-05
+Total Energy (kWh): 2.860201256901614e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth10.max.bbk...
+building... 0.0272131 seconds
+solving... 0.111918 seconds
+total: 0.139131 seconds, maxflow: 1097435
+Maximum memory usage: 91.6836 MB
+Average memory usage: 90.5176 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.581007819639967e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.189085565503443e-05
+CPU Energy (kWh): 8.536717940479596e-06
+RAM Energy (kWh): 1.0774090992893547e-05
+Total Energy (kWh): 1.9310808933373143e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth10.max.bbk...
+building... 0.0278199 seconds
+init... 0.0290915 seconds
+solving... 0.0978986 seconds
+total: 0.15481 seconds, maxflow: 1097435
+Maximum memory usage: 136.918 MB
+Average memory usage: 119.529 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.758467161298783e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.182752771477304e-05
+CPU Energy (kWh): 1.2608043975316334e-05
+RAM Energy (kWh): 1.6026460039715573e-05
+Total Energy (kWh): 2.8634504015031907e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth10.max.bbk...
+building...0.0551595 seconds
+init... 0.019544 seconds
+solving... 0.0534923 seconds
+total: 0.128196 seconds, maxflow: 1097435
+Maximum memory usage: 183.723 MB
+Average memory usage: 136.484 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.61231063529656e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2082985939990426e-05
+CPU Energy (kWh): 8.637374965450757e-06
+RAM Energy (kWh): 1.0765286569953503e-05
+Total Energy (kWh): 1.940266153540426e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth10.max.bbk...
+building...0.0199029 seconds
+init... 0.0248037 seconds
+solving... 0.0524123 seconds
+total: 0.0971189 seconds, maxflow: 1097435
+Maximum memory usage: 150.938 MB
+Average memory usage: 120.061 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.595127980829375e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1995877233542345e-05
+CPU Energy (kWh): 8.588479092999993e-06
+RAM Energy (kWh): 1.0763762967685865e-05
+Total Energy (kWh): 1.935224206068585e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth10.max.bbk...
+building...0.0191068 seconds
+init... 0.00142837 seconds
+solving... 0.0763197 seconds
+total: 0.0968549 seconds, maxflow: 1097435
+Maximum memory usage: 97.5391 MB
+Average memory usage: 93.459 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.573384346506421e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.184968140593202e-05
+CPU Energy (kWh): 8.511625698184346e-06
+RAM Energy (kWh): 1.0776813495306216e-05
+Total Energy (kWh): 1.928843919349056e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth11.max.bbk...
+building... 0.04331 seconds
+solving... 0.0897878 seconds
+total: 0.133098 seconds, maxflow: 1077688
+Maximum memory usage: 177.371 MB
+Average memory usage: 138.013 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.689855306469734e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.164218153512896e-05
+CPU Energy (kWh): 1.2425684662762185e-05
+RAM Energy (kWh): 1.6007489942629152e-05
+Total Energy (kWh): 2.8433174605391337e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth11.max.bbk...
+building... 0.0294239 seconds
+solving... 0.0898017 seconds
+total: 0.119226 seconds, maxflow: 1077688
+Maximum memory usage: 99.8086 MB
+Average memory usage: 94.6016 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.565806971435493e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1844603787865736e-05
+CPU Energy (kWh): 8.498757632334486e-06
+RAM Energy (kWh): 1.0767447087923189e-05
+Total Energy (kWh): 1.9266204720257675e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth11.max.bbk...
+building... 0.0299612 seconds
+init... 0.0310054 seconds
+solving... 0.0788484 seconds
+total: 0.139815 seconds, maxflow: 1077688
+Maximum memory usage: 148.82 MB
+Average memory usage: 122.164 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.755368266308899e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.183846477851296e-05
+CPU Energy (kWh): 1.260912897618413e-05
+RAM Energy (kWh): 1.6016281877026017e-05
+Total Energy (kWh): 2.8625410853210148e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth11.max.bbk...
+building...0.0590981 seconds
+init... 0.02123 seconds
+solving... 0.0363374 seconds
+total: 0.116666 seconds, maxflow: 1077688
+Maximum memory usage: 180.207 MB
+Average memory usage: 134.754 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.6038775492711185e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.200589539973244e-05
+CPU Energy (kWh): 8.603737716317977e-06
+RAM Energy (kWh): 1.0774178412695793e-05
+Total Energy (kWh): 1.937791612901377e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth11.max.bbk...
+building...0.0221169 seconds
+init... 0.0276086 seconds
+solving... 0.0375168 seconds
+total: 0.0872422 seconds, maxflow: 1077688
+Maximum memory usage: 148.328 MB
+Average memory usage: 118.781 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.624847586737631e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2098811116668335e-05
+CPU Energy (kWh): 8.6613991513362e-06
+RAM Energy (kWh): 1.0778049861080777e-05
+Total Energy (kWh): 1.9439449012416977e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth11.max.bbk...
+building...0.0218344 seconds
+init... 0.0016206 seconds
+solving... 0.057187 seconds
+total: 0.0806421 seconds, maxflow: 1077688
+Maximum memory usage: 103.488 MB
+Average memory usage: 96.3711 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.644499968015664e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.217745284214728e-05
+CPU Energy (kWh): 8.714245026946593e-06
+RAM Energy (kWh): 1.078287043874724e-05
+Total Energy (kWh): 1.9497115465693837e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth9.max.bbk...
+building... 0.0335356 seconds
+solving... 0.10721 seconds
+total: 0.140745 seconds, maxflow: 912136
+Maximum memory usage: 135.996 MB
+Average memory usage: 112.635 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.597404000883698e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.202340229176672e-05
+CPU Energy (kWh): 8.602076326101604e-06
+RAM Energy (kWh): 1.0756844314765602e-05
+Total Energy (kWh): 1.9358920640867205e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth9.max.bbk...
+building... 0.0223041 seconds
+solving... 0.102518 seconds
+total: 0.124822 seconds, maxflow: 912136
+Maximum memory usage: 89.2188 MB
+Average memory usage: 89.2188 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.5657393391796084e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.18566162535119e-05
+CPU Energy (kWh): 8.503267358163369e-06
+RAM Energy (kWh): 1.076273890714532e-05
+Total Energy (kWh): 1.9266006265308688e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth9.max.bbk...
+building... 0.0230174 seconds
+init... 0.0239265 seconds
+solving... 0.089081 seconds
+total: 0.136025 seconds, maxflow: 912136
+Maximum memory usage: 114.215 MB
+Average memory usage: 101.709 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.602910769464481e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.201441628452819e-05
+CPU Energy (kWh): 8.60524688419198e-06
+RAM Energy (kWh): 1.0769832399670066e-05
+Total Energy (kWh): 1.9375079283862045e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth9.max.bbk...
+building...0.0451205 seconds
+init... 0.0155813 seconds
+solving... 0.053929 seconds
+total: 0.114631 seconds, maxflow: 912136
+Maximum memory usage: 153.461 MB
+Average memory usage: 121.354 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.558341751032012e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1835454378896524e-05
+CPU Energy (kWh): 8.486143733353602e-06
+RAM Energy (kWh): 1.0758155611799226e-05
+Total Energy (kWh): 1.9244299345152823e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth9.max.bbk...
+building...0.0168919 seconds
+init... 0.0207264 seconds
+solving... 0.053474 seconds
+total: 0.0910922 seconds, maxflow: 912136
+Maximum memory usage: 125.777 MB
+Average memory usage: 107.541 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.573336270843212e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.186597682643951e-05
+CPU Energy (kWh): 8.516067923959939e-06
+RAM Energy (kWh): 1.077223019996012e-05
+Total Energy (kWh): 1.9288298123920057e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth9.max.bbk...
+building...0.0158899 seconds
+init... 0.00134805 seconds
+solving... 0.0713238 seconds
+total: 0.0885617 seconds, maxflow: 912136
+Maximum memory usage: 89.2656 MB
+Average memory usage: 89.2656 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.567921764344374e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1863998436028966e-05
+CPU Energy (kWh): 8.509421529754105e-06
+RAM Energy (kWh): 1.0762988678008868e-05
+Total Energy (kWh): 1.927241020776297e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth3.max.bbk...
+building... 0.0396537 seconds
+solving... 0.139531 seconds
+total: 0.179185 seconds, maxflow: 976692
+Maximum memory usage: 163.434 MB
+Average memory usage: 138.688 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.759562368276371e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.184457063602761e-05
+CPU Energy (kWh): 1.2618301205745072e-05
+RAM Energy (kWh): 1.601941650136354e-05
+Total Energy (kWh): 2.863771770710861e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth3.max.bbk...
+building... 0.0271792 seconds
+solving... 0.135778 seconds
+total: 0.162957 seconds, maxflow: 976692
+Maximum memory usage: 92.207 MB
+Average memory usage: 91.248 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.726557355567303e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.175001842351324e-05
+CPU Energy (kWh): 1.252769807770504e-05
+RAM Energy (kWh): 1.6013172229774852e-05
+Total Energy (kWh): 2.8540870307479893e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth3.max.bbk...
+building... 0.0278296 seconds
+init... 0.0294464 seconds
+solving... 0.118077 seconds
+total: 0.175353 seconds, maxflow: 976692
+Maximum memory usage: 137.156 MB
+Average memory usage: 119.541 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.762677551718132e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.18660145540614e-05
+CPU Energy (kWh): 1.2632712328382312e-05
+RAM Energy (kWh): 1.6014146336142686e-05
+Total Energy (kWh): 2.8646858664525e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth3.max.bbk...
+building...0.0542197 seconds
+init... 0.0190299 seconds
+solving... 0.0768803 seconds
+total: 0.15013 seconds, maxflow: 976692
+Maximum memory usage: 184.109 MB
+Average memory usage: 152.523 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 9.741177744563089e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1799995313553694e-05
+CPU Energy (kWh): 1.2574932559938565e-05
+RAM Energy (kWh): 1.6008838705292306e-05
+Total Energy (kWh): 2.858377126523087e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth3.max.bbk...
+building...0.0196417 seconds
+init... 0.0246989 seconds
+solving... 0.0755019 seconds
+total: 0.119842 seconds, maxflow: 976692
+Maximum memory usage: 151.297 MB
+Average memory usage: 120.312 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.586556338549062e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1927223176056894e-05
+CPU Energy (kWh): 8.555147121889692e-06
+RAM Energy (kWh): 1.077194296346704e-05
+Total Energy (kWh): 1.9327090085356733e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth3.max.bbk...
+building...0.0195469 seconds
+init... 0.00141402 seconds
+solving... 0.1013 seconds
+total: 0.122261 seconds, maxflow: 976692
+Maximum memory usage: 98.0156 MB
+Average memory usage: 93.6074 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.584968722207474e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1927239179432114e-05
+CPU Energy (kWh): 8.553248509259731e-06
+RAM Energy (kWh): 1.0769182995424843e-05
+Total Energy (kWh): 1.9322431504684573e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth16.max.bbk...
+building... 0.0435125 seconds
+solving... 0.114143 seconds
+total: 0.157655 seconds, maxflow: 1014398
+Maximum memory usage: 176.238 MB
+Average memory usage: 137.473 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.724865734526858e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.177469061973313e-05
+CPU Energy (kWh): 1.2537395863243192e-05
+RAM Energy (kWh): 1.599851068008462e-05
+Total Energy (kWh): 2.853590654332781e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth16.max.bbk...
+building... 0.0292184 seconds
+solving... 0.109261 seconds
+total: 0.138479 seconds, maxflow: 1014398
+Maximum memory usage: 98.957 MB
+Average memory usage: 94.0938 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.5822142723569985e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.192351583340643e-05
+CPU Energy (kWh): 8.549162394880586e-06
+RAM Energy (kWh): 1.0765186661608084e-05
+Total Energy (kWh): 1.9314349056488668e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth16.max.bbk...
+building... 0.0299485 seconds
+init... 0.0306888 seconds
+solving... 0.0966599 seconds
+total: 0.157297 seconds, maxflow: 1014398
+Maximum memory usage: 147.836 MB
+Average memory usage: 121.723 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.770765351386008e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1898445843887056e-05
+CPU Energy (kWh): 1.265975401668236e-05
+RAM Energy (kWh): 1.6010836872200686e-05
+Total Energy (kWh): 2.8670590888883045e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth16.max.bbk...
+building...0.0587494 seconds
+init... 0.0212774 seconds
+solving... 0.0538319 seconds
+total: 0.133859 seconds, maxflow: 1014398
+Maximum memory usage: 180.367 MB
+Average memory usage: 134.777 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.619065311443541e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2120292843605e-05
+CPU Energy (kWh): 8.660042761362771e-06
+RAM Energy (kWh): 1.0762439182109064e-05
+Total Energy (kWh): 1.942248194347184e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth16.max.bbk...
+building...0.0212314 seconds
+init... 0.0268758 seconds
+solving... 0.0539508 seconds
+total: 0.102058 seconds, maxflow: 1014398
+Maximum memory usage: 151.941 MB
+Average memory usage: 120.582 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.5913377116236e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1917312756978023e-05
+CPU Energy (kWh): 8.557775179548338e-06
+RAM Energy (kWh): 1.078334500338798e-05
+Total Energy (kWh): 1.934112018293632e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth16.max.bbk...
+building...0.0209013 seconds
+init... 0.0013586 seconds
+solving... 0.0746511 seconds
+total: 0.096911 seconds, maxflow: 1014398
+Maximum memory usage: 104.684 MB
+Average memory usage: 96.9512 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.574119876120256e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.187972410945887e-05
+CPU Energy (kWh): 8.521289594803916e-06
+RAM Energy (kWh): 1.0769307880856616e-05
+Total Energy (kWh): 1.9290597475660533e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth4.max.bbk...
+building... 0.0438455 seconds
+solving... 0.0877021 seconds
+total: 0.131548 seconds, maxflow: 1047998
+Maximum memory usage: 179.344 MB
+Average memory usage: 139.032 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.703446860987485e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.167053748582949e-05
+CPU Energy (kWh): 1.245866052247517e-05
+RAM Energy (kWh): 1.6014396107006234e-05
+Total Energy (kWh): 2.8473056629481405e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth4.max.bbk...
+building... 0.0295373 seconds
+solving... 0.0902671 seconds
+total: 0.119804 seconds, maxflow: 1047998
+Maximum memory usage: 100.566 MB
+Average memory usage: 94.9062 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.578395752922736e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1863803637557864e-05
+CPU Energy (kWh): 8.521272928123727e-06
+RAM Energy (kWh): 1.0781871355293048e-05
+Total Energy (kWh): 1.9303144283416772e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth4.max.bbk...
+building... 0.0304979 seconds
+init... 0.0311429 seconds
+solving... 0.0797765 seconds
+total: 0.141417 seconds, maxflow: 1047998
+Maximum memory usage: 150.473 MB
+Average memory usage: 122.689 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.726301287414505e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.175145595315144e-05
+CPU Energy (kWh): 1.2526646965752355e-05
+RAM Energy (kWh): 1.601347195481111e-05
+Total Energy (kWh): 2.8540118920563465e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth4.max.bbk...
+building...0.0598383 seconds
+init... 0.021297 seconds
+solving... 0.0431671 seconds
+total: 0.124302 seconds, maxflow: 1047998
+Maximum memory usage: 180.164 MB
+Average memory usage: 134.682 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.575668756740148e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.190745080215347e-05
+CPU Energy (kWh): 8.534514049828024e-06
+RAM Energy (kWh): 1.0760628343348344e-05
+Total Energy (kWh): 1.929514239317637e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth4.max.bbk...
+building...0.0213404 seconds
+init... 0.0269274 seconds
+solving... 0.042037 seconds
+total: 0.0903047 seconds, maxflow: 1047998
+Maximum memory usage: 154.582 MB
+Average memory usage: 121.924 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.5618268234676825e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.178431945769966e-05
+CPU Energy (kWh): 8.47300400062291e-06
+RAM Energy (kWh): 1.0781521676084084e-05
+Total Energy (kWh): 1.9254525676706997e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth4.max.bbk...
+building...0.021179 seconds
+init... 0.00140164 seconds
+solving... 0.0649382 seconds
+total: 0.0875188 seconds, maxflow: 1047998
+Maximum memory usage: 105.629 MB
+Average memory usage: 97.4609 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.58517235069366e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.193132706026421e-05
+CPU Energy (kWh): 8.553858509749088e-06
+RAM Energy (kWh): 1.0769170506881664e-05
+Total Energy (kWh): 1.932302901663075e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth5.max.bbk...
+building... 0.0379651 seconds
+solving... 0.114327 seconds
+total: 0.152292 seconds, maxflow: 945103
+Maximum memory usage: 155.082 MB
+Average memory usage: 133.17 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.777978879442576e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.193795536512984e-05
+CPU Energy (kWh): 1.268833903955019e-05
+RAM Energy (kWh): 1.600341867755333e-05
+Total Energy (kWh): 2.869175771710352e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth5.max.bbk...
+building... 0.0256115 seconds
+solving... 0.10796 seconds
+total: 0.133572 seconds, maxflow: 945103
+Maximum memory usage: 89.2188 MB
+Average memory usage: 89.2188 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.587591684422661e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.188518501051367e-05
+CPU Energy (kWh): 8.542736834184217e-06
+RAM Energy (kWh): 1.0787391291377446e-05
+Total Energy (kWh): 1.9330128125561663e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth5.max.bbk...
+building... 0.0262061 seconds
+init... 0.0271635 seconds
+solving... 0.0944325 seconds
+total: 0.147802 seconds, maxflow: 945103
+Maximum memory usage: 129.879 MB
+Average memory usage: 116.363 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.773933774006857e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.188699813402782e-05
+CPU Energy (kWh): 1.2657499292658553e-05
+RAM Energy (kWh): 1.602238877463975e-05
+Total Energy (kWh): 2.8679888067298303e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth5.max.bbk...
+building...0.0522932 seconds
+init... 0.0179962 seconds
+solving... 0.0552571 seconds
+total: 0.125546 seconds, maxflow: 945103
+Maximum memory usage: 174.574 MB
+Average memory usage: 131.951 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.606326520104923e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2052097055955264e-05
+CPU Energy (kWh): 8.622675509245559e-06
+RAM Energy (kWh): 1.0762426693565886e-05
+Total Energy (kWh): 1.9385102202811445e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth5.max.bbk...
+building...0.0192895 seconds
+init... 0.0237498 seconds
+solving... 0.0546121 seconds
+total: 0.0976514 seconds, maxflow: 945103
+Maximum memory usage: 143.258 MB
+Average memory usage: 116.299 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.602004000137829e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.204706554676211e-05
+CPU Energy (kWh): 8.614774947370701e-06
+RAM Energy (kWh): 1.0757643581528951e-05
+Total Energy (kWh): 1.937241852889965e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth5.max.bbk...
+building...0.0180983 seconds
+init... 0.00139064 seconds
+solving... 0.0755579 seconds
+total: 0.0950468 seconds, maxflow: 945103
+Maximum memory usage: 93.0664 MB
+Average memory usage: 91.1562 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.56975530795147e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.186172710945979e-05
+CPU Energy (kWh): 8.51230403205866e-06
+RAM Energy (kWh): 1.076548638664434e-05
+Total Energy (kWh): 1.9277790418703e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth2.max.bbk...
+building... 0.0400668 seconds
+solving... 0.101274 seconds
+total: 0.141341 seconds, maxflow: 892714
+Maximum memory usage: 163.551 MB
+Average memory usage: 137.751 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.718371619495904e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1728014344800486e-05
+CPU Energy (kWh): 1.250625111610601e-05
+RAM Energy (kWh): 1.6010599589880317e-05
+Total Energy (kWh): 2.8516850705986327e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth2.max.bbk...
+building... 0.0270899 seconds
+solving... 0.0969225 seconds
+total: 0.124012 seconds, maxflow: 892714
+Maximum memory usage: 92.043 MB
+Average memory usage: 90.7402 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.561115323547387e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.179890416529384e-05
+CPU Energy (kWh): 8.479395950175897e-06
+RAM Energy (kWh): 1.077304195526665e-05
+Total Energy (kWh): 1.9252437905442547e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth2.max.bbk...
+building... 0.0278718 seconds
+init... 0.0291191 seconds
+solving... 0.0842512 seconds
+total: 0.141242 seconds, maxflow: 892714
+Maximum memory usage: 132.973 MB
+Average memory usage: 111.115 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.595668580938056e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.195433184178539e-05
+CPU Energy (kWh): 8.57544130479157e-06
+RAM Energy (kWh): 1.0778387051746564e-05
+Total Energy (kWh): 1.9353828356538134e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth2.max.bbk...
+building...0.0549145 seconds
+init... 0.019264 seconds
+solving... 0.0467314 seconds
+total: 0.12091 seconds, maxflow: 892714
+Maximum memory usage: 183.93 MB
+Average memory usage: 136.59 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.610828482707492e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.208459095397411e-05
+CPU Energy (kWh): 8.638833022172124e-06
+RAM Energy (kWh): 1.0759479397376027e-05
+Total Energy (kWh): 1.939831241954815e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth2.max.bbk...
+building...0.0207025 seconds
+init... 0.0253425 seconds
+solving... 0.0472245 seconds
+total: 0.0932695 seconds, maxflow: 892714
+Maximum memory usage: 151.293 MB
+Average memory usage: 120.324 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.60335246506315e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.205390795955395e-05
+CPU Energy (kWh): 8.618606894880004e-06
+RAM Energy (kWh): 1.0757768466960729e-05
+Total Energy (kWh): 1.937637536184073e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-sawtooth/KZ2-sawtooth2.max.bbk...
+building...0.0198166 seconds
+init... 0.00151392 seconds
+solving... 0.0685186 seconds
+total: 0.0898491 seconds, maxflow: 892714
+Maximum memory usage: 98.207 MB
+Average memory usage: 93.7266 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.598887255878742e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.198400116122643e-05
+CPU Energy (kWh): 8.590530761309195e-06
+RAM Energy (kWh): 1.0772742230230392e-05
+Total Energy (kWh): 1.936327299153959e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba5.max.bbk...
+building... 0.0280893 seconds
+solving... 0.0879172 seconds
+total: 0.116006 seconds, maxflow: 1081075
+Maximum memory usage: 114.844 MB
+Average memory usage: 102.037 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.583503286657807e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1935639042345345e-05
+CPU Energy (kWh): 8.555842122446797e-06
+RAM Energy (kWh): 1.0762289319590935e-05
+Total Energy (kWh): 1.931813144203773e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba5.max.bbk...
+building... 0.0191262 seconds
+solving... 0.0940641 seconds
+total: 0.11319 seconds, maxflow: 1081075
+Maximum memory usage: 89.3242 MB
+Average memory usage: 89.3242 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.572351452993229e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.187365440275755e-05
+CPU Energy (kWh): 8.517661536346088e-06
+RAM Energy (kWh): 1.0767746812959444e-05
+Total Energy (kWh): 1.928540834930553e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba5.max.bbk...
+building... 0.0192115 seconds
+init... 0.019624 seconds
+solving... 0.0830451 seconds
+total: 0.121881 seconds, maxflow: 1081075
+Maximum memory usage: 96.4297 MB
+Average memory usage: 92.8301 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.552455340647661e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.176882675631388e-05
+CPU Energy (kWh): 8.45603287593158e-06
+RAM Energy (kWh): 1.077099383418556e-05
+Total Energy (kWh): 1.922702671011714e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba5.max.bbk...
+building...0.0379658 seconds
+init... 0.0128101 seconds
+solving... 0.0565754 seconds
+total: 0.107351 seconds, maxflow: 1081075
+Maximum memory usage: 129.258 MB
+Average memory usage: 109.225 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.55446750369401e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.182132516209489e-05
+CPU Energy (kWh): 8.477547893143839e-06
+RAM Energy (kWh): 1.075538315521385e-05
+Total Energy (kWh): 1.923293104835769e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba5.max.bbk...
+building...0.0136186 seconds
+init... 0.017053 seconds
+solving... 0.0565781 seconds
+total: 0.0872497 seconds, maxflow: 1081075
+Maximum memory usage: 106.43 MB
+Average memory usage: 97.8926 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.529871119607932e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.170029752765535e-05
+CPU Energy (kWh): 8.403763111893697e-06
+RAM Energy (kWh): 1.075699417728373e-05
+Total Energy (kWh): 1.9160757289177428e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba5.max.bbk...
+building...0.0130439 seconds
+init... 0.000805959 seconds
+solving... 0.0963745 seconds
+total: 0.110224 seconds, maxflow: 1081075
+Maximum memory usage: 89.2344 MB
+Average memory usage: 89.2344 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.54618710940598e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1753521847025776e-05
+CPU Energy (kWh): 8.444046477455378e-06
+RAM Energy (kWh): 1.076458721153557e-05
+Total Energy (kWh): 1.9208633688990943e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba11.max.bbk...
+building... 0.0290315 seconds
+solving... 0.0657875 seconds
+total: 0.094819 seconds, maxflow: 912360
+Maximum memory usage: 121.855 MB
+Average memory usage: 105.627 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.555611072962165e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1835205013018913e-05
+CPU Energy (kWh): 8.48246456374574e-06
+RAM Energy (kWh): 1.0753822087316678e-05
+Total Energy (kWh): 1.9236286651062414e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba11.max.bbk...
+building... 0.0198403 seconds
+solving... 0.0670454 seconds
+total: 0.0868857 seconds, maxflow: 912360
+Maximum memory usage: 89.3594 MB
+Average memory usage: 89.3594 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.556885364092965e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.181722742020589e-05
+CPU Energy (kWh): 8.47926011673765e-06
+RAM Energy (kWh): 1.0760765717323297e-05
+Total Energy (kWh): 1.9240025834060943e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba11.max.bbk...
+building... 0.0203235 seconds
+init... 0.0215892 seconds
+solving... 0.0612993 seconds
+total: 0.103212 seconds, maxflow: 912360
+Maximum memory usage: 102.426 MB
+Average memory usage: 95.834 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.568526481340116e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.182551884065611e-05
+CPU Energy (kWh): 8.497570964717885e-06
+RAM Energy (kWh): 1.0776613678615376e-05
+Total Energy (kWh): 1.9274184643333265e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba11.max.bbk...
+building...0.0398031 seconds
+init... 0.0139386 seconds
+solving... 0.0334493 seconds
+total: 0.087191 seconds, maxflow: 912360
+Maximum memory usage: 136.801 MB
+Average memory usage: 113.078 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.560476380940883e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1824454079610046e-05
+CPU Energy (kWh): 8.48583845533199e-06
+RAM Energy (kWh): 1.076472458551052e-05
+Total Energy (kWh): 1.9250563040842516e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba11.max.bbk...
+building...0.0143122 seconds
+init... 0.018276 seconds
+solving... 0.0339738 seconds
+total: 0.066562 seconds, maxflow: 912360
+Maximum memory usage: 112.719 MB
+Average memory usage: 101.018 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.566628593798899e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.15957983571238e-05
+CPU Energy (kWh): 8.417445345061322e-06
+RAM Energy (kWh): 1.085117028138427e-05
+Total Energy (kWh): 1.9268615626445596e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba11.max.bbk...
+building...0.0142531 seconds
+init... 0.000894262 seconds
+solving... 0.0494361 seconds
+total: 0.0645835 seconds, maxflow: 912360
+Maximum memory usage: 89.4961 MB
+Average memory usage: 89.4961 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.5438365233377006e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1758317072646875e-05
+CPU Energy (kWh): 8.441520086544668e-06
+RAM Energy (kWh): 1.0760216221423492e-05
+Total Energy (kWh): 1.920173630796816e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba6.max.bbk...
+building... 0.0257482 seconds
+solving... 0.101872 seconds
+total: 0.12762 seconds, maxflow: 936647
+Maximum memory usage: 106.559 MB
+Average memory usage: 97.9375 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.5253997699517336e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.170240483514644e-05
+CPU Energy (kWh): 8.399609497460395e-06
+RAM Energy (kWh): 1.074802740328238e-05
+Total Energy (kWh): 1.9147636900742776e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba6.max.bbk...
+building... 0.0174691 seconds
+solving... 0.0970157 seconds
+total: 0.114485 seconds, maxflow: 936647
+Maximum memory usage: 89.2266 MB
+Average memory usage: 89.2266 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.544289002620725e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.173543287138305e-05
+CPU Energy (kWh): 8.436128971117327e-06
+RAM Energy (kWh): 1.0766935057652916e-05
+Total Energy (kWh): 1.920306402877024e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba6.max.bbk...
+building... 0.0177615 seconds
+init... 0.0183887 seconds
+solving... 0.0895979 seconds
+total: 0.125748 seconds, maxflow: 936647
+Maximum memory usage: 89.7148 MB
+Average memory usage: 89.5137 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.546043087059203e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.178414121323034e-05
+CPU Energy (kWh): 8.453489818342416e-06
+RAM Energy (kWh): 1.0754721262425449e-05
+Total Energy (kWh): 1.9208211080767865e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba6.max.bbk...
+building...0.0353365 seconds
+init... 0.0119242 seconds
+solving... 0.0436535 seconds
+total: 0.0909142 seconds, maxflow: 936647
+Maximum memory usage: 120.02 MB
+Average memory usage: 104.668 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.544749204166088e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.175378146067386e-05
+CPU Energy (kWh): 8.441825364564545e-06
+RAM Energy (kWh): 1.0762589044627192e-05
+Total Energy (kWh): 1.9204414409191737e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba6.max.bbk...
+building...0.0128483 seconds
+init... 0.0157926 seconds
+solving... 0.0423367 seconds
+total: 0.0709776 seconds, maxflow: 936647
+Maximum memory usage: 98.7383 MB
+Average memory usage: 93.9688 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.502266370252772e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.154810138178599e-05
+CPU Energy (kWh): 8.318415821394892e-06
+RAM Energy (kWh): 1.0761340190309454e-05
+Total Energy (kWh): 1.9079756011704348e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba6.max.bbk...
+building...0.0124609 seconds
+init... 0.000824729 seconds
+solving... 0.0737379 seconds
+total: 0.0870235 seconds, maxflow: 936647
+Maximum memory usage: 89.3672 MB
+Average memory usage: 89.3672 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.525149019393457e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.167301084446606e-05
+CPU Energy (kWh): 8.388945322262975e-06
+RAM Energy (kWh): 1.0757955795108387e-05
+Total Energy (kWh): 1.9146901117371364e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba2.max.bbk...
+building... 0.0297886 seconds
+solving... 0.0573049 seconds
+total: 0.0870935 seconds, maxflow: 903860
+Maximum memory usage: 122.719 MB
+Average memory usage: 105.959 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.535638229828457e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.167755066963239e-05
+CPU Energy (kWh): 8.404712834876246e-06
+RAM Energy (kWh): 1.0772967024007583e-05
+Total Energy (kWh): 1.9177679858883836e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba2.max.bbk...
+building... 0.020081 seconds
+solving... 0.0631613 seconds
+total: 0.0832424 seconds, maxflow: 903860
+Maximum memory usage: 89.2383 MB
+Average memory usage: 89.2383 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.540763829121103e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.174219274389599e-05
+CPU Energy (kWh): 8.43384008039974e-06
+RAM Energy (kWh): 1.0758879947303512e-05
+Total Energy (kWh): 1.919272002770325e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba2.max.bbk...
+building... 0.0206982 seconds
+init... 0.0209613 seconds
+solving... 0.057897 seconds
+total: 0.0995565 seconds, maxflow: 903860
+Maximum memory usage: 103.34 MB
+Average memory usage: 96.3262 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.566462289743643e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1869266784370605e-05
+CPU Energy (kWh): 8.508997918304367e-06
+RAM Energy (kWh): 1.075912971816706e-05
+Total Energy (kWh): 1.9268127636471426e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba2.max.bbk...
+building...0.0408092 seconds
+init... 0.0143821 seconds
+solving... 0.0342845 seconds
+total: 0.0894758 seconds, maxflow: 903860
+Maximum memory usage: 138.277 MB
+Average memory usage: 113.764 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.617093346760261e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2103294980121974e-05
+CPU Energy (kWh): 8.653057477997148e-06
+RAM Energy (kWh): 1.0763638082254093e-05
+Total Energy (kWh): 1.941669556025124e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba2.max.bbk...
+building...0.0149586 seconds
+init... 0.0187186 seconds
+solving... 0.0343233 seconds
+total: 0.0680005 seconds, maxflow: 903860
+Maximum memory usage: 113.797 MB
+Average memory usage: 101.52 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.588328685852099e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1898543863251884e-05
+CPU Energy (kWh): 8.546822670787296e-06
+RAM Energy (kWh): 1.0785468055728132e-05
+Total Energy (kWh): 1.933229072651543e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba2.max.bbk...
+building...0.014847 seconds
+init... 0.000854884 seconds
+solving... 0.0489381 seconds
+total: 0.06464 seconds, maxflow: 903860
+Maximum memory usage: 89.2148 MB
+Average memory usage: 89.2148 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.58178837481979e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.190761444089496e-05
+CPU Energy (kWh): 8.540956554982382e-06
+RAM Energy (kWh): 1.077214278015788e-05
+Total Energy (kWh): 1.931309933514026e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba7.max.bbk...
+building... 0.029863 seconds
+solving... 0.0576921 seconds
+total: 0.0875551 seconds, maxflow: 1055207
+Maximum memory usage: 123.277 MB
+Average memory usage: 106.305 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.5843531674568956e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1953730909037095e-05
+CPU Energy (kWh): 8.561895182845197e-06
+RAM Energy (kWh): 1.0758730084785384e-05
+Total Energy (kWh): 1.932062526763058e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba7.max.bbk...
+building... 0.020136 seconds
+solving... 0.0610499 seconds
+total: 0.0811859 seconds, maxflow: 1055207
+Maximum memory usage: 89.1992 MB
+Average memory usage: 89.1992 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.544332848582091e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.174416028382275e-05
+CPU Energy (kWh): 8.437518972233271e-06
+RAM Energy (kWh): 1.0765673714792002e-05
+Total Energy (kWh): 1.9203192687025277e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba7.max.bbk...
+building... 0.0206241 seconds
+init... 0.0218472 seconds
+solving... 0.0562627 seconds
+total: 0.098734 seconds, maxflow: 1055207
+Maximum memory usage: 103.52 MB
+Average memory usage: 96.3711 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.550833251384367e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1772568083580455e-05
+CPU Energy (kWh): 8.45640593178515e-06
+RAM Energy (kWh): 1.0765861042939662e-05
+Total Energy (kWh): 1.922226697472481e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba7.max.bbk...
+building...0.0410572 seconds
+init... 0.0141235 seconds
+solving... 0.029961 seconds
+total: 0.0851418 seconds, maxflow: 1055207
+Maximum memory usage: 138.492 MB
+Average memory usage: 113.844 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.560685551520357e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.184159876357792e-05
+CPU Energy (kWh): 8.491772348968862e-06
+RAM Energy (kWh): 1.0759404466116962e-05
+Total Energy (kWh): 1.9251176815085823e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba7.max.bbk...
+building...0.0145904 seconds
+init... 0.0184024 seconds
+solving... 0.0280028 seconds
+total: 0.0609957 seconds, maxflow: 1055207
+Maximum memory usage: 113.977 MB
+Average memory usage: 101.641 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.555530669137077e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.176453358958744e-05
+CPU Energy (kWh): 8.458525377924575e-06
+RAM Energy (kWh): 1.0777525342267325e-05
+Total Energy (kWh): 1.9236050720191895e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba7.max.bbk...
+building...0.0143503 seconds
+init... 0.000853758 seconds
+solving... 0.0431447 seconds
+total: 0.0583488 seconds, maxflow: 1055207
+Maximum memory usage: 89.3789 MB
+Average memory usage: 89.3789 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.560477227184721e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.179191757571986e-05
+CPU Energy (kWh): 8.474326501676024e-06
+RAM Energy (kWh): 1.0776239022320055e-05
+Total Energy (kWh): 1.925056552399608e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba4.max.bbk...
+building... 0.029524 seconds
+solving... 0.0830909 seconds
+total: 0.112615 seconds, maxflow: 1115190
+Maximum memory usage: 122.926 MB
+Average memory usage: 106.117 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.5560345918310505e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.180228196524087e-05
+CPU Energy (kWh): 8.471868166378543e-06
+RAM Energy (kWh): 1.0765661226248823e-05
+Total Energy (kWh): 1.9237529392627367e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba4.max.bbk...
+building... 0.0201245 seconds
+solving... 0.095852 seconds
+total: 0.115976 seconds, maxflow: 1115190
+Maximum memory usage: 89.3164 MB
+Average memory usage: 89.3164 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.5963241145757155e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.19921330553458e-05
+CPU Energy (kWh): 8.587580481170948e-06
+RAM Energy (kWh): 1.0768171423427476e-05
+Total Energy (kWh): 1.9355751904598426e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba4.max.bbk...
+building... 0.020998 seconds
+init... 0.0215709 seconds
+solving... 0.0878659 seconds
+total: 0.130435 seconds, maxflow: 1115190
+Maximum memory usage: 103.422 MB
+Average memory usage: 96.3789 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.596393493708705e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1984628777940336e-05
+CPU Energy (kWh): 8.585935757633029e-06
+RAM Energy (kWh): 1.0770019727817726e-05
+Total Energy (kWh): 1.935595548545076e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba4.max.bbk...
+building...0.0407123 seconds
+init... 0.0136458 seconds
+solving... 0.0660524 seconds
+total: 0.12041 seconds, maxflow: 1115190
+Maximum memory usage: 137.91 MB
+Average memory usage: 113.551 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.587780023578988e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.198253604571754e-05
+CPU Energy (kWh): 8.574610748572284e-06
+RAM Energy (kWh): 1.0756070025088604e-05
+Total Energy (kWh): 1.9330680773660886e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba4.max.bbk...
+building...0.0148068 seconds
+init... 0.0184085 seconds
+solving... 0.0677024 seconds
+total: 0.100918 seconds, maxflow: 1115190
+Maximum memory usage: 113.816 MB
+Average memory usage: 101.559 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.554914176427757e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.183358989720184e-05
+CPU Energy (kWh): 8.481718452036865e-06
+RAM Energy (kWh): 1.0752523278826231e-05
+Total Energy (kWh): 1.9234241730863092e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba4.max.bbk...
+building...0.0151771 seconds
+init... 0.000853637 seconds
+solving... 0.090705 seconds
+total: 0.106736 seconds, maxflow: 1115190
+Maximum memory usage: 89.3047 MB
+Average memory usage: 89.3047 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.580520474102285e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1821508193378884e-05
+CPU Energy (kWh): 8.511659587099457e-06
+RAM Energy (kWh): 1.079771931658513e-05
+Total Energy (kWh): 1.9309378903684583e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba3.max.bbk...
+building... 0.0305031 seconds
+solving... 0.0447655 seconds
+total: 0.0752685 seconds, maxflow: 962996
+Maximum memory usage: 123.41 MB
+Average memory usage: 106.32 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.584059968504018e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.190734179187824e-05
+CPU Energy (kWh): 8.544025446324821e-06
+RAM Energy (kWh): 1.077573948059296e-05
+Total Energy (kWh): 1.9319764926917782e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba3.max.bbk...
+building... 0.0201923 seconds
+solving... 0.05188 seconds
+total: 0.0720723 seconds, maxflow: 962996
+Maximum memory usage: 89.3594 MB
+Average memory usage: 89.3594 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.547499889585436e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.175581321413072e-05
+CPU Energy (kWh): 8.445063700490349e-06
+RAM Energy (kWh): 1.0767422110836834e-05
+Total Energy (kWh): 1.9212485811327183e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba3.max.bbk...
+building... 0.020718 seconds
+init... 0.0215032 seconds
+solving... 0.0472648 seconds
+total: 0.0894859 seconds, maxflow: 962996
+Maximum memory usage: 104.137 MB
+Average memory usage: 96.7051 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.553025468762207e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.178062817553995e-05
+CPU Energy (kWh): 8.461814547224347e-06
+RAM Energy (kWh): 1.0766885103480208e-05
+Total Energy (kWh): 1.9228699650704552e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba3.max.bbk...
+building...0.0404364 seconds
+init... 0.0139899 seconds
+solving... 0.0238526 seconds
+total: 0.0782789 seconds, maxflow: 962996
+Maximum memory usage: 139.066 MB
+Average memory usage: 114.18 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.5451175855333605e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.175520144069418e-05
+CPU Energy (kWh): 8.441520086544668e-06
+RAM Energy (kWh): 1.076397527291988e-05
+Total Energy (kWh): 1.9205495359464548e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba3.max.bbk...
+building...0.0146541 seconds
+init... 0.0184728 seconds
+solving... 0.0230146 seconds
+total: 0.0561415 seconds, maxflow: 962996
+Maximum memory usage: 89.1055 MB
+Average memory usage: 89.1055 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.4605115330259806e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.199683737088231e-05
+CPU Energy (kWh): 4.522578340281774e-06
+RAM Energy (kWh): 5.631683568748258e-06
+Total Energy (kWh): 1.0154261909030032e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba3.max.bbk...
+building...0.014563 seconds
+init... 0.000877148 seconds
+solving... 0.0353359 seconds
+total: 0.050776 seconds, maxflow: 962996
+Maximum memory usage: 89.2227 MB
+Average memory usage: 89.2227 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.3862708310588284e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.193828081167289e-05
+CPU Energy (kWh): 4.4148685318917e-06
+RAM Energy (kWh): 5.52154710646704e-06
+Total Energy (kWh): 9.93641563835874e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba12.max.bbk...
+building... 0.0295573 seconds
+solving... 0.0546117 seconds
+total: 0.084169 seconds, maxflow: 887493
+Maximum memory usage: 122.324 MB
+Average memory usage: 105.844 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.531735430881727e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.163856211593951e-05
+CPU Energy (kWh): 8.384656152162287e-06
+RAM Energy (kWh): 1.0781571630256792e-05
+Total Energy (kWh): 1.916622778241908e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba12.max.bbk...
+building... 0.0199514 seconds
+solving... 0.0599446 seconds
+total: 0.079896 seconds, maxflow: 887493
+Maximum memory usage: 89.3359 MB
+Average memory usage: 89.3359 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.540504412123771e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.169860903251152e-05
+CPU Energy (kWh): 8.41663145552396e-06
+RAM Energy (kWh): 1.0775327358668108e-05
+Total Energy (kWh): 1.9191958814192067e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba12.max.bbk...
+building... 0.0204659 seconds
+init... 0.0217426 seconds
+solving... 0.0550481 seconds
+total: 0.0972566 seconds, maxflow: 887493
+Maximum memory usage: 103 MB
+Average memory usage: 96.1426 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.5775779252228414e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1905641356600966e-05
+CPU Energy (kWh): 8.53515821701116e-06
+RAM Energy (kWh): 1.076558629498976e-05
+Total Energy (kWh): 1.930074451200092e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba12.max.bbk...
+building...0.0401372 seconds
+init... 0.014427 seconds
+solving... 0.0147041 seconds
+total: 0.0692683 seconds, maxflow: 887493
+Maximum memory usage: 137.188 MB
+Average memory usage: 113.203 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.583982473056751e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.194631353368804e-05
+CPU Energy (kWh): 8.556011844804493e-06
+RAM Energy (kWh): 1.0763525685365494e-05
+Total Energy (kWh): 1.931953753016999e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba12.max.bbk...
+building...0.0145709 seconds
+init... 0.0181749 seconds
+solving... 0.0152236 seconds
+total: 0.0479693 seconds, maxflow: 887493
+Maximum memory usage: 89.2188 MB
+Average memory usage: 89.2188 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.3917727298515175e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1945706540227386e-05
+CPU Energy (kWh): 4.424244094948515e-06
+RAM Energy (kWh): 5.528315896869175e-06
+Total Energy (kWh): 9.95255999181769e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba12.max.bbk...
+building...0.0146756 seconds
+init... 0.000895797 seconds
+solving... 0.0388455 seconds
+total: 0.0544169 seconds, maxflow: 887493
+Maximum memory usage: 89.3008 MB
+Average memory usage: 89.3008 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.3920606136044027e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.197218235848231e-05
+CPU Energy (kWh): 4.429347432366101e-06
+RAM Energy (kWh): 5.524057303645691e-06
+Total Energy (kWh): 9.953404736011791e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba1.max.bbk...
+building... 0.0245412 seconds
+solving... 0.138851 seconds
+total: 0.163393 seconds, maxflow: 794286
+Maximum memory usage: 102.488 MB
+Average memory usage: 98.1113 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.701399279083723e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1708317366572647e-05
+CPU Energy (kWh): 1.2474207479356778e-05
+RAM Energy (kWh): 1.59928408814821e-05
+Total Energy (kWh): 2.846704836083888e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba1.max.bbk...
+building... 0.0166036 seconds
+solving... 0.121043 seconds
+total: 0.137647 seconds, maxflow: 794286
+Maximum memory usage: 89.207 MB
+Average memory usage: 89.207 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.578656375525072e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1895822593256124e-05
+CPU Energy (kWh): 8.533564604623275e-06
+RAM Energy (kWh): 1.077034442994034e-05
+Total Energy (kWh): 1.930390903456361e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba1.max.bbk...
+building... 0.0171468 seconds
+init... 0.0180781 seconds
+solving... 0.107583 seconds
+total: 0.142808 seconds, maxflow: 794286
+Maximum memory usage: 89.3047 MB
+Average memory usage: 89.3047 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.560037876838167e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.180246504993635e-05
+CPU Energy (kWh): 8.479056783238306e-06
+RAM Energy (kWh): 1.0770219544508563e-05
+Total Energy (kWh): 1.924927632774687e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba1.max.bbk...
+building...0.0335667 seconds
+init... 0.0112634 seconds
+solving... 0.0774559 seconds
+total: 0.122286 seconds, maxflow: 794286
+Maximum memory usage: 115.523 MB
+Average memory usage: 102.385 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.553048169798456e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1774455734768924e-05
+CPU Energy (kWh): 8.458796489254142e-06
+RAM Energy (kWh): 1.0769969773645015e-05
+Total Energy (kWh): 1.922876626289916e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba1.max.bbk...
+building...0.0122153 seconds
+init... 0.0152301 seconds
+solving... 0.0754723 seconds
+total: 0.102918 seconds, maxflow: 794286
+Maximum memory usage: 95.1836 MB
+Average memory usage: 92.2129 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.558053699882676e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.179806489629646e-05
+CPU Energy (kWh): 8.473546778834176e-06
+RAM Energy (kWh): 1.0769907330929133e-05
+Total Energy (kWh): 1.9243454109763307e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba1.max.bbk...
+building...0.0118955 seconds
+init... 0.000844303 seconds
+solving... 0.109216 seconds
+total: 0.121956 seconds, maxflow: 794286
+Maximum memory usage: 89.2227 MB
+Average memory usage: 89.2227 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.583478553314063e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.190625681594947e-05
+CPU Energy (kWh): 8.545703781002653e-06
+RAM Energy (kWh): 1.0772355085391894e-05
+Total Energy (kWh): 1.9318058866394547e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba9.max.bbk...
+building... 0.0215504 seconds
+solving... 0.0745708 seconds
+total: 0.0961212 seconds, maxflow: 770809
+Maximum memory usage: 91.0039 MB
+Average memory usage: 90.1543 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.518840847384736e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.165085232444171e-05
+CPU Energy (kWh): 8.374144199310707e-06
+RAM Energy (kWh): 1.0754246697784707e-05
+Total Energy (kWh): 1.9128390897095417e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba9.max.bbk...
+building... 0.0146598 seconds
+solving... 0.0727277 seconds
+total: 0.0873875 seconds, maxflow: 770809
+Maximum memory usage: 89.2148 MB
+Average memory usage: 89.2148 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.561077021756663e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.173721833695316e-05
+CPU Energy (kWh): 8.457016487828373e-06
+RAM Energy (kWh): 1.07953090277519e-05
+Total Energy (kWh): 1.925232551558027e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba9.max.bbk...
+building... 0.0150568 seconds
+init... 0.0159579 seconds
+solving... 0.067028 seconds
+total: 0.0980427 seconds, maxflow: 770809
+Maximum memory usage: 89.3203 MB
+Average memory usage: 89.3203 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.640407841947595e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2176917340520946e-05
+CPU Energy (kWh): 8.708768911454973e-06
+RAM Energy (kWh): 1.0776338930665477e-05
+Total Energy (kWh): 1.9485107842120448e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba9.max.bbk...
+building...0.0297039 seconds
+init... 0.00990846 seconds
+solving... 0.0383854 seconds
+total: 0.0779978 seconds, maxflow: 770809
+Maximum memory usage: 102.199 MB
+Average memory usage: 95.707 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.585398292462089e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.19662371115252e-05
+CPU Energy (kWh): 8.565336574485605e-06
+RAM Energy (kWh): 1.0758355428490063e-05
+Total Energy (kWh): 1.9323692002975668e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba9.max.bbk...
+building...0.0106696 seconds
+init... 0.0134037 seconds
+solving... 0.0370298 seconds
+total: 0.0611031 seconds, maxflow: 770809
+Maximum memory usage: 89.293 MB
+Average memory usage: 89.293 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.3762001635557834e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.184773750239559e-05
+CPU Energy (kWh): 4.386504342535069e-06
+RAM Energy (kWh): 5.5203606948651896e-06
+Total Energy (kWh): 9.906865037400258e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba9.max.bbk...
+building...0.0102931 seconds
+init... 0.000742256 seconds
+solving... 0.0546848 seconds
+total: 0.0657202 seconds, maxflow: 770809
+Maximum memory usage: 89.2539 MB
+Average memory usage: 89.2539 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.3770240509379173e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1782101216477536e-05
+CPU Energy (kWh): 4.378993503195705e-06
+RAM Energy (kWh): 5.530289086691198e-06
+Total Energy (kWh): 9.909282589886903e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba0.max.bbk...
+building... 0.0295783 seconds
+solving... 0.0648626 seconds
+total: 0.0944408 seconds, maxflow: 799999
+Maximum memory usage: 123.254 MB
+Average memory usage: 106.283 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.519612668096707e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.167146453307284e-05
+CPU Energy (kWh): 8.381604205281307e-06
+RAM Energy (kWh): 1.0749051463822924e-05
+Total Energy (kWh): 1.913065566910423e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba0.max.bbk...
+building... 0.0203744 seconds
+solving... 0.0698485 seconds
+total: 0.0902229 seconds, maxflow: 799999
+Maximum memory usage: 89.5 MB
+Average memory usage: 89.5 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.5896635524216815e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.194959581517204e-05
+CPU Energy (kWh): 8.566150464028172e-06
+RAM Energy (kWh): 1.077005719344726e-05
+Total Energy (kWh): 1.933620765747543e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba0.max.bbk...
+building... 0.020832 seconds
+init... 0.0213214 seconds
+solving... 0.0638187 seconds
+total: 0.105972 seconds, maxflow: 799999
+Maximum memory usage: 103.562 MB
+Average memory usage: 96.4062 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.619689817190219e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.204816457860108e-05
+CPU Energy (kWh): 8.638883855549562e-06
+RAM Energy (kWh): 1.07854305900986e-05
+Total Energy (kWh): 1.942431444564816e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba0.max.bbk...
+building...0.040792 seconds
+init... 0.0139416 seconds
+solving... 0.0334385 seconds
+total: 0.0881721 seconds, maxflow: 799999
+Maximum memory usage: 138.32 MB
+Average memory usage: 113.785 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.565024567615201e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1840146348793795e-05
+CPU Energy (kWh): 8.496774019636777e-06
+RAM Energy (kWh): 1.0767134874343756e-05
+Total Energy (kWh): 1.9263908893980533e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba0.max.bbk...
+building...0.0151682 seconds
+init... 0.0184978 seconds
+solving... 0.0338436 seconds
+total: 0.0675096 seconds, maxflow: 799999
+Maximum memory usage: 114.426 MB
+Average memory usage: 101.867 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.5489845542677894e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.174814564053963e-05
+CPU Energy (kWh): 8.44377536612581e-06
+RAM Energy (kWh): 1.0773066932353005e-05
+Total Energy (kWh): 1.9216842298478812e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba0.max.bbk...
+building...0.0140664 seconds
+init... 0.000843898 seconds
+solving... 0.0452165 seconds
+total: 0.0601269 seconds, maxflow: 799999
+Maximum memory usage: 89.25 MB
+Average memory usage: 89.25 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.529977679866222e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.166266462420766e-05
+CPU Energy (kWh): 8.390962823876663e-06
+RAM Energy (kWh): 1.0770107147619968e-05
+Total Energy (kWh): 1.916106997149663e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba10.max.bbk...
+building... 0.0249407 seconds
+solving... 0.149211 seconds
+total: 0.174152 seconds, maxflow: 938057
+Maximum memory usage: 104.25 MB
+Average memory usage: 99.2773 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.688084660825406e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.164253372593499e-05
+CPU Energy (kWh): 1.2424023272540607e-05
+RAM Energy (kWh): 1.6003955684909955e-05
+Total Energy (kWh): 2.842797895745056e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba10.max.bbk...
+building... 0.0169249 seconds
+solving... 0.14466 seconds
+total: 0.161585 seconds, maxflow: 938057
+Maximum memory usage: 89.2227 MB
+Average memory usage: 89.2227 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.575013355888127e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.192920411880246e-05
+CPU Energy (kWh): 8.540346276716959e-06
+RAM Energy (kWh): 1.07528729580352e-05
+Total Energy (kWh): 1.929321923475216e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba10.max.bbk...
+building... 0.0174672 seconds
+init... 0.0179461 seconds
+solving... 0.13328 seconds
+total: 0.168693 seconds, maxflow: 938057
+Maximum memory usage: 89.3398 MB
+Average memory usage: 89.3398 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.749813046436418e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.182754111751428e-05
+CPU Energy (kWh): 1.2595887854481567e-05
+RAM Energy (kWh): 1.6013222183947565e-05
+Total Energy (kWh): 2.8609110038429134e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba10.max.bbk...
+building...0.0344784 seconds
+init... 0.0117842 seconds
+solving... 0.0791551 seconds
+total: 0.125418 seconds, maxflow: 938057
+Maximum memory usage: 117.156 MB
+Average memory usage: 103.184 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.593230982352964e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.196279109911415e-05
+CPU Energy (kWh): 8.576543527896024e-06
+RAM Energy (kWh): 1.0770132124706324e-05
+Total Energy (kWh): 1.934667565260235e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba10.max.bbk...
+building...0.0125752 seconds
+init... 0.0155738 seconds
+solving... 0.0790202 seconds
+total: 0.107169 seconds, maxflow: 938057
+Maximum memory usage: 96.3477 MB
+Average memory usage: 92.7832 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.554544167094156e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.178854484827074e-05
+CPU Energy (kWh): 8.46683288457245e-06
+RAM Energy (kWh): 1.0766323119037225e-05
+Total Energy (kWh): 1.9233156003609675e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba10.max.bbk...
+building...0.0122156 seconds
+init... 0.000788195 seconds
+solving... 0.123968 seconds
+total: 0.136972 seconds, maxflow: 938057
+Maximum memory usage: 89.2578 MB
+Average memory usage: 89.2578 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.5586411250680855e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.178342380629913e-05
+CPU Energy (kWh): 8.469613164571732e-06
+RAM Energy (kWh): 1.0775564640988478e-05
+Total Energy (kWh): 1.924517780556021e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba14.max.bbk...
+building... 0.0288729 seconds
+solving... 0.0514263 seconds
+total: 0.0802992 seconds, maxflow: 813766
+Maximum memory usage: 120.211 MB
+Average memory usage: 104.764 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.511048262150492e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.159794714660364e-05
+CPU Energy (kWh): 8.34479667582988e-06
+RAM Energy (kWh): 1.0760728251693763e-05
+Total Energy (kWh): 1.9105524927523643e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba14.max.bbk...
+building... 0.0197252 seconds
+solving... 0.0564289 seconds
+total: 0.0761541 seconds, maxflow: 813766
+Maximum memory usage: 89.2422 MB
+Average memory usage: 89.2422 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.50529784536529e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1547044789898334e-05
+CPU Energy (kWh): 8.320704712114213e-06
+RAM Energy (kWh): 1.0767946629650284e-05
+Total Energy (kWh): 1.9088651341764497e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba14.max.bbk...
+building... 0.019977 seconds
+init... 0.020625 seconds
+solving... 0.0518188 seconds
+total: 0.0924209 seconds, maxflow: 813766
+Maximum memory usage: 101.527 MB
+Average memory usage: 95.4258 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.56664402411923e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.18258832751792e-05
+CPU Energy (kWh): 8.494332628790346e-06
+RAM Energy (kWh): 1.077432827521392e-05
+Total Energy (kWh): 1.9268660904004263e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba14.max.bbk...
+building...0.0395732 seconds
+init... 0.0139042 seconds
+solving... 0.0151769 seconds
+total: 0.0686543 seconds, maxflow: 813766
+Maximum memory usage: 135.363 MB
+Average memory usage: 112.314 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.524985625080485e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.165133890993216e-05
+CPU Energy (kWh): 8.38119753828609e-06
+RAM Energy (kWh): 1.0765224127237615e-05
+Total Energy (kWh): 1.9146421665523705e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba14.max.bbk...
+building...0.0145776 seconds
+init... 0.0180749 seconds
+solving... 0.0158959 seconds
+total: 0.0485484 seconds, maxflow: 813766
+Maximum memory usage: 89.3164 MB
+Average memory usage: 89.3164 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.3879468915381024e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.193104012135487e-05
+CPU Energy (kWh): 4.41590269938813e-06
+RAM Energy (kWh): 5.5254310433952016e-06
+Total Energy (kWh): 9.941333742783332e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba14.max.bbk...
+building...0.0139944 seconds
+init... 0.000815146 seconds
+solving... 0.0355742 seconds
+total: 0.0503837 seconds, maxflow: 813766
+Maximum memory usage: 89.1875 MB
+Average memory usage: 89.1875 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.3986856060946316e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.202613434548647e-05
+CPU Energy (kWh): 4.4477257804022285e-06
+RAM Energy (kWh): 5.525118829815768e-06
+Total Energy (kWh): 9.972844610217996e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba8.max.bbk...
+building... 0.0288027 seconds
+solving... 0.0690601 seconds
+total: 0.0978628 seconds, maxflow: 1008863
+Maximum memory usage: 120.211 MB
+Average memory usage: 104.719 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.538954734942687e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.172210848778838e-05
+CPU Energy (kWh): 8.423548683276355e-06
+RAM Energy (kWh): 1.0763862876031284e-05
+Total Energy (kWh): 1.918741155930764e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba8.max.bbk...
+building... 0.0195968 seconds
+solving... 0.0731412 seconds
+total: 0.092738 seconds, maxflow: 1008863
+Maximum memory usage: 89.2812 MB
+Average memory usage: 89.2812 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.560543665637787e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.182831434326988e-05
+CPU Energy (kWh): 8.486872622823216e-06
+RAM Energy (kWh): 1.076388785311764e-05
+Total Energy (kWh): 1.9250760475940853e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba8.max.bbk...
+building... 0.0204918 seconds
+init... 0.0207812 seconds
+solving... 0.0673827 seconds
+total: 0.108656 seconds, maxflow: 1008863
+Maximum memory usage: 101.223 MB
+Average memory usage: 95.2559 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.583940997792009e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.192358475578244e-05
+CPU Energy (kWh): 8.5491962837983e-06
+RAM Energy (kWh): 1.0770219544508563e-05
+Total Energy (kWh): 1.9319415828306863e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba8.max.bbk...
+building...0.0397167 seconds
+init... 0.0139917 seconds
+solving... 0.0348153 seconds
+total: 0.0885237 seconds, maxflow: 1008863
+Maximum memory usage: 135.062 MB
+Average memory usage: 112.154 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.557138312046478e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.179686114167533e-05
+CPU Energy (kWh): 8.470935665631785e-06
+RAM Energy (kWh): 1.0769832399670066e-05
+Total Energy (kWh): 1.924076806530185e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba8.max.bbk...
+building...0.0150482 seconds
+init... 0.0179644 seconds
+solving... 0.0331908 seconds
+total: 0.0662034 seconds, maxflow: 1008863
+Maximum memory usage: 111.387 MB
+Average memory usage: 100.33 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.519331423819421e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.158672337908319e-05
+CPU Energy (kWh): 8.350544180427133e-06
+RAM Energy (kWh): 1.0779286226855334e-05
+Total Energy (kWh): 1.9129830407282467e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba8.max.bbk...
+building...0.0144883 seconds
+init... 0.00090783 seconds
+solving... 0.0546781 seconds
+total: 0.0700742 seconds, maxflow: 1008863
+Maximum memory usage: 89.2734 MB
+Average memory usage: 89.2734 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.566747498152386e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.18314238808362e-05
+CPU Energy (kWh): 8.49828290973298e-06
+RAM Energy (kWh): 1.0770681620606127e-05
+Total Energy (kWh): 1.926896453033911e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba13.max.bbk...
+building... 0.010725 seconds
+solving... 0.00842992 seconds
+total: 0.0191549 seconds, maxflow: 130469
+Maximum memory usage: 89.2109 MB
+Average memory usage: 89.2109 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.3579117461979704e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1625292569379405e-05
+CPU Energy (kWh): 4.323536236604253e-06
+RAM Energy (kWh): 5.52966465953233e-06
+Total Energy (kWh): 9.853200896136585e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba13.max.bbk...
+building... 0.00698684 seconds
+solving... 0.00811911 seconds
+total: 0.015106 seconds, maxflow: 130469
+Maximum memory usage: 89.3164 MB
+Average memory usage: 89.3164 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.339176018094314e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.14786654920695e-05
+CPU Energy (kWh): 4.274928697721447e-06
+RAM Energy (kWh): 5.523295502511872e-06
+Total Energy (kWh): 9.79822420023332e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba13.max.bbk...
+building... 0.00710666 seconds
+init... 0.00661613 seconds
+solving... 0.00699618 seconds
+total: 0.020719 seconds, maxflow: 130469
+Maximum memory usage: 89.3125 MB
+Average memory usage: 89.3125 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.3553780844139503e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1615557484701063e-05
+CPU Energy (kWh): 4.319585955668559e-06
+RAM Energy (kWh): 5.526180355985844e-06
+Total Energy (kWh): 9.845766311654404e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba13.max.bbk...
+building...0.0146067 seconds
+init... 0.00414685 seconds
+solving... 0.00593454 seconds
+total: 0.0246881 seconds, maxflow: 130469
+Maximum memory usage: 89.293 MB
+Average memory usage: 89.293 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.3731853416012352e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.186968624226678e-05
+CPU Energy (kWh): 4.38696184290252e-06
+RAM Energy (kWh): 5.51105673019805e-06
+Total Energy (kWh): 9.89801857310057e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba13.max.bbk...
+building...0.00530871 seconds
+init... 0.00637358 seconds
+solving... 0.00570565 seconds
+total: 0.0173879 seconds, maxflow: 130469
+Maximum memory usage: 89.2383 MB
+Average memory usage: 89.2383 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.3554913624605946e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.17062997027021e-05
+CPU Energy (kWh): 4.334929579054292e-06
+RAM Energy (kWh): 5.511169127086646e-06
+Total Energy (kWh): 9.846098706140938e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba13.max.bbk...
+building...0.00506934 seconds
+init... 0.000436374 seconds
+solving... 0.00660417 seconds
+total: 0.0121099 seconds, maxflow: 130469
+Maximum memory usage: 89.2148 MB
+Average memory usage: 89.2148 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.3469105988370344e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.157549644689096e-05
+CPU Energy (kWh): 4.303581498419501e-06
+RAM Energy (kWh): 5.517338467416266e-06
+Total Energy (kWh): 9.820919965835767e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba15.max.bbk...
+building... 0.0293428 seconds
+solving... 0.0442713 seconds
+total: 0.0736142 seconds, maxflow: 760312
+Maximum memory usage: 121.539 MB
+Average memory usage: 105.379 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.548391312481095e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1789985978285064e-05
+CPU Energy (kWh): 8.459356211923397e-06
+RAM Energy (kWh): 1.0755745322965996e-05
+Total Energy (kWh): 1.921510153488939e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba15.max.bbk...
+building... 0.0198633 seconds
+solving... 0.0453773 seconds
+total: 0.0652406 seconds, maxflow: 760312
+Maximum memory usage: 89.2148 MB
+Average memory usage: 89.2148 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.52576080261455e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1662276264071565e-05
+CPU Energy (kWh): 8.384571152098008e-06
+RAM Energy (kWh): 1.0764125135438008e-05
+Total Energy (kWh): 1.9148696287536018e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba15.max.bbk...
+building... 0.0205652 seconds
+init... 0.0216414 seconds
+solving... 0.0404985 seconds
+total: 0.0827051 seconds, maxflow: 760312
+Maximum memory usage: 102.246 MB
+Average memory usage: 95.7344 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.544960134384609e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.172108341478651e-05
+CPU Energy (kWh): 8.430093132956451e-06
+RAM Energy (kWh): 1.077494021382961e-05
+Total Energy (kWh): 1.9205033346786063e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba15.max.bbk...
+building...0.0397227 seconds
+init... 0.0140984 seconds
+solving... 0.011867 seconds
+total: 0.0656881 seconds, maxflow: 760312
+Maximum memory usage: 136.414 MB
+Average memory usage: 112.857 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.568807303253119e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1862176781911844e-05
+CPU Energy (kWh): 8.50852319570286e-06
+RAM Energy (kWh): 1.076648547009853e-05
+Total Energy (kWh): 1.927500866580139e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba15.max.bbk...
+building...0.0146102 seconds
+init... 0.018082 seconds
+solving... 0.0124451 seconds
+total: 0.0451373 seconds, maxflow: 760312
+Maximum memory usage: 89.1992 MB
+Average memory usage: 89.1992 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.3988774642112794e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.198956416605046e-05
+CPU Energy (kWh): 4.440333552267056e-06
+RAM Energy (kWh): 5.533074031819752e-06
+Total Energy (kWh): 9.973407584086808e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-tsukuba/KZ2-tsukuba15.max.bbk...
+building...0.014335 seconds
+init... 0.000936104 seconds
+solving... 0.0160012 seconds
+total: 0.0312724 seconds, maxflow: 760312
+Maximum memory usage: 89.3086 MB
+Average memory usage: 89.3086 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.3936245123163947e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.199936348463125e-05
+CPU Energy (kWh): 4.435247714863061e-06
+RAM Energy (kWh): 5.522746006612067e-06
+Total Energy (kWh): 9.957993721475128e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus12.max.bbk...
+building... 0.046285 seconds
+solving... 0.174529 seconds
+total: 0.220814 seconds, maxflow: 1393079
+Maximum memory usage: 177.996 MB
+Average memory usage: 135.271 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.814729958112831e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.20161839701416e-05
+CPU Energy (kWh): 1.2775347720268835e-05
+RAM Energy (kWh): 1.602424956757318e-05
+Total Energy (kWh): 2.8799597287842012e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus12.max.bbk...
+building... 0.0303404 seconds
+solving... 0.174508 seconds
+total: 0.204849 seconds, maxflow: 1393079
+Maximum memory usage: 99.8086 MB
+Average memory usage: 96.3018 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.834130727835574e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2042911415458854e-05
+CPU Energy (kWh): 1.2813867751086672e-05
+RAM Energy (kWh): 1.6042657680216622e-05
+Total Energy (kWh): 2.885652543130329e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus12.max.bbk...
+building... 0.0305498 seconds
+init... 0.0317445 seconds
+solving... 0.155177 seconds
+total: 0.217472 seconds, maxflow: 1393079
+Maximum memory usage: 149.102 MB
+Average memory usage: 120.574 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.796028134142777e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.195875678232944e-05
+CPU Energy (kWh): 1.272204406651753e-05
+RAM Energy (kWh): 1.602267601113283e-05
+Total Energy (kWh): 2.874472007765036e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus12.max.bbk...
+building...0.0601445 seconds
+init... 0.0215629 seconds
+solving... 0.0975641 seconds
+total: 0.179271 seconds, maxflow: 1393079
+Maximum memory usage: 200.16 MB
+Average memory usage: 155.705 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 9.750535134487224e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1843876542271126e-05
+CPU Energy (kWh): 1.2605212584164416e-05
+RAM Energy (kWh): 1.6006016294534223e-05
+Total Energy (kWh): 2.861122887869864e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus12.max.bbk...
+building...0.0219727 seconds
+init... 0.0271748 seconds
+solving... 0.0973493 seconds
+total: 0.146497 seconds, maxflow: 1393079
+Maximum memory usage: 164.711 MB
+Average memory usage: 134.309 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 9.769774690382038e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.187571035525865e-05
+CPU Energy (kWh): 1.2645682338760513e-05
+RAM Energy (kWh): 1.6022001629801254e-05
+Total Energy (kWh): 2.8667683968561765e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus12.max.bbk...
+building...0.0209805 seconds
+init... 0.00134945 seconds
+solving... 0.138396 seconds
+total: 0.160726 seconds, maxflow: 1393079
+Maximum memory usage: 106.707 MB
+Average memory usage: 100.209 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 9.73808743825715e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.177239893665334e-05
+CPU Energy (kWh): 1.2553875598647624e-05
+RAM Energy (kWh): 1.602082770674258e-05
+Total Energy (kWh): 2.8574703305390205e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus6.max.bbk...
+building... 0.0384409 seconds
+solving... 0.142291 seconds
+total: 0.180732 seconds, maxflow: 1211831
+Maximum memory usage: 157.195 MB
+Average memory usage: 134.529 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.724715278623966e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.177427328184668e-05
+CPU Energy (kWh): 1.2540176421022007e-05
+RAM Energy (kWh): 1.599528863594486e-05
+Total Energy (kWh): 2.8535465056966868e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus6.max.bbk...
+building... 0.0259249 seconds
+solving... 0.137333 seconds
+total: 0.163258 seconds, maxflow: 1211831
+Maximum memory usage: 89.2891 MB
+Average memory usage: 89.2891 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.749153018637084e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.18459090349414e-05
+CPU Energy (kWh): 1.2604466472450336e-05
+RAM Energy (kWh): 1.600270683059222e-05
+Total Energy (kWh): 2.860717330304256e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus6.max.bbk...
+building... 0.0266792 seconds
+init... 0.0278732 seconds
+solving... 0.123615 seconds
+total: 0.178167 seconds, maxflow: 1211831
+Maximum memory usage: 131.641 MB
+Average memory usage: 117.496 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.768318571406429e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.189356097208392e-05
+CPU Energy (kWh): 1.2652362066326722e-05
+RAM Energy (kWh): 1.60110491774347e-05
+Total Energy (kWh): 2.8663411243761423e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus6.max.bbk...
+building...0.0531725 seconds
+init... 0.0180353 seconds
+solving... 0.0711757 seconds
+total: 0.142384 seconds, maxflow: 1211831
+Maximum memory usage: 176.738 MB
+Average memory usage: 133.027 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.6076990419234934e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.208313868579352e-05
+CPU Energy (kWh): 8.633271906616224e-06
+RAM Energy (kWh): 1.075585771985459e-05
+Total Energy (kWh): 1.938912962647081e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus6.max.bbk...
+building...0.018904 seconds
+init... 0.0238474 seconds
+solving... 0.0700393 seconds
+total: 0.112791 seconds, maxflow: 1211831
+Maximum memory usage: 145.391 MB
+Average memory usage: 117.316 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.594208930325415e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.197189251961632e-05
+CPU Energy (kWh): 8.57990019724822e-06
+RAM Energy (kWh): 1.0769645071522404e-05
+Total Energy (kWh): 1.9349545268770623e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus6.max.bbk...
+building...0.0184605 seconds
+init... 0.00133996 seconds
+solving... 0.109105 seconds
+total: 0.128906 seconds, maxflow: 1211831
+Maximum memory usage: 94.3359 MB
+Average memory usage: 91.8379 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.59182343334084e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.192298172212895e-05
+CPU Energy (kWh): 8.559487680914746e-06
+RAM Energy (kWh): 1.07830577668949e-05
+Total Energy (kWh): 1.934254544780965e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus20.max.bbk...
+building... 0.0433009 seconds
+solving... 0.0877982 seconds
+total: 0.131099 seconds, maxflow: 989615
+Maximum memory usage: 178.082 MB
+Average memory usage: 137.91 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.75617025479315e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.18809227348802e-05
+CPU Energy (kWh): 1.2631101771541642e-05
+RAM Energy (kWh): 1.599666237569437e-05
+Total Energy (kWh): 2.862776414723601e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus20.max.bbk...
+building... 0.0299646 seconds
+solving... 0.0876295 seconds
+total: 0.117594 seconds, maxflow: 989615
+Maximum memory usage: 100.25 MB
+Average memory usage: 94.7734 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.625649919510329e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.212429640367488e-05
+CPU Energy (kWh): 8.670859436683831e-06
+RAM Energy (kWh): 1.077094388001285e-05
+Total Energy (kWh): 1.9441803316696683e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus20.max.bbk...
+building... 0.0304514 seconds
+init... 0.0312862 seconds
+solving... 0.0766126 seconds
+total: 0.13835 seconds, maxflow: 989615
+Maximum memory usage: 149.586 MB
+Average memory usage: 121.402 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.744855628700966e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.181321501154129e-05
+CPU Energy (kWh): 1.2584375900827338e-05
+RAM Energy (kWh): 1.6010187467955463e-05
+Total Energy (kWh): 2.85945633687828e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus20.max.bbk...
+building...0.0593249 seconds
+init... 0.0216682 seconds
+solving... 0.0365353 seconds
+total: 0.117528 seconds, maxflow: 989615
+Maximum memory usage: 177.312 MB
+Average memory usage: 133.283 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.6098389172480615e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.209609237861564e-05
+CPU Energy (kWh): 8.64127441301335e-06
+RAM Energy (kWh): 1.0754134300896112e-05
+Total Energy (kWh): 1.9395408713909464e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus20.max.bbk...
+building...0.0219949 seconds
+init... 0.0272836 seconds
+solving... 0.0360598 seconds
+total: 0.0853383 seconds, maxflow: 989615
+Maximum memory usage: 148.715 MB
+Average memory usage: 119.047 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.571083183423447e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.185435486639363e-05
+CPU Energy (kWh): 8.50926930741e-06
+RAM Energy (kWh): 1.077241752810778e-05
+Total Energy (kWh): 1.9281686835517785e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus20.max.bbk...
+building...0.0213346 seconds
+init... 0.00135516 seconds
+solving... 0.0556288 seconds
+total: 0.0783185 seconds, maxflow: 989615
+Maximum memory usage: 104.621 MB
+Average memory usage: 97.0371 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.5391654995178915e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1707031403040954e-05
+CPU Energy (kWh): 8.41854729038971e-06
+RAM Energy (kWh): 1.07694827204611e-05
+Total Energy (kWh): 1.9188030010850813e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus4.max.bbk...
+building... 0.0441345 seconds
+solving... 0.128831 seconds
+total: 0.172966 seconds, maxflow: 1417900
+Maximum memory usage: 178.969 MB
+Average memory usage: 138.903 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.756090734134378e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.186661069286713e-05
+CPU Energy (kWh): 1.2624811488726184e-05
+RAM Energy (kWh): 1.6002719319135394e-05
+Total Energy (kWh): 2.862753080786158e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus4.max.bbk...
+building... 0.0297163 seconds
+solving... 0.132097 seconds
+total: 0.161814 seconds, maxflow: 1417900
+Maximum memory usage: 100.293 MB
+Average memory usage: 96.5996 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.770111681462426e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1909897886943645e-05
+CPU Energy (kWh): 1.266446735379012e-05
+RAM Energy (kWh): 1.6004205455773503e-05
+Total Energy (kWh): 2.8668672809563624e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus4.max.bbk...
+building... 0.0307586 seconds
+init... 0.0317046 seconds
+solving... 0.116877 seconds
+total: 0.179341 seconds, maxflow: 1417900
+Maximum memory usage: 150.062 MB
+Average memory usage: 122.082 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.760773978843631e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1873493192031835e-05
+CPU Energy (kWh): 1.2633932884916628e-05
+RAM Energy (kWh): 1.6007340080111022e-05
+Total Energy (kWh): 2.864127296502765e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus4.max.bbk...
+building...0.0600527 seconds
+init... 0.0212326 seconds
+solving... 0.0644986 seconds
+total: 0.145784 seconds, maxflow: 1417900
+Maximum memory usage: 201.227 MB
+Average memory usage: 157.067 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 9.758171998301817e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.188075765684819e-05
+CPU Energy (kWh): 1.2633203995443544e-05
+RAM Energy (kWh): 1.6000433915733937e-05
+Total Energy (kWh): 2.863363791117748e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus4.max.bbk...
+building...0.0217153 seconds
+init... 0.0273563 seconds
+solving... 0.0637277 seconds
+total: 0.112799 seconds, maxflow: 1417900
+Maximum memory usage: 152.027 MB
+Average memory usage: 120.729 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.605539918243791e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.202275869148323e-05
+CPU Energy (kWh): 8.613011612625121e-06
+RAM Energy (kWh): 1.0769782445497355e-05
+Total Energy (kWh): 1.938279405812248e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus4.max.bbk...
+building...0.0210517 seconds
+init... 0.00141438 seconds
+solving... 0.106558 seconds
+total: 0.129024 seconds, maxflow: 1417900
+Maximum memory usage: 104.992 MB
+Average memory usage: 97.1035 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.60161516154491e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2008541503126345e-05
+CPU Energy (kWh): 8.600770769497806e-06
+RAM Energy (kWh): 1.0770506781001644e-05
+Total Energy (kWh): 1.937127755049945e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus3.max.bbk...
+building... 0.0437041 seconds
+solving... 0.185719 seconds
+total: 0.229423 seconds, maxflow: 1343151
+Maximum memory usage: 178.555 MB
+Average memory usage: 139.47 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.727939381773439e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.179060262986964e-05
+CPU Energy (kWh): 1.2549636984146573e-05
+RAM Energy (kWh): 1.599528863594486e-05
+Total Energy (kWh): 2.854492562009143e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus3.max.bbk...
+building... 0.0299235 seconds
+solving... 0.185254 seconds
+total: 0.215177 seconds, maxflow: 1343151
+Maximum memory usage: 100.383 MB
+Average memory usage: 96.708 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.829513647075531e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.209608623940632e-05
+CPU Energy (kWh): 1.2834263600738222e-05
+RAM Energy (kWh): 1.6008713819860534e-05
+Total Energy (kWh): 2.8842977420598755e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus3.max.bbk...
+building... 0.0303591 seconds
+init... 0.0316719 seconds
+solving... 0.162564 seconds
+total: 0.224595 seconds, maxflow: 1343151
+Maximum memory usage: 150.055 MB
+Average memory usage: 122.556 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.802950806983253e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.201024832717112e-05
+CPU Energy (kWh): 1.2758105484254878e-05
+RAM Energy (kWh): 1.600692795818617e-05
+Total Energy (kWh): 2.8765033442441047e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus3.max.bbk...
+building...0.0596654 seconds
+init... 0.021054 seconds
+solving... 0.116684 seconds
+total: 0.197404 seconds, maxflow: 1343151
+Maximum memory usage: 200.977 MB
+Average memory usage: 157.225 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 9.785976336967418e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1967811818015834e-05
+CPU Energy (kWh): 1.2713804337701612e-05
+RAM Energy (kWh): 1.600142051064495e-05
+Total Energy (kWh): 2.871522484834656e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus3.max.bbk...
+building...0.0216913 seconds
+init... 0.0271107 seconds
+solving... 0.116394 seconds
+total: 0.165196 seconds, maxflow: 1343151
+Maximum memory usage: 165.203 MB
+Average memory usage: 135.927 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 9.740234433640332e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.17949361633889e-05
+CPU Energy (kWh): 1.2569829222520978e-05
+RAM Energy (kWh): 1.6011174062866476e-05
+Total Energy (kWh): 2.858100328538745e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus3.max.bbk...
+building...0.0211739 seconds
+init... 0.00138402 seconds
+solving... 0.15314 seconds
+total: 0.175698 seconds, maxflow: 1343151
+Maximum memory usage: 107.266 MB
+Average memory usage: 100.561 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 9.738364654285165e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1788337867649095e-05
+CPU Energy (kWh): 1.2562369494335118e-05
+RAM Energy (kWh): 1.6013147252688498e-05
+Total Energy (kWh): 2.8575516747023616e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus1.max.bbk...
+building... 0.0445799 seconds
+solving... 0.100859 seconds
+total: 0.145439 seconds, maxflow: 1190657
+Maximum memory usage: 182.348 MB
+Average memory usage: 139.177 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.735524349588643e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.179512575680873e-05
+CPU Energy (kWh): 1.2562589772283778e-05
+RAM Energy (kWh): 1.6004592600612002e-05
+Total Energy (kWh): 2.856718237289578e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus1.max.bbk...
+building... 0.0303883 seconds
+solving... 0.104662 seconds
+total: 0.13505 seconds, maxflow: 1190657
+Maximum memory usage: 102.086 MB
+Average memory usage: 95.6875 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.58320269609256e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.192982342244968e-05
+CPU Energy (kWh): 8.550027117793652e-06
+RAM Energy (kWh): 1.0767222294145995e-05
+Total Energy (kWh): 1.9317249411939647e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus1.max.bbk...
+building... 0.0308762 seconds
+init... 0.032361 seconds
+solving... 0.0916319 seconds
+total: 0.154869 seconds, maxflow: 1190657
+Maximum memory usage: 153.047 MB
+Average memory usage: 123.309 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.726935028944509e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1773902434376666e-05
+CPU Energy (kWh): 1.2539871143000396e-05
+RAM Energy (kWh): 1.6002107380519705e-05
+Total Energy (kWh): 2.8541978523520103e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus1.max.bbk...
+building...0.060521 seconds
+init... 0.021288 seconds
+solving... 0.043677 seconds
+total: 0.125486 seconds, maxflow: 1190657
+Maximum memory usage: 179.52 MB
+Average memory usage: 134.363 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.620317833832661e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.211247563801469e-05
+CPU Energy (kWh): 8.660720817458417e-06
+RAM Energy (kWh): 1.0765436432471632e-05
+Total Energy (kWh): 1.942615724993005e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus1.max.bbk...
+building...0.0219057 seconds
+init... 0.0275548 seconds
+solving... 0.0421196 seconds
+total: 0.0915801 seconds, maxflow: 1190657
+Maximum memory usage: 151.785 MB
+Average memory usage: 120.561 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.609435547447485e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.202184301224202e-05
+CPU Energy (kWh): 8.616487448737109e-06
+RAM Energy (kWh): 1.077773764750134e-05
+Total Energy (kWh): 1.9394225096238447e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus1.max.bbk...
+building...0.0216054 seconds
+init... 0.00139328 seconds
+solving... 0.0724589 seconds
+total: 0.0954576 seconds, maxflow: 1190657
+Maximum memory usage: 106.688 MB
+Average memory usage: 98.0059 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.594217203670508e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1957636079444215e-05
+CPU Energy (kWh): 8.575203804601916e-06
+RAM Energy (kWh): 1.0774365740843451e-05
+Total Energy (kWh): 1.934956954544537e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus13.max.bbk...
+building... 0.0340447 seconds
+solving... 0.194583 seconds
+total: 0.228628 seconds, maxflow: 1230158
+Maximum memory usage: 139.969 MB
+Average memory usage: 123.084 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.769662974026652e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.192207913388869e-05
+CPU Energy (kWh): 1.266951985783027e-05
+RAM Energy (kWh): 1.5997836298753043e-05
+Total Energy (kWh): 2.8667356156583316e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus13.max.bbk...
+building... 0.0231722 seconds
+solving... 0.186338 seconds
+total: 0.20951 seconds, maxflow: 1230158
+Maximum memory usage: 89.375 MB
+Average memory usage: 89.375 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.789770110380633e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.191076448475343e-05
+CPU Energy (kWh): 1.269006848537979e-05
+RAM Energy (kWh): 1.6036288523196163e-05
+Total Energy (kWh): 2.8726357008575957e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus13.max.bbk...
+building... 0.0236545 seconds
+init... 0.0243152 seconds
+solving... 0.164392 seconds
+total: 0.212362 seconds, maxflow: 1230158
+Maximum memory usage: 117.668 MB
+Average memory usage: 108.189 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.76958218803059e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1904342597301885e-05
+CPU Energy (kWh): 1.2661602351492218e-05
+RAM Energy (kWh): 1.6005516752807127e-05
+Total Energy (kWh): 2.8667119104299345e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus13.max.bbk...
+building...0.0467221 seconds
+init... 0.0160512 seconds
+solving... 0.112881 seconds
+total: 0.175654 seconds, maxflow: 1230158
+Maximum memory usage: 158.051 MB
+Average memory usage: 135.129 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 9.753184957017473e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.186103974699712e-05
+CPU Energy (kWh): 1.2617995927721726e-05
+RAM Energy (kWh): 1.6001008388720096e-05
+Total Energy (kWh): 2.861900431644182e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus13.max.bbk...
+building...0.0172213 seconds
+init... 0.0212876 seconds
+solving... 0.111776 seconds
+total: 0.150285 seconds, maxflow: 1230158
+Maximum memory usage: 129.676 MB
+Average memory usage: 109.492 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.603295725911285e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.205749104568248e-05
+CPU Energy (kWh): 8.619539395626763e-06
+RAM Energy (kWh): 1.075666947516112e-05
+Total Energy (kWh): 1.937620887078788e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus13.max.bbk...
+building...0.0164692 seconds
+init... 0.00126307 seconds
+solving... 0.169859 seconds
+total: 0.187591 seconds, maxflow: 1230158
+Maximum memory usage: 89.3633 MB
+Average memory usage: 89.3633 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 9.747844007038194e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.183337740993846e-05
+CPU Energy (kWh): 1.2596142021349677e-05
+RAM Energy (kWh): 1.6007190217592895e-05
+Total Energy (kWh): 2.860333223894257e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus19.max.bbk...
+building... 0.0160629 seconds
+solving... 0.0154054 seconds
+total: 0.0314683 seconds, maxflow: 202590
+Maximum memory usage: 89.2227 MB
+Average memory usage: 89.2227 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.3611256501614584e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.166857480226167e-05
+CPU Energy (kWh): 4.336675969336679e-06
+RAM Energy (kWh): 5.525955562208651e-06
+Total Energy (kWh): 9.862631531545329e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus19.max.bbk...
+building... 0.0105812 seconds
+solving... 0.0137137 seconds
+total: 0.0242949 seconds, maxflow: 202590
+Maximum memory usage: 89.207 MB
+Average memory usage: 89.207 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.387271252937015e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.184345797188611e-05
+CPU Energy (kWh): 4.40116935426782e-06
+RAM Energy (kWh): 5.538181845979295e-06
+Total Energy (kWh): 9.939351200247114e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus19.max.bbk...
+building... 0.0107863 seconds
+init... 0.0104771 seconds
+solving... 0.0117986 seconds
+total: 0.033062 seconds, maxflow: 202590
+Maximum memory usage: 89.2266 MB
+Average memory usage: 89.2266 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.376854078077422e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1873547241573845e-05
+CPU Energy (kWh): 4.392556847376133e-06
+RAM Energy (kWh): 5.5162269870734805e-06
+Total Energy (kWh): 9.908783834449616e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus19.max.bbk...
+building...0.021756 seconds
+init... 0.00660426 seconds
+solving... 0.0103732 seconds
+total: 0.0387335 seconds, maxflow: 202590
+Maximum memory usage: 89.2305 MB
+Average memory usage: 89.2305 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.352705433320627e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.172578942929502e-05
+CPU Energy (kWh): 4.334522634281274e-06
+RAM Energy (kWh): 5.5034012532303226e-06
+Total Energy (kWh): 9.837923887511595e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus19.max.bbk...
+building...0.00830285 seconds
+init... 0.00944929 seconds
+solving... 0.00978053 seconds
+total: 0.0275327 seconds, maxflow: 202590
+Maximum memory usage: 89.2266 MB
+Average memory usage: 89.2266 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.3456567019287657e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1622632505609245e-05
+CPU Energy (kWh): 4.307582612730898e-06
+RAM Energy (kWh): 5.5096580133621845e-06
+Total Energy (kWh): 9.817240626093084e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus19.max.bbk...
+building...0.00753636 seconds
+init... 0.000665672 seconds
+solving... 0.011167 seconds
+total: 0.019369 seconds, maxflow: 202590
+Maximum memory usage: 89.2305 MB
+Average memory usage: 89.2305 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.3599650106351844e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.177018660310967e-05
+CPU Energy (kWh): 4.351578481262552e-06
+RAM Energy (kWh): 5.507647357910628e-06
+Total Energy (kWh): 9.85922583917318e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus7.max.bbk...
+building... 0.0445132 seconds
+solving... 0.330258 seconds
+total: 0.374771 seconds, maxflow: 1506570
+Maximum memory usage: 182.348 MB
+Average memory usage: 157.43 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 1.6056762428887785e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.171699287714382e-05
+CPU Energy (kWh): 2.0630914560275385e-05
+RAM Energy (kWh): 2.6484828172542056e-05
+Total Energy (kWh): 4.711574273281744e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus7.max.bbk...
+building... 0.0303877 seconds
+solving... 0.301058 seconds
+total: 0.331446 seconds, maxflow: 1506570
+Maximum memory usage: 102.441 MB
+Average memory usage: 99.1523 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 1.2944393931426931e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.185519681532053e-05
+CPU Energy (kWh): 1.673240283035088e-05
+RAM Energy (kWh): 2.125064244458628e-05
+Total Energy (kWh): 3.798304527493715e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus7.max.bbk...
+building... 0.0311719 seconds
+init... 0.0315443 seconds
+solving... 0.271086 seconds
+total: 0.333802 seconds, maxflow: 1506570
+Maximum memory usage: 152.84 MB
+Average memory usage: 130.104 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 1.2941342383014061e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.183459367286297e-05
+CPU Energy (kWh): 1.671400726008243e-05
+RAM Energy (kWh): 2.1260083783228368e-05
+Total Energy (kWh): 3.79740910433108e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus7.max.bbk...
+building...0.0606362 seconds
+init... 0.021697 seconds
+solving... 0.285539 seconds
+total: 0.367872 seconds, maxflow: 1506570
+Maximum memory usage: 204.961 MB
+Average memory usage: 176.676 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.617171404181518e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.19473522820983e-05
+CPU Energy (kWh): 2.097064260983203e-05
+RAM Energy (kWh): 2.6482405395165647e-05
+Total Energy (kWh): 4.745304800499768e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus7.max.bbk...
+building...0.0225171 seconds
+init... 0.0275496 seconds
+solving... 0.296449 seconds
+total: 0.346516 seconds, maxflow: 1506570
+Maximum memory usage: 168.734 MB
+Average memory usage: 149.112 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.6140159146065e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1857451528914745e-05
+CPU Energy (kWh): 2.085537112873209e-05
+RAM Energy (kWh): 2.6505084589575746e-05
+Total Energy (kWh): 4.736045571830784e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus7.max.bbk...
+building...0.0214487 seconds
+init... 0.00136048 seconds
+solving... 0.373434 seconds
+total: 0.396243 seconds, maxflow: 1506570
+Maximum memory usage: 109.223 MB
+Average memory usage: 104.722 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.6137193364048777e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1846816873414695e-05
+CPU Energy (kWh): 2.0842672229681725e-05
+RAM Energy (kWh): 2.6509080923392505e-05
+Total Energy (kWh): 4.735175315307422e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus15.max.bbk...
+building... 0.0304717 seconds
+solving... 0.149965 seconds
+total: 0.180437 seconds, maxflow: 1034347
+Maximum memory usage: 125.824 MB
+Average memory usage: 113.664 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.723304675049783e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.175613257006479e-05
+CPU Energy (kWh): 1.2526358632192204e-05
+RAM Energy (kWh): 1.6004967256907322e-05
+Total Energy (kWh): 2.8531325889099525e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus15.max.bbk...
+building... 0.0206321 seconds
+solving... 0.141364 seconds
+total: 0.161996 seconds, maxflow: 1034347
+Maximum memory usage: 89.2188 MB
+Average memory usage: 89.2188 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.681485289954426e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.159809610181603e-05
+CPU Energy (kWh): 1.2392607136299529e-05
+RAM Energy (kWh): 1.6016007129076115e-05
+Total Energy (kWh): 2.840861426537564e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus15.max.bbk...
+building... 0.0209592 seconds
+init... 0.0219868 seconds
+solving... 0.126771 seconds
+total: 0.169717 seconds, maxflow: 1034347
+Maximum memory usage: 105.527 MB
+Average memory usage: 100.117 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.729715782766115e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.17665090070182e-05
+CPU Energy (kWh): 1.254036281005816e-05
+RAM Energy (kWh): 1.600977534603061e-05
+Total Energy (kWh): 2.855013815608877e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus15.max.bbk...
+building...0.0418565 seconds
+init... 0.0141326 seconds
+solving... 0.0726056 seconds
+total: 0.128595 seconds, maxflow: 1034347
+Maximum memory usage: 141.988 MB
+Average memory usage: 115.596 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.58037596694374e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.195998212060219e-05
+CPU Energy (kWh): 8.55736823477879e-06
+RAM Energy (kWh): 1.075158663808793e-05
+Total Energy (kWh): 1.930895487286672e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus15.max.bbk...
+building...0.0156686 seconds
+init... 0.019061 seconds
+solving... 0.0718223 seconds
+total: 0.106552 seconds, maxflow: 1034347
+Maximum memory usage: 116.359 MB
+Average memory usage: 102.809 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.578431564235083e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1890751320035626e-05
+CPU Energy (kWh): 8.532055714532277e-06
+RAM Energy (kWh): 1.07711936508764e-05
+Total Energy (kWh): 1.9303249365408678e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus15.max.bbk...
+building...0.014683 seconds
+init... 0.00117764 seconds
+solving... 0.109591 seconds
+total: 0.125452 seconds, maxflow: 1034347
+Maximum memory usage: 89.2383 MB
+Average memory usage: 89.2383 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.554518633920758e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1801990049693706e-05
+CPU Energy (kWh): 8.46986760922111e-06
+RAM Energy (kWh): 1.076321347178606e-05
+Total Energy (kWh): 1.923308108100717e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus2.max.bbk...
+building... 0.0456345 seconds
+solving... 0.103709 seconds
+total: 0.149343 seconds, maxflow: 1250964
+Maximum memory usage: 184.73 MB
+Average memory usage: 139.251 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.741137494121073e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.180590414324815e-05
+CPU Energy (kWh): 1.2574152559313712e-05
+RAM Energy (kWh): 1.6009500598080707e-05
+Total Energy (kWh): 2.858365315739442e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus2.max.bbk...
+building... 0.0310261 seconds
+solving... 0.108394 seconds
+total: 0.13942 seconds, maxflow: 1250964
+Maximum memory usage: 103.926 MB
+Average memory usage: 99.0176 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.746537751573e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.179077030325206e-05
+CPU Energy (kWh): 1.2573338947552417e-05
+RAM Energy (kWh): 1.6026160314679316e-05
+Total Energy (kWh): 2.859949926223173e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus2.max.bbk...
+building... 0.0316725 seconds
+init... 0.0321161 seconds
+solving... 0.0967682 seconds
+total: 0.160557 seconds, maxflow: 1250964
+Maximum memory usage: 155.203 MB
+Average memory usage: 123.273 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.72971220734487e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.175831466672743e-05
+CPU Energy (kWh): 1.2535581695120174e-05
+RAM Energy (kWh): 1.6014545969524364e-05
+Total Energy (kWh): 2.8550127664644534e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus2.max.bbk...
+building...0.0621415 seconds
+init... 0.0217637 seconds
+solving... 0.0446721 seconds
+total: 0.128577 seconds, maxflow: 1250964
+Maximum memory usage: 174.215 MB
+Average memory usage: 131.754 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.612708542595543e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.20755660536703e-05
+CPU Energy (kWh): 8.637730799065935e-06
+RAM Energy (kWh): 1.0766098325260031e-05
+Total Energy (kWh): 1.940382912432597e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus2.max.bbk...
+building...0.0231245 seconds
+init... 0.0282966 seconds
+solving... 0.0434227 seconds
+total: 0.0948438 seconds, maxflow: 1250964
+Maximum memory usage: 146.086 MB
+Average memory usage: 117.711 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.596840836993331e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.198983035734953e-05
+CPU Energy (kWh): 8.587410758813252e-06
+RAM Energy (kWh): 1.076985737675642e-05
+Total Energy (kWh): 1.9357268135569677e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus2.max.bbk...
+building...0.0217922 seconds
+init... 0.0013863 seconds
+solving... 0.0818536 seconds
+total: 0.105032 seconds, maxflow: 1250964
+Maximum memory usage: 108.137 MB
+Average memory usage: 98.6895 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.620395124000063e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.206408874472464e-05
+CPU Energy (kWh): 8.644749971347537e-06
+RAM Energy (kWh): 1.078163407297268e-05
+Total Energy (kWh): 1.9426384044320217e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus5.max.bbk...
+building... 0.0434836 seconds
+solving... 0.150569 seconds
+total: 0.194053 seconds, maxflow: 1453512
+Maximum memory usage: 175.973 MB
+Average memory usage: 138.885 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.805359231896193e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2024370593880484e-05
+CPU Energy (kWh): 1.2768057436659402e-05
+RAM Energy (kWh): 1.6004043104712197e-05
+Total Energy (kWh): 2.87721005413716e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus5.max.bbk...
+building... 0.0294322 seconds
+solving... 0.148034 seconds
+total: 0.177466 seconds, maxflow: 1453512
+Maximum memory usage: 98.8008 MB
+Average memory usage: 95.6172 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.790784707612761e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.194709248416983e-05
+CPU Energy (kWh): 1.2709006000529571e-05
+RAM Energy (kWh): 1.6020328165015486e-05
+Total Energy (kWh): 2.8729334165545057e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus5.max.bbk...
+building... 0.0297313 seconds
+init... 0.0308672 seconds
+solving... 0.131115 seconds
+total: 0.191714 seconds, maxflow: 1453512
+Maximum memory usage: 147.703 MB
+Average memory usage: 123.056 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.796234119125917e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.196450077777871e-05
+CPU Energy (kWh): 1.2727469070855646e-05
+RAM Energy (kWh): 1.6017855433466368e-05
+Total Energy (kWh): 2.874532450432201e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus5.max.bbk...
+building...0.0593043 seconds
+init... 0.0207893 seconds
+solving... 0.0837518 seconds
+total: 0.163845 seconds, maxflow: 1453512
+Maximum memory usage: 197.742 MB
+Average memory usage: 156.994 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 9.79337342937967e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2002918028812064e-05
+CPU Energy (kWh): 1.273993074749416e-05
+RAM Energy (kWh): 1.599699956636016e-05
+Total Energy (kWh): 2.873693031385432e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus5.max.bbk...
+building...0.0214298 seconds
+init... 0.0266513 seconds
+solving... 0.0824378 seconds
+total: 0.130519 seconds, maxflow: 1453512
+Maximum memory usage: 156.512 MB
+Average memory usage: 122.891 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.557364866387224e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.184069879327589e-05
+CPU Energy (kWh): 8.487398456581696e-06
+RAM Energy (kWh): 1.0754034392550694e-05
+Total Energy (kWh): 1.9241432849132392e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus5.max.bbk...
+building...0.0205499 seconds
+init... 0.00140824 seconds
+solving... 0.138647 seconds
+total: 0.160605 seconds, maxflow: 1453512
+Maximum memory usage: 105.156 MB
+Average memory usage: 99.29 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 9.749501056662621e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1836533109915125e-05
+CPU Energy (kWh): 1.2600804525076533e-05
+RAM Energy (kWh): 1.600739003428373e-05
+Total Energy (kWh): 2.8608194559360265e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus18.max.bbk...
+building... 0.0418236 seconds
+solving... 0.110917 seconds
+total: 0.152741 seconds, maxflow: 1099583
+Maximum memory usage: 172.09 MB
+Average memory usage: 139.592 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.741637236240567e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.180882348136109e-05
+CPU Energy (kWh): 1.257654311678444e-05
+RAM Energy (kWh): 1.6008576445885583e-05
+Total Energy (kWh): 2.858511956267002e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus18.max.bbk...
+building... 0.0285165 seconds
+solving... 0.111507 seconds
+total: 0.140023 seconds, maxflow: 1099583
+Maximum memory usage: 96.5977 MB
+Average memory usage: 92.9551 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.613326278153071e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2088173686736544e-05
+CPU Energy (kWh): 8.642715525281064e-06
+RAM Energy (kWh): 1.076292623529298e-05
+Total Energy (kWh): 1.940564176057405e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus18.max.bbk...
+building... 0.0294932 seconds
+init... 0.0308985 seconds
+solving... 0.0993994 seconds
+total: 0.159791 seconds, maxflow: 1099583
+Maximum memory usage: 144.555 MB
+Average memory usage: 120.298 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.753816109015668e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.183458804314767e-05
+CPU Energy (kWh): 1.2606297862805677e-05
+RAM Energy (kWh): 1.6014558458067543e-05
+Total Energy (kWh): 2.862085632087322e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus18.max.bbk...
+building...0.0576298 seconds
+init... 0.0207808 seconds
+solving... 0.0511284 seconds
+total: 0.129539 seconds, maxflow: 1099583
+Maximum memory usage: 181.445 MB
+Average memory usage: 135.342 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.590702402971294e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2007319383682804e-05
+CPU Energy (kWh): 8.586732702708932e-06
+RAM Energy (kWh): 1.0752523278826231e-05
+Total Energy (kWh): 1.933925598153516e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus18.max.bbk...
+building...0.0207429 seconds
+init... 0.0261704 seconds
+solving... 0.0509795 seconds
+total: 0.0978928 seconds, maxflow: 1099583
+Maximum memory usage: 153.742 MB
+Average memory usage: 121.492 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.5880951835565655e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.190050655358994e-05
+CPU Energy (kWh): 8.547161559947086e-06
+RAM Energy (kWh): 1.0784443995187587e-05
+Total Energy (kWh): 1.9331605555134677e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus18.max.bbk...
+building...0.0200552 seconds
+init... 0.00136131 seconds
+solving... 0.0791108 seconds
+total: 0.100527 seconds, maxflow: 1099583
+Maximum memory usage: 101.801 MB
+Average memory usage: 95.4922 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.555205125989314e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.179851578996018e-05
+CPU Energy (kWh): 8.470308442906638e-06
+RAM Energy (kWh): 1.0764787028226407e-05
+Total Energy (kWh): 1.9235095471133045e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus16.max.bbk...
+building... 0.0444627 seconds
+solving... 0.115518 seconds
+total: 0.159981 seconds, maxflow: 1191635
+Maximum memory usage: 181.516 MB
+Average memory usage: 139.41 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.745951629842557e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.183807992788882e-05
+CPU Energy (kWh): 1.2596870910819293e-05
+RAM Energy (kWh): 1.6000908480374678e-05
+Total Energy (kWh): 2.859777939119397e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus16.max.bbk...
+building... 0.030479 seconds
+solving... 0.118613 seconds
+total: 0.149093 seconds, maxflow: 1191635
+Maximum memory usage: 101.656 MB
+Average memory usage: 97.5049 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.764465591171006e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1882668658722234e-05
+CPU Energy (kWh): 1.2642817058688275e-05
+RAM Energy (kWh): 1.600928829284669e-05
+Total Energy (kWh): 2.8652105351534967e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus16.max.bbk...
+building... 0.0309117 seconds
+init... 0.0320773 seconds
+solving... 0.105957 seconds
+total: 0.168946 seconds, maxflow: 1191635
+Maximum memory usage: 152.637 MB
+Average memory usage: 122.385 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.72057988662925e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.175393416882231e-05
+CPU Energy (kWh): 1.2522459462403074e-05
+RAM Energy (kWh): 1.6000871014745145e-05
+Total Energy (kWh): 2.852333047714822e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus16.max.bbk...
+building...0.0602027 seconds
+init... 0.0219043 seconds
+solving... 0.0554677 seconds
+total: 0.137575 seconds, maxflow: 1191635
+Maximum memory usage: 204.043 MB
+Average memory usage: 156.532 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 9.728438260823537e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.174995604553273e-05
+CPU Energy (kWh): 1.253020752416123e-05
+RAM Energy (kWh): 1.60161819686806e-05
+Total Energy (kWh): 2.854638949284183e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus16.max.bbk...
+building...0.0222899 seconds
+init... 0.0280408 seconds
+solving... 0.0558266 seconds
+total: 0.106157 seconds, maxflow: 1191635
+Maximum memory usage: 145.707 MB
+Average memory usage: 117.484 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.795425696680292e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.296139540411644e-05
+CPU Energy (kWh): 9.174856228769124e-06
+RAM Energy (kWh): 1.0765124218892198e-05
+Total Energy (kWh): 1.993998044766132e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus16.max.bbk...
+building...0.021594 seconds
+init... 0.00135176 seconds
+solving... 0.0846011 seconds
+total: 0.107547 seconds, maxflow: 1191635
+Maximum memory usage: 106.027 MB
+Average memory usage: 97.6211 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.57125507972735e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1885591435797795e-05
+CPU Energy (kWh): 8.519102648606863e-06
+RAM Energy (kWh): 1.0763088586354286e-05
+Total Energy (kWh): 1.928219123496115e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus14.max.bbk...
+building... 0.0425515 seconds
+solving... 0.163256 seconds
+total: 0.205808 seconds, maxflow: 1304192
+Maximum memory usage: 173.82 MB
+Average memory usage: 139.349 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.770381932708323e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.189411578705029e-05
+CPU Energy (kWh): 1.2656430958470076e-05
+RAM Energy (kWh): 1.60130348557999e-05
+Total Energy (kWh): 2.866946581426998e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus14.max.bbk...
+building... 0.0290836 seconds
+solving... 0.163232 seconds
+total: 0.192316 seconds, maxflow: 1304192
+Maximum memory usage: 97.4688 MB
+Average memory usage: 94.7285 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.70373371363195e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.169616311290678e-05
+CPU Energy (kWh): 1.2471054143502192e-05
+RAM Energy (kWh): 1.600284420456717e-05
+Total Energy (kWh): 2.847389834806936e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus14.max.bbk...
+building... 0.0294522 seconds
+init... 0.0306626 seconds
+solving... 0.147399 seconds
+total: 0.207514 seconds, maxflow: 1304192
+Maximum memory usage: 145.477 MB
+Average memory usage: 121.096 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.796518288129727e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1992780599184224e-05
+CPU Energy (kWh): 1.2740354358938694e-05
+RAM Energy (kWh): 1.6005803989300205e-05
+Total Energy (kWh): 2.8746158348238895e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus14.max.bbk...
+building...0.0593839 seconds
+init... 0.0211069 seconds
+solving... 0.0860212 seconds
+total: 0.166512 seconds, maxflow: 1304192
+Maximum memory usage: 195.477 MB
+Average memory usage: 154.341 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 9.792534189988778e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.197247563754188e-05
+CPU Energy (kWh): 1.2724654901940384e-05
+RAM Energy (kWh): 1.6009812811660143e-05
+Total Energy (kWh): 2.873446771360053e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus14.max.bbk...
+building...0.0214271 seconds
+init... 0.0265477 seconds
+solving... 0.0848366 seconds
+total: 0.132811 seconds, maxflow: 1304192
+Maximum memory usage: 152.539 MB
+Average memory usage: 120.865 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.5912753348348285e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1951168563608126e-05
+CPU Energy (kWh): 8.56850713257945e-06
+RAM Energy (kWh): 1.077243001665096e-05
+Total Energy (kWh): 1.934093714923041e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus14.max.bbk...
+building...0.0203619 seconds
+init... 0.00133993 seconds
+solving... 0.135921 seconds
+total: 0.157623 seconds, maxflow: 1304192
+Maximum memory usage: 103.93 MB
+Average memory usage: 98.5713 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 9.74297238146226e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.179377804291923e-05
+CPU Energy (kWh): 1.2570744778808011e-05
+RAM Energy (kWh): 1.6018292532477572e-05
+Total Energy (kWh): 2.8589037311285585e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus21.max.bbk...
+building... 0.0427046 seconds
+solving... 0.0876939 seconds
+total: 0.130398 seconds, maxflow: 955443
+Maximum memory usage: 174.742 MB
+Average memory usage: 137.758 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.732144285128253e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.179683750079109e-05
+CPU Energy (kWh): 1.2558266435491044e-05
+RAM Energy (kWh): 1.5998997733268537e-05
+Total Energy (kWh): 2.855726416875958e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus21.max.bbk...
+building... 0.0291102 seconds
+solving... 0.0877396 seconds
+total: 0.11685 seconds, maxflow: 955443
+Maximum memory usage: 98.0781 MB
+Average memory usage: 93.6777 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.593546722042223e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1973006108322575e-05
+CPU Energy (kWh): 8.57878130746531e-06
+RAM Energy (kWh): 1.07688208276727e-05
+Total Energy (kWh): 1.934760213513801e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus21.max.bbk...
+building... 0.0295839 seconds
+init... 0.0309379 seconds
+solving... 0.0771656 seconds
+total: 0.137687 seconds, maxflow: 955443
+Maximum memory usage: 128.105 MB
+Average memory usage: 108.697 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.58893184697156e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1947783908970496e-05
+CPU Energy (kWh): 8.563878517761636e-06
+RAM Energy (kWh): 1.0770182078879032e-05
+Total Energy (kWh): 1.933406059664067e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus21.max.bbk...
+building...0.0586329 seconds
+init... 0.0212176 seconds
+solving... 0.036855 seconds
+total: 0.116706 seconds, maxflow: 955443
+Maximum memory usage: 179.008 MB
+Average memory usage: 134.148 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.615183397110648e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.209959818740105e-05
+CPU Energy (kWh): 8.651124698669937e-06
+RAM Energy (kWh): 1.0759966450559944e-05
+Total Energy (kWh): 1.941109114922988e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus21.max.bbk...
+building...0.0211642 seconds
+init... 0.0264918 seconds
+solving... 0.0372454 seconds
+total: 0.0849015 seconds, maxflow: 955443
+Maximum memory usage: 152.641 MB
+Average memory usage: 120.953 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.549968014747807e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1727060703252886e-05
+CPU Energy (kWh): 8.43965508505462e-06
+RAM Energy (kWh): 1.0780073005075508e-05
+Total Energy (kWh): 1.9219728090130128e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus21.max.bbk...
+building...0.0205833 seconds
+init... 0.00139722 seconds
+solving... 0.0554883 seconds
+total: 0.0774688 seconds, maxflow: 955443
+Maximum memory usage: 103.5 MB
+Average memory usage: 96.3555 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.543231052453829e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.171138400840186e-05
+CPU Energy (kWh): 8.425244240193447e-06
+RAM Energy (kWh): 1.0774715420052415e-05
+Total Energy (kWh): 1.9199959660245865e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus9.max.bbk...
+building... 0.0433448 seconds
+solving... 0.162203 seconds
+total: 0.205548 seconds, maxflow: 1396819
+Maximum memory usage: 177.52 MB
+Average memory usage: 140.013 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.756226791615843e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.187648819642672e-05
+CPU Energy (kWh): 1.2629219547814067e-05
+RAM Energy (kWh): 1.599871049677546e-05
+Total Energy (kWh): 2.8627930044589528e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus9.max.bbk...
+building... 0.0294948 seconds
+solving... 0.160038 seconds
+total: 0.189533 seconds, maxflow: 1396819
+Maximum memory usage: 99.5586 MB
+Average memory usage: 96.1816 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.756412780815636e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.186721590272735e-05
+CPU Energy (kWh): 1.2625743989476412e-05
+RAM Energy (kWh): 1.6002731807678573e-05
+Total Energy (kWh): 2.8628475797154986e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus9.max.bbk...
+building... 0.0305034 seconds
+init... 0.0309037 seconds
+solving... 0.143591 seconds
+total: 0.204998 seconds, maxflow: 1396819
+Maximum memory usage: 149.078 MB
+Average memory usage: 121.293 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.829582629283481e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.209478734676619e-05
+CPU Energy (kWh): 1.283346693342971e-05
+RAM Energy (kWh): 1.6009712903314722e-05
+Total Energy (kWh): 2.8843179836744432e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus9.max.bbk...
+building...0.0602471 seconds
+init... 0.0211836 seconds
+solving... 0.0977138 seconds
+total: 0.179144 seconds, maxflow: 1396819
+Maximum memory usage: 199.598 MB
+Average memory usage: 155.822 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 9.74371058937241e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.184705550924329e-05
+CPU Energy (kWh): 1.2599261746071289e-05
+RAM Energy (kWh): 1.5991941706373325e-05
+Total Energy (kWh): 2.859120345244461e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus9.max.bbk...
+building...0.0216028 seconds
+init... 0.0269147 seconds
+solving... 0.0968766 seconds
+total: 0.145394 seconds, maxflow: 1396819
+Maximum memory usage: 164.336 MB
+Average memory usage: 135.2 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 9.731118191074238e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.177870669594361e-05
+CPU Energy (kWh): 1.2547025593168115e-05
+RAM Energy (kWh): 1.6007227683222425e-05
+Total Energy (kWh): 2.855425327639054e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus9.max.bbk...
+building...0.0212102 seconds
+init... 0.00141331 seconds
+solving... 0.143928 seconds
+total: 0.166552 seconds, maxflow: 1396819
+Maximum memory usage: 106.355 MB
+Average memory usage: 99.9814 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 9.755909649338816e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1842808557452645e-05
+CPU Energy (kWh): 1.261160425594654e-05
+RAM Energy (kWh): 1.6015395190460426e-05
+Total Energy (kWh): 2.862699944640697e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus11.max.bbk...
+building... 0.0373402 seconds
+solving... 0.210655 seconds
+total: 0.247995 seconds, maxflow: 1315279
+Maximum memory usage: 149.449 MB
+Average memory usage: 134.408 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 1.2998822440156073e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2006643636265445e-05
+CPU Energy (kWh): 1.690321602256656e-05
+RAM Energy (kWh): 2.12395401297016e-05
+Total Energy (kWh): 3.814275615226816e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus11.max.bbk...
+building... 0.0246414 seconds
+solving... 0.192517 seconds
+total: 0.217159 seconds, maxflow: 1315279
+Maximum memory usage: 89.3945 MB
+Average memory usage: 89.3945 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.754467642475635e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.185480969249873e-05
+CPU Energy (kWh): 1.2615927592732334e-05
+RAM Energy (kWh): 1.6006840538383926e-05
+Total Energy (kWh): 2.862276813111626e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus11.max.bbk...
+building... 0.0254017 seconds
+init... 0.0259562 seconds
+solving... 0.171146 seconds
+total: 0.222504 seconds, maxflow: 1315279
+Maximum memory usage: 125.535 MB
+Average memory usage: 113.453 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.720978397330401e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.174072486978885e-05
+CPU Energy (kWh): 1.251476195624629e-05
+RAM Energy (kWh): 1.6009737880401076e-05
+Total Energy (kWh): 2.852449983664737e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus11.max.bbk...
+building...0.0499626 seconds
+init... 0.0171243 seconds
+solving... 0.113263 seconds
+total: 0.18035 seconds, maxflow: 1315279
+Maximum memory usage: 168.465 MB
+Average memory usage: 142.055 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 9.745748981583406e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.182807216134237e-05
+CPU Energy (kWh): 1.2591530628769387e-05
+RAM Energy (kWh): 1.6005654126782078e-05
+Total Energy (kWh): 2.8597184755551465e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus11.max.bbk...
+building...0.0185266 seconds
+init... 0.0225589 seconds
+solving... 0.112353 seconds
+total: 0.153439 seconds, maxflow: 1315279
+Maximum memory usage: 138.531 MB
+Average memory usage: 122.135 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 9.719722570433579e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.176436907239472e-05
+CPU Energy (kWh): 1.252590085404348e-05
+RAM Energy (kWh): 1.599491397964954e-05
+Total Energy (kWh): 2.852081483369302e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus11.max.bbk...
+building...0.018198 seconds
+init... 0.00137878 seconds
+solving... 0.182615 seconds
+total: 0.202192 seconds, maxflow: 1315279
+Maximum memory usage: 90.2812 MB
+Average memory usage: 89.9238 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 9.799393051229925e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.199364937470538e-05
+CPU Energy (kWh): 1.2744169084210472e-05
+RAM Energy (kWh): 1.6010424750275832e-05
+Total Energy (kWh): 2.8754593834486304e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus8.max.bbk...
+building... 0.0442512 seconds
+solving... 0.162628 seconds
+total: 0.206879 seconds, maxflow: 1423372
+Maximum memory usage: 181.258 MB
+Average memory usage: 138.98 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.800261506561264e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.201761914362377e-05
+CPU Energy (kWh): 1.2758206873221545e-05
+RAM Energy (kWh): 1.5998935290552653e-05
+Total Energy (kWh): 2.87571421637742e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus8.max.bbk...
+building... 0.0303127 seconds
+solving... 0.163807 seconds
+total: 0.19412 seconds, maxflow: 1423372
+Maximum memory usage: 101.648 MB
+Average memory usage: 97.54 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.718964364347329e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.173041877193746e-05
+CPU Energy (kWh): 1.251086278645716e-05
+RAM Energy (kWh): 1.600772722494952e-05
+Total Energy (kWh): 2.851859001140668e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus8.max.bbk...
+building... 0.0310868 seconds
+init... 0.0323647 seconds
+solving... 0.145859 seconds
+total: 0.20931 seconds, maxflow: 1423372
+Maximum memory usage: 151.836 MB
+Average memory usage: 121.971 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.768312948284596e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.189801211747467e-05
+CPU Energy (kWh): 1.2655854846898434e-05
+RAM Energy (kWh): 1.6007539896801858e-05
+Total Energy (kWh): 2.866339474370029e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus8.max.bbk...
+building...0.0606402 seconds
+init... 0.0215715 seconds
+solving... 0.109113 seconds
+total: 0.191325 seconds, maxflow: 1423372
+Maximum memory usage: 203.676 MB
+Average memory usage: 156.875 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 9.785053411416881e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.194277956212542e-05
+CPU Energy (kWh): 1.2700393493641354e-05
+RAM Energy (kWh): 1.6012123192147955e-05
+Total Energy (kWh): 2.871251668578931e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus8.max.bbk...
+building...0.0223884 seconds
+init... 0.0275322 seconds
+solving... 0.109683 seconds
+total: 0.159603 seconds, maxflow: 1423372
+Maximum memory usage: 167.488 MB
+Average memory usage: 135.435 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 9.75310953949791e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.182272344278464e-05
+CPU Energy (kWh): 1.2597905356091788e-05
+RAM Energy (kWh): 1.602087766091529e-05
+Total Energy (kWh): 2.861878301700708e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus8.max.bbk...
+building...0.0216404 seconds
+init... 0.00140597 seconds
+solving... 0.14292 seconds
+total: 0.165966 seconds, maxflow: 1423372
+Maximum memory usage: 108.191 MB
+Average memory usage: 101.111 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 9.752474662146015e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.181745901582726e-05
+CPU Energy (kWh): 1.259405674190056e-05
+RAM Energy (kWh): 1.602286333928049e-05
+Total Energy (kWh): 2.861692008118105e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus0.max.bbk...
+building... 0.0435893 seconds
+solving... 0.110069 seconds
+total: 0.153658 seconds, maxflow: 1144128
+Maximum memory usage: 179.387 MB
+Average memory usage: 140.398 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.719717880805056e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1748571409027044e-05
+CPU Energy (kWh): 1.25190683485793e-05
+RAM Energy (kWh): 1.6001732724224382e-05
+Total Energy (kWh): 2.852080107280368e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus0.max.bbk...
+building... 0.0300927 seconds
+solving... 0.111307 seconds
+total: 0.141399 seconds, maxflow: 1144128
+Maximum memory usage: 100.551 MB
+Average memory usage: 96.8184 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.743515037245594e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.179888878886081e-05
+CPU Energy (kWh): 1.257366089225248e-05
+RAM Energy (kWh): 1.6016968746900773e-05
+Total Energy (kWh): 2.8590629639153254e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus0.max.bbk...
+building... 0.0305663 seconds
+init... 0.0309493 seconds
+solving... 0.0980026 seconds
+total: 0.159518 seconds, maxflow: 1144128
+Maximum memory usage: 150.387 MB
+Average memory usage: 123.248 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.79225122243876e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.195423928466491e-05
+CPU Energy (kWh): 1.2715007671994932e-05
+RAM Energy (kWh): 1.6018629723143363e-05
+Total Energy (kWh): 2.873363739513829e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus0.max.bbk...
+building...0.0602421 seconds
+init... 0.0213226 seconds
+solving... 0.0483236 seconds
+total: 0.129888 seconds, maxflow: 1144128
+Maximum memory usage: 180.504 MB
+Average memory usage: 134.922 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.5876405406105095e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.198956056073182e-05
+CPU Energy (kWh): 8.576187138720909e-06
+RAM Energy (kWh): 1.0754084346723403e-05
+Total Energy (kWh): 1.9330271485444317e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus0.max.bbk...
+building...0.0214833 seconds
+init... 0.0272615 seconds
+solving... 0.0476803 seconds
+total: 0.0964251 seconds, maxflow: 1144128
+Maximum memory usage: 154.953 MB
+Average memory usage: 122.105 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.578454604532622e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.19146920056186e-05
+CPU Energy (kWh): 8.539803776283494e-06
+RAM Energy (kWh): 1.0763513196822315e-05
+Total Energy (kWh): 1.930331697310581e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus0.max.bbk...
+building...0.021349 seconds
+init... 0.00140668 seconds
+solving... 0.0769748 seconds
+total: 0.0997305 seconds, maxflow: 1144128
+Maximum memory usage: 105.449 MB
+Average memory usage: 97.3867 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.569739722268826e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.184986684212896e-05
+CPU Energy (kWh): 8.506014027027942e-06
+RAM Energy (kWh): 1.0771730658233026e-05
+Total Energy (kWh): 1.9277744685260968e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus10.max.bbk...
+building... 0.0432664 seconds
+solving... 0.164009 seconds
+total: 0.207275 seconds, maxflow: 1375201
+Maximum memory usage: 177.027 MB
+Average memory usage: 139.084 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.715192124571214e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.170832936259392e-05
+CPU Energy (kWh): 1.249245054950679e-05
+RAM Energy (kWh): 1.6015070488337814e-05
+Total Energy (kWh): 2.8507521037844604e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus10.max.bbk...
+building... 0.0295588 seconds
+solving... 0.161217 seconds
+total: 0.190776 seconds, maxflow: 1375201
+Maximum memory usage: 99.1406 MB
+Average memory usage: 95.8525 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.74419039336876e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.181158800212349e-05
+CPU Energy (kWh): 1.2581137564905004e-05
+RAM Energy (kWh): 1.6011473787902733e-05
+Total Energy (kWh): 2.8592611352807737e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus10.max.bbk...
+building... 0.0299216 seconds
+init... 0.030879 seconds
+solving... 0.143771 seconds
+total: 0.204571 seconds, maxflow: 1375201
+Maximum memory usage: 148.504 MB
+Average memory usage: 122.169 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.796898234905622e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.200762853065688e-05
+CPU Energy (kWh): 1.2748000753948913e-05
+RAM Energy (kWh): 1.599927248121844e-05
+Total Energy (kWh): 2.8747273235167352e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus10.max.bbk...
+building...0.0594219 seconds
+init... 0.0216697 seconds
+solving... 0.0951232 seconds
+total: 0.176215 seconds, maxflow: 1375201
+Maximum memory usage: 199.008 MB
+Average memory usage: 155.474 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 9.792125476833178e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.198199578256225e-05
+CPU Energy (kWh): 1.2729062961021331e-05
+RAM Energy (kWh): 1.6004205455773503e-05
+Total Energy (kWh): 2.8733268416794838e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus10.max.bbk...
+building...0.0214767 seconds
+init... 0.0270692 seconds
+solving... 0.0958476 seconds
+total: 0.144393 seconds, maxflow: 1375201
+Maximum memory usage: 163.555 MB
+Average memory usage: 135.177 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 9.751509050381102e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1824334184857405e-05
+CPU Energy (kWh): 1.2598092022909207e-05
+RAM Energy (kWh): 1.601599464053294e-05
+Total Energy (kWh): 2.8614086663442147e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus10.max.bbk...
+building...0.0214116 seconds
+init... 0.00140033 seconds
+solving... 0.131603 seconds
+total: 0.154415 seconds, maxflow: 1375201
+Maximum memory usage: 105.852 MB
+Average memory usage: 99.6289 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 9.718880480006175e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.172170031867409e-05
+CPU Energy (kWh): 1.2503623058445629e-05
+RAM Energy (kWh): 1.6014720809128845e-05
+Total Energy (kWh): 2.8518343867574477e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus17.max.bbk...
+building... 0.0436157 seconds
+solving... 0.108985 seconds
+total: 0.152601 seconds, maxflow: 1140960
+Maximum memory usage: 178.141 MB
+Average memory usage: 138.621 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.695414526520498e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.165481466249151e-05
+CPU Energy (kWh): 1.24414352309192e-05
+RAM Energy (kWh): 1.6008051927072132e-05
+Total Energy (kWh): 2.8449487157991333e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus17.max.bbk...
+building... 0.0302655 seconds
+solving... 0.110921 seconds
+total: 0.141187 seconds, maxflow: 1140960
+Maximum memory usage: 100.219 MB
+Average memory usage: 96.5918 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.773706081769236e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.192815136009963e-05
+CPU Energy (kWh): 1.2676725419151493e-05
+RAM Energy (kWh): 1.60024945253582e-05
+Total Energy (kWh): 2.867921994450969e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus17.max.bbk...
+building... 0.0304802 seconds
+init... 0.031873 seconds
+solving... 0.0993825 seconds
+total: 0.161736 seconds, maxflow: 1140960
+Maximum memory usage: 149.844 MB
+Average memory usage: 121.127 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.770104364418679e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.185450952561863e-05
+CPU Energy (kWh): 1.2636221775632478e-05
+RAM Energy (kWh): 1.6032429563354358e-05
+Total Energy (kWh): 2.866865133898684e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus17.max.bbk...
+building...0.0609776 seconds
+init... 0.0218678 seconds
+solving... 0.0504386 seconds
+total: 0.133284 seconds, maxflow: 1140960
+Maximum memory usage: 171.688 MB
+Average memory usage: 130.5 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 6.641685151831491e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2218318142888867e-05
+CPU Energy (kWh): 8.723993923633044e-06
+RAM Energy (kWh): 1.0764861959485473e-05
+Total Energy (kWh): 1.9488855883118515e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus17.max.bbk...
+building...0.0213874 seconds
+init... 0.027298 seconds
+solving... 0.0500928 seconds
+total: 0.0987782 seconds, maxflow: 1140960
+Maximum memory usage: 148.898 MB
+Average memory usage: 119.074 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 6.587597299247985e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.192935391354468e-05
+CPU Energy (kWh): 8.555554066657506e-06
+RAM Energy (kWh): 1.0774590534620645e-05
+Total Energy (kWh): 1.933014460127815e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/KZ2-venus/KZ2-venus17.max.bbk...
+building...0.0210068 seconds
+init... 0.00135323 seconds
+solving... 0.0766917 seconds
+total: 0.0990517 seconds, maxflow: 1140960
+Maximum memory usage: 104.676 MB
+Average memory usage: 96.9824 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.5613764055211195e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.179840583175848e-05
+CPU Energy (kWh): 8.47893817203585e-06
+RAM Energy (kWh): 1.0774265832498032e-05
+Total Energy (kWh): 1.925320400453388e-05
+Country: Italy
+CPU Count: 8

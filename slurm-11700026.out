@@ -1,0 +1,7200 @@
+Loading python/3.11.6--gcc--8.5.0
+  Loading requirement: bzip2/1.0.8-gp5wcz5 libmd/1.0.4-wja3f5q
+    libbsd/0.11.7-cgxjopl expat/2.5.0-bptl3xw ncurses/6.4-asx3jea
+    readline/8.2-nyw6mp6 gdbm/1.23-fs6otck libiconv/1.17-d7yvx2s
+    xz/5.4.1-hubmwr5 zlib-ng/2.1.4-6htiapk libxml2/2.10.3-5eeeokp
+    pigz/2.7-bopr5vp zstd/1.5.5-gawytfl tar/1.34-amqus5s gettext/0.22.3-2g7elif
+    libffi/3.4.4-6r7brdq libxcrypt/4.4.35-ss2rzin sqlite/3.43.2
+    util-linux-uuid/2.38.1-jkdi7kv
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth2.max.bbk...
+building... 0.0186314 seconds
+solving... 0.0383369 seconds
+total: 0.0569683 seconds, maxflow: 617013
+Maximum memory usage: 89.2852 MB
+Average memory usage: 89.2852 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 4.313315681957973e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.687019611291961e-05
+CPU Energy (kWh): 6.565116363200368e-06
+RAM Energy (kWh): 6.091549194168522e-06
+Total Energy (kWh): 1.265666555736889e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth5.max.bbk...
+building... 0.0190249 seconds
+solving... 0.0517881 seconds
+total: 0.0708129 seconds, maxflow: 753315
+Maximum memory usage: 89.3438 MB
+Average memory usage: 89.3438 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.670649760853911e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.23547819417317e-05
+CPU Energy (kWh): 8.806662600880505e-06
+RAM Energy (kWh): 1.0767184828516464e-05
+Total Energy (kWh): 1.957384742939697e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth1.max.bbk...
+building... 0.0189879 seconds
+solving... 0.0261155 seconds
+total: 0.0451034 seconds, maxflow: 275285
+Maximum memory usage: 89.3477 MB
+Average memory usage: 89.3477 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.4405232312411905e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.246676479985927e-05
+CPU Energy (kWh): 4.578408662719857e-06
+RAM Energy (kWh): 5.517201093441316e-06
+Total Energy (kWh): 1.0095609756161172e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth19.max.bbk...
+building... 0.0176144 seconds
+solving... 0.0237546 seconds
+total: 0.041369 seconds, maxflow: 244304
+Maximum memory usage: 89.3086 MB
+Average memory usage: 89.3086 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.4713258531504853e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.262794414441764e-05
+CPU Energy (kWh): 4.647700384826509e-06
+RAM Energy (kWh): 5.538294242867892e-06
+Total Energy (kWh): 1.01859946276944e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth10.max.bbk...
+building... 0.0189952 seconds
+solving... 0.0430093 seconds
+total: 0.0620045 seconds, maxflow: 684428
+Maximum memory usage: 89.3516 MB
+Average memory usage: 89.3516 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.96319122866906e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.699840596318941e-05
+CPU Energy (kWh): 6.05206595276353e-06
+RAM Energy (kWh): 5.577221031951751e-06
+Total Energy (kWh): 1.1629286984715282e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth0.max.bbk...
+building... 0.0185596 seconds
+solving... 0.0234563 seconds
+total: 0.0420159 seconds, maxflow: 265530
+Maximum memory usage: 89.3945 MB
+Average memory usage: 89.3945 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.936809641969903e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.679815037016809e-05
+CPU Energy (kWh): 5.985418954999183e-06
+RAM Energy (kWh): 5.566455907732859e-06
+Total Energy (kWh): 1.155187486273204e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth4.max.bbk...
+building... 0.0185195 seconds
+solving... 0.0365739 seconds
+total: 0.0550934 seconds, maxflow: 229150
+Maximum memory usage: 89.4375 MB
+Average memory usage: 89.4375 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.943813173301262e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6927556821648544e-05
+CPU Energy (kWh): 6.015410923439213e-06
+RAM Energy (kWh): 5.557014569090768e-06
+Total Energy (kWh): 1.157242549252998e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth6.max.bbk...
+building... 0.0186304 seconds
+solving... 0.0365109 seconds
+total: 0.0551413 seconds, maxflow: 446549
+Maximum memory usage: 89.4375 MB
+Average memory usage: 89.4375 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.936873631331913e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.696722206911908e-05
+CPU Energy (kWh): 6.011308142376409e-06
+RAM Energy (kWh): 5.540754485873833e-06
+Total Energy (kWh): 1.1552062628250244e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth18.max.bbk...
+building... 0.0184731 seconds
+solving... 0.0337972 seconds
+total: 0.0522704 seconds, maxflow: 454019
+Maximum memory usage: 89.2852 MB
+Average memory usage: 89.2852 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.937767626377067e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.683049720671272e-05
+CPU Energy (kWh): 5.991776737861859e-06
+RAM Energy (kWh): 5.562909161470486e-06
+Total Energy (kWh): 1.1554685899332345e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth11.max.bbk...
+building... 0.0184965 seconds
+solving... 0.030499 seconds
+total: 0.0489954 seconds, maxflow: 295774
+Maximum memory usage: 89.2852 MB
+Average memory usage: 89.2852 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.944015193912774e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.709814940691738e-05
+CPU Energy (kWh): 6.041130666233074e-06
+RAM Energy (kWh): 5.531887620217901e-06
+Total Energy (kWh): 1.1573018286450976e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth9.max.bbk...
+building... 0.0185802 seconds
+solving... 0.047271 seconds
+total: 0.0658511 seconds, maxflow: 889575
+Maximum memory usage: 89.2461 MB
+Average memory usage: 89.2461 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.958144451325137e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.71783578770389e-05
+CPU Energy (kWh): 6.073885970216131e-06
+RAM Energy (kWh): 5.540592134812528e-06
+Total Energy (kWh): 1.161447810502866e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth14.max.bbk...
+building... 0.0184669 seconds
+solving... 0.0452631 seconds
+total: 0.06373 seconds, maxflow: 316600
+Maximum memory usage: 89.3828 MB
+Average memory usage: 89.3828 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.975048494831943e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.731181755169052e-05
+CPU Energy (kWh): 6.119204339807838e-06
+RAM Energy (kWh): 5.544875705122365e-06
+Total Energy (kWh): 1.1664080044930205e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth7.max.bbk...
+building... 0.0187861 seconds
+solving... 0.0490796 seconds
+total: 0.0678656 seconds, maxflow: 596993
+Maximum memory usage: 89.4375 MB
+Average memory usage: 89.4375 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 4.039951695460411e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.81015444442914e-05
+CPU Energy (kWh): 6.336489235852366e-06
+RAM Energy (kWh): 5.518037825834199e-06
+Total Energy (kWh): 1.1854527061686564e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth17.max.bbk...
+building... 0.0186988 seconds
+solving... 0.00596473 seconds
+total: 0.0246635 seconds, maxflow: 0
+Maximum memory usage: 89.2734 MB
+Average memory usage: 89.2734 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 4.001921767384005e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.76287369789583e-05
+CPU Energy (kWh): 6.209061633909857e-06
+RAM Energy (kWh): 5.533873298583103e-06
+Total Energy (kWh): 1.174293493249296e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth8.max.bbk...
+building... 0.0184642 seconds
+solving... 0.0588806 seconds
+total: 0.0773448 seconds, maxflow: 492170
+Maximum memory usage: 89.3711 MB
+Average memory usage: 89.3711 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 7.669461259139988e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.710288402375084e-05
+CPU Energy (kWh): 1.1714507704936594e-05
+RAM Energy (kWh): 1.0790176236506e-05
+Total Energy (kWh): 2.2504683941442598e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth3.max.bbk...
+building... 0.0184669 seconds
+solving... 0.0665837 seconds
+total: 0.0850506 seconds, maxflow: 630526
+Maximum memory usage: 89.2773 MB
+Average memory usage: 89.2773 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 7.752383782996151e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.758567298209122e-05
+CPU Energy (kWh): 1.1978060693550174e-05
+RAM Energy (kWh): 1.0769944796558664e-05
+Total Energy (kWh): 2.2748005490108835e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth12.max.bbk...
+building... 0.0188579 seconds
+solving... 0.0335578 seconds
+total: 0.0524157 seconds, maxflow: 300621
+Maximum memory usage: 89.2773 MB
+Average memory usage: 89.2773 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.976448302918401e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.744722660781989e-05
+CPU Energy (kWh): 6.139634356149698e-06
+RAM Energy (kWh): 5.528553179189544e-06
+Total Energy (kWh): 1.166818753533924e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth15.max.bbk...
+building... 0.0187524 seconds
+solving... 0.0410797 seconds
+total: 0.0598321 seconds, maxflow: 359799
+Maximum memory usage: 89.2812 MB
+Average memory usage: 89.2812 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 4.045460302634387e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.806653234976347e-05
+CPU Energy (kWh): 6.339490349366317e-06
+RAM Energy (kWh): 5.531200750343147e-06
+Total Energy (kWh): 1.1870691099709464e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth16.max.bbk...
+building... 0.0176625 seconds
+solving... 0.050847 seconds
+total: 0.0685095 seconds, maxflow: 230840
+Maximum memory usage: 89.2734 MB
+Average memory usage: 89.2734 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.487161224050698e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2821136337624014e-05
+CPU Energy (kWh): 4.700173482360265e-06
+RAM Energy (kWh): 5.532287253599577e-06
+Total Energy (kWh): 1.023246073595984e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth13.max.bbk...
+building... 0.0176575 seconds
+solving... 0.0599365 seconds
+total: 0.077594 seconds, maxflow: 1333498
+Maximum memory usage: 89.3164 MB
+Average memory usage: 89.3164 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.78868064447334e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.280897094924459e-05
+CPU Energy (kWh): 9.114601180564702e-06
+RAM Energy (kWh): 1.0805587098786872e-05
+Total Energy (kWh): 1.992018827935157e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba0.max.bbk...
+building... 0.0118966 seconds
+solving... 0.0223612 seconds
+total: 0.0342578 seconds, maxflow: 34669
+Maximum memory usage: 89.2539 MB
+Average memory usage: 89.2539 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.4438514680517104e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.233477865919104e-05
+CPU Energy (kWh): 4.561861427266473e-06
+RAM Energy (kWh): 5.543514453916032e-06
+Total Energy (kWh): 1.0105375881182503e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba1.max.bbk...
+building... 0.0112028 seconds
+solving... 0.0467687 seconds
+total: 0.0579715 seconds, maxflow: 264801
+Maximum memory usage: 89.3164 MB
+Average memory usage: 89.3164 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.432418892863053e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.232069751029584e-05
+CPU Energy (kWh): 4.540515854637578e-06
+RAM Energy (kWh): 5.531313147231743e-06
+Total Energy (kWh): 1.007182900186932e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba2.max.bbk...
+building... 0.0114215 seconds
+solving... 0.0235026 seconds
+total: 0.034924 seconds, maxflow: 41538
+Maximum memory usage: 89.3789 MB
+Average memory usage: 89.3789 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.469247205790688e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2584893445741115e-05
+CPU Energy (kWh): 4.6373923210212e-06
+RAM Energy (kWh): 5.542502881918665e-06
+Total Energy (kWh): 1.0179895202939863e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba3.max.bbk...
+building... 0.011404 seconds
+solving... 0.0163022 seconds
+total: 0.0277062 seconds, maxflow: 35379
+Maximum memory usage: 89.418 MB
+Average memory usage: 89.418 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.419867865433331e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.216409798919747e-05
+CPU Energy (kWh): 4.50111443421955e-06
+RAM Energy (kWh): 5.533885787126281e-06
+Total Energy (kWh): 1.0035000221345831e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba4.max.bbk...
+building... 0.0114739 seconds
+solving... 0.0311051 seconds
+total: 0.042579 seconds, maxflow: 48947
+Maximum memory usage: 89.2344 MB
+Average memory usage: 89.2344 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.497066612471205e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2972373791063106e-05
+CPU Energy (kWh): 4.740778514842475e-06
+RAM Energy (kWh): 5.520747839703689e-06
+Total Energy (kWh): 1.0261526354546165e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba5.max.bbk...
+building... 0.0120941 seconds
+solving... 0.0420249 seconds
+total: 0.0541189 seconds, maxflow: 74372
+Maximum memory usage: 89.3008 MB
+Average memory usage: 89.3008 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.4375587190318296e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.240459719574704e-05
+CPU Energy (kWh): 4.563115872713297e-06
+RAM Energy (kWh): 5.523795044238966e-06
+Total Energy (kWh): 1.0086910916952263e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba6.max.bbk...
+building... 0.0110934 seconds
+solving... 0.0344131 seconds
+total: 0.0455065 seconds, maxflow: 187576
+Maximum memory usage: 89.4023 MB
+Average memory usage: 89.4023 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.433475967518157e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.238525314769817e-05
+CPU Energy (kWh): 4.554045587679828e-06
+RAM Energy (kWh): 5.520885213678639e-06
+Total Energy (kWh): 1.0074930801358469e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba7.max.bbk...
+building... 0.0110928 seconds
+solving... 0.0187795 seconds
+total: 0.0298723 seconds, maxflow: 41095
+Maximum memory usage: 89.3477 MB
+Average memory usage: 89.3477 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.4377326704536275e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2393714622803e-05
+CPU Energy (kWh): 4.563488928563397e-06
+RAM Energy (kWh): 5.523932418213917e-06
+Total Energy (kWh): 1.0087421346777311e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba8.max.bbk...
+building... 0.0111243 seconds
+solving... 0.0275296 seconds
+total: 0.0386539 seconds, maxflow: 54458
+Maximum memory usage: 89.3672 MB
+Average memory usage: 89.3672 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.476289552113885e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.276476469821841e-05
+CPU Energy (kWh): 4.677489019763725e-06
+RAM Energy (kWh): 5.523070708734679e-06
+Total Energy (kWh): 1.0200559728498404e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba9.max.bbk...
+building... 0.0114725 seconds
+solving... 0.0337643 seconds
+total: 0.0452368 seconds, maxflow: 298716
+Maximum memory usage: 89.3125 MB
+Average memory usage: 89.3125 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.41305448553423e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.220516276696864e-05
+CPU Energy (kWh): 4.496994708703961e-06
+RAM Energy (kWh): 5.518012848747844e-06
+Total Energy (kWh): 1.0015007557451804e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba10.max.bbk...
+building... 0.0113984 seconds
+solving... 0.0547452 seconds
+total: 0.0661436 seconds, maxflow: 236298
+Maximum memory usage: 89.3047 MB
+Average memory usage: 89.3047 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.4544084511815744e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.254485481546259e-05
+CPU Energy (kWh): 4.611384522439782e-06
+RAM Energy (kWh): 5.524968967297639e-06
+Total Energy (kWh): 1.013635348973742e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba11.max.bbk...
+building... 0.0124969 seconds
+solving... 0.0208439 seconds
+total: 0.0333408 seconds, maxflow: 42705
+Maximum memory usage: 89.3945 MB
+Average memory usage: 89.3945 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.819083104495355e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.594873211139677e-05
+CPU Energy (kWh): 5.675038984472025e-06
+RAM Energy (kWh): 5.531388078490807e-06
+Total Energy (kWh): 1.1206427062962833e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba12.max.bbk...
+building... 0.0122397 seconds
+solving... 0.0190238 seconds
+total: 0.0312635 seconds, maxflow: 38887
+Maximum memory usage: 89.2734 MB
+Average memory usage: 89.2734 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.856169725798439e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.632521685508788e-05
+CPU Energy (kWh): 5.789208242477917e-06
+RAM Energy (kWh): 5.526042982010892e-06
+Total Energy (kWh): 1.131525122448881e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba13.max.bbk...
+building... 0.0123783 seconds
+solving... 0.00396292 seconds
+total: 0.0163412 seconds, maxflow: 0
+Maximum memory usage: 89.2891 MB
+Average memory usage: 89.2891 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.92991679907229e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.704079691601203e-05
+CPU Energy (kWh): 6.00786647296167e-06
+RAM Energy (kWh): 5.523782555695789e-06
+Total Energy (kWh): 1.153164902865746e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba14.max.bbk...
+building... 0.0126503 seconds
+solving... 0.0191633 seconds
+total: 0.0318136 seconds, maxflow: 50599
+Maximum memory usage: 89.293 MB
+Average memory usage: 89.293 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.820446091457298e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5944218488315995e-05
+CPU Energy (kWh): 5.676615652396716e-06
+RAM Energy (kWh): 5.533810855867216e-06
+Total Energy (kWh): 1.1210426508263932e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba15.max.bbk...
+building... 0.0124543 seconds
+solving... 0.0127095 seconds
+total: 0.0251638 seconds, maxflow: 33349
+Maximum memory usage: 89.3438 MB
+Average memory usage: 89.3438 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.802667647941381e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.580208876125974e-05
+CPU Energy (kWh): 5.62819450255006e-06
+RAM Energy (kWh): 5.530064292914006e-06
+Total Energy (kWh): 1.1158258795464068e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus0.max.bbk...
+building... 0.0185362 seconds
+solving... 0.0392682 seconds
+total: 0.0578044 seconds, maxflow: 360038
+Maximum memory usage: 89.2539 MB
+Average memory usage: 89.2539 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.825689728849618e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.601673946388893e-05
+CPU Energy (kWh): 5.695773723279896e-06
+RAM Energy (kWh): 5.530039315827651e-06
+Total Energy (kWh): 1.1225813039107547e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus1.max.bbk...
+building... 0.018295 seconds
+solving... 0.0365694 seconds
+total: 0.0548645 seconds, maxflow: 274732
+Maximum memory usage: 89.4297 MB
+Average memory usage: 89.4297 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.867564923752373e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.649493474577614e-05
+CPU Energy (kWh): 5.830762997940941e-06
+RAM Energy (kWh): 5.517925428945603e-06
+Total Energy (kWh): 1.1348688426886544e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus2.max.bbk...
+building... 0.0187672 seconds
+solving... 0.0372271 seconds
+total: 0.0559942 seconds, maxflow: 234246
+Maximum memory usage: 89.2695 MB
+Average memory usage: 89.2695 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.865847418473872e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.643978733458279e-05
+CPU Energy (kWh): 5.820590489803018e-06
+RAM Energy (kWh): 5.523058220191502e-06
+Total Energy (kWh): 1.134364870999452e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus3.max.bbk...
+building... 0.0188603 seconds
+solving... 0.0940437 seconds
+total: 0.112904 seconds, maxflow: 413666
+Maximum memory usage: 89.3047 MB
+Average memory usage: 89.3047 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 7.553793096661809e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6655646222721656e-05
+CPU Energy (kWh): 1.1404348012361565e-05
+RAM Energy (kWh): 1.0760928068384602e-05
+Total Energy (kWh): 2.2165276080746167e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus4.max.bbk...
+building... 0.0184848 seconds
+solving... 0.0534804 seconds
+total: 0.0719652 seconds, maxflow: 375637
+Maximum memory usage: 89.3789 MB
+Average memory usage: 89.3789 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.870040301518235e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.646644317173634e-05
+CPU Energy (kWh): 5.829796608278204e-06
+RAM Energy (kWh): 5.526155378899489e-06
+Total Energy (kWh): 1.1355951987177691e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus5.max.bbk...
+building... 0.0194445 seconds
+solving... 0.068609 seconds
+total: 0.0880534 seconds, maxflow: 403549
+Maximum memory usage: 89.3867 MB
+Average memory usage: 89.3867 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 7.489378797680972e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.630677592267767e-05
+CPU Energy (kWh): 1.120469535263735e-05
+RAM Energy (kWh): 1.077156830717172e-05
+Total Energy (kWh): 2.197626365980907e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus6.max.bbk...
+building... 0.0188331 seconds
+solving... 0.0712143 seconds
+total: 0.0900474 seconds, maxflow: 492993
+Maximum memory usage: 89.2812 MB
+Average memory usage: 89.2812 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 7.510133938486139e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6443827320710376e-05
+CPU Energy (kWh): 1.127622540986195e-05
+RAM Energy (kWh): 1.076094055692778e-05
+Total Energy (kWh): 2.203716596678973e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus7.max.bbk...
+building... 0.0190321 seconds
+solving... 0.143016 seconds
+total: 0.162048 seconds, maxflow: 266682
+Maximum memory usage: 89.3633 MB
+Average memory usage: 89.3633 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 7.555968715592369e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.660500749342092e-05
+CPU Energy (kWh): 1.1392361336105827e-05
+RAM Energy (kWh): 1.0779298715398511e-05
+Total Energy (kWh): 2.217166005150434e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus8.max.bbk...
+building... 0.0189487 seconds
+solving... 0.0893433 seconds
+total: 0.108292 seconds, maxflow: 332009
+Maximum memory usage: 89.418 MB
+Average memory usage: 89.418 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 7.530094525005485e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.651542494081482e-05
+CPU Energy (kWh): 1.1327477950861392e-05
+RAM Energy (kWh): 1.0768258843229717e-05
+Total Energy (kWh): 2.209573679409111e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus9.max.bbk...
+building... 0.0185506 seconds
+solving... 0.0887071 seconds
+total: 0.107258 seconds, maxflow: 455136
+Maximum memory usage: 89.3125 MB
+Average memory usage: 89.3125 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 7.577425108001232e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.678560202804463e-05
+CPU Energy (kWh): 1.147796307125054e-05
+RAM Energy (kWh): 1.0756656986617942e-05
+Total Energy (kWh): 2.2234620057868485e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus10.max.bbk...
+building... 0.0187603 seconds
+solving... 0.0806322 seconds
+total: 0.0993925 seconds, maxflow: 442371
+Maximum memory usage: 89.2852 MB
+Average memory usage: 89.2852 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 7.6010823934026955e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.689237902190255e-05
+CPU Energy (kWh): 1.1544084235259875e-05
+RAM Energy (kWh): 1.0759953962016769e-05
+Total Energy (kWh): 2.230403819727664e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus11.max.bbk...
+building... 0.0180711 seconds
+solving... 0.0948786 seconds
+total: 0.11295 seconds, maxflow: 850805
+Maximum memory usage: 89.2734 MB
+Average memory usage: 89.2734 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 7.486332369872815e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.631202693603179e-05
+CPU Energy (kWh): 1.1200863960683647e-05
+RAM Energy (kWh): 1.0766460493012176e-05
+Total Energy (kWh): 2.1967324453695825e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus12.max.bbk...
+building... 0.0188467 seconds
+solving... 0.0731718 seconds
+total: 0.0920185 seconds, maxflow: 340048
+Maximum memory usage: 89.2734 MB
+Average memory usage: 89.2734 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 7.557087852895248e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.661926905207515e-05
+CPU Energy (kWh): 1.1401414954457371e-05
+RAM Energy (kWh): 1.0773529008450569e-05
+Total Energy (kWh): 2.217494396290794e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus13.max.bbk...
+building... 0.019135 seconds
+solving... 0.0957489 seconds
+total: 0.114884 seconds, maxflow: 996632
+Maximum memory usage: 89.2812 MB
+Average memory usage: 89.2812 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 7.553588038948685e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.655513668767524e-05
+CPU Energy (kWh): 1.1378594380641316e-05
+RAM Energy (kWh): 1.0786079994343824e-05
+Total Energy (kWh): 2.216467437498514e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus14.max.bbk...
+building... 0.0188731 seconds
+solving... 0.0744888 seconds
+total: 0.0933619 seconds, maxflow: 448731
+Maximum memory usage: 89.375 MB
+Average memory usage: 89.375 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 7.5753194476816185e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.669328519226389e-05
+CPU Energy (kWh): 1.1452039994957336e-05
+RAM Energy (kWh): 1.0776401373381364e-05
+Total Energy (kWh): 2.22284413683387e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus15.max.bbk...
+building... 0.0185702 seconds
+solving... 0.084117 seconds
+total: 0.102687 seconds, maxflow: 1149848
+Maximum memory usage: 89.4141 MB
+Average memory usage: 89.4141 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 7.4531975741384526e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6090831988915874e-05
+CPU Energy (kWh): 1.1088711926517114e-05
+RAM Energy (kWh): 1.0781384302109132e-05
+Total Energy (kWh): 2.187009622862625e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus16.max.bbk...
+building... 0.018748 seconds
+solving... 0.0447715 seconds
+total: 0.0635195 seconds, maxflow: 210033
+Maximum memory usage: 89.2695 MB
+Average memory usage: 89.2695 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.928768961662414e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6894505764136215e-05
+CPU Energy (kWh): 5.986877011723152e-06
+RAM Energy (kWh): 5.541403890119057e-06
+Total Energy (kWh): 1.1528280901842208e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus17.max.bbk...
+building... 0.0194629 seconds
+solving... 0.0395672 seconds
+total: 0.0590302 seconds, maxflow: 259189
+Maximum memory usage: 89.2578 MB
+Average memory usage: 89.2578 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.954705372561648e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.712053441652824e-05
+CPU Energy (kWh): 6.06079734863374e-06
+RAM Energy (kWh): 5.543589385175097e-06
+Total Energy (kWh): 1.1604386733808835e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus18.max.bbk...
+building... 0.0185183 seconds
+solving... 0.0442414 seconds
+total: 0.0627597 seconds, maxflow: 417740
+Maximum memory usage: 89.3828 MB
+Average memory usage: 89.3828 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.8803435502682635e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.642629279695341e-05
+CPU Energy (kWh): 5.8436821749434376e-06
+RAM Energy (kWh): 5.542502881918665e-06
+Total Energy (kWh): 1.1386185056862105e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus19.max.bbk...
+building... 0.0188901 seconds
+solving... 0.00647673 seconds
+total: 0.0253668 seconds, maxflow: 0
+Maximum memory usage: 89.5391 MB
+Average memory usage: 89.5391 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.748120542379428e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.52464373741866e-05
+CPU Energy (kWh): 5.462840481383624e-06
+RAM Energy (kWh): 5.53535943522121e-06
+Total Energy (kWh): 1.0998199916604837e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus20.max.bbk...
+building... 0.017494 seconds
+solving... 0.0311405 seconds
+total: 0.0486344 seconds, maxflow: 222776
+Maximum memory usage: 89.3086 MB
+Average memory usage: 89.3086 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.868394364473816e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6380237127491614e-05
+CPU Energy (kWh): 5.815300763351017e-06
+RAM Energy (kWh): 5.535821511318773e-06
+Total Energy (kWh): 1.135112227466979e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus21.max.bbk...
+building... 0.0187871 seconds
+solving... 0.0313499 seconds
+total: 0.050137 seconds, maxflow: 310114
+Maximum memory usage: 89.3125 MB
+Average memory usage: 89.3125 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.839019252833224e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.602683508761794e-05
+CPU Energy (kWh): 5.72042513189569e-06
+RAM Energy (kWh): 5.544501048827044e-06
+Total Energy (kWh): 1.1264926180722737e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth2.max.bbk...
+building... 0.0120832 seconds
+solving... 0.0343476 seconds
+total: 0.0464308 seconds, maxflow: 617013
+Maximum memory usage: 89.4414 MB
+Average memory usage: 89.4414 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.908211349147219e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.661471871379752e-05
+CPU Energy (kWh): 5.913990842300321e-06
+RAM Energy (kWh): 5.55396736455549e-06
+Total Energy (kWh): 1.1467958206855813e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth5.max.bbk...
+building... 0.0118873 seconds
+solving... 0.0437712 seconds
+total: 0.0556586 seconds, maxflow: 753315
+Maximum memory usage: 89.3594 MB
+Average memory usage: 89.3594 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.880569463647346e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.63440611997926e-05
+CPU Energy (kWh): 5.831169664932689e-06
+RAM Energy (kWh): 5.55567829497079e-06
+Total Energy (kWh): 1.1386847959903478e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth1.max.bbk...
+building... 0.0116209 seconds
+solving... 0.0211565 seconds
+total: 0.0327774 seconds, maxflow: 275285
+Maximum memory usage: 89.2773 MB
+Average memory usage: 89.2773 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.8417091672587575e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.610353416714483e-05
+CPU Energy (kWh): 5.735599032920258e-06
+RAM Energy (kWh): 5.537220228154638e-06
+Total Energy (kWh): 1.1272819261074896e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth19.max.bbk...
+building... 0.01226 seconds
+solving... 0.0189081 seconds
+total: 0.0311681 seconds, maxflow: 244304
+Maximum memory usage: 89.4414 MB
+Average memory usage: 89.4414 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.87649817697531e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.634131154614576e-05
+CPU Energy (kWh): 5.8239813258489925e-06
+RAM Energy (kWh): 5.550920160020213e-06
+Total Energy (kWh): 1.1374901485869206e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth10.max.bbk...
+building... 0.011389 seconds
+solving... 0.0368268 seconds
+total: 0.0482158 seconds, maxflow: 684428
+Maximum memory usage: 89.3086 MB
+Average memory usage: 89.3086 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.870642970493847e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.639330558187766e-05
+CPU Energy (kWh): 5.822286046713171e-06
+RAM Energy (kWh): 5.535434366480274e-06
+Total Energy (kWh): 1.1357720413193444e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth0.max.bbk...
+building... 0.0118663 seconds
+solving... 0.0202773 seconds
+total: 0.0321436 seconds, maxflow: 265530
+Maximum memory usage: 89.2422 MB
+Average memory usage: 89.2422 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.883963534309727e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6420984850362246e-05
+CPU Energy (kWh): 5.846411621567016e-06
+RAM Energy (kWh): 5.550395641206762e-06
+Total Energy (kWh): 1.139680726277378e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth4.max.bbk...
+building... 0.0122945 seconds
+solving... 0.0323657 seconds
+total: 0.0446601 seconds, maxflow: 229150
+Maximum memory usage: 89.3242 MB
+Average memory usage: 89.3242 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.884086947661222e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6504735723781134e-05
+CPU Energy (kWh): 5.859686909966827e-06
+RAM Energy (kWh): 5.537482487561363e-06
+Total Energy (kWh): 1.139716939752819e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth6.max.bbk...
+building... 0.0121895 seconds
+solving... 0.0326088 seconds
+total: 0.0447983 seconds, maxflow: 446549
+Maximum memory usage: 89.3438 MB
+Average memory usage: 89.3438 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.824200583965088e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5956636021347994e-05
+CPU Energy (kWh): 5.686058993283755e-06
+RAM Energy (kWh): 5.535384412307565e-06
+Total Energy (kWh): 1.122144340559132e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth18.max.bbk...
+building... 0.0115906 seconds
+solving... 0.0298556 seconds
+total: 0.0414461 seconds, maxflow: 454019
+Maximum memory usage: 89.3633 MB
+Average memory usage: 89.3633 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.873844222037896e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.632503753852683e-05
+CPU Energy (kWh): 5.816131319568568e-06
+RAM Energy (kWh): 5.550982602736099e-06
+Total Energy (kWh): 1.1367113922304666e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth11.max.bbk...
+building... 0.0119948 seconds
+solving... 0.0264172 seconds
+total: 0.0384121 seconds, maxflow: 295774
+Maximum memory usage: 89.3281 MB
+Average memory usage: 89.3281 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.7928760779650937e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.558059476352249e-05
+CPU Energy (kWh): 5.58136696508782e-06
+RAM Energy (kWh): 5.548160191978014e-06
+Total Energy (kWh): 1.1129527157065834e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth9.max.bbk...
+building... 0.0116613 seconds
+solving... 0.0427812 seconds
+total: 0.0544424 seconds, maxflow: 889575
+Maximum memory usage: 89.2734 MB
+Average memory usage: 89.2734 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.817347274864508e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5917319521539485e-05
+CPU Energy (kWh): 5.669783146932533e-06
+RAM Energy (kWh): 5.531550429552112e-06
+Total Energy (kWh): 1.1201333576484645e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth14.max.bbk...
+building... 0.011734 seconds
+solving... 0.0399003 seconds
+total: 0.0516343 seconds, maxflow: 316600
+Maximum memory usage: 89.3477 MB
+Average memory usage: 89.3477 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.861078211897575e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.619230360944456e-05
+CPU Energy (kWh): 5.778222122571758e-06
+RAM Energy (kWh): 5.551432190290485e-06
+Total Energy (kWh): 1.1329654312862244e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth7.max.bbk...
+building... 0.0113385 seconds
+solving... 0.0446652 seconds
+total: 0.0560037 seconds, maxflow: 596993
+Maximum memory usage: 89.3008 MB
+Average memory usage: 89.3008 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.844408486705386e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.613092565350315e-05
+CPU Energy (kWh): 5.744855984771147e-06
+RAM Energy (kWh): 5.53588395403466e-06
+Total Energy (kWh): 1.1280739938805806e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth17.max.bbk...
+building... 0.0116307 seconds
+solving... 0.00400381 seconds
+total: 0.0156345 seconds, maxflow: 0
+Maximum memory usage: 89.4023 MB
+Average memory usage: 89.4023 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.822826324124451e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5939122490351774e-05
+CPU Energy (kWh): 5.681701767581981e-06
+RAM Energy (kWh): 5.535709114430177e-06
+Total Energy (kWh): 1.1217410882012158e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth8.max.bbk...
+building... 0.011657 seconds
+solving... 0.0519256 seconds
+total: 0.0635826 seconds, maxflow: 492170
+Maximum memory usage: 89.3086 MB
+Average memory usage: 89.3086 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.8889226332886066e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.638070118387811e-05
+CPU Energy (kWh): 5.848174956312596e-06
+RAM Energy (kWh): 5.563183909420389e-06
+Total Energy (kWh): 1.1411358865732984e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth3.max.bbk...
+building... 0.0113517 seconds
+solving... 0.0605184 seconds
+total: 0.0718701 seconds, maxflow: 630526
+Maximum memory usage: 89.2969 MB
+Average memory usage: 89.2969 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.7841626609761887e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5600693951046744e-05
+CPU Energy (kWh): 5.572533624691872e-06
+RAM Energy (kWh): 5.531425544120338e-06
+Total Energy (kWh): 1.1103959168812211e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth12.max.bbk...
+building... 0.0115758 seconds
+solving... 0.028347 seconds
+total: 0.0399227 seconds, maxflow: 300621
+Maximum memory usage: 89.2812 MB
+Average memory usage: 89.2812 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.85548567986788e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6229025217511024e-05
+CPU Energy (kWh): 5.772389617905022e-06
+RAM Energy (kWh): 5.540854394219253e-06
+Total Energy (kWh): 1.1313244012124274e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth15.max.bbk...
+building... 0.0117429 seconds
+solving... 0.0358972 seconds
+total: 0.0476401 seconds, maxflow: 359799
+Maximum memory usage: 89.3125 MB
+Average memory usage: 89.3125 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.880342845103616e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6534466308377e-05
+CPU Energy (kWh): 5.8568555188140414e-06
+RAM Energy (kWh): 5.529327468866541e-06
+Total Energy (kWh): 1.1386182987680585e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth16.max.bbk...
+building... 0.0115159 seconds
+solving... 0.0481784 seconds
+total: 0.0596943 seconds, maxflow: 230840
+Maximum memory usage: 89.3477 MB
+Average memory usage: 89.3477 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.85185196883152e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.617591514445638e-05
+CPU Energy (kWh): 5.759029607216998e-06
+RAM Energy (kWh): 5.543551919545564e-06
+Total Energy (kWh): 1.1302581526762562e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth13.max.bbk...
+building... 0.0114179 seconds
+solving... 0.0548242 seconds
+total: 0.0662421 seconds, maxflow: 1333498
+Maximum memory usage: 89.3789 MB
+Average memory usage: 89.3789 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.965866337936291e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.727225661779253e-05
+CPU Energy (kWh): 6.098842379068797e-06
+RAM Energy (kWh): 5.538294242867892e-06
+Total Energy (kWh): 1.1637136621936689e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba0.max.bbk...
+building... 0.00764905 seconds
+solving... 0.0160907 seconds
+total: 0.0237397 seconds, maxflow: 34669
+Maximum memory usage: 89.2383 MB
+Average memory usage: 89.2383 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.9590988082338826e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.728032644579383e-05
+CPU Energy (kWh): 6.089212371367808e-06
+RAM Energy (kWh): 5.528066126005627e-06
+Total Energy (kWh): 1.1617278497373436e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba1.max.bbk...
+building... 0.00764194 seconds
+solving... 0.0425319 seconds
+total: 0.0501739 seconds, maxflow: 264801
+Maximum memory usage: 89.3477 MB
+Average memory usage: 89.3477 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.3804559412944518e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.182854036499671e-05
+CPU Energy (kWh): 4.389962956409532e-06
+RAM Energy (kWh): 5.529389911582428e-06
+Total Energy (kWh): 9.91935286799196e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba2.max.bbk...
+building... 0.00716127 seconds
+solving... 0.0173724 seconds
+total: 0.0245337 seconds, maxflow: 41538
+Maximum memory usage: 89.2852 MB
+Average memory usage: 89.2852 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.4226760040206816e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2143730571723405e-05
+CPU Energy (kWh): 4.499351099477439e-06
+RAM Energy (kWh): 5.5438891102113534e-06
+Total Energy (kWh): 1.0043240209688791e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba3.max.bbk...
+building... 0.00785707 seconds
+solving... 0.012476 seconds
+total: 0.0203331 seconds, maxflow: 35379
+Maximum memory usage: 89.3477 MB
+Average memory usage: 89.3477 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.803872421810104e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.575043597202591e-05
+CPU Energy (kWh): 5.62800811351391e-06
+RAM Energy (kWh): 5.533785878780861e-06
+Total Energy (kWh): 1.116179399229477e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba4.max.bbk...
+building... 0.00756242 seconds
+solving... 0.0234716 seconds
+total: 0.031034 seconds, maxflow: 48947
+Maximum memory usage: 89.2773 MB
+Average memory usage: 89.2773 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.368973553614236e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1792582109527325e-05
+CPU Energy (kWh): 4.3681090500409525e-06
+RAM Energy (kWh): 5.517550772650282e-06
+Total Energy (kWh): 9.885659822691232e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba5.max.bbk...
+building... 0.00754562 seconds
+solving... 0.0321835 seconds
+total: 0.0397291 seconds, maxflow: 74372
+Maximum memory usage: 89.3164 MB
+Average memory usage: 89.3164 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.393336708712852e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.202184573625356e-05
+CPU Energy (kWh): 4.436451326934182e-06
+RAM Energy (kWh): 5.520697885530979e-06
+Total Energy (kWh): 9.95714921246516e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba6.max.bbk...
+building... 0.00752409 seconds
+solving... 0.0290295 seconds
+total: 0.0365536 seconds, maxflow: 187576
+Maximum memory usage: 89.2383 MB
+Average memory usage: 89.2383 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.417708701796409e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.225314271296993e-05
+CPU Energy (kWh): 4.510676664088581e-06
+RAM Energy (kWh): 5.51798787166149e-06
+Total Energy (kWh): 1.002866453575007e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba7.max.bbk...
+building... 0.00761573 seconds
+solving... 0.0132258 seconds
+total: 0.0208415 seconds, maxflow: 41095
+Maximum memory usage: 89.4102 MB
+Average memory usage: 89.4102 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.4301025560904614e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.238358383266845e-05
+CPU Energy (kWh): 4.550128917878843e-06
+RAM Energy (kWh): 5.514903201496679e-06
+Total Energy (kWh): 1.006503211937552e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba8.max.bbk...
+building... 0.007499 seconds
+solving... 0.0202287 seconds
+total: 0.0277277 seconds, maxflow: 54458
+Maximum memory usage: 89.3477 MB
+Average memory usage: 89.3477 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.4675672557497635e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2597729574487256e-05
+CPU Energy (kWh): 4.637832876928927e-06
+RAM Energy (kWh): 5.5371328083523965e-06
+Total Energy (kWh): 1.0174965685281324e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba9.max.bbk...
+building... 0.00761993 seconds
+solving... 0.0295186 seconds
+total: 0.0371385 seconds, maxflow: 298716
+Maximum memory usage: 89.3438 MB
+Average memory usage: 89.3438 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.429666575327348e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.227210351157909e-05
+CPU Energy (kWh): 4.530241679744779e-06
+RAM Energy (kWh): 5.53351113083096e-06
+Total Energy (kWh): 1.0063752810575738e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba10.max.bbk...
+building... 0.0075984 seconds
+solving... 0.0453229 seconds
+total: 0.0529213 seconds, maxflow: 236298
+Maximum memory usage: 89.4023 MB
+Average memory usage: 89.4023 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.350865673880861e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.156821761188196e-05
+CPU Energy (kWh): 4.304496776928735e-06
+RAM Energy (kWh): 5.528028660376094e-06
+Total Energy (kWh): 9.832525437304828e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba11.max.bbk...
+building... 0.00759709 seconds
+solving... 0.01629 seconds
+total: 0.0238871 seconds, maxflow: 42705
+Maximum memory usage: 89.3125 MB
+Average memory usage: 89.3125 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.3728970159444953e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.189879355024084e-05
+CPU Energy (kWh): 4.391336013067487e-06
+RAM Energy (kWh): 5.5058365191499095e-06
+Total Energy (kWh): 9.897172532217397e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba12.max.bbk...
+building... 0.00736354 seconds
+solving... 0.0127382 seconds
+total: 0.0201017 seconds, maxflow: 38887
+Maximum memory usage: 89.3789 MB
+Average memory usage: 89.3789 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.40565027569629e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2064604889837285e-05
+CPU Energy (kWh): 4.462018014052271e-06
+RAM Energy (kWh): 5.531263193059033e-06
+Total Energy (kWh): 9.993281207111303e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba13.max.bbk...
+building... 0.00745698 seconds
+solving... 0.00251615 seconds
+total: 0.00997314 seconds, maxflow: 0
+Maximum memory usage: 89.3008 MB
+Average memory usage: 89.3008 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.5201226208796097e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.317790064750562e-05
+CPU Energy (kWh): 4.806459122940615e-06
+RAM Energy (kWh): 5.522721029525712e-06
+Total Energy (kWh): 1.0329180152466328e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba14.max.bbk...
+building... 0.00797289 seconds
+solving... 0.0142695 seconds
+total: 0.0222424 seconds, maxflow: 50599
+Maximum memory usage: 89.4102 MB
+Average memory usage: 89.4102 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.426568332867293e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2110041522155684e-05
+CPU Energy (kWh): 4.506488882966703e-06
+RAM Energy (kWh): 5.548172680521191e-06
+Total Energy (kWh): 1.0054661563487893e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba15.max.bbk...
+building... 0.00785428 seconds
+solving... 0.00914386 seconds
+total: 0.0169981 seconds, maxflow: 33349
+Maximum memory usage: 89.3867 MB
+Average memory usage: 89.3867 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 4.045702762147488e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.7725449706728e-05
+CPU Energy (kWh): 6.2921708670650445e-06
+RAM Energy (kWh): 5.579231687403308e-06
+Total Energy (kWh): 1.1871402554468352e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus0.max.bbk...
+building... 0.011478 seconds
+solving... 0.0360925 seconds
+total: 0.0475705 seconds, maxflow: 360038
+Maximum memory usage: 89.3555 MB
+Average memory usage: 89.3555 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.8007915639893367e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.562146729829672e-05
+CPU Energy (kWh): 5.599660590837469e-06
+RAM Energy (kWh): 5.5530931665330745e-06
+Total Energy (kWh): 1.1152753757370545e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus1.max.bbk...
+building... 0.011438 seconds
+solving... 0.0314254 seconds
+total: 0.0428634 seconds, maxflow: 274732
+Maximum memory usage: 89.2812 MB
+Average memory usage: 89.2812 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.961464939792682e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.705106743620196e-05
+CPU Energy (kWh): 6.061899293960393e-06
+RAM Energy (kWh): 5.56232219994115e-06
+Total Energy (kWh): 1.1624221493901544e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus2.max.bbk...
+building... 0.0114498 seconds
+solving... 0.0339193 seconds
+total: 0.045369 seconds, maxflow: 234246
+Maximum memory usage: 89.3633 MB
+Average memory usage: 89.3633 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.948700849273504e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.685295970243421e-05
+CPU Energy (kWh): 6.015003978666195e-06
+RAM Energy (kWh): 5.571763538583241e-06
+Total Energy (kWh): 1.1586767517249436e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus3.max.bbk...
+building... 0.0117244 seconds
+solving... 0.0856906 seconds
+total: 0.0974149 seconds, maxflow: 413666
+Maximum memory usage: 89.3594 MB
+Average memory usage: 89.3594 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 7.844755138699273e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.791889607949371e-05
+CPU Energy (kWh): 1.2219810053615277e-05
+RAM Energy (kWh): 1.0799242918852767e-05
+Total Energy (kWh): 2.3019052972468044e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus4.max.bbk...
+building... 0.0116687 seconds
+solving... 0.0472537 seconds
+total: 0.0589225 seconds, maxflow: 375637
+Maximum memory usage: 89.3359 MB
+Average memory usage: 89.3359 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 4.077290837650079e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.81631357928002e-05
+CPU Energy (kWh): 6.404967068412981e-06
+RAM Energy (kWh): 5.559125132887744e-06
+Total Energy (kWh): 1.1964092201300723e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus5.max.bbk...
+building... 0.011879 seconds
+solving... 0.0611154 seconds
+total: 0.0729943 seconds, maxflow: 403549
+Maximum memory usage: 89.5859 MB
+Average memory usage: 89.5859 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 4.14059882656591e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.863808430834215e-05
+CPU Energy (kWh): 6.576696094686557e-06
+RAM Energy (kWh): 5.573162255419107e-06
+Total Energy (kWh): 1.2149858350105663e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus6.max.bbk...
+building... 0.0117665 seconds
+solving... 0.0642737 seconds
+total: 0.0760401 seconds, maxflow: 492993
+Maximum memory usage: 89.2734 MB
+Average memory usage: 89.2734 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 4.0253191850322015e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.770495661692607e-05
+CPU Energy (kWh): 6.258347506674783e-06
+RAM Energy (kWh): 5.553243029051203e-06
+Total Energy (kWh): 1.1811590535725986e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus7.max.bbk...
+building... 0.0123183 seconds
+solving... 0.14528 seconds
+total: 0.157598 seconds, maxflow: 266682
+Maximum memory usage: 89.2734 MB
+Average memory usage: 89.2734 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 7.734468648455596e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.738757500122959e-05
+CPU Energy (kWh): 1.1895069793821378e-05
+RAM Energy (kWh): 1.0800366887738733e-05
+Total Energy (kWh): 2.2695436681560112e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus8.max.bbk...
+building... 0.0121578 seconds
+solving... 0.0835476 seconds
+total: 0.0957054 seconds, maxflow: 332009
+Maximum memory usage: 89.3203 MB
+Average memory usage: 89.3203 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 7.801573706355035e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.768385414236889e-05
+CPU Energy (kWh): 1.2084159945097844e-05
+RAM Energy (kWh): 1.0808184715767767e-05
+Total Energy (kWh): 2.2892344660865613e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus9.max.bbk...
+building... 0.0117848 seconds
+solving... 0.0808056 seconds
+total: 0.0925904 seconds, maxflow: 455136
+Maximum memory usage: 89.3086 MB
+Average memory usage: 89.3086 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 7.884502898640533e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.807591930919853e-05
+CPU Energy (kWh): 1.2326689305789534e-05
+RAM Energy (kWh): 1.0808996471074296e-05
+Total Energy (kWh): 2.313568577686383e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus10.max.bbk...
+building... 0.011635 seconds
+solving... 0.0736212 seconds
+total: 0.0852562 seconds, maxflow: 442371
+Maximum memory usage: 89.418 MB
+Average memory usage: 89.418 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 7.62509383545025e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.68457051976036e-05
+CPU Energy (kWh): 1.1572567591381503e-05
+RAM Energy (kWh): 1.0801927955635905e-05
+Total Energy (kWh): 2.2374495547017408e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus11.max.bbk...
+building... 0.0114234 seconds
+solving... 0.0833351 seconds
+total: 0.0947585 seconds, maxflow: 850805
+Maximum memory usage: 89.3086 MB
+Average memory usage: 89.3086 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 7.827382017781705e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.78252866317144e-05
+CPU Energy (kWh): 1.2166421399794486e-05
+RAM Energy (kWh): 1.0801653207686002e-05
+Total Energy (kWh): 2.2968074607480486e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus12.max.bbk...
+building... 0.011573 seconds
+solving... 0.0644868 seconds
+total: 0.0760598 seconds, maxflow: 340048
+Maximum memory usage: 89.4102 MB
+Average memory usage: 89.4102 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 4.095647915101372e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.826007802601694e-05
+CPU Energy (kWh): 6.449166548214841e-06
+RAM Energy (kWh): 5.568791265307027e-06
+Total Energy (kWh): 1.2017957813521867e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus13.max.bbk...
+building... 0.0115572 seconds
+solving... 0.0857367 seconds
+total: 0.0972939 seconds, maxflow: 996632
+Maximum memory usage: 89.3086 MB
+Average memory usage: 89.3086 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.668107201031936e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2296660991804663e-05
+CPU Energy (kWh): 8.786351195742836e-06
+RAM Energy (kWh): 1.0780035539445976e-05
+Total Energy (kWh): 1.956638673518881e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus14.max.bbk...
+building... 0.0119733 seconds
+solving... 0.0675868 seconds
+total: 0.0795601 seconds, maxflow: 448731
+Maximum memory usage: 89.2773 MB
+Average memory usage: 89.2773 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.6673736744585285e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.228632263965856e-05
+CPU Energy (kWh): 8.780976747002622e-06
+RAM Energy (kWh): 1.0783257583585736e-05
+Total Energy (kWh): 1.956423433058836e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus15.max.bbk...
+building... 0.0120472 seconds
+solving... 0.0782601 seconds
+total: 0.0903073 seconds, maxflow: 1149848
+Maximum memory usage: 89.2734 MB
+Average memory usage: 89.2734 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.62923474293239e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2150931513804245e-05
+CPU Energy (kWh): 8.685761948602766e-06
+RAM Energy (kWh): 1.0766560401357595e-05
+Total Energy (kWh): 1.945232234996036e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus16.max.bbk...
+building... 0.0115716 seconds
+solving... 0.0399443 seconds
+total: 0.0515159 seconds, maxflow: 210033
+Maximum memory usage: 89.3945 MB
+Average memory usage: 89.3945 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.519749715530679e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.311492909694126e-05
+CPU Energy (kWh): 4.793201056785268e-06
+RAM Energy (kWh): 5.534884870580471e-06
+Total Energy (kWh): 1.0328085927365738e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus17.max.bbk...
+building... 0.0120763 seconds
+solving... 0.0364717 seconds
+total: 0.048548 seconds, maxflow: 259189
+Maximum memory usage: 89.2852 MB
+Average memory usage: 89.2852 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 4.035832555876361e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.782260894300624e-05
+CPU Energy (kWh): 6.289983920874931e-06
+RAM Energy (kWh): 5.552456250831028e-06
+Total Energy (kWh): 1.1842440171705958e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus18.max.bbk...
+building... 0.0119556 seconds
+solving... 0.039279 seconds
+total: 0.0512346 seconds, maxflow: 417740
+Maximum memory usage: 89.2852 MB
+Average memory usage: 89.2852 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 4.043947867191274e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.799255161935613e-05
+CPU Energy (kWh): 6.326672561333957e-06
+RAM Energy (kWh): 5.539580562815161e-06
+Total Energy (kWh): 1.1866253124149118e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus19.max.bbk...
+building... 0.0119528 seconds
+solving... 0.00390486 seconds
+total: 0.0158577 seconds, maxflow: 0
+Maximum memory usage: 89.418 MB
+Average memory usage: 89.418 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.902306338471889e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.655017124454676e-05
+CPU Energy (kWh): 5.8954772163832825e-06
+RAM Energy (kWh): 5.55515377615734e-06
+Total Energy (kWh): 1.1450630992540625e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus20.max.bbk...
+building... 0.0119491 seconds
+solving... 0.0275273 seconds
+total: 0.0394764 seconds, maxflow: 222776
+Maximum memory usage: 89.4023 MB
+Average memory usage: 89.4023 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.950875672201404e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.708267852560815e-05
+CPU Energy (kWh): 6.048573172191818e-06
+RAM Energy (kWh): 5.5445759800861085e-06
+Total Energy (kWh): 1.1593149152277926e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus21.max.bbk...
+building... 0.0120806 seconds
+solving... 0.0289771 seconds
+total: 0.0410577 seconds, maxflow: 310114
+Maximum memory usage: 89.2812 MB
+Average memory usage: 89.2812 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 4.010868877114284e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.763642243928379e-05
+CPU Energy (kWh): 6.223913312453089e-06
+RAM Energy (kWh): 5.545275338504041e-06
+Total Energy (kWh): 1.1769188650957129e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth2.max.bbk...
+building... 0.0119353 seconds
+init... 0.0118269 seconds
+solving... 0.0299652 seconds
+total: 0.0537275 seconds, maxflow: 617013
+Maximum memory usage: 89.3828 MB
+Average memory usage: 89.3828 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.9619415448716884e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.7203942286161577e-05
+CPU Energy (kWh): 6.082854866279464e-06
+RAM Energy (kWh): 5.5427651413253904e-06
+Total Energy (kWh): 1.1625620007604854e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth5.max.bbk...
+building... 0.0120758 seconds
+init... 0.0118185 seconds
+solving... 0.0389667 seconds
+total: 0.062861 seconds, maxflow: 753315
+Maximum memory usage: 89.3906 MB
+Average memory usage: 89.3906 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.977688225840374e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.739676914854622e-05
+CPU Energy (kWh): 6.136616298176023e-06
+RAM Energy (kWh): 5.535209572703082e-06
+Total Energy (kWh): 1.1671825870879104e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth1.max.bbk...
+building... 0.0120331 seconds
+init... 0.0111266 seconds
+solving... 0.017397 seconds
+total: 0.0405567 seconds, maxflow: 275285
+Maximum memory usage: 89.3867 MB
+Average memory usage: 89.3867 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.445674409566433e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.244340322845005e-05
+CPU Energy (kWh): 4.5807481090370805e-06
+RAM Energy (kWh): 5.529976873111764e-06
+Total Energy (kWh): 1.0110724982148845e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth19.max.bbk...
+building... 0.0115194 seconds
+init... 0.0114146 seconds
+solving... 0.0156477 seconds
+total: 0.0385816 seconds, maxflow: 244304
+Maximum memory usage: 89.2734 MB
+Average memory usage: 89.2734 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.512230382829662e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.30760137851672e-05
+CPU Energy (kWh): 4.777518544232806e-06
+RAM Energy (kWh): 5.528503225016835e-06
+Total Energy (kWh): 1.030602176924964e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth10.max.bbk...
+building... 0.0114603 seconds
+init... 0.0117954 seconds
+solving... 0.0333676 seconds
+total: 0.0566233 seconds, maxflow: 684428
+Maximum memory usage: 89.3047 MB
+Average memory usage: 89.3047 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.509980076344935e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.30424321487206e-05
+CPU Energy (kWh): 4.769329371011322e-06
+RAM Energy (kWh): 5.53008927000036e-06
+Total Energy (kWh): 1.0299418641011682e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth0.max.bbk...
+building... 0.011438 seconds
+init... 0.0110803 seconds
+solving... 0.0168189 seconds
+total: 0.0393372 seconds, maxflow: 265530
+Maximum memory usage: 89.2266 MB
+Average memory usage: 89.2266 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.4488572048482064e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.247730844899283e-05
+CPU Energy (kWh): 4.590886728259025e-06
+RAM Energy (kWh): 5.529177606348412e-06
+Total Energy (kWh): 1.0120064334607436e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth4.max.bbk...
+building... 0.0115286 seconds
+init... 0.0111314 seconds
+solving... 0.0271833 seconds
+total: 0.0498433 seconds, maxflow: 229150
+Maximum memory usage: 89.2852 MB
+Average memory usage: 89.2852 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.4117717370729536e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.213818252926243e-05
+CPU Energy (kWh): 4.485550255103887e-06
+RAM Energy (kWh): 5.525693302801927e-06
+Total Energy (kWh): 1.0011243557905814e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth6.max.bbk...
+building... 0.0113466 seconds
+init... 0.0110272 seconds
+solving... 0.027134 seconds
+total: 0.0495078 seconds, maxflow: 446549
+Maximum memory usage: 89.2812 MB
+Average memory usage: 89.2812 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.410454035983846e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.209477558631618e-05
+CPU Energy (kWh): 4.471817744114426e-06
+RAM Energy (kWh): 5.535559251912048e-06
+Total Energy (kWh): 1.0007376996026474e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth18.max.bbk...
+building... 0.0114995 seconds
+init... 0.0116757 seconds
+solving... 0.0259965 seconds
+total: 0.0491716 seconds, maxflow: 454019
+Maximum memory usage: 89.2578 MB
+Average memory usage: 89.2578 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.485698798168319e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.250691026397283e-05
+CPU Energy (kWh): 4.646140383576802e-06
+RAM Energy (kWh): 5.582029121075038e-06
+Total Energy (kWh): 1.022816950465184e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth11.max.bbk...
+building... 0.0120695 seconds
+init... 0.0114711 seconds
+solving... 0.021455 seconds
+total: 0.0449955 seconds, maxflow: 295774
+Maximum memory usage: 89.3164 MB
+Average memory usage: 89.3164 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.4550602653657386e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.256130835798852e-05
+CPU Energy (kWh): 4.614046469009203e-06
+RAM Energy (kWh): 5.524219654706997e-06
+Total Energy (kWh): 1.01382661237162e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth9.max.bbk...
+building... 0.0121073 seconds
+init... 0.0120276 seconds
+solving... 0.0374508 seconds
+total: 0.0615858 seconds, maxflow: 889575
+Maximum memory usage: 89.2852 MB
+Average memory usage: 89.2852 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.872139546627885e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.644716672945706e-05
+CPU Energy (kWh): 5.830661331196474e-06
+RAM Energy (kWh): 5.531450521206693e-06
+Total Energy (kWh): 1.1362111852403168e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth14.max.bbk...
+building... 0.0119522 seconds
+init... 0.0116193 seconds
+solving... 0.0353374 seconds
+total: 0.0589088 seconds, maxflow: 316600
+Maximum memory usage: 89.3984 MB
+Average memory usage: 89.3984 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.8335178051154225e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.606744488375296e-05
+CPU Energy (kWh): 5.71461012724428e-06
+RAM Energy (kWh): 5.53417302361936e-06
+Total Energy (kWh): 1.124878315086364e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth7.max.bbk...
+building... 0.012233 seconds
+init... 0.0119363 seconds
+solving... 0.0389239 seconds
+total: 0.0630932 seconds, maxflow: 596993
+Maximum memory usage: 89.3008 MB
+Average memory usage: 89.3008 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.858828409126397e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.628425390014098e-05
+CPU Energy (kWh): 5.785257961542223e-06
+RAM Energy (kWh): 5.537794701140797e-06
+Total Energy (kWh): 1.132305266268302e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth17.max.bbk...
+building... 0.0121991 seconds
+init... 0.0115188 seconds
+solving... 0.0025552 seconds
+total: 0.0262731 seconds, maxflow: 0
+Maximum memory usage: 89.3516 MB
+Average memory usage: 89.3516 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.842270304741837e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.61679654477104e-05
+CPU Energy (kWh): 5.74317765009158e-06
+RAM Energy (kWh): 5.531288170145388e-06
+Total Energy (kWh): 1.1274465820236968e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth8.max.bbk...
+building... 0.0121592 seconds
+init... 0.0121107 seconds
+solving... 0.0475354 seconds
+total: 0.0718052 seconds, maxflow: 492170
+Maximum memory usage: 89.3242 MB
+Average memory usage: 89.3242 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.896933646497308e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.669932322326459e-05
+CPU Energy (kWh): 5.90641250289986e-06
+RAM Energy (kWh): 5.528453270844125e-06
+Total Energy (kWh): 1.1434865773743986e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth3.max.bbk...
+building... 0.0118461 seconds
+init... 0.0116561 seconds
+solving... 0.0569144 seconds
+total: 0.0804165 seconds, maxflow: 630526
+Maximum memory usage: 89.332 MB
+Average memory usage: 89.332 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 7.417929286069062e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5915614633891286e-05
+CPU Energy (kWh): 1.0981714063135197e-05
+RAM Energy (kWh): 1.0784893582741973e-05
+Total Energy (kWh): 2.176660764587717e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth12.max.bbk...
+building... 0.0123305 seconds
+init... 0.0116602 seconds
+solving... 0.0247495 seconds
+total: 0.0487402 seconds, maxflow: 300621
+Maximum memory usage: 89.2773 MB
+Average memory usage: 89.2773 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.877435085363635e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.64910337988019e-05
+CPU Energy (kWh): 5.845513287520976e-06
+RAM Energy (kWh): 5.532137391081449e-06
+Total Energy (kWh): 1.1377650678602424e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth15.max.bbk...
+building... 0.0120423 seconds
+init... 0.0116644 seconds
+solving... 0.0325185 seconds
+total: 0.0562252 seconds, maxflow: 359799
+Maximum memory usage: 89.3867 MB
+Average memory usage: 89.3867 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.883350743347962e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.652924850237578e-05
+CPU Energy (kWh): 5.860873577581693e-06
+RAM Energy (kWh): 5.5341355579898285e-06
+Total Energy (kWh): 1.1395009135571524e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth16.max.bbk...
+building... 0.0117999 seconds
+init... 0.0117224 seconds
+solving... 0.0431817 seconds
+total: 0.066704 seconds, maxflow: 230840
+Maximum memory usage: 89.375 MB
+Average memory usage: 89.375 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.836015852253276e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.610107013188772e-05
+CPU Energy (kWh): 5.7241381904160615e-06
+RAM Energy (kWh): 5.531975040020143e-06
+Total Energy (kWh): 1.1256113230436204e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth13.max.bbk...
+building... 0.0123663 seconds
+init... 0.0119854 seconds
+solving... 0.0482671 seconds
+total: 0.0726187 seconds, maxflow: 1333498
+Maximum memory usage: 89.3906 MB
+Average memory usage: 89.3906 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.891577921270257e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.663638225714217e-05
+CPU Energy (kWh): 5.888424155178762e-06
+RAM Energy (kWh): 5.530726185702406e-06
+Total Energy (kWh): 1.1419150340881168e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba0.max.bbk...
+building... 0.00782652 seconds
+init... 0.007589 seconds
+solving... 0.0139262 seconds
+total: 0.0293417 seconds, maxflow: 34669
+Maximum memory usage: 89.3945 MB
+Average memory usage: 89.3945 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.8090742872612716e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.583771053626657e-05
+CPU Energy (kWh): 5.643334514665588e-06
+RAM Energy (kWh): 5.533723436064975e-06
+Total Energy (kWh): 1.1177057950730564e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba1.max.bbk...
+building... 0.00805817 seconds
+init... 0.00786006 seconds
+solving... 0.0405166 seconds
+total: 0.0564349 seconds, maxflow: 264801
+Maximum memory usage: 89.2773 MB
+Average memory usage: 89.2773 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.841863986846987e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6110410041856905e-05
+CPU Energy (kWh): 5.733767920346189e-06
+RAM Energy (kWh): 5.5395056315560965e-06
+Total Energy (kWh): 1.1273273551902286e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba2.max.bbk...
+building... 0.00803398 seconds
+init... 0.00801911 seconds
+solving... 0.0155591 seconds
+total: 0.0316121 seconds, maxflow: 41538
+Maximum memory usage: 89.3906 MB
+Average memory usage: 89.3906 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.834593695391014e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6083314095167966e-05
+CPU Energy (kWh): 5.718441519191042e-06
+RAM Energy (kWh): 5.533498642287782e-06
+Total Energy (kWh): 1.1251940161478824e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba3.max.bbk...
+building... 0.00807072 seconds
+init... 0.00803528 seconds
+solving... 0.00934557 seconds
+total: 0.0254516 seconds, maxflow: 35379
+Maximum memory usage: 89.3086 MB
+Average memory usage: 89.3086 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.855932804872894e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.620038048717125e-05
+CPU Energy (kWh): 5.768931004027089e-06
+RAM Energy (kWh): 5.545625017713007e-06
+Total Energy (kWh): 1.1314556021740096e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba4.max.bbk...
+building... 0.00776735 seconds
+init... 0.00805338 seconds
+solving... 0.0203675 seconds
+total: 0.0361882 seconds, maxflow: 48947
+Maximum memory usage: 89.2422 MB
+Average memory usage: 89.2422 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.801562934183177e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.581773762062016e-05
+CPU Energy (kWh): 5.628974225402317e-06
+RAM Energy (kWh): 5.526042982010892e-06
+Total Energy (kWh): 1.1155017207413207e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba5.max.bbk...
+building... 0.00806606 seconds
+init... 0.0080003 seconds
+solving... 0.0297806 seconds
+total: 0.045847 seconds, maxflow: 74372
+Maximum memory usage: 89.3555 MB
+Average memory usage: 89.3555 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.698220067432849e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.470280375344281e-05
+CPU Energy (kWh): 5.305963411438019e-06
+RAM Energy (kWh): 5.545812345860668e-06
+Total Energy (kWh): 1.0851775757298688e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba6.max.bbk...
+building... 0.00782784 seconds
+init... 0.00771522 seconds
+solving... 0.0255329 seconds
+total: 0.041076 seconds, maxflow: 187576
+Maximum memory usage: 89.3047 MB
+Average memory usage: 89.3047 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.7330038139419454e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5188067360430685e-05
+CPU Energy (kWh): 5.4298476772074444e-06
+RAM Energy (kWh): 5.5239948609298045e-06
+Total Energy (kWh): 1.0953842538137248e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba7.max.bbk...
+building... 0.00819224 seconds
+init... 0.00813906 seconds
+solving... 0.0114578 seconds
+total: 0.0277891 seconds, maxflow: 41095
+Maximum memory usage: 89.2852 MB
+Average memory usage: 89.2852 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.946040496822074e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.712161200024853e-05
+CPU Energy (kWh): 6.044775669143687e-06
+RAM Energy (kWh): 5.534185512162537e-06
+Total Energy (kWh): 1.1578961181306224e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba8.max.bbk...
+building... 0.00815106 seconds
+init... 0.00804653 seconds
+solving... 0.0175663 seconds
+total: 0.0337639 seconds, maxflow: 54458
+Maximum memory usage: 89.4062 MB
+Average memory usage: 89.4062 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.82051012668028e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.596369805569843e-05
+CPU Energy (kWh): 5.678751765221535e-06
+RAM Energy (kWh): 5.531862643131546e-06
+Total Energy (kWh): 1.1210614408353082e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba9.max.bbk...
+building... 0.0081433 seconds
+init... 0.00777379 seconds
+solving... 0.0275431 seconds
+total: 0.0434602 seconds, maxflow: 298716
+Maximum memory usage: 89.3438 MB
+Average memory usage: 89.3438 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.893310998357721e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.650447627316392e-05
+CPU Energy (kWh): 5.874589421889231e-06
+RAM Energy (kWh): 5.54964632861612e-06
+Total Energy (kWh): 1.1424235750505353e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba10.max.bbk...
+building... 0.00817681 seconds
+init... 0.00809147 seconds
+solving... 0.0453776 seconds
+total: 0.0616458 seconds, maxflow: 236298
+Maximum memory usage: 89.3789 MB
+Average memory usage: 89.3789 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.911642234714367e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.674337860568399e-05
+CPU Energy (kWh): 5.938082806015987e-06
+RAM Energy (kWh): 5.539942730567304e-06
+Total Energy (kWh): 1.1478025536583293e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba11.max.bbk...
+building... 0.00816982 seconds
+init... 0.00771326 seconds
+solving... 0.0139538 seconds
+total: 0.0298369 seconds, maxflow: 42705
+Maximum memory usage: 89.3359 MB
+Average memory usage: 89.3359 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.852179729150772e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.619593273630209e-05
+CPU Energy (kWh): 5.76462461169408e-06
+RAM Energy (kWh): 5.53891867002676e-06
+Total Energy (kWh): 1.130354328172084e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba12.max.bbk...
+building... 0.00811055 seconds
+init... 0.00772766 seconds
+solving... 0.0104682 seconds
+total: 0.0263064 seconds, maxflow: 38887
+Maximum memory usage: 89.3477 MB
+Average memory usage: 89.3477 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.849357679026438e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.615937145429469e-05
+CPU Energy (kWh): 5.755469604372399e-06
+RAM Energy (kWh): 5.539792868049176e-06
+Total Energy (kWh): 1.1295262472421574e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba13.max.bbk...
+building... 0.00786764 seconds
+init... 0.00759686 seconds
+solving... 0.00160568 seconds
+total: 0.0170702 seconds, maxflow: 0
+Maximum memory usage: 89.3906 MB
+Average memory usage: 89.3906 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.90564462979002e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6597456934369054e-05
+CPU Energy (kWh): 5.907158614607e-06
+RAM Energy (kWh): 5.553268006137557e-06
+Total Energy (kWh): 1.1460426620744556e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba14.max.bbk...
+building... 0.00829089 seconds
+init... 0.00764548 seconds
+solving... 0.0118029 seconds
+total: 0.0277393 seconds, maxflow: 50599
+Maximum memory usage: 89.3945 MB
+Average memory usage: 89.3945 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.876982463242964e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.642474151500516e-05
+CPU Energy (kWh): 5.835018556894778e-06
+RAM Energy (kWh): 5.541303981773638e-06
+Total Energy (kWh): 1.1376322538668416e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba15.max.bbk...
+building... 0.00797153 seconds
+init... 0.00804119 seconds
+solving... 0.00710229 seconds
+total: 0.023115 seconds, maxflow: 33349
+Maximum memory usage: 89.2383 MB
+Average memory usage: 89.2383 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.841554065508601e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.609859859881346e-05
+CPU Energy (kWh): 5.7341073650546415e-06
+RAM Energy (kWh): 5.53825677723836e-06
+Total Energy (kWh): 1.1272364142293004e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus0.max.bbk...
+building... 0.0123343 seconds
+init... 0.0120929 seconds
+solving... 0.0330431 seconds
+total: 0.0574703 seconds, maxflow: 360038
+Maximum memory usage: 89.2812 MB
+Average memory usage: 89.2812 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.886889429393945e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.645755074393017e-05
+CPU Energy (kWh): 5.856770518751497e-06
+RAM Energy (kWh): 5.548622268075576e-06
+Total Energy (kWh): 1.1405392786827074e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus1.max.bbk...
+building... 0.0119984 seconds
+init... 0.0116916 seconds
+solving... 0.0285902 seconds
+total: 0.0522802 seconds, maxflow: 274732
+Maximum memory usage: 89.3398 MB
+Average memory usage: 89.3398 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.896584167764553e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.64833773716801e-05
+CPU Energy (kWh): 5.876725812488381e-06
+RAM Energy (kWh): 5.557114477436187e-06
+Total Energy (kWh): 1.1433840289924568e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus2.max.bbk...
+building... 0.0123636 seconds
+init... 0.0121894 seconds
+solving... 0.0298462 seconds
+total: 0.0543992 seconds, maxflow: 234246
+Maximum memory usage: 89.3008 MB
+Average memory usage: 89.3008 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.908234547993262e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.666194116936206e-05
+CPU Energy (kWh): 5.920128347214337e-06
+RAM Energy (kWh): 5.5478979325712885e-06
+Total Energy (kWh): 1.1468026279785623e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus3.max.bbk...
+building... 0.0124328 seconds
+init... 0.0118867 seconds
+solving... 0.0807663 seconds
+total: 0.105086 seconds, maxflow: 413666
+Maximum memory usage: 89.3086 MB
+Average memory usage: 89.3086 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 7.451067332478454e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.607431113172867e-05
+CPU Energy (kWh): 1.1081574420805653e-05
+RAM Energy (kWh): 1.0782270988674725e-05
+Total Energy (kWh): 2.186384540948037e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus4.max.bbk...
+building... 0.0122252 seconds
+init... 0.0122213 seconds
+solving... 0.0419478 seconds
+total: 0.0663943 seconds, maxflow: 375637
+Maximum memory usage: 89.3125 MB
+Average memory usage: 89.3125 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.88972542008541e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.647680976332869e-05
+CPU Energy (kWh): 5.864230524711689e-06
+RAM Energy (kWh): 5.549483977554815e-06
+Total Energy (kWh): 1.1413714502266504e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus5.max.bbk...
+building... 0.0123857 seconds
+init... 0.0119787 seconds
+solving... 0.0561165 seconds
+total: 0.0804808 seconds, maxflow: 403549
+Maximum memory usage: 89.3086 MB
+Average memory usage: 89.3086 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 7.548904168673282e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.653221647019264e-05
+CPU Energy (kWh): 1.136353909082788e-05
+RAM Energy (kWh): 1.0787391291377446e-05
+Total Energy (kWh): 2.2150930382205325e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus6.max.bbk...
+building... 0.0124228 seconds
+init... 0.0116537 seconds
+solving... 0.0583396 seconds
+total: 0.0824162 seconds, maxflow: 492993
+Maximum memory usage: 89.3438 MB
+Average memory usage: 89.3438 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 7.496235553883181e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.625495197783576e-05
+CPU Energy (kWh): 1.120355979616905e-05
+RAM Energy (kWh): 1.0792823807659602e-05
+Total Energy (kWh): 2.199638360382865e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus7.max.bbk...
+building... 0.0123436 seconds
+init... 0.0121842 seconds
+solving... 0.128344 seconds
+total: 0.152871 seconds, maxflow: 266682
+Maximum memory usage: 89.3164 MB
+Average memory usage: 89.3164 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 7.636253849867587e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.696397872269722e-05
+CPU Energy (kWh): 1.1624209854919907e-05
+RAM Energy (kWh): 1.0783032789808544e-05
+Total Energy (kWh): 2.240724264472845e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus8.max.bbk...
+building... 0.011623 seconds
+init... 0.0111304 seconds
+solving... 0.0772351 seconds
+total: 0.0999886 seconds, maxflow: 332009
+Maximum memory usage: 89.4648 MB
+Average memory usage: 89.4648 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.7134378181776285e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.258070383279765e-05
+CPU Energy (kWh): 8.93921020691385e-06
+RAM Energy (kWh): 1.0760191244337136e-05
+Total Energy (kWh): 1.9699401451250988e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus9.max.bbk...
+building... 0.0113746 seconds
+init... 0.0109524 seconds
+solving... 0.0743745 seconds
+total: 0.0967015 seconds, maxflow: 455136
+Maximum memory usage: 89.3438 MB
+Average memory usage: 89.3438 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.744274395655122e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.272278309556701e-05
+CPU Energy (kWh): 9.026659999092357e-06
+RAM Energy (kWh): 1.0763225960329236e-05
+Total Energy (kWh): 1.9789885959421592e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus10.max.bbk...
+building... 0.0115837 seconds
+init... 0.0112339 seconds
+solving... 0.067317 seconds
+total: 0.0901347 seconds, maxflow: 442371
+Maximum memory usage: 89.3555 MB
+Average memory usage: 89.3555 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.659466780624205e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2280121988269e-05
+CPU Energy (kWh): 8.768990070739946e-06
+RAM Energy (kWh): 1.077204287181246e-05
+Total Energy (kWh): 1.9541032942552408e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus11.max.bbk...
+building... 0.0113921 seconds
+init... 0.0110122 seconds
+solving... 0.0731575 seconds
+total: 0.0955618 seconds, maxflow: 850805
+Maximum memory usage: 89.3789 MB
+Average memory usage: 89.3789 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.5683225324931835e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.181464453192002e-05
+CPU Energy (kWh): 8.493213461233107e-06
+RAM Energy (kWh): 1.0780372730111764e-05
+Total Energy (kWh): 1.927358619134487e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus12.max.bbk...
+building... 0.0111957 seconds
+init... 0.0111462 seconds
+solving... 0.0578673 seconds
+total: 0.0802092 seconds, maxflow: 340048
+Maximum memory usage: 89.3398 MB
+Average memory usage: 89.3398 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.63838642532971e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2145879547733905e-05
+CPU Energy (kWh): 8.696680568451298e-06
+RAM Energy (kWh): 1.0782495782451918e-05
+Total Energy (kWh): 1.947917635090321e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus13.max.bbk...
+building... 0.0119827 seconds
+init... 0.0117148 seconds
+solving... 0.0765657 seconds
+total: 0.100263 seconds, maxflow: 996632
+Maximum memory usage: 89.3594 MB
+Average memory usage: 89.3594 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 7.484528008874e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.608428041037117e-05
+CPU Energy (kWh): 1.1134013351649095e-05
+RAM Energy (kWh): 1.0828016522333429e-05
+Total Energy (kWh): 2.1962029873982524e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus14.max.bbk...
+building... 0.0116434 seconds
+init... 0.0111509 seconds
+solving... 0.0606452 seconds
+total: 0.0834395 seconds, maxflow: 448731
+Maximum memory usage: 89.2773 MB
+Average memory usage: 89.2773 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.7369448236892946e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2675049459608665e-05
+CPU Energy (kWh): 9.003229424799086e-06
+RAM Energy (kWh): 1.0765149195978552e-05
+Total Energy (kWh): 1.976837862077764e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus15.max.bbk...
+building... 0.0117133 seconds
+init... 0.0114247 seconds
+solving... 0.0684264 seconds
+total: 0.0915645 seconds, maxflow: 1149848
+Maximum memory usage: 89.3086 MB
+Average memory usage: 89.3086 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.7086417639635716e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.25378888538684e-05
+CPU Energy (kWh): 8.915033798684302e-06
+RAM Energy (kWh): 1.0770294475767628e-05
+Total Energy (kWh): 1.968532827445193e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus16.max.bbk...
+building... 0.0122188 seconds
+init... 0.0116006 seconds
+solving... 0.0364466 seconds
+total: 0.060266 seconds, maxflow: 210033
+Maximum memory usage: 89.3789 MB
+Average memory usage: 89.3789 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.4544003709946193e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.250943567955532e-05
+CPU Energy (kWh): 4.603992572078941e-06
+RAM Energy (kWh): 5.532337207772287e-06
+Total Energy (kWh): 1.0136329779851228e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus17.max.bbk...
+building... 0.011968 seconds
+init... 0.0121512 seconds
+solving... 0.0312568 seconds
+total: 0.055376 seconds, maxflow: 259189
+Maximum memory usage: 89.2734 MB
+Average memory usage: 89.2734 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.6757343353171304e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.4510721625925844e-05
+CPU Energy (kWh): 5.242605582975179e-06
+RAM Energy (kWh): 5.54318975179342e-06
+Total Energy (kWh): 1.07857953347686e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus18.max.bbk...
+building... 0.0121136 seconds
+init... 0.0118918 seconds
+solving... 0.0353365 seconds
+total: 0.0593419 seconds, maxflow: 417740
+Maximum memory usage: 89.3828 MB
+Average memory usage: 89.3828 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 4.057170816162527e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.799304257423286e-05
+CPU Energy (kWh): 6.34895063471308e-06
+RAM Energy (kWh): 5.5561029054388206e-06
+Total Energy (kWh): 1.19050535401519e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus19.max.bbk...
+building... 0.0120442 seconds
+init... 0.0113655 seconds
+solving... 0.0025895 seconds
+total: 0.0259992 seconds, maxflow: 0
+Maximum memory usage: 89.4609 MB
+Average memory usage: 89.4609 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.7210048680585117e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.474157139766821e-05
+CPU Energy (kWh): 5.346670388449437e-06
+RAM Energy (kWh): 5.571963355274079e-06
+Total Energy (kWh): 1.0918633743723516e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus20.max.bbk...
+building... 0.0118722 seconds
+init... 0.0117873 seconds
+solving... 0.0231744 seconds
+total: 0.0468339 seconds, maxflow: 222776
+Maximum memory usage: 89.2852 MB
+Average memory usage: 89.2852 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.899321009674532e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.634527522547696e-05
+CPU Energy (kWh): 5.859279965200748e-06
+RAM Energy (kWh): 5.58259110551802e-06
+Total Energy (kWh): 1.1441871070718768e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus21.max.bbk...
+building... 0.0121567 seconds
+init... 0.012107 seconds
+solving... 0.0247752 seconds
+total: 0.049039 seconds, maxflow: 310114
+Maximum memory usage: 89.2852 MB
+Average memory usage: 89.2852 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 4.023472156397703e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.7726833528873606e-05
+CPU Energy (kWh): 6.256499449644459e-06
+RAM Energy (kWh): 5.549671305702475e-06
+Total Energy (kWh): 1.1806170755346932e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth2.max.bbk...
+building...0.0254846 seconds
+init... 0.00749121 seconds
+solving... 0.0221457 seconds
+total: 0.0551216 seconds, maxflow: 617013
+Maximum memory usage: 89.3555 MB
+Average memory usage: 89.3555 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 4.013475451187792e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.75897356548022e-05
+CPU Energy (kWh): 6.22118386583298e-06
+RAM Energy (kWh): 5.555653317884435e-06
+Total Energy (kWh): 1.1776837183717414e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth5.max.bbk...
+building...0.0255183 seconds
+init... 0.00716178 seconds
+solving... 0.031431 seconds
+total: 0.064111 seconds, maxflow: 753315
+Maximum memory usage: 89.4023 MB
+Average memory usage: 89.4023 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.821192431955793e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.579930779549988e-05
+CPU Energy (kWh): 5.658237026591462e-06
+RAM Energy (kWh): 5.554379486480343e-06
+Total Energy (kWh): 1.1212616513071806e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth1.max.bbk...
+building...0.0250271 seconds
+init... 0.00750818 seconds
+solving... 0.0122656 seconds
+total: 0.0448009 seconds, maxflow: 275285
+Maximum memory usage: 89.3867 MB
+Average memory usage: 89.3867 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 4.01105663720387e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.73961453684929e-05
+CPU Energy (kWh): 6.189496340486267e-06
+RAM Energy (kWh): 5.580243259400675e-06
+Total Energy (kWh): 1.176973959988694e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth19.max.bbk...
+building...0.025276 seconds
+init... 0.00703617 seconds
+solving... 0.0107123 seconds
+total: 0.0430245 seconds, maxflow: 244304
+Maximum memory usage: 89.3984 MB
+Average memory usage: 89.3984 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 4.0216531919283635e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.775763818177686e-05
+CPU Energy (kWh): 6.258805007042234e-06
+RAM Energy (kWh): 5.542028317277925e-06
+Total Energy (kWh): 1.1800833324320158e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth10.max.bbk...
+building...0.0254313 seconds
+init... 0.00708649 seconds
+solving... 0.0238014 seconds
+total: 0.0563192 seconds, maxflow: 684428
+Maximum memory usage: 89.2773 MB
+Average memory usage: 89.2773 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.999090078888908e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.747475270836848e-05
+CPU Energy (kWh): 6.181782445421891e-06
+RAM Energy (kWh): 5.552843395669527e-06
+Total Energy (kWh): 1.1734625841091415e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth0.max.bbk...
+building...0.0251106 seconds
+init... 0.00755917 seconds
+solving... 0.0127295 seconds
+total: 0.0453993 seconds, maxflow: 265530
+Maximum memory usage: 89.3008 MB
+Average memory usage: 89.3008 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.991224718300843e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.746650657073051e-05
+CPU Energy (kWh): 6.168931046247883e-06
+RAM Energy (kWh): 5.542615278807261e-06
+Total Energy (kWh): 1.1711546325055143e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth4.max.bbk...
+building...0.0249977 seconds
+init... 0.00737236 seconds
+solving... 0.0241357 seconds
+total: 0.0565057 seconds, maxflow: 229150
+Maximum memory usage: 89.3828 MB
+Average memory usage: 89.3828 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.884047860556508e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.639378563835061e-05
+CPU Energy (kWh): 5.844173842001199e-06
+RAM Energy (kWh): 5.552880861299059e-06
+Total Energy (kWh): 1.139705470330026e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth6.max.bbk...
+building...0.0239441 seconds
+init... 0.00693063 seconds
+solving... 0.0186875 seconds
+total: 0.0495622 seconds, maxflow: 446549
+Maximum memory usage: 89.3359 MB
+Average memory usage: 89.3359 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.487062082041579e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.287922784444382e-05
+CPU Energy (kWh): 4.710685157435779e-06
+RAM Energy (kWh): 5.5214846637511526e-06
+Total Energy (kWh): 1.0232169821186931e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth18.max.bbk...
+building...0.025026 seconds
+init... 0.00715505 seconds
+solving... 0.0187188 seconds
+total: 0.0508999 seconds, maxflow: 454019
+Maximum memory usage: 89.3789 MB
+Average memory usage: 89.3789 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.5475197871106054e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.357100957120073e-05
+CPU Energy (kWh): 4.905471702155995e-06
+RAM Energy (kWh): 5.504100611648256e-06
+Total Energy (kWh): 1.040957231380425e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth11.max.bbk...
+building...0.0259466 seconds
+init... 0.00757079 seconds
+solving... 0.0161117 seconds
+total: 0.0496291 seconds, maxflow: 295774
+Maximum memory usage: 89.2383 MB
+Average memory usage: 89.2383 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.4761086376660575e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.275363846051282e-05
+CPU Energy (kWh): 4.6748101287380495e-06
+RAM Energy (kWh): 5.525218738161186e-06
+Total Energy (kWh): 1.0200028866899236e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth9.max.bbk...
+building...0.0239483 seconds
+init... 0.0070575 seconds
+solving... 0.0285312 seconds
+total: 0.059537 seconds, maxflow: 889575
+Maximum memory usage: 89.4375 MB
+Average memory usage: 89.4375 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.4356282571292937e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.238443428955821e-05
+CPU Energy (kWh): 4.557588646071642e-06
+RAM Energy (kWh): 5.523657670264015e-06
+Total Energy (kWh): 1.0081246316335655e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth14.max.bbk...
+building...0.0251841 seconds
+init... 0.00709602 seconds
+solving... 0.0248688 seconds
+total: 0.057149 seconds, maxflow: 316600
+Maximum memory usage: 89.3984 MB
+Average memory usage: 89.3984 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.988501151754114e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.7526354910927015e-05
+CPU Energy (kWh): 6.168032712194904e-06
+RAM Energy (kWh): 5.535521786282516e-06
+Total Energy (kWh): 1.170355449847742e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth7.max.bbk...
+building...0.0253804 seconds
+init... 0.00766152 seconds
+solving... 0.029376 seconds
+total: 0.0624179 seconds, maxflow: 596993
+Maximum memory usage: 89.3867 MB
+Average memory usage: 89.3867 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.977584266122107e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.74401870702004e-05
+CPU Energy (kWh): 6.139583244996194e-06
+RAM Energy (kWh): 5.531937574390611e-06
+Total Energy (kWh): 1.1671520819386805e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth17.max.bbk...
+building...0.0248299 seconds
+init... 0.00697374 seconds
+solving... 2.11e-07 seconds
+total: 0.0318039 seconds, maxflow: 0
+Maximum memory usage: 89.4375 MB
+Average memory usage: 89.4375 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.912323321941886e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.682044544635652e-05
+CPU Energy (kWh): 5.9469500353348526e-06
+RAM Energy (kWh): 5.533074031819752e-06
+Total Energy (kWh): 1.1480024067154604e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth8.max.bbk...
+building...0.0248521 seconds
+init... 0.0071523 seconds
+solving... 0.03389 seconds
+total: 0.0658944 seconds, maxflow: 492170
+Maximum memory usage: 89.2852 MB
+Average memory usage: 89.2852 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.920723835764153e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.685856697808379e-05
+CPU Energy (kWh): 5.966854217921702e-06
+RAM Energy (kWh): 5.537819678227152e-06
+Total Energy (kWh): 1.1504673896148855e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth3.max.bbk...
+building...0.0250562 seconds
+init... 0.00708689 seconds
+solving... 0.0391003 seconds
+total: 0.0712434 seconds, maxflow: 630526
+Maximum memory usage: 89.3633 MB
+Average memory usage: 89.3633 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.90210987438174e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.680931252191994e-05
+CPU Energy (kWh): 5.930792800187823e-06
+RAM Energy (kWh): 5.519261703065581e-06
+Total Energy (kWh): 1.1450054503253404e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth12.max.bbk...
+building...0.0252296 seconds
+init... 0.00726069 seconds
+solving... 0.0168686 seconds
+total: 0.0493589 seconds, maxflow: 300621
+Maximum memory usage: 89.2773 MB
+Average memory usage: 89.2773 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.929339562701315e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.703269326052193e-05
+CPU Energy (kWh): 6.006272582792516e-06
+RAM Energy (kWh): 5.5236826473503705e-06
+Total Energy (kWh): 1.1529955230142889e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth15.max.bbk...
+building...0.0236936 seconds
+init... 0.00723938 seconds
+solving... 0.0232032 seconds
+total: 0.0541361 seconds, maxflow: 359799
+Maximum memory usage: 89.3945 MB
+Average memory usage: 89.3945 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.4621948252852043e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.260502946829877e-05
+CPU Energy (kWh): 4.630847871341104e-06
+RAM Energy (kWh): 5.528353362498706e-06
+Total Energy (kWh): 1.015920123383981e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth16.max.bbk...
+building...0.0233445 seconds
+init... 0.00680707 seconds
+solving... 0.0276155 seconds
+total: 0.057767 seconds, maxflow: 230840
+Maximum memory usage: 89.2852 MB
+Average memory usage: 89.2852 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.448919052486014e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.244838603332877e-05
+CPU Energy (kWh): 4.588445615197334e-06
+RAM Energy (kWh): 5.53180020041566e-06
+Total Energy (kWh): 1.0120245815612992e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth13.max.bbk...
+building...0.0231786 seconds
+init... 0.00716026 seconds
+solving... 0.0368839 seconds
+total: 0.0672227 seconds, maxflow: 1333498
+Maximum memory usage: 89.375 MB
+Average memory usage: 89.375 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.443026612244729e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.249141156292148e-05
+CPU Energy (kWh): 4.586241446766226e-06
+RAM Energy (kWh): 5.516714040257398e-06
+Total Energy (kWh): 1.0102955487023624e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba0.max.bbk...
+building...0.0150385 seconds
+init... 0.00435366 seconds
+solving... 0.0110322 seconds
+total: 0.0304244 seconds, maxflow: 34669
+Maximum memory usage: 89.2852 MB
+Average memory usage: 89.2852 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.3756896330475123e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.184564326072859e-05
+CPU Energy (kWh): 4.3856057307042895e-06
+RAM Energy (kWh): 5.519761244792676e-06
+Total Energy (kWh): 9.905366975496965e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba1.max.bbk...
+building...0.0153502 seconds
+init... 0.00440542 seconds
+solving... 0.031491 seconds
+total: 0.0512466 seconds, maxflow: 264801
+Maximum memory usage: 89.2344 MB
+Average memory usage: 89.2344 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.423222906335261e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2313178036939304e-05
+CPU Energy (kWh): 4.52976695715368e-06
+RAM Energy (kWh): 5.515078041101162e-06
+Total Energy (kWh): 1.0044844998254843e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba2.max.bbk...
+building...0.0156683 seconds
+init... 0.00450332 seconds
+solving... 0.0120607 seconds
+total: 0.0322324 seconds, maxflow: 41538
+Maximum memory usage: 89.3789 MB
+Average memory usage: 89.3789 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.4913729381086947e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.291950453939751e-05
+CPU Energy (kWh): 4.722722667070689e-06
+RAM Energy (kWh): 5.522096602366844e-06
+Total Energy (kWh): 1.0244819269437534e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba3.max.bbk...
+building...0.0152646 seconds
+init... 0.00440647 seconds
+solving... 0.00802311 seconds
+total: 0.0276942 seconds, maxflow: 35379
+Maximum memory usage: 89.3086 MB
+Average memory usage: 89.3086 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.4281598422779834e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.230837313610903e-05
+CPU Energy (kWh): 4.535361683842554e-06
+RAM Energy (kWh): 5.52396988384345e-06
+Total Energy (kWh): 1.0059331567686005e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba4.max.bbk...
+building...0.0167164 seconds
+init... 0.00469127 seconds
+solving... 0.0170675 seconds
+total: 0.0384752 seconds, maxflow: 48947
+Maximum memory usage: 89.4023 MB
+Average memory usage: 89.4023 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.8015394298110045e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.571802484860042e-05
+CPU Energy (kWh): 5.616716437818747e-06
+RAM Energy (kWh): 5.538231800152005e-06
+Total Energy (kWh): 1.1154948237970752e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba5.max.bbk...
+building...0.0167317 seconds
+init... 0.00472095 seconds
+solving... 0.0251461 seconds
+total: 0.0465988 seconds, maxflow: 74372
+Maximum memory usage: 89.4023 MB
+Average memory usage: 89.4023 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.834632576660288e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5976653435281296e-05
+CPU Energy (kWh): 5.704555952529278e-06
+RAM Energy (kWh): 5.547498299189613e-06
+Total Energy (kWh): 1.125205425171889e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba6.max.bbk...
+building...0.018098 seconds
+init... 0.00513045 seconds
+solving... 0.026181 seconds
+total: 0.0494094 seconds, maxflow: 187576
+Maximum memory usage: 89.3555 MB
+Average memory usage: 89.3555 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 4.000563542228226e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.756047694365119e-05
+CPU Energy (kWh): 6.196396623782408e-06
+RAM Energy (kWh): 5.542552836091375e-06
+Total Energy (kWh): 1.1738949459873782e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba7.max.bbk...
+building...0.0166934 seconds
+init... 0.00471257 seconds
+solving... 0.00975278 seconds
+total: 0.0311587 seconds, maxflow: 41095
+Maximum memory usage: 89.4219 MB
+Average memory usage: 89.4219 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.863767611370043e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.625397296567359e-05
+CPU Energy (kWh): 5.791446299821534e-06
+RAM Energy (kWh): 5.546099582353748e-06
+Total Energy (kWh): 1.133754588217528e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba8.max.bbk...
+building...0.017175 seconds
+init... 0.00494419 seconds
+solving... 0.0157238 seconds
+total: 0.0378429 seconds, maxflow: 54458
+Maximum memory usage: 89.3828 MB
+Average memory usage: 89.3828 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.92429929915044e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.689135289616643e-05
+CPU Energy (kWh): 5.9790442276802525e-06
+RAM Energy (kWh): 5.536121236355029e-06
+Total Energy (kWh): 1.1515165464035284e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba9.max.bbk...
+building...0.0173268 seconds
+init... 0.00492973 seconds
+solving... 0.0220455 seconds
+total: 0.044302 seconds, maxflow: 298716
+Maximum memory usage: 89.3828 MB
+Average memory usage: 89.3828 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.864073595532672e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.632486050872215e-05
+CPU Energy (kWh): 5.802110197246357e-06
+RAM Energy (kWh): 5.536333541589045e-06
+Total Energy (kWh): 1.1338443738835402e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba10.max.bbk...
+building...0.0169711 seconds
+init... 0.00470516 seconds
+solving... 0.0364231 seconds
+total: 0.0580994 seconds, maxflow: 236298
+Maximum memory usage: 89.3984 MB
+Average memory usage: 89.3984 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.888796387480475e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.656235189873978e-05
+CPU Energy (kWh): 5.8754541448075015e-06
+RAM Energy (kWh): 5.535534274825693e-06
+Total Energy (kWh): 1.1410988419633194e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba11.max.bbk...
+building...0.0171059 seconds
+init... 0.0048118 seconds
+solving... 0.0129157 seconds
+total: 0.0348334 seconds, maxflow: 42705
+Maximum memory usage: 89.3398 MB
+Average memory usage: 89.3398 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.877290742417123e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6364753760198e-05
+CPU Energy (kWh): 5.829728830446246e-06
+RAM Energy (kWh): 5.547498299189613e-06
+Total Energy (kWh): 1.137722712963586e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba12.max.bbk...
+building...0.01669 seconds
+init... 0.00461823 seconds
+solving... 0.00822825 seconds
+total: 0.0295364 seconds, maxflow: 38887
+Maximum memory usage: 89.3672 MB
+Average memory usage: 89.3672 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.7710826346571465e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.546475284168175e-05
+CPU Energy (kWh): 5.532454148179933e-06
+RAM Energy (kWh): 5.5331239859924606e-06
+Total Energy (kWh): 1.1065578134172392e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba13.max.bbk...
+building...0.0171355 seconds
+init... 0.00451982 seconds
+solving... 1.23e-07 seconds
+total: 0.0216555 seconds, maxflow: 0
+Maximum memory usage: 89.4141 MB
+Average memory usage: 89.4141 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.8731330480625575e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6402437651302766e-05
+CPU Energy (kWh): 5.828406329386193e-06
+RAM Energy (kWh): 5.536620778082124e-06
+Total Energy (kWh): 1.1365027107468318e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba14.max.bbk...
+building...0.0172447 seconds
+init... 0.00494669 seconds
+solving... 0.00981915 seconds
+total: 0.0320105 seconds, maxflow: 50599
+Maximum memory usage: 89.3867 MB
+Average memory usage: 89.3867 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.886999292315665e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.661201415626561e-05
+CPU Energy (kWh): 5.879946926169721e-06
+RAM Energy (kWh): 5.525768234060991e-06
+Total Energy (kWh): 1.1405715160230711e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba15.max.bbk...
+building...0.017069 seconds
+init... 0.00471842 seconds
+solving... 0.00546246 seconds
+total: 0.0272499 seconds, maxflow: 33349
+Maximum memory usage: 89.2891 MB
+Average memory usage: 89.2891 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.874798525431738e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.643237774168931e-05
+CPU Energy (kWh): 5.83491689015031e-06
+RAM Energy (kWh): 5.534997267469066e-06
+Total Energy (kWh): 1.1369914157619377e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus0.max.bbk...
+building...0.0260027 seconds
+init... 0.00773376 seconds
+solving... 0.0256381 seconds
+total: 0.0593745 seconds, maxflow: 360038
+Maximum memory usage: 89.4688 MB
+Average memory usage: 89.4688 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.886348839650903e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.655425323773429e-05
+CPU Energy (kWh): 5.87165664176631e-06
+RAM Energy (kWh): 5.532149879624627e-06
+Total Energy (kWh): 1.1403806521390936e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus1.max.bbk...
+building...0.0253479 seconds
+init... 0.00731119 seconds
+solving... 0.0219025 seconds
+total: 0.0545616 seconds, maxflow: 274732
+Maximum memory usage: 89.3789 MB
+Average memory usage: 89.3789 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.8612477487550125e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.619365012279091e-05
+CPU Energy (kWh): 5.780205735272936e-06
+RAM Energy (kWh): 5.549946053652377e-06
+Total Energy (kWh): 1.1330151788925313e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus2.max.bbk...
+building...0.0257281 seconds
+init... 0.00782324 seconds
+solving... 0.0228672 seconds
+total: 0.0564185 seconds, maxflow: 234246
+Maximum memory usage: 89.4297 MB
+Average memory usage: 89.4297 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.879058908503696e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.646385271019486e-05
+CPU Energy (kWh): 5.847056066529688e-06
+RAM Energy (kWh): 5.53535943522121e-06
+Total Energy (kWh): 1.13824155017509e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus3.max.bbk...
+building...0.0236822 seconds
+init... 0.00680439 seconds
+solving... 0.0630242 seconds
+total: 0.0935108 seconds, maxflow: 413666
+Maximum memory usage: 89.4688 MB
+Average memory usage: 89.4688 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 7.365434258880076e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.562271151831331e-05
+CPU Energy (kWh): 1.0819733933555007e-05
+RAM Energy (kWh): 1.079283629620278e-05
+Total Energy (kWh): 2.161257022975779e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus4.max.bbk...
+building...0.0255392 seconds
+init... 0.00741373 seconds
+solving... 0.0382288 seconds
+total: 0.0711817 seconds, maxflow: 375637
+Maximum memory usage: 89.418 MB
+Average memory usage: 89.418 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.846672735190246e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.623290680861056e-05
+CPU Energy (kWh): 5.761640720414185e-06
+RAM Energy (kWh): 5.5257432569746364e-06
+Total Energy (kWh): 1.128738397738882e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus5.max.bbk...
+building...0.0253084 seconds
+init... 0.00740161 seconds
+solving... 0.0450583 seconds
+total: 0.0777683 seconds, maxflow: 403549
+Maximum memory usage: 89.2773 MB
+Average memory usage: 89.2773 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 7.528998284848277e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6443704902104376e-05
+CPU Energy (kWh): 1.1306352656184626e-05
+RAM Energy (kWh): 1.0786167414146065e-05
+Total Energy (kWh): 2.209252007033069e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus6.max.bbk...
+building...0.0257413 seconds
+init... 0.00799532 seconds
+solving... 0.0485449 seconds
+total: 0.0822815 seconds, maxflow: 492993
+Maximum memory usage: 89.1953 MB
+Average memory usage: 89.1953 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 7.444527576917327e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.607925609827852e-05
+CPU Energy (kWh): 1.107324969192719e-05
+RAM Energy (kWh): 1.0771405956110417e-05
+Total Energy (kWh): 2.1844655648037604e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus7.max.bbk...
+building...0.0238029 seconds
+init... 0.00733195 seconds
+solving... 0.0859938 seconds
+total: 0.117129 seconds, maxflow: 266682
+Maximum memory usage: 89.4141 MB
+Average memory usage: 89.4141 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 7.464359552278323e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.620256029181388e-05
+CPU Energy (kWh): 1.1137862243618124e-05
+RAM Energy (kWh): 1.0764986844917246e-05
+Total Energy (kWh): 2.190284908853537e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus8.max.bbk...
+building...0.0257214 seconds
+init... 0.00739391 seconds
+solving... 0.0618705 seconds
+total: 0.0949858 seconds, maxflow: 332009
+Maximum memory usage: 89.2812 MB
+Average memory usage: 89.2812 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 7.640793971749227e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.688931382215912e-05
+CPU Energy (kWh): 1.1606323173943278e-05
+RAM Energy (kWh): 1.0814241659208791e-05
+Total Energy (kWh): 2.242056483315207e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus9.max.bbk...
+building...0.0255767 seconds
+init... 0.00742662 seconds
+solving... 0.0639455 seconds
+total: 0.0969488 seconds, maxflow: 455136
+Maximum memory usage: 89.4297 MB
+Average memory usage: 89.4297 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 7.480123226307661e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.622439324903404e-05
+CPU Energy (kWh): 1.1168532268152063e-05
+RAM Energy (kWh): 1.0780572546802603e-05
+Total Energy (kWh): 2.194910481495467e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus10.max.bbk...
+building...0.0260521 seconds
+init... 0.00781316 seconds
+solving... 0.0549409 seconds
+total: 0.0888061 seconds, maxflow: 442371
+Maximum memory usage: 89.4141 MB
+Average memory usage: 89.4141 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 7.4702862965259885e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.616823639611561e-05
+CPU Energy (kWh): 1.1137556965593045e-05
+RAM Energy (kWh): 1.0782683110599578e-05
+Total Energy (kWh): 2.1920240076192623e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus11.max.bbk...
+building...0.0265738 seconds
+init... 0.00787397 seconds
+solving... 0.0644866 seconds
+total: 0.0989344 seconds, maxflow: 850805
+Maximum memory usage: 89.3047 MB
+Average memory usage: 89.3047 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 7.500860469592505e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6277152694192846e-05
+CPU Energy (kWh): 1.1216393973105532e-05
+RAM Energy (kWh): 1.0793560631707069e-05
+Total Energy (kWh): 2.20099546048126e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus12.max.bbk...
+building...0.0258983 seconds
+init... 0.00779536 seconds
+solving... 0.0502107 seconds
+total: 0.0839044 seconds, maxflow: 340048
+Maximum memory usage: 89.3633 MB
+Average memory usage: 89.3633 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 7.46639573824259e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.619385338674499e-05
+CPU Energy (kWh): 1.114001557867006e-05
+RAM Energy (kWh): 1.076880833912952e-05
+Total Energy (kWh): 2.190882391779958e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus13.max.bbk...
+building...0.0261031 seconds
+init... 0.00773624 seconds
+solving... 0.0680214 seconds
+total: 0.101861 seconds, maxflow: 996632
+Maximum memory usage: 89.4336 MB
+Average memory usage: 89.4336 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 7.485627071354749e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6227497649477546e-05
+CPU Energy (kWh): 1.1178687831826796e-05
+RAM Energy (kWh): 1.078656704752774e-05
+Total Energy (kWh): 2.196525487935453e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus14.max.bbk...
+building...0.0261707 seconds
+init... 0.00751297 seconds
+solving... 0.0465604 seconds
+total: 0.080244 seconds, maxflow: 448731
+Maximum memory usage: 89.3633 MB
+Average memory usage: 89.3633 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 7.321477907155739e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5508673016250775e-05
+CPU Energy (kWh): 1.071783940759935e-05
+RAM Energy (kWh): 1.0765748646051066e-05
+Total Energy (kWh): 2.1483588053650416e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus15.max.bbk...
+building...0.0267243 seconds
+init... 0.00777872 seconds
+solving... 0.0595866 seconds
+total: 0.0940897 seconds, maxflow: 1149848
+Maximum memory usage: 89.3633 MB
+Average memory usage: 89.3633 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 7.497142223759318e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.638183576746225e-05
+CPU Energy (kWh): 1.1238790379917984e-05
+RAM Energy (kWh): 1.0760253687053024e-05
+Total Energy (kWh): 2.199904406697101e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus16.max.bbk...
+building...0.0256154 seconds
+init... 0.0077202 seconds
+solving... 0.0292303 seconds
+total: 0.0625659 seconds, maxflow: 210033
+Maximum memory usage: 89.3438 MB
+Average memory usage: 89.3438 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.853212378941913e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.62876602170441e-05
+CPU Energy (kWh): 5.777171010620807e-06
+RAM Energy (kWh): 5.529402400125605e-06
+Total Energy (kWh): 1.1306573410746412e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus17.max.bbk...
+building...0.0258334 seconds
+init... 0.00771415 seconds
+solving... 0.0267182 seconds
+total: 0.0602658 seconds, maxflow: 259189
+Maximum memory usage: 89.3281 MB
+Average memory usage: 89.3281 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.867316001420468e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.641304117509355e-05
+CPU Energy (kWh): 5.818081043357237e-06
+RAM Energy (kWh): 5.529876964766345e-06
+Total Energy (kWh): 1.1347958008123582e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus18.max.bbk...
+building...0.0257049 seconds
+init... 0.00731965 seconds
+solving... 0.0271372 seconds
+total: 0.0601617 seconds, maxflow: 417740
+Maximum memory usage: 89.4141 MB
+Average memory usage: 89.4141 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.815381023819223e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.59352560258891e-05
+CPU Energy (kWh): 5.667460367293764e-06
+RAM Energy (kWh): 5.528103591635158e-06
+Total Energy (kWh): 1.1195563958928922e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus19.max.bbk...
+building...0.025283 seconds
+init... 0.00703573 seconds
+solving... 1.81e-07 seconds
+total: 0.0323189 seconds, maxflow: 0
+Maximum memory usage: 89.4336 MB
+Average memory usage: 89.4336 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.756164499037224e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.536267436785053e-05
+CPU Energy (kWh): 5.491526893219856e-06
+RAM Energy (kWh): 5.530276598148021e-06
+Total Energy (kWh): 1.1021803491367877e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus20.max.bbk...
+building...0.0256226 seconds
+init... 0.00775637 seconds
+solving... 0.0187197 seconds
+total: 0.0520987 seconds, maxflow: 222776
+Maximum memory usage: 89.2734 MB
+Average memory usage: 89.2734 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.8029536626373323e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.58424349226433e-05
+CPU Energy (kWh): 5.635790064184576e-06
+RAM Energy (kWh): 5.523307991055049e-06
+Total Energy (kWh): 1.1159098055239624e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus21.max.bbk...
+building...0.0258221 seconds
+init... 0.00724272 seconds
+solving... 0.0173117 seconds
+total: 0.0503765 seconds, maxflow: 310114
+Maximum memory usage: 89.3008 MB
+Average memory usage: 89.3008 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.982975898524664e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.7505667094918274e-05
+CPU Energy (kWh): 6.157164925732483e-06
+RAM Energy (kWh): 5.530176689802602e-06
+Total Energy (kWh): 1.1687341615535088e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth2.max.bbk...
+building...0.00847258 seconds
+init... 0.0101618 seconds
+solving... 0.0209749 seconds
+total: 0.0396092 seconds, maxflow: 617013
+Maximum memory usage: 89.4766 MB
+Average memory usage: 89.4766 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.4682145248950037e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.276146582276747e-05
+CPU Energy (kWh): 4.663772619907525e-06
+RAM Energy (kWh): 5.5130923627359605e-06
+Total Energy (kWh): 1.0176864982643483e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth5.max.bbk...
+building...0.00976392 seconds
+init... 0.0111656 seconds
+solving... 0.0313446 seconds
+total: 0.0522741 seconds, maxflow: 753315
+Maximum memory usage: 89.3047 MB
+Average memory usage: 89.3047 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.6834031019759656e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.465564298439911e-05
+CPU Energy (kWh): 5.2758358873236655e-06
+RAM Energy (kWh): 5.532462093204061e-06
+Total Energy (kWh): 1.0808297980527726e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth1.max.bbk...
+building...0.00843622 seconds
+init... 0.00992363 seconds
+solving... 0.0110214 seconds
+total: 0.0293813 seconds, maxflow: 275285
+Maximum memory usage: 89.4375 MB
+Average memory usage: 89.4375 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.435519216757673e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.240583723988291e-05
+CPU Energy (kWh): 4.560640592954357e-06
+RAM Energy (kWh): 5.520285763606126e-06
+Total Energy (kWh): 1.0080926356560482e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth19.max.bbk...
+building...0.0082701 seconds
+init... 0.0100818 seconds
+solving... 0.010453 seconds
+total: 0.0288048 seconds, maxflow: 244304
+Maximum memory usage: 89.4141 MB
+Average memory usage: 89.4141 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.409677852146841e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2196117107214925e-05
+CPU Energy (kWh): 4.488822479949139e-06
+RAM Energy (kWh): 5.51627694124619e-06
+Total Energy (kWh): 1.000509942119533e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth10.max.bbk...
+building...0.00836069 seconds
+init... 0.010241 seconds
+solving... 0.0230942 seconds
+total: 0.0416958 seconds, maxflow: 684428
+Maximum memory usage: 89.3359 MB
+Average memory usage: 89.3359 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.48548158280673e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.292064445416091e-05
+CPU Energy (kWh): 4.713702937628184e-06
+RAM Energy (kWh): 5.513829186783426e-06
+Total Energy (kWh): 1.022753212441161e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth0.max.bbk...
+building...0.00833948 seconds
+init... 0.0100544 seconds
+solving... 0.0114037 seconds
+total: 0.0297976 seconds, maxflow: 265530
+Maximum memory usage: 89.3438 MB
+Average memory usage: 89.3438 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.449011602950818e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2526960757969235e-05
+CPU Energy (kWh): 4.59829590086086e-06
+RAM Energy (kWh): 5.522221487798618e-06
+Total Energy (kWh): 1.0120517388659478e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth4.max.bbk...
+building...0.00831297 seconds
+init... 0.0099735 seconds
+solving... 0.0232751 seconds
+total: 0.0415616 seconds, maxflow: 229150
+Maximum memory usage: 89.3789 MB
+Average memory usage: 89.3789 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.4597526506383243e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.263163259099509e-05
+CPU Energy (kWh): 4.632136483488647e-06
+RAM Energy (kWh): 5.519898618767627e-06
+Total Energy (kWh): 1.0152035102256272e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth6.max.bbk...
+building...0.00840551 seconds
+init... 0.0100476 seconds
+solving... 0.0181762 seconds
+total: 0.0366293 seconds, maxflow: 446549
+Maximum memory usage: 89.2969 MB
+Average memory usage: 89.2969 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.440289864126415e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2452661364048074e-05
+CPU Energy (kWh): 4.574339492802171e-06
+RAM Energy (kWh): 5.520585488642382e-06
+Total Energy (kWh): 1.0094924981444551e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth18.max.bbk...
+building...0.00956463 seconds
+init... 0.0112949 seconds
+solving... 0.020108 seconds
+total: 0.0409675 seconds, maxflow: 454019
+Maximum memory usage: 89.3555 MB
+Average memory usage: 89.3555 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 4.114552127660746e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.856594622670252e-05
+CPU Energy (kWh): 6.522408829034987e-06
+RAM Energy (kWh): 5.551020068365631e-06
+Total Energy (kWh): 1.2073428897400618e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth11.max.bbk...
+building...0.00938676 seconds
+init... 0.0112627 seconds
+solving... 0.0156808 seconds
+total: 0.0363302 seconds, maxflow: 295774
+Maximum memory usage: 89.4336 MB
+Average memory usage: 89.4336 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.9926958320013926e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.734658035937372e-05
+CPU Energy (kWh): 6.152129643915982e-06
+RAM Energy (kWh): 5.5637334053201926e-06
+Total Energy (kWh): 1.1715863049236177e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth9.max.bbk...
+building...0.00908963 seconds
+init... 0.0109789 seconds
+solving... 0.0274381 seconds
+total: 0.0475066 seconds, maxflow: 889575
+Maximum memory usage: 89.4609 MB
+Average memory usage: 89.4609 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.944113235910149e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.694521228014383e-05
+CPU Energy (kWh): 6.018327036880211e-06
+RAM Energy (kWh): 5.554978936552857e-06
+Total Energy (kWh): 1.1573305973433069e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth14.max.bbk...
+building...0.00965218 seconds
+init... 0.0112086 seconds
+solving... 0.0250206 seconds
+total: 0.0458814 seconds, maxflow: 316600
+Maximum memory usage: 89.4297 MB
+Average memory usage: 89.4297 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 4.03747868312763e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.780348869105644e-05
+CPU Energy (kWh): 6.289356698142845e-06
+RAM Energy (kWh): 5.557913744199539e-06
+Total Energy (kWh): 1.1847270442342384e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth7.max.bbk...
+building...0.00964328 seconds
+init... 0.0111091 seconds
+solving... 0.0292888 seconds
+total: 0.0500412 seconds, maxflow: 596993
+Maximum memory usage: 89.3281 MB
+Average memory usage: 89.3281 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.983036037724301e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.728424606073383e-05
+CPU Energy (kWh): 6.1292921256506094e-06
+RAM Energy (kWh): 5.5582259577789735e-06
+Total Energy (kWh): 1.1687518083429585e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth17.max.bbk...
+building...0.00903367 seconds
+init... 0.0107352 seconds
+solving... 4.77e-07 seconds
+total: 0.0197693 seconds, maxflow: 0
+Maximum memory usage: 89.4336 MB
+Average memory usage: 89.4336 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 4.0189369531146445e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.77122988460257e-05
+CPU Energy (kWh): 6.2474627757491685e-06
+RAM Energy (kWh): 5.545400223935815e-06
+Total Energy (kWh): 1.1792862999684984e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth8.max.bbk...
+building...0.00980409 seconds
+init... 0.0115397 seconds
+solving... 0.036777 seconds
+total: 0.0581207 seconds, maxflow: 492170
+Maximum memory usage: 89.3789 MB
+Average memory usage: 89.3789 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 4.134800414822119e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.880082314966512e-05
+CPU Energy (kWh): 6.588767493230507e-06
+RAM Energy (kWh): 5.5440764383590135e-06
+Total Energy (kWh): 1.213284393158952e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth3.max.bbk...
+building...0.00981859 seconds
+init... 0.0113653 seconds
+solving... 0.0419137 seconds
+total: 0.0630976 seconds, maxflow: 630526
+Maximum memory usage: 89.3438 MB
+Average memory usage: 89.3438 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.968920474768051e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.716828918366505e-05
+CPU Energy (kWh): 6.0913318175037645e-06
+RAM Energy (kWh): 5.554766631318841e-06
+Total Energy (kWh): 1.1646098448822606e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth12.max.bbk...
+building...0.00877385 seconds
+init... 0.0104227 seconds
+solving... 0.017586 seconds
+total: 0.0367825 seconds, maxflow: 300621
+Maximum memory usage: 89.3594 MB
+Average memory usage: 89.3594 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.5038377170410584e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.285063930619246e-05
+CPU Energy (kWh): 4.72977545049047e-06
+RAM Energy (kWh): 5.551619518438145e-06
+Total Energy (kWh): 1.0281394968928617e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth15.max.bbk...
+building...0.00981415 seconds
+init... 0.0114604 seconds
+solving... 0.0239945 seconds
+total: 0.0452691 seconds, maxflow: 359799
+Maximum memory usage: 89.3945 MB
+Average memory usage: 89.3945 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.487018631807103e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.293152826354709e-05
+CPU Energy (kWh): 4.719636831261587e-06
+RAM Energy (kWh): 5.5124054928612055e-06
+Total Energy (kWh): 1.0232042324122791e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth16.max.bbk...
+building...0.00961349 seconds
+init... 0.0110408 seconds
+solving... 0.0282129 seconds
+total: 0.0488673 seconds, maxflow: 230840
+Maximum memory usage: 89.2969 MB
+Average memory usage: 89.2969 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.5263168522625092e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.328557416161146e-05
+CPU Energy (kWh): 4.8328399773756026e-06
+RAM Energy (kWh): 5.514516056658181e-06
+Total Energy (kWh): 1.0347356034033784e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth13.max.bbk...
+building...0.0091039 seconds
+init... 0.0106507 seconds
+solving... 0.0368775 seconds
+total: 0.0566321 seconds, maxflow: 1333498
+Maximum memory usage: 89.2305 MB
+Average memory usage: 89.2305 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.3968782428440625e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.19729002553198e-05
+CPU Energy (kWh): 4.436315493495935e-06
+RAM Energy (kWh): 5.531225727429501e-06
+Total Energy (kWh): 9.967541220925437e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba0.max.bbk...
+building...0.00607014 seconds
+init... 0.00747891 seconds
+solving... 0.0116731 seconds
+total: 0.0252221 seconds, maxflow: 34669
+Maximum memory usage: 89.3438 MB
+Average memory usage: 89.3438 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.936037939845672e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.69453966911414e-05
+CPU Energy (kWh): 6.006170916041109e-06
+RAM Energy (kWh): 5.543439522656968e-06
+Total Energy (kWh): 1.1549610438698078e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba1.max.bbk...
+building...0.00631257 seconds
+init... 0.00751824 seconds
+solving... 0.033968 seconds
+total: 0.0477988 seconds, maxflow: 264801
+Maximum memory usage: 89.3164 MB
+Average memory usage: 89.3164 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.983962211557112e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.74285722216487e-05
+CPU Energy (kWh): 6.1527907555675165e-06
+RAM Energy (kWh): 5.537445021931831e-06
+Total Energy (kWh): 1.1690235777499346e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba2.max.bbk...
+building...0.00586286 seconds
+init... 0.00732121 seconds
+solving... 0.0121098 seconds
+total: 0.0252939 seconds, maxflow: 41538
+Maximum memory usage: 89.3984 MB
+Average memory usage: 89.3984 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.895732740024183e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6593279721975136e-05
+CPU Energy (kWh): 5.891136935130825e-06
+RAM Energy (kWh): 5.5402049899740296e-06
+Total Energy (kWh): 1.1431341925104854e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba3.max.bbk...
+building...0.00595357 seconds
+init... 0.00762808 seconds
+solving... 0.00805859 seconds
+total: 0.0216402 seconds, maxflow: 35379
+Maximum memory usage: 89.3945 MB
+Average memory usage: 89.3945 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.884403446348391e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6428286314286e-05
+CPU Energy (kWh): 5.8492260682704855e-06
+RAM Energy (kWh): 5.548872038939123e-06
+Total Energy (kWh): 1.1398098107209609e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba4.max.bbk...
+building...0.00608365 seconds
+init... 0.00749549 seconds
+solving... 0.0165105 seconds
+total: 0.0300897 seconds, maxflow: 48947
+Maximum memory usage: 89.3984 MB
+Average memory usage: 89.3984 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.997696309187843e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.749964467517217e-05
+CPU Energy (kWh): 6.183087724244418e-06
+RAM Energy (kWh): 5.547448345016903e-06
+Total Energy (kWh): 1.1730536069261322e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba5.max.bbk...
+building...0.00611864 seconds
+init... 0.00757402 seconds
+solving... 0.0255913 seconds
+total: 0.039284 seconds, maxflow: 74372
+Maximum memory usage: 89.3789 MB
+Average memory usage: 89.3789 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 4.002327645452352e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.757342316011841e-05
+CPU Energy (kWh): 6.201635516858706e-06
+RAM Energy (kWh): 5.542490393375488e-06
+Total Energy (kWh): 1.1744125910234194e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba6.max.bbk...
+building...0.0057741 seconds
+init... 0.00731126 seconds
+solving... 0.023733 seconds
+total: 0.0368184 seconds, maxflow: 187576
+Maximum memory usage: 89.1758 MB
+Average memory usage: 89.1758 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.913625233579082e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.67566548996419e-05
+CPU Energy (kWh): 5.943152254508921e-06
+RAM Energy (kWh): 5.540692043157946e-06
+Total Energy (kWh): 1.1483844297666868e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba7.max.bbk...
+building...0.00615894 seconds
+init... 0.00735419 seconds
+solving... 0.00955131 seconds
+total: 0.0230644 seconds, maxflow: 41095
+Maximum memory usage: 89.3945 MB
+Average memory usage: 89.3945 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 4.007001768817176e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.760812811058938e-05
+CPU Energy (kWh): 6.212740803521188e-06
+RAM Energy (kWh): 5.545100498899559e-06
+Total Energy (kWh): 1.1757841302420749e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba8.max.bbk...
+building...0.00617519 seconds
+init... 0.0075335 seconds
+solving... 0.0145723 seconds
+total: 0.028281 seconds, maxflow: 54458
+Maximum memory usage: 89.3828 MB
+Average memory usage: 89.3828 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.956495774412274e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.724945971766856e-05
+CPU Energy (kWh): 6.081786532087519e-06
+RAM Energy (kWh): 5.527853820771611e-06
+Total Energy (kWh): 1.160964035285913e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba9.max.bbk...
+building...0.00589364 seconds
+init... 0.00737364 seconds
+solving... 0.0220887 seconds
+total: 0.035356 seconds, maxflow: 298716
+Maximum memory usage: 89.3086 MB
+Average memory usage: 89.3086 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.963002920208424e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.719450654010869e-05
+CPU Energy (kWh): 6.083821255935262e-06
+RAM Energy (kWh): 5.544913170751897e-06
+Total Energy (kWh): 1.162873442668716e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba10.max.bbk...
+building...0.00603579 seconds
+init... 0.00736311 seconds
+solving... 0.0362033 seconds
+total: 0.0496022 seconds, maxflow: 236298
+Maximum memory usage: 89.293 MB
+Average memory usage: 89.293 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.4599384040909625e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.260391122022269e-05
+CPU Energy (kWh): 4.6269992571498775e-06
+RAM Energy (kWh): 5.52558090591333e-06
+Total Energy (kWh): 1.0152580163063207e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba11.max.bbk...
+building...0.00583198 seconds
+init... 0.0070909 seconds
+solving... 0.0120912 seconds
+total: 0.0250141 seconds, maxflow: 42705
+Maximum memory usage: 89.3984 MB
+Average memory usage: 89.3984 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.3883459293146413e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.198244869533581e-05
+CPU Energy (kWh): 4.426227707646224e-06
+RAM Energy (kWh): 5.51627694124619e-06
+Total Energy (kWh): 9.942504648892414e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba12.max.bbk...
+building...0.00613338 seconds
+init... 0.0072536 seconds
+solving... 0.00856964 seconds
+total: 0.0219566 seconds, maxflow: 38887
+Maximum memory usage: 89.4062 MB
+Average memory usage: 89.4062 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.856704944197742e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.588879614286208e-05
+CPU Energy (kWh): 5.721442354930661e-06
+RAM Energy (kWh): 5.595379373731646e-06
+Total Energy (kWh): 1.1316821728662308e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba13.max.bbk...
+building...0.00570312 seconds
+init... 0.0065861 seconds
+solving... 1.7e-07 seconds
+total: 0.0122894 seconds, maxflow: 0
+Maximum memory usage: 89.293 MB
+Average memory usage: 89.293 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.390826323849177e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1973984976362395e-05
+CPU Energy (kWh): 4.426787152532474e-06
+RAM Energy (kWh): 5.522995777475615e-06
+Total Energy (kWh): 9.94978293000809e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba14.max.bbk...
+building...0.00581082 seconds
+init... 0.00692476 seconds
+solving... 0.00983189 seconds
+total: 0.0225675 seconds, maxflow: 50599
+Maximum memory usage: 89.4922 MB
+Average memory usage: 89.4922 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.387263756608813e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.192094348907346e-05
+CPU Energy (kWh): 4.415309365575493e-06
+RAM Energy (kWh): 5.524019838016159e-06
+Total Energy (kWh): 9.93932920359165e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba15.max.bbk...
+building...0.00572486 seconds
+init... 0.00676458 seconds
+solving... 0.00455429 seconds
+total: 0.0170437 seconds, maxflow: 33349
+Maximum memory usage: 89.3359 MB
+Average memory usage: 89.3359 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.351952684156134e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.151439768259629e-05
+CPU Energy (kWh): 4.297308437845038e-06
+RAM Energy (kWh): 5.538406639756489e-06
+Total Energy (kWh): 9.835715077601526e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus0.max.bbk...
+building...0.0084277 seconds
+init... 0.0103696 seconds
+solving... 0.0238341 seconds
+total: 0.0426315 seconds, maxflow: 360038
+Maximum memory usage: 89.3359 MB
+Average memory usage: 89.3359 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.5172633023799098e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.321200010406619e-05
+CPU Energy (kWh): 4.807273012476243e-06
+RAM Energy (kWh): 5.513516973203992e-06
+Total Energy (kWh): 1.0320789985680234e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus1.max.bbk...
+building...0.00847246 seconds
+init... 0.0103807 seconds
+solving... 0.0210974 seconds
+total: 0.0399506 seconds, maxflow: 274732
+Maximum memory usage: 89.3047 MB
+Average memory usage: 89.3047 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.495378030919807e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2926549916674686e-05
+CPU Energy (kWh): 4.728130726938673e-06
+RAM Energy (kWh): 5.528440782300948e-06
+Total Energy (kWh): 1.025657150923962e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus2.max.bbk...
+building...0.00914722 seconds
+init... 0.0111922 seconds
+solving... 0.0220235 seconds
+total: 0.0423629 seconds, maxflow: 234246
+Maximum memory usage: 89.3086 MB
+Average memory usage: 89.3086 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.7800529390893523e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5559318635272094e-05
+CPU Energy (kWh): 5.561598338171825e-06
+RAM Energy (kWh): 5.530301575234376e-06
+Total Energy (kWh): 1.10918999134062e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus3.max.bbk...
+building...0.00948975 seconds
+init... 0.0114923 seconds
+solving... 0.0681844 seconds
+total: 0.0891665 seconds, maxflow: 413666
+Maximum memory usage: 89.375 MB
+Average memory usage: 89.375 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 7.545604421985473e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.657287730084654e-05
+CPU Energy (kWh): 1.137077854106161e-05
+RAM Energy (kWh): 1.0770469315372113e-05
+Total Energy (kWh): 2.214124785643372e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus4.max.bbk...
+building...0.00914068 seconds
+init... 0.011162 seconds
+solving... 0.0331699 seconds
+total: 0.0534726 seconds, maxflow: 375637
+Maximum memory usage: 89.3359 MB
+Average memory usage: 89.3359 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.933871000995306e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6866396924998805e-05
+CPU Energy (kWh): 5.989047291231342e-06
+RAM Energy (kWh): 5.55420464687586e-06
+Total Energy (kWh): 1.15432519381072e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus5.max.bbk...
+building...0.00920022 seconds
+init... 0.0113627 seconds
+solving... 0.0421024 seconds
+total: 0.0626653 seconds, maxflow: 403549
+Maximum memory usage: 89.4023 MB
+Average memory usage: 89.4023 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.7713562113839673e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5488332494632667e-05
+CPU Energy (kWh): 5.537777763554852e-06
+RAM Energy (kWh): 5.528603133362253e-06
+Total Energy (kWh): 1.1066380896917104e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus6.max.bbk...
+building...0.00949449 seconds
+init... 0.0114903 seconds
+solving... 0.048474 seconds
+total: 0.0694588 seconds, maxflow: 492993
+Maximum memory usage: 89.375 MB
+Average memory usage: 89.375 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.925991324533822e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.679616976554366e-05
+CPU Energy (kWh): 5.967311996077362e-06
+RAM Energy (kWh): 5.552818418583172e-06
+Total Energy (kWh): 1.1520130414660536e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus7.max.bbk...
+building...0.00914564 seconds
+init... 0.0112041 seconds
+solving... 0.0907559 seconds
+total: 0.111106 seconds, maxflow: 266682
+Maximum memory usage: 89.2969 MB
+Average memory usage: 89.2969 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 7.469098561813204e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.624708859064051e-05
+CPU Energy (kWh): 1.1156850869921409e-05
+RAM Energy (kWh): 1.0759904007844056e-05
+Total Energy (kWh): 2.1916754877765465e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus8.max.bbk...
+building...0.00949211 seconds
+init... 0.0115287 seconds
+solving... 0.0633489 seconds
+total: 0.0843696 seconds, maxflow: 332009
+Maximum memory usage: 89.4219 MB
+Average memory usage: 89.4219 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 7.511335221232397e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6414814935597175e-05
+CPU Energy (kWh): 1.1269409848857492e-05
+RAM Energy (kWh): 1.077128107067864e-05
+Total Energy (kWh): 2.204069091953613e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus9.max.bbk...
+building...0.0091632 seconds
+init... 0.0112948 seconds
+solving... 0.0611377 seconds
+total: 0.0815957 seconds, maxflow: 455136
+Maximum memory usage: 89.3828 MB
+Average memory usage: 89.3828 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 7.365745804354307e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.572336932574925e-05
+CPU Energy (kWh): 1.0846674232886657e-05
+RAM Energy (kWh): 1.0766810172221143e-05
+Total Energy (kWh): 2.16134844051078e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus10.max.bbk...
+building...0.00921119 seconds
+init... 0.0112179 seconds
+solving... 0.0534749 seconds
+total: 0.073904 seconds, maxflow: 442371
+Maximum memory usage: 89.3281 MB
+Average memory usage: 89.3281 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.822419523808224e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.599443549781199e-05
+CPU Energy (kWh): 5.686177882269217e-06
+RAM Energy (kWh): 5.530039315827651e-06
+Total Energy (kWh): 1.1216217198096869e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus11.max.bbk...
+building...0.00963879 seconds
+init... 0.0118385 seconds
+solving... 0.067662 seconds
+total: 0.0891393 seconds, maxflow: 850805
+Maximum memory usage: 89.4297 MB
+Average memory usage: 89.4297 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 7.5728137234968675e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.66930553534502e-05
+CPU Energy (kWh): 1.1444275266517256e-05
+RAM Energy (kWh): 1.0776813495306216e-05
+Total Energy (kWh): 2.222108876182347e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus12.max.bbk...
+building...0.0095922 seconds
+init... 0.0112253 seconds
+solving... 0.0490476 seconds
+total: 0.0698652 seconds, maxflow: 340048
+Maximum memory usage: 89.3906 MB
+Average memory usage: 89.3906 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.828874877678831e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.606688364774514e-05
+CPU Energy (kWh): 5.707692621703675e-06
+RAM Energy (kWh): 5.527466675933113e-06
+Total Energy (kWh): 1.1235159297636788e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus13.max.bbk...
+building...0.0097706 seconds
+init... 0.0116399 seconds
+solving... 0.0643506 seconds
+total: 0.085761 seconds, maxflow: 996632
+Maximum memory usage: 89.2695 MB
+Average memory usage: 89.2695 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 7.518258584720081e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6475825787582126e-05
+CPU Energy (kWh): 1.129860459442994e-05
+RAM Energy (kWh): 1.076240171647953e-05
+Total Energy (kWh): 2.2061006310909468e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus14.max.bbk...
+building...0.00948648 seconds
+init... 0.0113125 seconds
+solving... 0.0469649 seconds
+total: 0.0677639 seconds, maxflow: 448731
+Maximum memory usage: 89.3086 MB
+Average memory usage: 89.3086 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.879979739299787e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.656519310853532e-05
+CPU Energy (kWh): 5.85921190958405e-06
+RAM Energy (kWh): 5.525905608035942e-06
+Total Energy (kWh): 1.1385117517619991e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus15.max.bbk...
+building...0.00963984 seconds
+init... 0.0114491 seconds
+solving... 0.0563198 seconds
+total: 0.0774087 seconds, maxflow: 1149848
+Maximum memory usage: 89.2305 MB
+Average memory usage: 89.2305 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 7.575020499280007e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6705656138796136e-05
+CPU Energy (kWh): 1.1451175272042535e-05
+RAM Energy (kWh): 1.0776388884838184e-05
+Total Energy (kWh): 2.222756415688072e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus16.max.bbk...
+building...0.00908545 seconds
+init... 0.0110424 seconds
+solving... 0.0264814 seconds
+total: 0.0466092 seconds, maxflow: 210033
+Maximum memory usage: 89.418 MB
+Average memory usage: 89.418 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.846005149580243e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.626261339944972e-05
+CPU Energy (kWh): 5.763590721977185e-06
+RAM Energy (kWh): 5.521834342960119e-06
+Total Energy (kWh): 1.1285425064937304e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus17.max.bbk...
+building...0.00963737 seconds
+init... 0.0113627 seconds
+solving... 0.0235863 seconds
+total: 0.0445863 seconds, maxflow: 259189
+Maximum memory usage: 89.2734 MB
+Average memory usage: 89.2734 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.826246192974157e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.607436697868883e-05
+CPU Energy (kWh): 5.704437619102887e-06
+RAM Energy (kWh): 5.523008266018792e-06
+Total Energy (kWh): 1.1227445885121678e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus18.max.bbk...
+building...0.00950431 seconds
+init... 0.0115757 seconds
+solving... 0.0280352 seconds
+total: 0.0491152 seconds, maxflow: 417740
+Maximum memory usage: 89.2344 MB
+Average memory usage: 89.2344 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.86378732379272e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.638594268680435e-05
+CPU Energy (kWh): 5.808213813227048e-06
+RAM Energy (kWh): 5.529389911582428e-06
+Total Energy (kWh): 1.1337603724809476e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus19.max.bbk...
+building...0.0085156 seconds
+init... 0.0101507 seconds
+solving... 2.3e-07 seconds
+total: 0.0186666 seconds, maxflow: 0
+Maximum memory usage: 89.3438 MB
+Average memory usage: 89.3438 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.83905914622633e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6263641802607657e-05
+CPU Energy (kWh): 5.754248770070691e-06
+RAM Energy (kWh): 5.510794470791325e-06
+Total Energy (kWh): 1.1265043240862017e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus20.max.bbk...
+building...0.0095032 seconds
+init... 0.011416 seconds
+solving... 0.0183284 seconds
+total: 0.0392476 seconds, maxflow: 222776
+Maximum memory usage: 89.3203 MB
+Average memory usage: 89.3203 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.847001499106055e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6266626903926206e-05
+CPU Energy (kWh): 5.765302945576201e-06
+RAM Energy (kWh): 5.523045731648324e-06
+Total Energy (kWh): 1.1288348677224523e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus21.max.bbk...
+building...0.00957208 seconds
+init... 0.0113367 seconds
+solving... 0.0170602 seconds
+total: 0.037969 seconds, maxflow: 310114
+Maximum memory usage: 89.3281 MB
+Average memory usage: 89.3281 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.869624130798822e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6473255752450645e-05
+CPU Energy (kWh): 5.8297118859934605e-06
+RAM Energy (kWh): 5.525018921470349e-06
+Total Energy (kWh): 1.135473080746381e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba0.max.bbk...
+building...0.00591501 seconds
+init... 0.000505023 seconds
+solving... 0.0136599 seconds
+total: 0.02008 seconds, maxflow: 34669
+Maximum memory usage: 89.2891 MB
+Average memory usage: 89.2891 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.8087144167381975e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5917633161293464e-05
+CPU Energy (kWh): 5.654829523860094e-06
+RAM Energy (kWh): 5.521172450171719e-06
+Total Energy (kWh): 1.1176001974031813e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba1.max.bbk...
+building...0.00573593 seconds
+init... 0.000633992 seconds
+solving... 0.0404318 seconds
+total: 0.0468017 seconds, maxflow: 264801
+Maximum memory usage: 89.2695 MB
+Average memory usage: 89.2695 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.836219946328243e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.609092485804851e-05
+CPU Energy (kWh): 5.722002077594712e-06
+RAM Energy (kWh): 5.534710030975987e-06
+Total Energy (kWh): 1.12567121085707e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba2.max.bbk...
+building...0.00573758 seconds
+init... 0.000473294 seconds
+solving... 0.0145724 seconds
+total: 0.0207833 seconds, maxflow: 41538
+Maximum memory usage: 89.293 MB
+Average memory usage: 89.293 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.8022218086913035e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5844961174090695e-05
+CPU Energy (kWh): 5.633043117542202e-06
+RAM Energy (kWh): 5.523907441127562e-06
+Total Energy (kWh): 1.1156950558669764e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba3.max.bbk...
+building...0.00584988 seconds
+init... 0.000518277 seconds
+solving... 0.010855 seconds
+total: 0.0172232 seconds, maxflow: 35379
+Maximum memory usage: 89.3945 MB
+Average memory usage: 89.3945 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.839043477442466e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.616900479482031e-05
+CPU Energy (kWh): 5.738617090897402e-06
+RAM Energy (kWh): 5.526380172676682e-06
+Total Energy (kWh): 1.1264997263574085e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba4.max.bbk...
+building...0.00555638 seconds
+init... 0.000494295 seconds
+solving... 0.0200217 seconds
+total: 0.0260723 seconds, maxflow: 48947
+Maximum memory usage: 89.3633 MB
+Average memory usage: 89.3633 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.7288073584276237e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.515664877788786e-05
+CPU Energy (kWh): 5.418895168446403e-06
+RAM Energy (kWh): 5.522633609723471e-06
+Total Energy (kWh): 1.0941528778169872e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba5.max.bbk...
+building...0.00584957 seconds
+init... 0.000586444 seconds
+solving... 0.0306111 seconds
+total: 0.0370471 seconds, maxflow: 74372
+Maximum memory usage: 89.2891 MB
+Average memory usage: 89.2891 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.88354555928963e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.662834306305033e-05
+CPU Energy (kWh): 5.876556367911956e-06
+RAM Energy (kWh): 5.519024420745211e-06
+Total Energy (kWh): 1.1395580788657166e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba6.max.bbk...
+building...0.00598579 seconds
+init... 0.000589131 seconds
+solving... 0.0291921 seconds
+total: 0.035767 seconds, maxflow: 187576
+Maximum memory usage: 89.4375 MB
+Average memory usage: 89.4375 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.879734097226862e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.646096575436867e-05
+CPU Energy (kWh): 5.847039122069964e-06
+RAM Energy (kWh): 5.537357602129589e-06
+Total Energy (kWh): 1.1384396724199553e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba7.max.bbk...
+building...0.0057546 seconds
+init... 0.000556358 seconds
+solving... 0.0118953 seconds
+total: 0.0182063 seconds, maxflow: 41095
+Maximum memory usage: 89.3867 MB
+Average memory usage: 89.3867 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.801741812178211e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.578116364135121e-05
+CPU Energy (kWh): 5.626651723544818e-06
+RAM Energy (kWh): 5.528890369855333e-06
+Total Energy (kWh): 1.1155542093400151e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba8.max.bbk...
+building...0.00627987 seconds
+init... 0.000581573 seconds
+solving... 0.0174397 seconds
+total: 0.0243011 seconds, maxflow: 54458
+Maximum memory usage: 89.2852 MB
+Average memory usage: 89.2852 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.853356465168641e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6190126145419045e-05
+CPU Energy (kWh): 5.766116835108359e-06
+RAM Energy (kWh): 5.540879371305607e-06
+Total Energy (kWh): 1.1306996206413968e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba9.max.bbk...
+building...0.00597353 seconds
+init... 0.000640399 seconds
+solving... 0.0252792 seconds
+total: 0.0318931 seconds, maxflow: 298716
+Maximum memory usage: 89.3828 MB
+Average memory usage: 89.3828 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.859330450957703e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.628466332323963e-05
+CPU Energy (kWh): 5.78895407560287e-06
+RAM Energy (kWh): 5.5355717404552255e-06
+Total Energy (kWh): 1.1324525816058096e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba10.max.bbk...
+building...0.00562286 seconds
+init... 0.00058813 seconds
+solving... 0.0436495 seconds
+total: 0.0498605 seconds, maxflow: 236298
+Maximum memory usage: 89.4062 MB
+Average memory usage: 89.4062 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.881963005577097e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.647414877653783e-05
+CPU Energy (kWh): 5.852430515276841e-06
+RAM Energy (kWh): 5.538506548101907e-06
+Total Energy (kWh): 1.1390937063378748e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba11.max.bbk...
+building...0.00574016 seconds
+init... 0.000581798 seconds
+solving... 0.0156519 seconds
+total: 0.0219738 seconds, maxflow: 42705
+Maximum memory usage: 89.3438 MB
+Average memory usage: 89.3438 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.819052497768734e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.592296844537053e-05
+CPU Energy (kWh): 5.673038427314592e-06
+RAM Energy (kWh): 5.533298825596944e-06
+Total Energy (kWh): 1.1206337252911537e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba12.max.bbk...
+building...0.00544481 seconds
+init... 0.000471071 seconds
+solving... 0.0102442 seconds
+total: 0.0161601 seconds, maxflow: 38887
+Maximum memory usage: 89.3359 MB
+Average memory usage: 89.3359 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.7773782060029332e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.555401279338743e-05
+CPU Energy (kWh): 5.554748888240979e-06
+RAM Energy (kWh): 5.529302491780186e-06
+Total Energy (kWh): 1.1084051380021166e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba13.max.bbk...
+building...0.00590524 seconds
+init... 0.000336222 seconds
+solving... 1.8e-07 seconds
+total: 0.00624164 seconds, maxflow: 0
+Maximum memory usage: 89.3398 MB
+Average memory usage: 89.3398 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.904905488946274e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.66547322726179e-05
+CPU Energy (kWh): 5.914381120387946e-06
+RAM Energy (kWh): 5.543876621668176e-06
+Total Energy (kWh): 1.1458257742056125e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba14.max.bbk...
+building...0.00600797 seconds
+init... 0.000516479 seconds
+solving... 0.0117653 seconds
+total: 0.0182897 seconds, maxflow: 50599
+Maximum memory usage: 89.332 MB
+Average memory usage: 89.332 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.932300746483196e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.698058007026367e-05
+CPU Energy (kWh): 6.005170637465862e-06
+RAM Energy (kWh): 5.533473665201427e-06
+Total Energy (kWh): 1.153864430266729e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-tsukuba/BVZ-tsukuba15.max.bbk...
+building...0.00598425 seconds
+init... 0.000475244 seconds
+solving... 0.00645975 seconds
+total: 0.0129192 seconds, maxflow: 33349
+Maximum memory usage: 89.2656 MB
+Average memory usage: 89.2656 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.836715139898996e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.603988591231855e-05
+CPU Energy (kWh): 5.71922151981763e-06
+RAM Energy (kWh): 5.538943647113115e-06
+Total Energy (kWh): 1.1258165166930744e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus0.max.bbk...
+building...0.0084291 seconds
+init... 0.000877678 seconds
+solving... 0.0306098 seconds
+total: 0.0399165 seconds, maxflow: 360038
+Maximum memory usage: 89.2852 MB
+Average memory usage: 89.2852 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.952822386189208e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.719074982431928e-05
+CPU Energy (kWh): 6.065849852673888e-06
+RAM Energy (kWh): 5.533011589103865e-06
+Total Energy (kWh): 1.1598861441777754e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus1.max.bbk...
+building...0.00848384 seconds
+init... 0.000886859 seconds
+solving... 0.0272992 seconds
+total: 0.0366699 seconds, maxflow: 274732
+Maximum memory usage: 89.3242 MB
+Average memory usage: 89.3242 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.4668427579266807e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.267000035261176e-05
+CPU Energy (kWh): 4.6486326077954665e-06
+RAM Energy (kWh): 5.52420716616382e-06
+Total Energy (kWh): 1.0172839773959286e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus2.max.bbk...
+building...0.0088615 seconds
+init... 0.000910194 seconds
+solving... 0.0305284 seconds
+total: 0.0403001 seconds, maxflow: 234246
+Maximum memory usage: 89.3516 MB
+Average memory usage: 89.3516 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.614085792481671e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.3861651191633514e-05
+CPU Energy (kWh): 5.050531540422287e-06
+RAM Energy (kWh): 5.554366997937166e-06
+Total Energy (kWh): 1.0604898538359452e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus3.max.bbk...
+building...0.00896737 seconds
+init... 0.000977032 seconds
+solving... 0.0826686 seconds
+total: 0.092613 seconds, maxflow: 413666
+Maximum memory usage: 89.4141 MB
+Average memory usage: 89.4141 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.739112368892819e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.270587155875548e-05
+CPU Energy (kWh): 9.015334434488154e-06
+RAM Energy (kWh): 1.0759404466116962e-05
+Total Energy (kWh): 1.9774738900605118e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus4.max.bbk...
+building...0.00876042 seconds
+init... 0.000979958 seconds
+solving... 0.041206 seconds
+total: 0.0509463 seconds, maxflow: 375637
+Maximum memory usage: 89.3828 MB
+Average memory usage: 89.3828 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.5335550418088036e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.333386722972543e-05
+CPU Energy (kWh): 4.848946379150398e-06
+RAM Energy (kWh): 5.51964884790408e-06
+Total Energy (kWh): 1.0368595227054478e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus5.max.bbk...
+building...0.00824308 seconds
+init... 0.000977704 seconds
+solving... 0.0493583 seconds
+total: 0.0585791 seconds, maxflow: 403549
+Maximum memory usage: 89.3906 MB
+Average memory usage: 89.3906 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.405334101201534e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.206789068230059e-05
+CPU Energy (kWh): 4.464137460191697e-06
+RAM Energy (kWh): 5.528215988523755e-06
+Total Energy (kWh): 9.992353448715452e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus6.max.bbk...
+building...0.00899223 seconds
+init... 0.000941652 seconds
+solving... 0.0554714 seconds
+total: 0.0654053 seconds, maxflow: 492993
+Maximum memory usage: 89.4414 MB
+Average memory usage: 89.4414 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.467532358947911e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.280533596923496e-05
+CPU Energy (kWh): 4.671724292935886e-06
+RAM Energy (kWh): 5.503138993823597e-06
+Total Energy (kWh): 1.0174863286759484e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus7.max.bbk...
+building...0.0086261 seconds
+init... 0.000961007 seconds
+solving... 0.0967667 seconds
+total: 0.106354 seconds, maxflow: 266682
+Maximum memory usage: 89.2422 MB
+Average memory usage: 89.2422 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.654197600010619e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2263827989132314e-05
+CPU Energy (kWh): 8.754952281732342e-06
+RAM Energy (kWh): 1.077061917789024e-05
+Total Energy (kWh): 1.9525571459622583e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus8.max.bbk...
+building...0.00825227 seconds
+init... 0.000939155 seconds
+solving... 0.0694979 seconds
+total: 0.0786894 seconds, maxflow: 332009
+Maximum memory usage: 89.3711 MB
+Average memory usage: 89.3711 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.615937978407229e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.212072522625214e-05
+CPU Energy (kWh): 8.656685814220633e-06
+RAM Energy (kWh): 1.0756619520988409e-05
+Total Energy (kWh): 1.941330533520904e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus9.max.bbk...
+building...0.00823807 seconds
+init... 0.000947445 seconds
+solving... 0.0713135 seconds
+total: 0.080499 seconds, maxflow: 455136
+Maximum memory usage: 89.3438 MB
+Average memory usage: 89.3438 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.641367126625954e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2177550849001775e-05
+CPU Energy (kWh): 8.710210023722686e-06
+RAM Energy (kWh): 1.0777712670414988e-05
+Total Energy (kWh): 1.9487922694137676e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus10.max.bbk...
+building...0.00821376 seconds
+init... 0.00093527 seconds
+solving... 0.0626747 seconds
+total: 0.0718238 seconds, maxflow: 442371
+Maximum memory usage: 89.3438 MB
+Average memory usage: 89.3438 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.52046803204727e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.3185108524636124e-05
+CPU Energy (kWh): 4.806798289874736e-06
+RAM Energy (kWh): 5.52339541085729e-06
+Total Energy (kWh): 1.0330193700732026e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus11.max.bbk...
+building...0.00835291 seconds
+init... 0.00102606 seconds
+solving... 0.0753838 seconds
+total: 0.0847627 seconds, maxflow: 850805
+Maximum memory usage: 89.4492 MB
+Average memory usage: 89.4492 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.751557885831863e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2748840641347195e-05
+CPU Energy (kWh): 9.045784181066496e-06
+RAM Energy (kWh): 1.0765473898101163e-05
+Total Energy (kWh): 1.981125807916766e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus12.max.bbk...
+building...0.00878418 seconds
+init... 0.000911795 seconds
+solving... 0.0593621 seconds
+total: 0.0690581 seconds, maxflow: 340048
+Maximum memory usage: 89.4258 MB
+Average memory usage: 89.4258 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.988623186762423e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.738452057155647e-05
+CPU Energy (kWh): 6.153604367321874e-06
+RAM Energy (kWh): 5.550308221404521e-06
+Total Energy (kWh): 1.1703912588726395e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus13.max.bbk...
+building...0.0095591 seconds
+init... 0.00109964 seconds
+solving... 0.0766108 seconds
+total: 0.0872695 seconds, maxflow: 996632
+Maximum memory usage: 89.3516 MB
+Average memory usage: 89.3516 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 7.73230338311068e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.7445509892593085e-05
+CPU Energy (kWh): 1.190992175015282e-05
+RAM Energy (kWh): 1.077916134142356e-05
+Total Energy (kWh): 2.2689083091576377e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus14.max.bbk...
+building...0.00877239 seconds
+init... 0.000915646 seconds
+solving... 0.0510601 seconds
+total: 0.0607481 seconds, maxflow: 448731
+Maximum memory usage: 89.2812 MB
+Average memory usage: 89.2812 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 4.011562278380336e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.764250797105902e-05
+CPU Energy (kWh): 6.226185258723094e-06
+RAM Energy (kWh): 5.545038056183671e-06
+Total Energy (kWh): 1.1771223314906765e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus15.max.bbk...
+building...0.00866543 seconds
+init... 0.000980195 seconds
+solving... 0.0634253 seconds
+total: 0.0730709 seconds, maxflow: 1149848
+Maximum memory usage: 89.4258 MB
+Average memory usage: 89.4258 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.554545067402662e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.341336412947564e-05
+CPU Energy (kWh): 4.895214471715981e-06
+RAM Energy (kWh): 5.534972290382712e-06
+Total Energy (kWh): 1.0430186762098693e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus16.max.bbk...
+building...0.00897932 seconds
+init... 0.000925959 seconds
+solving... 0.0315047 seconds
+total: 0.0414099 seconds, maxflow: 210033
+Maximum memory usage: 89.3398 MB
+Average memory usage: 89.3398 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.977146297394241e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.737977628582408e-05
+CPU Energy (kWh): 6.134514074281061e-06
+RAM Energy (kWh): 5.535721602973354e-06
+Total Energy (kWh): 1.1670235677254417e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus17.max.bbk...
+building...0.00921012 seconds
+init... 0.000890183 seconds
+solving... 0.0320755 seconds
+total: 0.0421758 seconds, maxflow: 259189
+Maximum memory usage: 89.375 MB
+Average memory usage: 89.375 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.809899712409567e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.584603941604672e-05
+CPU Energy (kWh): 5.646793128540051e-06
+RAM Energy (kWh): 5.532686886981253e-06
+Total Energy (kWh): 1.1179480015521303e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus18.max.bbk...
+building...0.00902715 seconds
+init... 0.000882764 seconds
+solving... 0.030014 seconds
+total: 0.0399239 seconds, maxflow: 417740
+Maximum memory usage: 89.3945 MB
+Average memory usage: 89.3945 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.916904325736034e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.670706512405421e-05
+CPU Energy (kWh): 5.941846697915532e-06
+RAM Energy (kWh): 5.551619518438145e-06
+Total Energy (kWh): 1.1493466216353676e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus19.max.bbk...
+building...0.00892223 seconds
+init... 0.000569319 seconds
+solving... 1.8e-07 seconds
+total: 0.00949172 seconds, maxflow: 0
+Maximum memory usage: 89.3477 MB
+Average memory usage: 89.3477 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 4.0531202174405115e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.795689070993064e-05
+CPU Energy (kWh): 6.336540347012809e-06
+RAM Energy (kWh): 5.55662742425227e-06
+Total Energy (kWh): 1.189316777126508e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus20.max.bbk...
+building...0.00890207 seconds
+init... 0.000865781 seconds
+solving... 0.0208097 seconds
+total: 0.0305776 seconds, maxflow: 222776
+Maximum memory usage: 89.5273 MB
+Average memory usage: 89.5273 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.803848149270169e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.568974887284936e-05
+CPU Energy (kWh): 5.61541088121148e-06
+RAM Energy (kWh): 5.546311887587763e-06
+Total Energy (kWh): 1.1161722768799245e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-venus/BVZ-venus21.max.bbk...
+building...0.00896335 seconds
+init... 0.00077683 seconds
+solving... 0.0228748 seconds
+total: 0.032615 seconds, maxflow: 310114
+Maximum memory usage: 89.2812 MB
+Average memory usage: 89.2812 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.6624068969169342e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.439075084260857e-05
+CPU Energy (kWh): 5.206171109377322e-06
+RAM Energy (kWh): 5.540517203553464e-06
+Total Energy (kWh): 1.0746688312930788e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth2.max.bbk...
+building...0.00910957 seconds
+init... 0.000912895 seconds
+solving... 0.0247163 seconds
+total: 0.0347388 seconds, maxflow: 617013
+Maximum memory usage: 89.2773 MB
+Average memory usage: 89.2773 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 4.034170223270591e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.779681128360947e-05
+CPU Energy (kWh): 6.284456694233276e-06
+RAM Energy (kWh): 5.553105655076252e-06
+Total Energy (kWh): 1.1837562349309528e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth5.max.bbk...
+building...0.00904598 seconds
+init... 0.000932157 seconds
+solving... 0.0379568 seconds
+total: 0.0479349 seconds, maxflow: 753315
+Maximum memory usage: 89.3711 MB
+Average memory usage: 89.3711 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 4.01518387148995e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.767320418258844e-05
+CPU Energy (kWh): 6.237086934111902e-06
+RAM Energy (kWh): 5.544763308233769e-06
+Total Energy (kWh): 1.178185024234567e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth1.max.bbk...
+building...0.00889063 seconds
+init... 0.000786719 seconds
+solving... 0.0144051 seconds
+total: 0.0240824 seconds, maxflow: 275285
+Maximum memory usage: 89.2344 MB
+Average memory usage: 89.2344 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.851215336308378e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.624094241611154e-05
+CPU Energy (kWh): 5.768626003786748e-06
+RAM Energy (kWh): 5.532087436908739e-06
+Total Energy (kWh): 1.1300713440695488e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth19.max.bbk...
+building...0.00887772 seconds
+init... 0.000828477 seconds
+solving... 0.011205 seconds
+total: 0.0209112 seconds, maxflow: 244304
+Maximum memory usage: 89.2344 MB
+Average memory usage: 89.2344 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.883145840036863e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.638476466194551e-05
+CPU Energy (kWh): 5.841664395551949e-06
+RAM Energy (kWh): 5.552743487324108e-06
+Total Energy (kWh): 1.1394407882876058e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth10.max.bbk...
+building...0.00892162 seconds
+init... 0.000978466 seconds
+solving... 0.0298693 seconds
+total: 0.0397694 seconds, maxflow: 684428
+Maximum memory usage: 89.3828 MB
+Average memory usage: 89.3828 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.741573221586775e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.521289461370276e-05
+CPU Energy (kWh): 5.4490735259260514e-06
+RAM Energy (kWh): 5.529914430395877e-06
+Total Energy (kWh): 1.0978987956321928e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth0.max.bbk...
+building...0.00853944 seconds
+init... 0.00072862 seconds
+solving... 0.0139184 seconds
+total: 0.0231865 seconds, maxflow: 265530
+Maximum memory usage: 89.3008 MB
+Average memory usage: 89.3008 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.317884101663424e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.138085012727879e-05
+CPU Energy (kWh): 4.227762271095947e-06
+RAM Energy (kWh): 5.507984548576417e-06
+Total Energy (kWh): 9.735746819672363e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth4.max.bbk...
+building...0.00864188 seconds
+init... 0.00087108 seconds
+solving... 0.0290993 seconds
+total: 0.0386122 seconds, maxflow: 229150
+Maximum memory usage: 89.3789 MB
+Average memory usage: 89.3789 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.4724446446528398e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.280541406964944e-05
+CPU Energy (kWh): 4.676522352337065e-06
+RAM Energy (kWh): 5.512755172070172e-06
+Total Energy (kWh): 1.0189277524407237e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth6.max.bbk...
+building...0.00888544 seconds
+init... 0.000950337 seconds
+solving... 0.0223786 seconds
+total: 0.0322143 seconds, maxflow: 446549
+Maximum memory usage: 89.3125 MB
+Average memory usage: 89.3125 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.4398177532090837e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.219492687802281e-05
+CPU Energy (kWh): 4.532666126134954e-06
+RAM Energy (kWh): 5.560873528932575e-06
+Total Energy (kWh): 1.009353965506753e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth18.max.bbk...
+building...0.00814731 seconds
+init... 0.000770793 seconds
+solving... 0.0208445 seconds
+total: 0.0297626 seconds, maxflow: 454019
+Maximum memory usage: 89.2852 MB
+Average memory usage: 89.2852 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.347853889341555e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1619458533230445e-05
+CPU Energy (kWh): 4.308922058243736e-06
+RAM Energy (kWh): 5.514765827521728e-06
+Total Energy (kWh): 9.823687885765463e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth11.max.bbk...
+building...0.00892533 seconds
+init... 0.000830519 seconds
+solving... 0.0176172 seconds
+total: 0.0273731 seconds, maxflow: 295774
+Maximum memory usage: 89.2617 MB
+Average memory usage: 89.2617 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.928810028438918e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.703993728201585e-05
+CPU Energy (kWh): 6.003882025325258e-06
+RAM Energy (kWh): 5.524519379743254e-06
+Total Energy (kWh): 1.1528401405068512e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth9.max.bbk...
+building...0.00850874 seconds
+init... 0.00087563 seconds
+solving... 0.0309208 seconds
+total: 0.0403052 seconds, maxflow: 889575
+Maximum memory usage: 89.2969 MB
+Average memory usage: 89.2969 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.8414115466449355e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.605630382747772e-05
+CPU Energy (kWh): 5.724460135130005e-06
+RAM Energy (kWh): 5.547485810646435e-06
+Total Energy (kWh): 1.127194594577644e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth14.max.bbk...
+building...0.00917208 seconds
+init... 0.00105267 seconds
+solving... 0.032559 seconds
+total: 0.0427837 seconds, maxflow: 316600
+Maximum memory usage: 89.293 MB
+Average memory usage: 89.293 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 4.069354848542173e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.821900619288029e-05
+CPU Energy (kWh): 6.396117061331641e-06
+RAM Energy (kWh): 5.544688376974705e-06
+Total Energy (kWh): 1.1940805438306346e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth7.max.bbk...
+building...0.00900557 seconds
+init... 0.00098337 seconds
+solving... 0.0340669 seconds
+total: 0.0440558 seconds, maxflow: 596993
+Maximum memory usage: 89.3516 MB
+Average memory usage: 89.3516 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.984996751696711e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.742186258802522e-05
+CPU Energy (kWh): 6.147484084645383e-06
+RAM Energy (kWh): 5.545787368774313e-06
+Total Energy (kWh): 1.1693271453419696e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth17.max.bbk...
+building...0.00859721 seconds
+init... 0.000496754 seconds
+solving... 1.69e-07 seconds
+total: 0.00909413 seconds, maxflow: 0
+Maximum memory usage: 89.4414 MB
+Average memory usage: 89.4414 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.900726421022525e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.663682223222546e-05
+CPU Energy (kWh): 5.901868610380667e-06
+RAM Energy (kWh): 5.544126392531723e-06
+Total Energy (kWh): 1.144599500291239e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth8.max.bbk...
+building...0.00855054 seconds
+init... 0.000941109 seconds
+solving... 0.0404616 seconds
+total: 0.0499532 seconds, maxflow: 492170
+Maximum memory usage: 89.3984 MB
+Average memory usage: 89.3984 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.965478705822902e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.73642249743292e-05
+CPU Energy (kWh): 6.109269331852629e-06
+RAM Energy (kWh): 5.526729851885648e-06
+Total Energy (kWh): 1.1635999183738276e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth3.max.bbk...
+building...0.00903809 seconds
+init... 0.000938581 seconds
+solving... 0.048229 seconds
+total: 0.0582057 seconds, maxflow: 630526
+Maximum memory usage: 89.4727 MB
+Average memory usage: 89.4727 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.947190543429964e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.7199929636803465e-05
+CPU Energy (kWh): 6.058915402680498e-06
+RAM Energy (kWh): 5.523420387943645e-06
+Total Energy (kWh): 1.1582335790624144e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth12.max.bbk...
+building...0.00886087 seconds
+init... 0.000782712 seconds
+solving... 0.0189002 seconds
+total: 0.0285437 seconds, maxflow: 300621
+Maximum memory usage: 89.3867 MB
+Average memory usage: 89.3867 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.406046567152741e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2061067178340056e-05
+CPU Energy (kWh): 4.463255792827581e-06
+RAM Energy (kWh): 5.531188261799969e-06
+Total Energy (kWh): 9.99444405462755e-06
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth15.max.bbk...
+building...0.00806925 seconds
+init... 0.000800711 seconds
+solving... 0.0269239 seconds
+total: 0.0357939 seconds, maxflow: 359799
+Maximum memory usage: 89.2812 MB
+Average memory usage: 89.2812 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.4441607788880927e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2425730139512024e-05
+CPU Energy (kWh): 4.574695604199486e-06
+RAM Energy (kWh): 5.531587895181645e-06
+Total Energy (kWh): 1.010628349938113e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth16.max.bbk...
+building...0.00846903 seconds
+init... 0.000806245 seconds
+solving... 0.0314494 seconds
+total: 0.0407247 seconds, maxflow: 230840
+Maximum memory usage: 89.2969 MB
+Average memory usage: 89.2969 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.4660051580659083e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2635124307722375e-05
+CPU Energy (kWh): 4.639206211361213e-06
+RAM Energy (kWh): 5.531175773256791e-06
+Total Energy (kWh): 1.0170381984618004e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/BVZ-sawtooth/BVZ-sawtooth13.max.bbk...
+building...0.00824845 seconds
+init... 0.000917987 seconds
+solving... 0.0435191 seconds
+total: 0.0526856 seconds, maxflow: 1333498
+Maximum memory usage: 89.2305 MB
+Average memory usage: 89.2305 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.4207041895882178e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.219571545466027e-05
+CPU Energy (kWh): 4.507065272316146e-06
+RAM Energy (kWh): 5.530388995036617e-06
+Total Energy (kWh): 1.0037454267352764e-05
+Country: Italy
+CPU Count: 8

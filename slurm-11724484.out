@@ -1,0 +1,132 @@
+Loading python/3.11.6--gcc--8.5.0
+  Loading requirement: bzip2/1.0.8-gp5wcz5 libmd/1.0.4-wja3f5q
+    libbsd/0.11.7-cgxjopl expat/2.5.0-bptl3xw ncurses/6.4-asx3jea
+    readline/8.2-nyw6mp6 gdbm/1.23-fs6otck libiconv/1.17-d7yvx2s
+    xz/5.4.1-hubmwr5 zlib-ng/2.1.4-6htiapk libxml2/2.10.3-5eeeokp
+    pigz/2.7-bopr5vp zstd/1.5.5-gawytfl tar/1.34-amqus5s gettext/0.22.3-2g7elif
+    libffi/3.4.4-6r7brdq libxcrypt/4.4.35-ss2rzin sqlite/3.43.2
+    util-linux-uuid/2.38.1-jkdi7kv
+Output from C++ program:
+reading data/export/LB07-bunny-lrg.max.bbk...
+building... 6.82824 seconds
+solving... 18.2097 seconds
+total: 25.038 seconds, maxflow: 15537565
+Maximum memory usage: 27217.9 MB
+Average memory usage: 21286.2 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.0009938402917244675 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.20328367231835e-05
+CPU Energy (kWh): 0.0012911920498972
+RAM Energy (kWh): 0.001625057331619
+Total Energy (kWh): 0.0029162493815163
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/LB07-bunny-lrg.max.bbk...
+building... 4.73292 seconds
+solving... 12.2219 seconds
+total: 16.9548 seconds, maxflow: 15537565
+Maximum memory usage: 14728 MB
+Average memory usage: 12216.1 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.0006646742752440604 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1921234231874085e-05
+CPU Energy (kWh): 0.0008597413425147
+RAM Energy (kWh): 0.0010906283096624
+Total Energy (kWh): 0.0019503696521771
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/LB07-bunny-lrg.max.bbk...
+building... 4.78479 seconds
+init... 5.83747 seconds
+solving... 6.91764 seconds
+total: 17.5399 seconds, maxflow: 15537565
+Maximum memory usage: 22644.2 MB
+Average memory usage: 16635.8 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 0.0006871740647827762 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2075854115201044e-05
+CPU Energy (kWh): 0.0008942783976443
+RAM Energy (kWh): 0.001122112926096
+Total Energy (kWh): 0.0020163913237403
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/LB07-bunny-lrg.max.bbk...
+building...9.39395 seconds
+init... 4.17144 seconds
+solving... 5.42427 seconds
+total: 18.9897 seconds, maxflow: 15537565
+Maximum memory usage: 30755.1 MB
+Average memory usage: 22950.5 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 0.0007378257175677165 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2046816633928026e-05
+CPU Energy (kWh): 0.0009591018750586
+RAM Energy (kWh): 0.001205917807118
+Total Energy (kWh): 0.0021650196821766
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/LB07-bunny-lrg.max.bbk...
+building...3.32505 seconds
+init... 4.98957 seconds
+solving... 5.35432 seconds
+total: 13.6689 seconds, maxflow: 15537565
+Maximum memory usage: 25072.6 MB
+Average memory usage: 17293.4 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 0.0005631284608256897 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.19609185967274e-05
+CPU Energy (kWh): 0.000729550921418
+RAM Energy (kWh): 0.0009228504143615
+Total Energy (kWh): 0.0016524013357796
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/LB07-bunny-lrg.max.bbk...
+building...3.25218 seconds
+init... 0.139404 seconds
+solving... 8.91587 seconds
+total: 12.3075 seconds, maxflow: 15537565
+Maximum memory usage: 15313.2 MB
+Average memory usage: 12259.2 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 0.0005120910809320894 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1969149643906985e-05
+CPU Energy (kWh): 0.0006636571267586
+RAM Energy (kWh): 0.0008389840022873
+Total Energy (kWh): 0.0015026411290459
+Country: Italy
+CPU Count: 8

@@ -1,0 +1,6324 @@
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_14.txt.bbk...
+building... 0.109447 seconds
+solving... 0.153944 seconds
+total: 0.263391 seconds, maxflow: 7980733
+Maximum memory usage: 413.699 MB
+Average memory usage: 249.004 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 1.651697120136161e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.251621693519249e-05
+CPU Energy (kWh): 2.189327195905449e-05
+RAM Energy (kWh): 2.6572872401942505e-05
+Total Energy (kWh): 4.8466144360997e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_14.txt.bbk...
+building... 0.0725217 seconds
+solving... 0.0747727 seconds
+total: 0.147294 seconds, maxflow: 7980733
+Maximum memory usage: 229.145 MB
+Average memory usage: 160.57 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 1.3152342286897822e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2360069186239564e-05
+CPU Energy (kWh): 1.73366835915581e-05
+RAM Energy (kWh): 2.125654952550917e-05
+Total Energy (kWh): 3.859323311706727e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_14.txt.bbk...
+building... 0.0736957 seconds
+init... 0.0968307 seconds
+solving... 0.0262267 seconds
+total: 0.196753 seconds, maxflow: 7980733
+Maximum memory usage: 342.438 MB
+Average memory usage: 189.777 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 1.3248146517010922e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.25941419379103e-05
+CPU Energy (kWh): 1.7617054926963305e-05
+RAM Energy (kWh): 2.125729883809981e-05
+Total Energy (kWh): 3.887435376506312e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_14.txt.bbk...
+building...0.143997 seconds
+init... 0.0982783 seconds
+solving... 0.0223932 seconds
+total: 0.264669 seconds, maxflow: 7980733
+Maximum memory usage: 454.371 MB
+Average memory usage: 271.994 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.859723645023424e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6675992057624286e-05
+CPU Energy (kWh): 2.804440104661743e-05
+RAM Energy (kWh): 2.65259154795956e-05
+Total Energy (kWh): 5.4570316526213024e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_14.txt.bbk...
+building...0.0506695 seconds
+init... 0.104796 seconds
+solving... 0.0169953 seconds
+total: 0.172461 seconds, maxflow: 7980733
+Maximum memory usage: 367.254 MB
+Average memory usage: 200.267 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.4928746864048835e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6742056632459445e-05
+CPU Energy (kWh): 2.255511221074119e-05
+RAM Energy (kWh): 2.125066742167263e-05
+Total Energy (kWh): 4.380577963241382e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_14.txt.bbk...
+building...0.0501068 seconds
+init... 0.000583133 seconds
+solving... 0.0322351 seconds
+total: 0.0829251 seconds, maxflow: 7980733
+Maximum memory usage: 194.305 MB
+Average memory usage: 143.824 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.1200143790803596e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.656198128529988e-05
+CPU Energy (kWh): 1.6851827925892793e-05
+RAM Energy (kWh): 1.6013022367256726e-05
+Total Energy (kWh): 3.286485029314952e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_18.txt.bbk...
+building... 0.138348 seconds
+solving... 25.2344 seconds
+total: 25.3727 seconds, maxflow: 31270601
+Maximum memory usage: 521.184 MB
+Average memory usage: 516.291 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.0009167715570341496 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.577255919126128e-05
+CPU Energy (kWh): 0.0013477640295992
+RAM Energy (kWh): 0.0013423407170633
+Total Energy (kWh): 0.0026901047466626
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_18.txt.bbk...
+building... 0.0899045 seconds
+solving... 15.88 seconds
+total: 15.9699 seconds, maxflow: 31270601
+Maximum memory usage: 288.16 MB
+Average memory usage: 285.635 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.000564819832404794 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.4822321499309433e-05
+CPU Energy (kWh): 0.0008078122481937
+RAM Energy (kWh): 0.0008495521197376
+Total Energy (kWh): 0.0016573643679313
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_18.txt.bbk...
+building... 0.0991764 seconds
+init... 0.131591 seconds
+solving... 6.87011 seconds
+total: 7.10087 seconds, maxflow: 31270601
+Maximum memory usage: 447.723 MB
+Average memory usage: 433.946 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 0.000261479745951998 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.527563110743021e-05
+CPU Energy (kWh): 0.000379027399055
+RAM Energy (kWh): 0.0003882388848349
+Total Energy (kWh): 0.0007672662838899
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_18.txt.bbk...
+building...0.181745 seconds
+init... 0.117938 seconds
+solving... 0.0350593 seconds
+total: 0.334742 seconds, maxflow: 31270601
+Maximum memory usage: 571.324 MB
+Average memory usage: 342.543 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.096598086708272e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.454469357957391e-05
+CPU Energy (kWh): 2.97624024210158e-05
+RAM Energy (kWh): 3.1758577605283735e-05
+Total Energy (kWh): 6.152098002629953e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_18.txt.bbk...
+building...0.0663417 seconds
+init... 0.127269 seconds
+solving... 0.0293969 seconds
+total: 0.223008 seconds, maxflow: 31270601
+Maximum memory usage: 484.863 MB
+Average memory usage: 270.238 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.8894988091773592e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.7267907874931626e-05
+CPU Energy (kWh): 2.892042369187497e-05
+RAM Energy (kWh): 2.6523592610564604e-05
+Total Energy (kWh): 5.5444016302439575e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_18.txt.bbk...
+building...0.063393 seconds
+init... 0.000577707 seconds
+solving... 0.0392713 seconds
+total: 0.103242 seconds, maxflow: 31270601
+Maximum memory usage: 290.309 MB
+Average memory usage: 186.404 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.5079142778685441e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.709614083423207e-05
+CPU Energy (kWh): 2.2987630612314455e-05
+RAM Energy (kWh): 2.12594593560695e-05
+Total Energy (kWh): 4.424708996838396e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_2.txt.bbk...
+building... 0.0689355 seconds
+solving... 0.0431853 seconds
+total: 0.112121 seconds, maxflow: 988806
+Maximum memory usage: 264.73 MB
+Average memory usage: 150.084 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 1.1478872650462626e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.74399618284442e-05
+CPU Energy (kWh): 1.765470995708507e-05
+RAM Energy (kWh): 1.6028021107612745e-05
+Total Energy (kWh): 3.368273106469781e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_2.txt.bbk...
+building... 0.0482527 seconds
+solving... 0.0286514 seconds
+total: 0.0769041 seconds, maxflow: 988806
+Maximum memory usage: 96.2266 MB
+Average memory usage: 92.7871 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 7.71152765197415e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.735253200541131e-05
+CPU Energy (kWh): 1.184664864398166e-05
+RAM Energy (kWh): 1.0781471721911374e-05
+Total Energy (kWh): 2.2628120365893035e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_2.txt.bbk...
+building... 0.048942 seconds
+init... 0.0568288 seconds
+solving... 0.0167681 seconds
+total: 0.122539 seconds, maxflow: 988806
+Maximum memory usage: 226.738 MB
+Average memory usage: 137.391 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 1.141250744774498e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.721751143570964e-05
+CPU Energy (kWh): 1.745826202215195e-05
+RAM Energy (kWh): 1.6029732038028043e-05
+Total Energy (kWh): 3.348799406018e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_2.txt.bbk...
+building...0.0926583 seconds
+init... 0.0606638 seconds
+solving... 0.0156008 seconds
+total: 0.168923 seconds, maxflow: 988806
+Maximum memory usage: 291.594 MB
+Average memory usage: 158.923 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.0952264202203314e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.56326316914134e-05
+CPU Energy (kWh): 1.6070206189489067e-05
+RAM Energy (kWh): 1.6067285087362392e-05
+Total Energy (kWh): 3.2137491276851456e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_2.txt.bbk...
+building...0.0325786 seconds
+init... 0.0628939 seconds
+solving... 0.0123431 seconds
+total: 0.107816 seconds, maxflow: 988806
+Maximum memory usage: 246.363 MB
+Average memory usage: 143.974 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 9.992213969468322e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2598518434598496e-05
+CPU Energy (kWh): 1.3297841749373984e-05
+RAM Energy (kWh): 1.6022551125701055e-05
+Total Energy (kWh): 2.932039287507504e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_2.txt.bbk...
+building...0.0307859 seconds
+init... 0.000513269 seconds
+solving... 0.0217259 seconds
+total: 0.0530251 seconds, maxflow: 988806
+Maximum memory usage: 96.1758 MB
+Average memory usage: 92.752 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.657433153487834e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.230393872394459e-05
+CPU Energy (kWh): 8.772601462522789e-06
+RAM Energy (kWh): 1.0762464159195418e-05
+Total Energy (kWh): 1.9535065621718205e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_5.txt.bbk...
+building... 0.135141 seconds
+solving... 34.8238 seconds
+total: 34.959 seconds, maxflow: 30828733
+Maximum memory usage: 534.594 MB
+Average memory usage: 531.032 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.001259357193174545 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.574647130514714e-05
+CPU Energy (kWh): 0.0018500661372739
+RAM Energy (kWh): 0.001845295850245
+Total Energy (kWh): 0.0036953619875189
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_5.txt.bbk...
+building... 0.0965801 seconds
+solving... 17.6544 seconds
+total: 17.751 seconds, maxflow: 30828733
+Maximum memory usage: 295.344 MB
+Average memory usage: 293.001 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.0006127784937315546 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.400323843531286e-05
+CPU Energy (kWh): 0.0008541883902946
+RAM Energy (kWh): 0.0009439022267102
+Total Energy (kWh): 0.0017980906170048
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_5.txt.bbk...
+building... 0.10285 seconds
+init... 0.135339 seconds
+solving... 6.59474 seconds
+total: 6.83293 seconds, maxflow: 30828733
+Maximum memory usage: 459.969 MB
+Average memory usage: 444.833 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 0.0002481289467658525 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.488673478996396e-05
+CPU Energy (kWh): 0.0003555687980659
+RAM Energy (kWh): 0.0003725219158722
+Total Energy (kWh): 0.0007280907139381
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_5.txt.bbk...
+building...0.183032 seconds
+init... 0.121602 seconds
+solving... 0.0373316 seconds
+total: 0.341965 seconds, maxflow: 30828733
+Maximum memory usage: 586.129 MB
+Average memory usage: 350.805 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.9712714368278125e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.248075133929293e-05
+CPU Energy (kWh): 2.608578670194872e-05
+RAM Energy (kWh): 3.175770340726132e-05
+Total Energy (kWh): 5.784349010921004e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_5.txt.bbk...
+building...0.0688443 seconds
+init... 0.130189 seconds
+solving... 0.0322042 seconds
+total: 0.231238 seconds, maxflow: 30828733
+Maximum memory usage: 497.852 MB
+Average memory usage: 273.459 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.8511943353050772e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.654357478998335e-05
+CPU Energy (kWh): 2.7819063088560525e-05
+RAM Energy (kWh): 2.650097585887039e-05
+Total Energy (kWh): 5.4320038947430914e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_5.txt.bbk...
+building...0.0672509 seconds
+init... 0.000541315 seconds
+solving... 0.0410806 seconds
+total: 0.108873 seconds, maxflow: 30828733
+Maximum memory usage: 297.66 MB
+Average memory usage: 190.498 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.4854709209190646e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.65650732472933e-05
+CPU Energy (kWh): 2.2342082873660907e-05
+RAM Energy (kWh): 2.124644629407868e-05
+Total Energy (kWh): 4.358852916773959e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_3.txt.bbk...
+building... 0.1316 seconds
+solving... 4.72587 seconds
+total: 4.85747 seconds, maxflow: 26267575
+Maximum memory usage: 492.059 MB
+Average memory usage: 469.661 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.00018601295765819357 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.639802439624076e-05
+CPU Energy (kWh): 0.0002781623014185
+RAM Energy (kWh): 0.0002676599773134
+Total Energy (kWh): 0.000545822278732
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_3.txt.bbk...
+building... 0.0911098 seconds
+solving... 2.25737 seconds
+total: 2.34848 seconds, maxflow: 26267575
+Maximum memory usage: 272.195 MB
+Average memory usage: 257.591 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 8.466824301597043e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2461869777398406e-05
+CPU Energy (kWh): 0.0001118540850387
+RAM Energy (kWh): 0.0001365899691874
+Total Energy (kWh): 0.0002484440542262
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_3.txt.bbk...
+building... 0.0893258 seconds
+init... 0.120573 seconds
+solving... 0.595269 seconds
+total: 0.805168 seconds, maxflow: 26267575
+Maximum memory usage: 423.141 MB
+Average memory usage: 338.807 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.523131136942352e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.18300050343594e-05
+CPU Energy (kWh): 4.543747440551027e-05
+RAM Energy (kWh): 5.794260672685568e-05
+Total Energy (kWh): 0.0001033800811323
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_3.txt.bbk...
+building...0.171714 seconds
+init... 0.112782 seconds
+solving... 0.0254658 seconds
+total: 0.309962 seconds, maxflow: 26267575
+Maximum memory usage: 539.973 MB
+Average memory usage: 331.344 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.9241433526840326e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.173281630708467e-05
+CPU Energy (kWh): 2.4732418952580493e-05
+RAM Energy (kWh): 3.172818049119002e-05
+Total Energy (kWh): 5.646059944377051e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_3.txt.bbk...
+building...0.0621127 seconds
+init... 0.122672 seconds
+solving... 0.0203909 seconds
+total: 0.205175 seconds, maxflow: 26267575
+Maximum memory usage: 458.25 MB
+Average memory usage: 257.09 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.7634147633577093e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.481742814068148e-05
+CPU Energy (kWh): 2.5248521309917397e-05
+RAM Energy (kWh): 2.649578062490861e-05
+Total Energy (kWh): 5.1744301934826e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_3.txt.bbk...
+building...0.0623989 seconds
+init... 0.000538449 seconds
+solving... 0.0378877 seconds
+total: 0.100825 seconds, maxflow: 26267575
+Maximum memory usage: 274.273 MB
+Average memory usage: 177.724 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.4526621481232692e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.574189567243673e-05
+CPU Energy (kWh): 2.1370387929625645e-05
+RAM Energy (kWh): 2.125542555662321e-05
+Total Energy (kWh): 4.2625813486248855e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_12.txt.bbk...
+building... 0.126917 seconds
+solving... 7.19553 seconds
+total: 7.32245 seconds, maxflow: 20015906
+Maximum memory usage: 473.734 MB
+Average memory usage: 459.585 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.00027178006771567747 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5704298959897625e-05
+CPU Energy (kWh): 0.0003988017543189
+RAM Energy (kWh): 0.0003986890105292
+Total Energy (kWh): 0.0007974907648482
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_12.txt.bbk...
+building... 0.0870376 seconds
+solving... 3.39444 seconds
+total: 3.48147 seconds, maxflow: 20015906
+Maximum memory usage: 262.273 MB
+Average memory usage: 252.486 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.00013213757308968698 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.562695395270036e-05
+CPU Energy (kWh): 0.0001934926167383
+RAM Energy (kWh): 0.0001942418301406
+Total Energy (kWh): 0.000387734446879
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_12.txt.bbk...
+building... 0.0890934 seconds
+init... 0.115774 seconds
+solving... 0.914425 seconds
+total: 1.11929 seconds, maxflow: 20015906
+Maximum memory usage: 407.441 MB
+Average memory usage: 344.141 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 5.0860146985749585e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.614615268557012e-05
+CPU Energy (kWh): 7.557044406741875e-05
+RAM Energy (kWh): 7.366970389806653e-05
+Total Energy (kWh): 0.0001492401479654
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_12.txt.bbk...
+building...0.167337 seconds
+init... 0.109876 seconds
+solving... 0.026132 seconds
+total: 0.303345 seconds, maxflow: 20015906
+Maximum memory usage: 520.031 MB
+Average memory usage: 323.778 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.159044234476904e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5599070008453566e-05
+CPU Energy (kWh): 3.161895251736768e-05
+RAM Energy (kWh): 3.173439978569235e-05
+Total Energy (kWh): 6.335335230306003e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_12.txt.bbk...
+building...0.058565 seconds
+init... 0.117129 seconds
+solving... 0.0210746 seconds
+total: 0.196769 seconds, maxflow: 20015906
+Maximum memory usage: 386.699 MB
+Average memory usage: 204.556 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.4463573794639004e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.559432917558973e-05
+CPU Energy (kWh): 2.118965667392836e-05
+RAM Energy (kWh): 2.125115447485655e-05
+Total Energy (kWh): 4.244081114878491e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_12.txt.bbk...
+building...0.0581755 seconds
+init... 0.000678471 seconds
+solving... 0.0367664 seconds
+total: 0.0956204 seconds, maxflow: 20015906
+Maximum memory usage: 175.395 MB
+Average memory usage: 144.039 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.0955234020677722e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.580669187875381e-05
+CPU Energy (kWh): 1.6151179309822905e-05
+RAM Energy (kWh): 1.5995026376538135e-05
+Total Energy (kWh): 3.214620568636104e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_9.txt.bbk...
+building... 0.149234 seconds
+solving... 9.55673 seconds
+total: 9.70597 seconds, maxflow: 38422363
+Maximum memory usage: 566.125 MB
+Average memory usage: 552.174 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.00035388640714544066 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.533881945523556e-05
+CPU Energy (kWh): 0.0005139045825122
+RAM Energy (kWh): 0.0005245127814831
+Total Energy (kWh): 0.0010384173639953
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_9.txt.bbk...
+building... 0.103213 seconds
+solving... 4.27956 seconds
+total: 4.38277 seconds, maxflow: 38422363
+Maximum memory usage: 312.238 MB
+Average memory usage: 302.179 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.0001632738319793411 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.542040462520013e-05
+CPU Energy (kWh): 0.0002376776684753
+RAM Energy (kWh): 0.0002414206489226
+Total Energy (kWh): 0.000479098317398
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_9.txt.bbk...
+building... 0.10494 seconds
+init... 0.139564 seconds
+solving... 1.14733 seconds
+total: 1.39184 seconds, maxflow: 38422363
+Maximum memory usage: 487.152 MB
+Average memory usage: 418.612 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 5.901182621193946e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.4569407974781014e-05
+CPU Energy (kWh): 8.377730146623408e-05
+RAM Energy (kWh): 8.938251417588249e-05
+Total Energy (kWh): 0.0001731598156421
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_9.txt.bbk...
+building...0.195251 seconds
+init... 0.136506 seconds
+solving... 0.0298375 seconds
+total: 0.361595 seconds, maxflow: 38422363
+Maximum memory usage: 620.723 MB
+Average memory usage: 362.021 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.9257237560177542e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.173146877170904e-05
+CPU Energy (kWh): 2.475362869178155e-05
+RAM Energy (kWh): 3.175334490569242e-05
+Total Energy (kWh): 5.650697359747397e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_9.txt.bbk...
+building...0.0694287 seconds
+init... 0.131277 seconds
+solving... 0.0247269 seconds
+total: 0.225433 seconds, maxflow: 38422363
+Maximum memory usage: 527.371 MB
+Average memory usage: 285.759 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.604579071104071e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.169218605858731e-05
+CPU Energy (kWh): 2.0597396200125465e-05
+RAM Energy (kWh): 2.648615195811885e-05
+Total Energy (kWh): 4.708354815824431e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/10/graph_2007_000033_9.txt.bbk...
+building...0.0682045 seconds
+init... 0.000539188 seconds
+solving... 0.0407675 seconds
+total: 0.109511 seconds, maxflow: 38422363
+Maximum memory usage: 314.625 MB
+Average memory usage: 199.876 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.2805408149740461e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.151451288667285e-05
+CPU Energy (kWh): 1.632477333758653e-05
+RAM Energy (kWh): 2.125044262789544e-05
+Total Energy (kWh): 3.757521596548197e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_2.txt.bbk...
+building... 0.0742403 seconds
+solving... 0.850929 seconds
+total: 0.925169 seconds, maxflow: 11346898
+Maximum memory usage: 285.816 MB
+Average memory usage: 251.38 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.495480271028244e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.15711465010136e-05
+CPU Energy (kWh): 4.460849957566016e-05
+RAM Energy (kWh): 5.796021557273576e-05
+Total Energy (kWh): 0.0001025687151483
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_2.txt.bbk...
+building... 0.0505337 seconds
+solving... 0.448503 seconds
+total: 0.499036 seconds, maxflow: 11346898
+Maximum memory usage: 159.391 MB
+Average memory usage: 141.354 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 2.598399246080844e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.675126152493152e-05
+CPU Energy (kWh): 3.9246943619758445e-05
+RAM Energy (kWh): 3.699850806310111e-05
+Total Energy (kWh): 7.624545168285956e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_2.txt.bbk...
+building... 0.0516481 seconds
+init... 0.0631431 seconds
+solving... 0.12627 seconds
+total: 0.241061 seconds, maxflow: 11346898
+Maximum memory usage: 244.641 MB
+Average memory usage: 167.039 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 1.5092171035331994e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.7078823774635806e-05
+CPU Energy (kWh): 2.299915923265061e-05
+RAM Energy (kWh): 2.128615986138272e-05
+Total Energy (kWh): 4.428531909403333e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_2.txt.bbk...
+building...0.0992679 seconds
+init... 0.0658036 seconds
+solving... 0.0152229 seconds
+total: 0.180294 seconds, maxflow: 11346898
+Maximum memory usage: 314.941 MB
+Average memory usage: 205.702 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.5221251934383539e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.7353462208571065e-05
+CPU Energy (kWh): 2.3355095350729996e-05
+RAM Energy (kWh): 2.1308988918310945e-05
+Total Energy (kWh): 4.466408426904094e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_2.txt.bbk...
+building...0.0342691 seconds
+init... 0.0652303 seconds
+solving... 0.0122685 seconds
+total: 0.111768 seconds, maxflow: 11346898
+Maximum memory usage: 256.438 MB
+Average memory usage: 149.721 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.143075464959252e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.709637505314028e-05
+CPU Energy (kWh): 1.743779811688717e-05
+RAM Energy (kWh): 1.6103739144897135e-05
+Total Energy (kWh): 3.3541537261784306e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_2.txt.bbk...
+building...0.0364048 seconds
+init... 0.000533871 seconds
+solving... 0.0200476 seconds
+total: 0.0569863 seconds, maxflow: 11346898
+Maximum memory usage: 103.57 MB
+Average memory usage: 96.459 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 7.728580392385015e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.733230718764271e-05
+CPU Energy (kWh): 1.1870248662865237e-05
+RAM Energy (kWh): 1.0807909967817863e-05
+Total Energy (kWh): 2.2678158630683095e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_18.txt.bbk...
+building... 0.0878168 seconds
+solving... 7.26849 seconds
+total: 7.35631 seconds, maxflow: 18796616
+Maximum memory usage: 324.508 MB
+Average memory usage: 317.82 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.00026283721288813104 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.452426099403651e-05
+CPU Energy (kWh): 0.0003725009382782
+RAM Energy (kWh): 0.0003987485933687
+Total Energy (kWh): 0.000771249531647
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_18.txt.bbk...
+building... 0.057822 seconds
+solving... 3.17928 seconds
+total: 3.2371 seconds, maxflow: 18796616
+Maximum memory usage: 180.645 MB
+Average memory usage: 176.064 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.00012559531336719273 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.683471168442447e-05
+CPU Energy (kWh): 0.0001899689786417
+RAM Energy (kWh): 0.0001785683587738
+Total Energy (kWh): 0.0003685373374155
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_18.txt.bbk...
+building... 0.0594108 seconds
+init... 0.0757938 seconds
+solving... 0.870115 seconds
+total: 1.00532 seconds, maxflow: 18796616
+Maximum memory usage: 278.762 MB
+Average memory usage: 244.857 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 4.410418900262397e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.653134716211727e-05
+CPU Energy (kWh): 6.621173630268207e-05
+RAM Energy (kWh): 6.32042422727153e-05
+Total Energy (kWh): 0.0001294159785753
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_18.txt.bbk...
+building...0.114654 seconds
+init... 0.0815298 seconds
+solving... 0.0184539 seconds
+total: 0.214638 seconds, maxflow: 18796616
+Maximum memory usage: 357.609 MB
+Average memory usage: 221.063 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.3120365244722333e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.222664578810944e-05
+CPU Energy (kWh): 1.7209170989548005e-05
+RAM Energy (kWh): 2.1290231126458536e-05
+Total Energy (kWh): 3.849940211600654e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_18.txt.bbk...
+building...0.0428525 seconds
+init... 0.0812969 seconds
+solving... 0.0161124 seconds
+total: 0.140262 seconds, maxflow: 18796616
+Maximum memory usage: 266.641 MB
+Average memory usage: 157.474 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.0665699042062822e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.471220773304281e-05
+CPU Energy (kWh): 1.5236399689110005e-05
+RAM Energy (kWh): 1.6060216571924e-05
+Total Energy (kWh): 3.1296616261034004e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_18.txt.bbk...
+building...0.0402693 seconds
+init... 0.000550033 seconds
+solving... 0.0224622 seconds
+total: 0.0632815 seconds, maxflow: 18796616
+Maximum memory usage: 116.512 MB
+Average memory usage: 102.932 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.601564838246211e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.196908709483296e-05
+CPU Energy (kWh): 8.590157705454e-06
+RAM Energy (kWh): 1.078097218018428e-05
+Total Energy (kWh): 1.937112988563828e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_8.txt.bbk...
+building... 0.0781057 seconds
+solving... 0.248584 seconds
+total: 0.32669 seconds, maxflow: 12335296
+Maximum memory usage: 293.664 MB
+Average memory usage: 214.082 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 1.608634777746955e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.172160676549485e-05
+CPU Energy (kWh): 2.0677352097424003e-05
+RAM Energy (kWh): 2.6525203632634488e-05
+Total Energy (kWh): 4.720255573005849e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_8.txt.bbk...
+building... 0.0540388 seconds
+solving... 0.143218 seconds
+total: 0.197257 seconds, maxflow: 12335296
+Maximum memory usage: 164.09 MB
+Average memory usage: 130.979 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 1.4328762526108567e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.523446832361232e-05
+CPU Energy (kWh): 2.077936523458993e-05
+RAM Energy (kWh): 2.126586597871949e-05
+Total Energy (kWh): 4.204523121330941e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_8.txt.bbk...
+building... 0.0563055 seconds
+init... 0.0677237 seconds
+solving... 0.0394743 seconds
+total: 0.163503 seconds, maxflow: 12335296
+Maximum memory usage: 220.789 MB
+Average memory usage: 138.814 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 1.108489840184082e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.61757203341977e-05
+CPU Energy (kWh): 1.6508115706481978e-05
+RAM Energy (kWh): 1.6018567280427478e-05
+Total Energy (kWh): 3.252668298690945e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_8.txt.bbk...
+building...0.106197 seconds
+init... 0.0702254 seconds
+solving... 0.0158133 seconds
+total: 0.192236 seconds, maxflow: 12335296
+Maximum memory usage: 323.941 MB
+Average memory usage: 210.914 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.4769255242553734e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.62728130156055e-05
+CPU Energy (kWh): 2.204416402420604e-05
+RAM Energy (kWh): 2.1293615521659603e-05
+Total Energy (kWh): 4.333777954586564e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_8.txt.bbk...
+building...0.0386908 seconds
+init... 0.0697851 seconds
+solving... 0.0130198 seconds
+total: 0.121496 seconds, maxflow: 12335296
+Maximum memory usage: 250.762 MB
+Average memory usage: 148.809 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.1124450603113327e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.628831008243199e-05
+CPU Energy (kWh): 1.6619928573709947e-05
+RAM Energy (kWh): 1.6022813385107782e-05
+Total Energy (kWh): 3.2642741958817726e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_8.txt.bbk...
+building...0.0388461 seconds
+init... 0.000676549 seconds
+solving... 0.0213285 seconds
+total: 0.0608511 seconds, maxflow: 12335296
+Maximum memory usage: 106.363 MB
+Average memory usage: 97.8242 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 7.47555593116501e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6217998302354366e-05
+CPU Energy (kWh): 1.1158190037656012e-05
+RAM Energy (kWh): 1.0777512853724148e-05
+Total Energy (kWh): 2.193570289138016e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_13.txt.bbk...
+building... 0.077736 seconds
+solving... 0.127404 seconds
+total: 0.20514 seconds, maxflow: 10718455
+Maximum memory usage: 278.008 MB
+Average memory usage: 185.563 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 1.472011449136361e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.617866892204869e-05
+CPU Energy (kWh): 2.191746558951376e-05
+RAM Energy (kWh): 2.127611907266811e-05
+Total Energy (kWh): 4.319358466218187e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_13.txt.bbk...
+building... 0.051436 seconds
+solving... 0.0646049 seconds
+total: 0.116041 seconds, maxflow: 10718455
+Maximum memory usage: 155.273 MB
+Average memory usage: 115.148 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 1.1065557242168194e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.610625102829234e-05
+CPU Energy (kWh): 1.645001371555592e-05
+RAM Energy (kWh): 1.6019916043090632e-05
+Total Energy (kWh): 3.2469929758646555e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_13.txt.bbk...
+building... 0.0527976 seconds
+init... 0.062646 seconds
+solving... 0.0243235 seconds
+total: 0.139767 seconds, maxflow: 10718455
+Maximum memory usage: 221.906 MB
+Average memory usage: 137.489 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 1.1088041701529531e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.617058393639559e-05
+CPU Energy (kWh): 1.6512930710333882e-05
+RAM Energy (kWh): 1.6022975736169088e-05
+Total Energy (kWh): 3.253590644650297e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_13.txt.bbk...
+building...0.101427 seconds
+init... 0.066716 seconds
+solving... 0.0151885 seconds
+total: 0.183331 seconds, maxflow: 10718455
+Maximum memory usage: 306.406 MB
+Average memory usage: 200.799 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.4475807015781014e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5551218536071427e-05
+CPU Energy (kWh): 2.1183603891314047e-05
+RAM Energy (kWh): 2.129310349138933e-05
+Total Energy (kWh): 4.2476707382703375e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_13.txt.bbk...
+building...0.0371559 seconds
+init... 0.066313 seconds
+solving... 0.0125233 seconds
+total: 0.115992 seconds, maxflow: 10718455
+Maximum memory usage: 243.871 MB
+Average memory usage: 144.825 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.0944007816552373e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.57017269370804e-05
+CPU Energy (kWh): 1.608960176055995e-05
+RAM Energy (kWh): 1.6023662606043844e-05
+Total Energy (kWh): 3.211326436660379e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_13.txt.bbk...
+building...0.0361284 seconds
+init... 0.000676365 seconds
+solving... 0.0194167 seconds
+total: 0.0562216 seconds, maxflow: 10718455
+Maximum memory usage: 101.215 MB
+Average memory usage: 95.2539 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 7.340994171220316e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.555969919125564e-05
+CPU Energy (kWh): 1.07597330522239e-05
+RAM Energy (kWh): 1.0781122042702408e-05
+Total Energy (kWh): 2.1540855094926307e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_4.txt.bbk...
+building... 0.0977322 seconds
+solving... 2.88743 seconds
+total: 2.98516 seconds, maxflow: 12880298
+Maximum memory usage: 302.844 MB
+Average memory usage: 287.384 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.00011657057007727527 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.631949651673847e-05
+CPU Energy (kWh): 0.0001739729639004
+RAM Energy (kWh): 0.0001680828530366
+Total Energy (kWh): 0.0003420558169371
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_4.txt.bbk...
+building... 0.0553374 seconds
+solving... 1.21004 seconds
+total: 1.26537 seconds, maxflow: 12880298
+Maximum memory usage: 168.977 MB
+Average memory usage: 159.02 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 4.995168751628138e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.548388268906806e-05
+CPU Energy (kWh): 7.287232190892235e-05
+RAM Energy (kWh): 7.370211166761181e-05
+Total Energy (kWh): 0.0001465744335765
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_4.txt.bbk...
+building... 0.0568369 seconds
+init... 0.0701775 seconds
+solving... 0.309201 seconds
+total: 0.436216 seconds, maxflow: 12880298
+Maximum memory usage: 259.867 MB
+Average memory usage: 199.796 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 2.169719236797673e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.57553346363491e-05
+CPU Energy (kWh): 3.191738025610591e-05
+RAM Energy (kWh): 3.1749211197900704e-05
+Total Energy (kWh): 6.366659145400662e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_4.txt.bbk...
+building...0.108669 seconds
+init... 0.0725478 seconds
+solving... 0.0170098 seconds
+total: 0.198226 seconds, maxflow: 12880298
+Maximum memory usage: 333.887 MB
+Average memory usage: 213.213 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.4968707027219707e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.67700666892904e-05
+CPU Energy (kWh): 2.2633491440111897e-05
+RAM Energy (kWh): 2.1289544256583783e-05
+Total Energy (kWh): 4.392303569669568e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_4.txt.bbk...
+building...0.0387091 seconds
+init... 0.0723275 seconds
+solving... 0.0144084 seconds
+total: 0.125445 seconds, maxflow: 12880298
+Maximum memory usage: 253.461 MB
+Average memory usage: 150.643 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.1179411406384157e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6444153744800486e-05
+CPU Energy (kWh): 1.6770498694165976e-05
+RAM Energy (kWh): 1.6033516066610788e-05
+Total Energy (kWh): 3.280401476077677e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_4.txt.bbk...
+building...0.036932 seconds
+init... 0.000680486 seconds
+solving... 0.0212684 seconds
+total: 0.0588809 seconds, maxflow: 12880298
+Maximum memory usage: 109.195 MB
+Average memory usage: 99.2695 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.942238867812152e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.3643674654029314e-05
+CPU Energy (kWh): 9.59609989909611e-06
+RAM Energy (kWh): 1.0774677954422884e-05
+Total Energy (kWh): 2.0370777853519e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_1.txt.bbk...
+building... 0.075491 seconds
+solving... 0.406992 seconds
+total: 0.482483 seconds, maxflow: 16563660
+Maximum memory usage: 284.332 MB
+Average memory usage: 230.59 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 2.2342201260540274e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.157939251897144e-05
+CPU Energy (kWh): 2.853507199470631e-05
+RAM Energy (kWh): 3.702418450787377e-05
+Total Energy (kWh): 6.555925650258008e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_1.txt.bbk...
+building... 0.0507639 seconds
+solving... 0.300063 seconds
+total: 0.350827 seconds, maxflow: 16563660
+Maximum memory usage: 158.508 MB
+Average memory usage: 133.534 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 1.6042027639982225e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1637288287098683e-05
+CPU Energy (kWh): 2.0545991159001947e-05
+RAM Energy (kWh): 2.6526514929668112e-05
+Total Energy (kWh): 4.707250608867006e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_1.txt.bbk...
+building... 0.0516711 seconds
+init... 0.0641409 seconds
+solving... 0.197627 seconds
+total: 0.313439 seconds, maxflow: 16563660
+Maximum memory usage: 243.645 MB
+Average memory usage: 181.863 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 1.6092915631171135e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.175950930454792e-05
+CPU Energy (kWh): 2.071595657275214e-05
+RAM Energy (kWh): 2.6505871367795923e-05
+Total Energy (kWh): 4.7221827940548064e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_1.txt.bbk...
+building...0.10013 seconds
+init... 0.066722 seconds
+solving... 0.137471 seconds
+total: 0.304324 seconds, maxflow: 16563660
+Maximum memory usage: 313.184 MB
+Average memory usage: 226.356 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.6082902927086956e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.171696096006382e-05
+CPU Energy (kWh): 2.0667281256033475e-05
+RAM Energy (kWh): 2.652516616700496e-05
+Total Energy (kWh): 4.719244742303843e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_1.txt.bbk...
+building...0.0358353 seconds
+init... 0.0673536 seconds
+solving... 0.105121 seconds
+total: 0.20831 seconds, maxflow: 16563660
+Maximum memory usage: 264.656 MB
+Average memory usage: 176.814 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.4999761186752333e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.683610257588713e-05
+CPU Energy (kWh): 2.272080539885129e-05
+RAM Energy (kWh): 2.129335326225288e-05
+Total Energy (kWh): 4.401415866110417e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_1.txt.bbk...
+building...0.036063 seconds
+init... 0.000671395 seconds
+solving... 0.111404 seconds
+total: 0.148138 seconds, maxflow: 16563660
+Maximum memory usage: 161.715 MB
+Average memory usage: 118.09 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.1387775465550165e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.708737528749668e-05
+CPU Energy (kWh): 1.736731972717823e-05
+RAM Energy (kWh): 1.6048102685041954e-05
+Total Energy (kWh): 3.3415422412220184e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_15.txt.bbk...
+building... 0.0790815 seconds
+solving... 2.55772 seconds
+total: 2.6368 seconds, maxflow: 5906218
+Maximum memory usage: 294.32 MB
+Average memory usage: 279.207 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.00010391177529022322 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.698719170034882e-05
+CPU Energy (kWh): 0.0001577878931746
+RAM Energy (kWh): 0.0001471229189001
+Total Energy (kWh): 0.0003049108120748
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_15.txt.bbk...
+building... 0.059684 seconds
+solving... 1.01341 seconds
+total: 1.0731 seconds, maxflow: 5906218
+Maximum memory usage: 164.02 MB
+Average memory usage: 153.812 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 4.8417670934969536e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.701752364801992e-05
+CPU Energy (kWh): 7.359573970987764e-05
+RAM Energy (kWh): 6.847739225538448e-05
+Total Energy (kWh): 0.0001420731319652
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_15.txt.bbk...
+building... 0.0536421 seconds
+init... 0.0660472 seconds
+solving... 0.263088 seconds
+total: 0.382778 seconds, maxflow: 5906218
+Maximum memory usage: 252.043 MB
+Average memory usage: 196.951 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 2.188440667700144e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.606248947588648e-05
+CPU Energy (kWh): 3.2461032913249505e-05
+RAM Energy (kWh): 3.175490597358959e-05
+Total Energy (kWh): 6.421593888683909e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_15.txt.bbk...
+building...0.107245 seconds
+init... 0.0684609 seconds
+solving... 0.0150619 seconds
+total: 0.190768 seconds, maxflow: 5906218
+Maximum memory usage: 324.117 MB
+Average memory usage: 207.801 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.3723201713953628e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.369847092834861e-05
+CPU Energy (kWh): 1.8970795176624297e-05
+RAM Energy (kWh): 2.129752443567412e-05
+Total Energy (kWh): 4.026831961229842e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_15.txt.bbk...
+building...0.0345299 seconds
+init... 0.0666671 seconds
+solving... 0.0118711 seconds
+total: 0.113068 seconds, maxflow: 5906218
+Maximum memory usage: 261.617 MB
+Average memory usage: 152.471 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 9.84642786528632e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.202598110733862e-05
+CPU Energy (kWh): 1.2822276924480316e-05
+RAM Energy (kWh): 1.6070332291897672e-05
+Total Energy (kWh): 2.8892609216377988e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_15.txt.bbk...
+building...0.0348619 seconds
+init... 0.000531306 seconds
+solving... 0.0206199 seconds
+total: 0.0560132 seconds, maxflow: 5906218
+Maximum memory usage: 106.395 MB
+Average memory usage: 97.8652 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 7.661777319105608e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.709497647110271e-05
+CPU Energy (kWh): 1.1697180746626182e-05
+RAM Energy (kWh): 1.078495602545786e-05
+Total Energy (kWh): 2.248213677208404e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_19.txt.bbk...
+building... 0.0752954 seconds
+solving... 2.40468 seconds
+total: 2.47998 seconds, maxflow: 12031603
+Maximum memory usage: 288 MB
+Average memory usage: 273.837 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.95142498643428e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6734898989924086e-05
+CPU Energy (kWh): 0.0001501414559464
+RAM Energy (kWh): 0.0001418655919016
+Total Energy (kWh): 0.000292007047848
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_19.txt.bbk...
+building... 0.0508587 seconds
+solving... 1.23263 seconds
+total: 1.28349 seconds, maxflow: 12031603
+Maximum memory usage: 161.316 MB
+Average memory usage: 152.33 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 5.53902433758794e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.673874554588589e-05
+CPU Energy (kWh): 8.359500993151015e-05
+RAM Energy (kWh): 7.893790841763747e-05
+Total Energy (kWh): 0.0001625329183491
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_19.txt.bbk...
+building... 0.052381 seconds
+init... 0.0648979 seconds
+solving... 0.332311 seconds
+total: 0.44959 seconds, maxflow: 12031603
+Maximum memory usage: 246.973 MB
+Average memory usage: 193.842 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 1.948271292680533e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.210095696615829e-05
+CPU Energy (kWh): 2.541163727373761e-05
+RAM Energy (kWh): 3.175695409467067e-05
+Total Energy (kWh): 5.716859136840828e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_19.txt.bbk...
+building...0.100317 seconds
+init... 0.0654101 seconds
+solving... 0.0154363 seconds
+total: 0.181163 seconds, maxflow: 12031603
+Maximum memory usage: 317.66 MB
+Average memory usage: 207.277 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.3000334047463636e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1913095420054146e-05
+CPU Energy (kWh): 1.684319819677052e-05
+RAM Energy (kWh): 2.130399350104e-05
+Total Energy (kWh): 3.814719169781052e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_19.txt.bbk...
+building...0.0335785 seconds
+init... 0.0674681 seconds
+solving... 0.0132215 seconds
+total: 0.114268 seconds, maxflow: 12031603
+Maximum memory usage: 257.789 MB
+Average memory usage: 150.523 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 9.78446384833332e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.187050808968054e-05
+CPU Energy (kWh): 1.2663907908896065e-05
+RAM Energy (kWh): 1.6046878807810572e-05
+Total Energy (kWh): 2.871078671670664e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_19.txt.bbk...
+building...0.0359198 seconds
+init... 0.000550931 seconds
+solving... 0.0202005 seconds
+total: 0.0566712 seconds, maxflow: 12031603
+Maximum memory usage: 104.211 MB
+Average memory usage: 96.7637 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.587429798847479e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1939393242856816e-05
+CPU Energy (kWh): 8.558571846851645e-06
+RAM Energy (kWh): 1.0771081253987804e-05
+Total Energy (kWh): 1.932965310083945e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_21.txt.bbk...
+building... 0.00876709 seconds
+solving... 0.0340544 seconds
+total: 0.0428215 seconds, maxflow: 264501860
+Maximum memory usage: 89.3086 MB
+Average memory usage: 89.3086 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.7986587690803876e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5879192889770765e-05
+CPU Energy (kWh): 5.6333656177996044e-06
+RAM Energy (kWh): 5.513129828365493e-06
+Total Energy (kWh): 1.1146495446165097e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_21.txt.bbk...
+building... 0.00608694 seconds
+solving... 0.035654 seconds
+total: 0.041741 seconds, maxflow: 264501860
+Maximum memory usage: 89.2578 MB
+Average memory usage: 89.2578 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.818608054009548e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.611283406318789e-05
+CPU Energy (kWh): 5.698384836483154e-06
+RAM Energy (kWh): 5.5066482744564384e-06
+Total Energy (kWh): 1.1205033110939594e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_21.txt.bbk...
+building... 0.0062033 seconds
+init... 0.00685569 seconds
+solving... 0.030644 seconds
+total: 0.043703 seconds, maxflow: 264501860
+Maximum memory usage: 89.4102 MB
+Average memory usage: 89.4102 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.7984927100290835e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.587972517711428e-05
+CPU Energy (kWh): 5.633128117609951e-06
+RAM Energy (kWh): 5.512880057501946e-06
+Total Energy (kWh): 1.1146008175111897e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_21.txt.bbk...
+building...0.0121816 seconds
+init... 0.0052608 seconds
+solving... 0.0107958 seconds
+total: 0.0282382 seconds, maxflow: 264501860
+Maximum memory usage: 89.3906 MB
+Average memory usage: 89.3906 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.847306232124263e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.626648369170407e-05
+CPU Energy (kWh): 5.764099055719472e-06
+RAM Energy (kWh): 5.525143806902122e-06
+Total Energy (kWh): 1.1289242862621594e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_21.txt.bbk...
+building...0.00409337 seconds
+init... 0.00708189 seconds
+solving... 0.0115129 seconds
+total: 0.0226881 seconds, maxflow: 264501860
+Maximum memory usage: 89.2578 MB
+Average memory usage: 89.2578 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.8100890199907425e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.594845868328726e-05
+CPU Energy (kWh): 5.6617978627677285e-06
+RAM Energy (kWh): 5.518237642525037e-06
+Total Energy (kWh): 1.1180035505292763e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_21.txt.bbk...
+building...0.00393927 seconds
+init... 9.504e-05 seconds
+solving... 0.0158636 seconds
+total: 0.0198979 seconds, maxflow: 264501860
+Maximum memory usage: 89.3438 MB
+Average memory usage: 89.3438 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.858652910524865e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.598908463210322e-05
+CPU Energy (kWh): 5.739397091513582e-06
+RAM Energy (kWh): 5.583140601417825e-06
+Total Energy (kWh): 1.1322537692931406e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_12.txt.bbk...
+building... 0.0803544 seconds
+solving... 3.18386 seconds
+total: 3.26421 seconds, maxflow: 15599785
+Maximum memory usage: 309.77 MB
+Average memory usage: 297.214 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.00012637285362424838 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.601026634253906e-05
+CPU Energy (kWh): 0.0001870314465694
+RAM Energy (kWh): 0.000183787445853
+Total Energy (kWh): 0.0003708188924225
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_12.txt.bbk...
+building... 0.0559175 seconds
+solving... 1.6821 seconds
+total: 1.73801 seconds, maxflow: 15599785
+Maximum memory usage: 172.773 MB
+Average memory usage: 165.168 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.8139081876443e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.571977008929971e-05
+CPU Energy (kWh): 0.0001000572986568
+RAM Energy (kWh): 9.98848419806933e-05
+Total Energy (kWh): 0.0001999421406375
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_12.txt.bbk...
+building... 0.0578944 seconds
+init... 0.0731792 seconds
+solving... 0.442619 seconds
+total: 0.573692 seconds, maxflow: 15599785
+Maximum memory usage: 265.555 MB
+Average memory usage: 219.179 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 2.9006957410108055e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.595800962820352e-05
+CPU Energy (kWh): 4.289414375973147e-05
+RAM Energy (kWh): 4.222166640743126e-05
+Total Energy (kWh): 8.511581016716273e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_12.txt.bbk...
+building...0.108327 seconds
+init... 0.0707688 seconds
+solving... 0.0163242 seconds
+total: 0.19542 seconds, maxflow: 15599785
+Maximum memory usage: 340.977 MB
+Average memory usage: 216.857 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.4609397334360726e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.59178959062341e-05
+CPU Energy (kWh): 2.159679422186582e-05
+RAM Energy (kWh): 2.1271910433617338e-05
+Total Energy (kWh): 4.286870465548316e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_12.txt.bbk...
+building...0.0371538 seconds
+init... 0.0722695 seconds
+solving... 0.0133611 seconds
+total: 0.122784 seconds, maxflow: 15599785
+Maximum memory usage: 262.047 MB
+Average memory usage: 154.238 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.1029685783487344e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.600727215021895e-05
+CPU Energy (kWh): 1.6353459749423628e-05
+RAM Energy (kWh): 1.6011211528496006e-05
+Total Energy (kWh): 3.2364671277919634e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_12.txt.bbk...
+building...0.0369941 seconds
+init... 0.000514085 seconds
+solving... 0.0220156 seconds
+total: 0.0595238 seconds, maxflow: 15599785
+Maximum memory usage: 111.508 MB
+Average memory usage: 100.451 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 7.3793604237357906e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.576016487436134e-05
+CPU Energy (kWh): 1.087900592542084e-05
+RAM Energy (kWh): 1.0774428183559336e-05
+Total Energy (kWh): 2.165343410898018e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_6.txt.bbk...
+building... 0.0787653 seconds
+solving... 4.79058 seconds
+total: 4.86934 seconds, maxflow: 11179803
+Maximum memory usage: 300.254 MB
+Average memory usage: 292.057 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.00017571750350536927 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.4383424684495936e-05
+CPU Energy (kWh): 0.0002479517664168
+RAM Energy (kWh): 0.0002676603145041
+Total Energy (kWh): 0.0005156120809209
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_6.txt.bbk...
+building... 0.0532288 seconds
+solving... 2.75271 seconds
+total: 2.80594 seconds, maxflow: 11179803
+Maximum memory usage: 167.617 MB
+Average memory usage: 163.041 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.640940668639748e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.204596635833374e-05
+CPU Energy (kWh): 0.0001253443058309
+RAM Energy (kWh): 0.0001575521262846
+Total Energy (kWh): 0.0002828964321155
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_6.txt.bbk...
+building... 0.0552461 seconds
+init... 0.0694326 seconds
+solving... 0.751094 seconds
+total: 0.875773 seconds, maxflow: 11179803
+Maximum memory usage: 257.668 MB
+Average memory usage: 226.115 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.5346920491834546e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.192552004965408e-05
+CPU Energy (kWh): 4.5758450773397685e-05
+RAM Energy (kWh): 5.7960864976980985e-05
+Total Energy (kWh): 0.0001037193157503
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_6.txt.bbk...
+building...0.10468 seconds
+init... 0.0688869 seconds
+solving... 0.0168995 seconds
+total: 0.190466 seconds, maxflow: 11179803
+Maximum memory usage: 330.988 MB
+Average memory usage: 214.919 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.4328569839535815e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.519526449413168e-05
+CPU Energy (kWh): 2.0754459659109815e-05
+RAM Energy (kWh): 2.129020614937218e-05
+Total Energy (kWh): 4.2044665808482e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_6.txt.bbk...
+building...0.0356882 seconds
+init... 0.0676831 seconds
+solving... 0.0141796 seconds
+total: 0.117551 seconds, maxflow: 11179803
+Maximum memory usage: 262.574 MB
+Average memory usage: 153.479 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.1348181073799032e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.698697255727394e-05
+CPU Energy (kWh): 1.7263950200037577e-05
+RAM Energy (kWh): 1.6035289439741975e-05
+Total Energy (kWh): 3.329923963977955e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_6.txt.bbk...
+building...0.0357798 seconds
+init... 0.000523271 seconds
+solving... 0.0212787 seconds
+total: 0.0575818 seconds, maxflow: 11179803
+Maximum memory usage: 108.301 MB
+Average memory usage: 98.8613 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 7.663277121347446e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.71035227364485e-05
+CPU Energy (kWh): 1.1701656583540387e-05
+RAM Energy (kWh): 1.0784881094198795e-05
+Total Energy (kWh): 2.2486537677739183e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_5.txt.bbk...
+building... 0.0873244 seconds
+solving... 7.65401 seconds
+total: 7.74133 seconds, maxflow: 19010344
+Maximum memory usage: 332.254 MB
+Average memory usage: 325.593 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.00028380377501717674 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.586140829496476e-05
+CPU Energy (kWh): 0.0004182694765597
+RAM Energy (kWh): 0.0004145027407245
+Total Energy (kWh): 0.0008327722172842
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_5.txt.bbk...
+building... 0.0622383 seconds
+solving... 3.65709 seconds
+total: 3.71933 seconds, maxflow: 19010344
+Maximum memory usage: 185.066 MB
+Average memory usage: 180.915 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.0001311925896424888 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.355601925930663e-05
+CPU Energy (kWh): 0.0001802025399952
+RAM Energy (kWh): 0.0002047590193118
+Total Energy (kWh): 0.000384961559307
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_5.txt.bbk...
+building... 0.0604386 seconds
+init... 0.0796792 seconds
+solving... 1.0276 seconds
+total: 1.16772 seconds, maxflow: 19010344
+Maximum memory usage: 285.148 MB
+Average memory usage: 254.719 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 4.652008863572263e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.305470761606851e-05
+CPU Energy (kWh): 6.28213072014494e-05
+RAM Energy (kWh): 7.368370355496836e-05
+Total Energy (kWh): 0.0001365050107564
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_5.txt.bbk...
+building...0.117162 seconds
+init... 0.0760738 seconds
+solving... 0.0187952 seconds
+total: 0.212031 seconds, maxflow: 19010344
+Maximum memory usage: 365.707 MB
+Average memory usage: 222.069 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.2942343283481366e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.180871813995185e-05
+CPU Energy (kWh): 1.6698511136576527e-05
+RAM Energy (kWh): 2.127851687295817e-05
+Total Energy (kWh): 3.797702800953469e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_5.txt.bbk...
+building...0.0416815 seconds
+init... 0.0796742 seconds
+solving... 0.016716 seconds
+total: 0.138072 seconds, maxflow: 19010344
+Maximum memory usage: 272.344 MB
+Average memory usage: 160.302 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 9.782367337746005e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.18697429028863e-05
+CPU Energy (kWh): 1.2659991516873748e-05
+RAM Energy (kWh): 1.6044643358581823e-05
+Total Energy (kWh): 2.870463487545557e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_5.txt.bbk...
+building...0.0406299 seconds
+init... 0.000555806 seconds
+solving... 0.024473 seconds
+total: 0.0656587 seconds, maxflow: 19010344
+Maximum memory usage: 119.102 MB
+Average memory usage: 104.322 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 7.347015028264256e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.556245552168832e-05
+CPU Energy (kWh): 1.0771855284143553e-05
+RAM Energy (kWh): 1.078666695587316e-05
+Total Energy (kWh): 2.1558522240016717e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_17.txt.bbk...
+building... 0.072627 seconds
+solving... 0.0487469 seconds
+total: 0.121374 seconds, maxflow: 10400513
+Maximum memory usage: 277.762 MB
+Average memory usage: 156.028 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 1.0902473566174046e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.557196025600484e-05
+CPU Energy (kWh): 1.59703119429061e-05
+RAM Energy (kWh): 1.602107747760613e-05
+Total Energy (kWh): 3.1991389420512234e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_17.txt.bbk...
+building... 0.0496899 seconds
+solving... 0.0273929 seconds
+total: 0.0770827 seconds, maxflow: 10400513
+Maximum memory usage: 101.164 MB
+Average memory usage: 95.248 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 7.364619187871816e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.572129232443178e-05
+CPU Energy (kWh): 1.0844554786748964e-05
+RAM Energy (kWh): 1.0765623760619292e-05
+Total Energy (kWh): 2.161017854736825e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_17.txt.bbk...
+building... 0.0509373 seconds
+init... 0.0617111 seconds
+solving... 0.0128404 seconds
+total: 0.125489 seconds, maxflow: 10400513
+Maximum memory usage: 227.801 MB
+Average memory usage: 139.451 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 1.0886809912934081e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.554255786434431e-05
+CPU Energy (kWh): 1.5933453857861976e-05
+RAM Energy (kWh): 1.6011973329629825e-05
+Total Energy (kWh): 3.19454271874918e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_17.txt.bbk...
+building...0.0981436 seconds
+init... 0.0635311 seconds
+solving... 0.0139675 seconds
+total: 0.175642 seconds, maxflow: 10400513
+Maximum memory usage: 306.684 MB
+Average memory usage: 200.898 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.4449046182127382e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.550720189704805e-05
+CPU Energy (kWh): 2.1115481892371862e-05
+RAM Energy (kWh): 2.1282700534922582e-05
+Total Energy (kWh): 4.2398182427294445e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_17.txt.bbk...
+building...0.034212 seconds
+init... 0.0643828 seconds
+solving... 0.0112799 seconds
+total: 0.109875 seconds, maxflow: 10400513
+Maximum memory usage: 250.543 MB
+Average memory usage: 146.922 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.0865071150153833e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5438182144728894e-05
+CPU Energy (kWh): 1.5864619913907516e-05
+RAM Energy (kWh): 1.6017018701073482e-05
+Total Energy (kWh): 3.1881638614980994e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_17.txt.bbk...
+building...0.0337588 seconds
+init... 0.000531824 seconds
+solving... 0.0192119 seconds
+total: 0.0535025 seconds, maxflow: 10400513
+Maximum memory usage: 100.887 MB
+Average memory usage: 95.1074 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 7.296811679862037e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5378775328751104e-05
+CPU Energy (kWh): 1.0641189624054775e-05
+RAM Energy (kWh): 1.0770019727817726e-05
+Total Energy (kWh): 2.1411209351872503e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_20.txt.bbk...
+building... 0.0811097 seconds
+solving... 4.94355 seconds
+total: 5.02466 seconds, maxflow: 14188471
+Maximum memory usage: 304.676 MB
+Average memory usage: 296.354 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.00018354444777854862 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.522628940720356e-05
+CPU Energy (kWh): 0.0002656842958805
+RAM Energy (kWh): 0.0002728945751633
+Total Energy (kWh): 0.0005385788710439
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_20.txt.bbk...
+building... 0.0548732 seconds
+solving... 2.38996 seconds
+total: 2.44484 seconds, maxflow: 14188471
+Maximum memory usage: 169.957 MB
+Average memory usage: 164.55 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.036353350088749e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.4647348814587256e-05
+CPU Energy (kWh): 0.0001285744670261
+RAM Energy (kWh): 0.0001365814145353
+Total Energy (kWh): 0.0002651558815615
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_20.txt.bbk...
+building... 0.0555929 seconds
+init... 0.0712251 seconds
+solving... 0.616066 seconds
+total: 0.742884 seconds, maxflow: 14188471
+Maximum memory usage: 261.289 MB
+Average memory usage: 221.77 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 2.8673749670759526e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1619951670558354e-05
+CPU Energy (kWh): 3.66732143385496e-05
+RAM Energy (kWh): 4.746485637501792e-05
+Total Energy (kWh): 8.413807071356752e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_20.txt.bbk...
+building...0.105877 seconds
+init... 0.0696031 seconds
+solving... 0.0163226 seconds
+total: 0.191803 seconds, maxflow: 14188471
+Maximum memory usage: 335.773 MB
+Average memory usage: 215.447 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.2911722042493199e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.173933659135831e-05
+CPU Energy (kWh): 1.6614028568992523e-05
+RAM Energy (kWh): 2.127314679939189e-05
+Total Energy (kWh): 3.788717536838442e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_20.txt.bbk...
+building...0.0384004 seconds
+init... 0.0711957 seconds
+solving... 0.0139375 seconds
+total: 0.123534 seconds, maxflow: 14188471
+Maximum memory usage: 257.863 MB
+Average memory usage: 152.449 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.1243507064635557e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6629244135918144e-05
+CPU Energy (kWh): 1.6948348003113442e-05
+RAM Energy (kWh): 1.6043744183473053e-05
+Total Energy (kWh): 3.2992092186586495e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_20.txt.bbk...
+building...0.0372237 seconds
+init... 0.000534928 seconds
+solving... 0.021353 seconds
+total: 0.0591116 seconds, maxflow: 14188471
+Maximum memory usage: 109.758 MB
+Average memory usage: 99.5684 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 7.61949208860927e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.683773460714199e-05
+CPU Energy (kWh): 1.1557528968237848e-05
+RAM Energy (kWh): 1.0800529238800038e-05
+Total Energy (kWh): 2.235805820703789e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_14.txt.bbk...
+building... 0.073564 seconds
+solving... 0.146861 seconds
+total: 0.220425 seconds, maxflow: 8125841
+Maximum memory usage: 280.27 MB
+Average memory usage: 187.908 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 1.4972647659179284e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6795284078783306e-05
+CPU Energy (kWh): 2.265415867886908e-05
+RAM Energy (kWh): 2.128044010860748e-05
+Total Energy (kWh): 4.393459878747656e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_14.txt.bbk...
+building... 0.0499698 seconds
+solving... 0.0764116 seconds
+total: 0.126381 seconds, maxflow: 8125841
+Maximum memory usage: 156.824 MB
+Average memory usage: 116.039 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 1.0993379056306977e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.581954871253873e-05
+CPU Energy (kWh): 1.6218724919414562e-05
+RAM Energy (kWh): 1.6039410658990506e-05
+Total Energy (kWh): 3.225813557840507e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_14.txt.bbk...
+building... 0.0543156 seconds
+init... 0.065628 seconds
+solving... 0.026784 seconds
+total: 0.146728 seconds, maxflow: 8125841
+Maximum memory usage: 223.984 MB
+Average memory usage: 138.372 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 9.793302428502998e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.190606199055919e-05
+CPU Energy (kWh): 1.2691916264637518e-05
+RAM Energy (kWh): 1.604480570964313e-05
+Total Energy (kWh): 2.8736721974280647e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_14.txt.bbk...
+building...0.100262 seconds
+init... 0.0672879 seconds
+solving... 0.0148057 seconds
+total: 0.182355 seconds, maxflow: 8125841
+Maximum memory usage: 309.469 MB
+Average memory usage: 202.612 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.2925090444791838e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1727403987159734e-05
+CPU Energy (kWh): 1.662175968628575e-05
+RAM Energy (kWh): 2.130464290528522e-05
+Total Energy (kWh): 3.792640259157097e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_14.txt.bbk...
+building...0.0340272 seconds
+init... 0.0648719 seconds
+solving... 0.0112864 seconds
+total: 0.110185 seconds, maxflow: 8125841
+Maximum memory usage: 253.043 MB
+Average memory usage: 148.091 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.0685846280276503e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.4831075719453906e-05
+CPU Energy (kWh): 1.5319271422073802e-05
+RAM Energy (kWh): 1.6036463362800647e-05
+Total Energy (kWh): 3.135573478487445e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_14.txt.bbk...
+building...0.0340805 seconds
+init... 0.000527088 seconds
+solving... 0.0192443 seconds
+total: 0.0538519 seconds, maxflow: 8125841
+Maximum memory usage: 101.891 MB
+Average memory usage: 95.6562 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 7.512142952944449e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.638697712965022e-05
+CPU Energy (kWh): 1.126437428927013e-05
+RAM Energy (kWh): 1.077868677678282e-05
+Total Energy (kWh): 2.204306106605295e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_11.txt.bbk...
+building... 0.0797976 seconds
+solving... 3.14457 seconds
+total: 3.22437 seconds, maxflow: 12710907
+Maximum memory usage: 300.328 MB
+Average memory usage: 288.034 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.00010936217976284288 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2074304993067035e-05
+CPU Energy (kWh): 0.0001423371419251
+RAM Energy (kWh): 0.0001785669225913
+Total Energy (kWh): 0.0003209040645165
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_11.txt.bbk...
+building... 0.0538575 seconds
+solving... 1.46933 seconds
+total: 1.52319 seconds, maxflow: 12710907
+Maximum memory usage: 167.258 MB
+Average memory usage: 159.201 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 5.535819455657247e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.242208794386417e-05
+CPU Energy (kWh): 7.303603120655498e-05
+RAM Energy (kWh): 8.940284552417523e-05
+Total Energy (kWh): 0.0001624388767307
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_11.txt.bbk...
+building... 0.0551283 seconds
+init... 0.0701292 seconds
+solving... 0.394395 seconds
+total: 0.519652 seconds, maxflow: 12710907
+Maximum memory usage: 257.305 MB
+Average memory usage: 207.559 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 2.5080104549514296e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.549541832567684e-05
+CPU Energy (kWh): 3.661606151504626e-05
+RAM Energy (kWh): 3.697709021155192e-05
+Total Energy (kWh): 7.359315172659818e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_11.txt.bbk...
+building...0.108127 seconds
+init... 0.0692199 seconds
+solving... 0.0158561 seconds
+total: 0.193203 seconds, maxflow: 12710907
+Maximum memory usage: 330.797 MB
+Average memory usage: 211.622 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.4413461092797162e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.542656282398042e-05
+CPU Energy (kWh): 2.101585931267233e-05
+RAM Energy (kWh): 2.1277904934342477e-05
+Total Energy (kWh): 4.22937642470148e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_11.txt.bbk...
+building...0.0367079 seconds
+init... 0.0701324 seconds
+solving... 0.0130009 seconds
+total: 0.119841 seconds, maxflow: 12710907
+Maximum memory usage: 256.629 MB
+Average memory usage: 151.443 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.0955203010252514e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5721189336778385e-05
+CPU Energy (kWh): 1.611460928056807e-05
+RAM Energy (kWh): 1.603150541115923e-05
+Total Energy (kWh): 3.21461146917273e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_11.txt.bbk...
+building...0.0364409 seconds
+init... 0.000527422 seconds
+solving... 0.0213723 seconds
+total: 0.0583407 seconds, maxflow: 12710907
+Maximum memory usage: 108.605 MB
+Average memory usage: 98.9707 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 7.3276627459628994e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.551099337375336e-05
+CPU Energy (kWh): 1.072567219164225e-05
+RAM Energy (kWh): 1.0776064182715573e-05
+Total Energy (kWh): 2.1501736374357825e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_10.txt.bbk...
+building... 0.0733526 seconds
+solving... 0.0688101 seconds
+total: 0.142163 seconds, maxflow: 10614404
+Maximum memory usage: 278.656 MB
+Average memory usage: 156.402 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 1.0889629429115367e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5533646551855125e-05
+CPU Energy (kWh): 1.593238580145477e-05
+RAM Energy (kWh): 1.6021314759926498e-05
+Total Energy (kWh): 3.195370056138127e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_10.txt.bbk...
+building... 0.0500819 seconds
+solving... 0.0376003 seconds
+total: 0.0876822 seconds, maxflow: 10614404
+Maximum memory usage: 155.688 MB
+Average memory usage: 115.463 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 1.0795543578595007e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.525337829343851e-05
+CPU Energy (kWh): 1.5670731703242013e-05
+RAM Energy (kWh): 1.600689049255664e-05
+Total Energy (kWh): 3.167762219579865e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_10.txt.bbk...
+building... 0.0509793 seconds
+init... 0.0619339 seconds
+solving... 0.0154241 seconds
+total: 0.128337 seconds, maxflow: 10614404
+Maximum memory usage: 227.91 MB
+Average memory usage: 139.505 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 1.0818770534745125e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5323534196545445e-05
+CPU Energy (kWh): 1.5737463423294573e-05
+RAM Energy (kWh): 1.6008314186478856e-05
+Total Energy (kWh): 3.174577760977343e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_10.txt.bbk...
+building...0.0985794 seconds
+init... 0.0645867 seconds
+solving... 0.0144537 seconds
+total: 0.17762 seconds, maxflow: 10614404
+Maximum memory usage: 306.75 MB
+Average memory usage: 200.973 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.438751120396711e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.536035670735254e-05
+CPU Energy (kWh): 2.093785313915693e-05
+RAM Energy (kWh): 2.1279765727275906e-05
+Total Energy (kWh): 4.221761886643283e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_10.txt.bbk...
+building...0.0347319 seconds
+init... 0.0646058 seconds
+solving... 0.0116212 seconds
+total: 0.110959 seconds, maxflow: 10614404
+Maximum memory usage: 250.395 MB
+Average memory usage: 147.037 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.0845907687117335e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.537089140217398e-05
+CPU Energy (kWh): 1.5796786248530037e-05
+RAM Energy (kWh): 1.6028620557685258e-05
+Total Energy (kWh): 3.1825406806215295e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_10.txt.bbk...
+building...0.034142 seconds
+init... 0.000541614 seconds
+solving... 0.0191249 seconds
+total: 0.0538085 seconds, maxflow: 10614404
+Maximum memory usage: 101.102 MB
+Average memory usage: 95.2441 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 7.2975745152877636e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5340436440455896e-05
+CPU Energy (kWh): 1.06311018382068e-05
+RAM Energy (kWh): 1.0782345919933788e-05
+Total Energy (kWh): 2.141344775814059e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_3.txt.bbk...
+building... 0.0858736 seconds
+solving... 0.749565 seconds
+total: 0.835439 seconds, maxflow: 17636660
+Maximum memory usage: 322.246 MB
+Average memory usage: 272.958 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 3.5578999498731e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.531059444935112e-05
+CPU Energy (kWh): 5.165443660129498e-05
+RAM Energy (kWh): 5.2745874139888834e-05
+Total Energy (kWh): 0.0001044003107411
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_3.txt.bbk...
+building... 0.0576831 seconds
+solving... 0.361759 seconds
+total: 0.419442 seconds, maxflow: 17636660
+Maximum memory usage: 179.438 MB
+Average memory usage: 153.762 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 1.8967857571731147e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.126630662844385e-05
+CPU Energy (kWh): 2.3913498297450583e-05
+RAM Energy (kWh): 3.174434066606153e-05
+Total Energy (kWh): 5.565783896351211e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_3.txt.bbk...
+building... 0.0592131 seconds
+init... 0.0761531 seconds
+solving... 0.103157 seconds
+total: 0.238523 seconds, maxflow: 17636660
+Maximum memory usage: 276.43 MB
+Average memory usage: 175.919 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 1.4513716332178373e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.565214857014744e-05
+CPU Energy (kWh): 2.1300062317815976e-05
+RAM Energy (kWh): 2.128788328034119e-05
+Total Energy (kWh): 4.258794559815717e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_3.txt.bbk...
+building...0.11363 seconds
+init... 0.073301 seconds
+solving... 0.0163583 seconds
+total: 0.203289 seconds, maxflow: 17636660
+Maximum memory usage: 354.68 MB
+Average memory usage: 218.772 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.4982305121205193e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6780162641351135e-05
+CPU Energy (kWh): 2.2659855072314564e-05
+RAM Energy (kWh): 2.130308183738805e-05
+Total Energy (kWh): 4.3962936909702615e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_3.txt.bbk...
+building...0.040139 seconds
+init... 0.0754979 seconds
+solving... 0.0139517 seconds
+total: 0.129589 seconds, maxflow: 17636660
+Maximum memory usage: 264.477 MB
+Average memory usage: 156.354 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.134841082880996e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.696936423590596e-05
+CPU Energy (kWh): 1.7255557693324555e-05
+RAM Energy (kWh): 1.6044356122088745e-05
+Total Energy (kWh): 3.32999138154133e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_3.txt.bbk...
+building...0.0389425 seconds
+init... 0.00053307 seconds
+solving... 0.022977 seconds
+total: 0.0624526 seconds, maxflow: 17636660
+Maximum memory usage: 115.457 MB
+Average memory usage: 102.424 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 7.598844030991299e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.674176201970236e-05
+CPU Energy (kWh): 1.1499376143938795e-05
+RAM Energy (kWh): 1.0798093972880452e-05
+Total Energy (kWh): 2.229747011681925e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_7.txt.bbk...
+building... 0.0744846 seconds
+solving... 1.02543 seconds
+total: 1.09992 seconds, maxflow: 6092706
+Maximum memory usage: 283.977 MB
+Average memory usage: 255.084 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 4.2251069991289077e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2315327734041496e-05
+CPU Energy (kWh): 5.552829720037976e-05
+RAM Energy (kWh): 6.845002985728286e-05
+Total Energy (kWh): 0.0001239783270576
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_7.txt.bbk...
+building... 0.049598 seconds
+solving... 0.478873 seconds
+total: 0.528471 seconds, maxflow: 6092706
+Maximum memory usage: 158.711 MB
+Average memory usage: 140.846 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 2.231484396050666e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.15636039925029e-05
+CPU Energy (kWh): 2.8479174449988837e-05
+RAM Energy (kWh): 3.699980687159154e-05
+Total Energy (kWh): 6.547898132158038e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_7.txt.bbk...
+building... 0.0516844 seconds
+init... 0.0638504 seconds
+solving... 0.152116 seconds
+total: 0.267651 seconds, maxflow: 6092706
+Maximum memory usage: 243.449 MB
+Average memory usage: 166.345 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 1.4830596884240525e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.649627482492756e-05
+CPU Energy (kWh): 2.226529753444721e-05
+RAM Energy (kWh): 2.125247826043335e-05
+Total Energy (kWh): 4.351777579488056e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_7.txt.bbk...
+building...0.0999184 seconds
+init... 0.0659734 seconds
+solving... 0.0153157 seconds
+total: 0.181208 seconds, maxflow: 6092706
+Maximum memory usage: 312.785 MB
+Average memory usage: 204.467 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.4829106897900625e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6427869589605024e-05
+CPU Energy (kWh): 2.2222335833410253e-05
+RAM Energy (kWh): 2.129106785885142e-05
+Total Energy (kWh): 4.351340369226168e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_7.txt.bbk...
+building...0.034128 seconds
+init... 0.0652273 seconds
+solving... 0.012738 seconds
+total: 0.112093 seconds, maxflow: 6092706
+Maximum memory usage: 253.98 MB
+Average memory usage: 148.677 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.0111192765194955e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2947694919123806e-05
+CPU Energy (kWh): 1.3627719235501448e-05
+RAM Energy (kWh): 1.6041795970737382e-05
+Total Energy (kWh): 2.966951520623883e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_7.txt.bbk...
+building...0.0352819 seconds
+init... 0.000654324 seconds
+solving... 0.0201423 seconds
+total: 0.0560785 seconds, maxflow: 6092706
+Maximum memory usage: 103.062 MB
+Average memory usage: 96.1855 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.5141157053671826e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.158407323346118e-05
+CPU Energy (kWh): 8.342033340286853e-06
+RAM Energy (kWh): 1.0772492459366844e-05
+Total Energy (kWh): 1.91145257996537e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_0.txt.bbk...
+building... 0.0226884 seconds
+solving... 0.186406 seconds
+total: 0.209095 seconds, maxflow: 4381178
+Maximum memory usage: 90.5078 MB
+Average memory usage: 90.1348 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 9.699084822060283e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.165538905027144e-05
+CPU Energy (kWh): 1.2442638842992055e-05
+RAM Energy (kWh): 1.6017618151145996e-05
+Total Energy (kWh): 2.8460256994138053e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_0.txt.bbk...
+building... 0.0156061 seconds
+solving... 0.164037 seconds
+total: 0.179643 seconds, maxflow: 4381178
+Maximum memory usage: 89.2188 MB
+Average memory usage: 89.2188 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.921276702384703e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.239715565912443e-05
+CPU Energy (kWh): 1.310332631598507e-05
+RAM Energy (kWh): 1.600891363655137e-05
+Total Energy (kWh): 2.911223995253644e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_0.txt.bbk...
+building... 0.0164658 seconds
+init... 0.0194436 seconds
+solving... 0.136277 seconds
+total: 0.172186 seconds, maxflow: 4381178
+Maximum memory usage: 89.2891 MB
+Average memory usage: 89.2891 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 1.0792178642285996e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5191017580127826e-05
+CPU Energy (kWh): 1.5637654176779356e-05
+RAM Energy (kWh): 1.6030094205780188e-05
+Total Energy (kWh): 3.1667748382559544e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_0.txt.bbk...
+building...0.0318344 seconds
+init... 0.0176971 seconds
+solving... 0.0302967 seconds
+total: 0.0798283 seconds, maxflow: 4381178
+Maximum memory usage: 99.9961 MB
+Average memory usage: 94.6445 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 7.2694664501467735e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.522269776838821e-05
+CPU Energy (kWh): 1.0552807331127775e-05
+RAM Energy (kWh): 1.0778162257969372e-05
+Total Energy (kWh): 2.133096958909715e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_0.txt.bbk...
+building...0.0113969 seconds
+init... 0.0198613 seconds
+solving... 0.0247637 seconds
+total: 0.0560219 seconds, maxflow: 4381178
+Maximum memory usage: 89.2578 MB
+Average memory usage: 89.2578 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.81080672928497e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5880570607307954e-05
+CPU Energy (kWh): 5.65106563196055e-06
+RAM Energy (kWh): 5.531075864911373e-06
+Total Energy (kWh): 1.1182141496871924e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_0.txt.bbk...
+building...0.0115044 seconds
+init... 0.000217249 seconds
+solving... 0.0727473 seconds
+total: 0.0844689 seconds, maxflow: 4381178
+Maximum memory usage: 89.3359 MB
+Average memory usage: 89.3359 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 7.250316670877124e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.520042251334525e-05
+CPU Energy (kWh): 1.0518458136984238e-05
+RAM Energy (kWh): 1.0756319795952152e-05
+Total Energy (kWh): 2.127477793293639e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_16.txt.bbk...
+building... 0.0778467 seconds
+solving... 3.10965 seconds
+total: 3.1875 seconds, maxflow: 9905179
+Maximum memory usage: 292.262 MB
+Average memory usage: 280.51 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.00012012928363946818 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.523253101514892e-05
+CPU Energy (kWh): 0.0001739344099807
+RAM Energy (kWh): 0.0001785638254326
+Total Energy (kWh): 0.0003524982354133
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_16.txt.bbk...
+building... 0.0523535 seconds
+solving... 1.51331 seconds
+total: 1.56566 seconds, maxflow: 9905179
+Maximum memory usage: 163.352 MB
+Average memory usage: 155.62 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 5.9942337772433825e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.510736191212202e-05
+CPU Energy (kWh): 8.649037724780227e-05
+RAM Energy (kWh): 8.939986076235584e-05
+Total Energy (kWh): 0.0001758902380101
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_16.txt.bbk...
+building... 0.0537738 seconds
+init... 0.0670383 seconds
+solving... 0.395958 seconds
+total: 0.51677 seconds, maxflow: 9905179
+Maximum memory usage: 250.824 MB
+Average memory usage: 203.511 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 2.5173483411980795e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.561935473024509e-05
+CPU Energy (kWh): 3.688159811636796e-05
+RAM Energy (kWh): 3.698555744382617e-05
+Total Energy (kWh): 7.386715556019412e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_16.txt.bbk...
+building...0.103885 seconds
+init... 0.0675255 seconds
+solving... 0.0150533 seconds
+total: 0.186463 seconds, maxflow: 9905179
+Maximum memory usage: 322.434 MB
+Average memory usage: 210.03 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.4468434293206264e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.554666158409284e-05
+CPU Energy (kWh): 2.116917582421773e-05
+RAM Energy (kWh): 2.1285897601975996e-05
+Total Energy (kWh): 4.245507342619373e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_16.txt.bbk...
+building...0.0365144 seconds
+init... 0.067521 seconds
+solving... 0.0118884 seconds
+total: 0.115924 seconds, maxflow: 9905179
+Maximum memory usage: 254.473 MB
+Average memory usage: 149.923 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.1202246996454387e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6537395709210725e-05
+CPU Energy (kWh): 1.6844486808911124e-05
+RAM Energy (kWh): 1.6026534970974636e-05
+Total Energy (kWh): 3.287102177988576e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_16.txt.bbk...
+building...0.035122 seconds
+init... 0.000519494 seconds
+solving... 0.0201915 seconds
+total: 0.055833 seconds, maxflow: 9905179
+Maximum memory usage: 105.676 MB
+Average memory usage: 97.5566 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 6.5420574464441235e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.167045556842529e-05
+CPU Energy (kWh): 8.409561727644455e-06
+RAM Energy (kWh): 1.0786954192366238e-05
+Total Energy (kWh): 1.9196515920010693e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_9.txt.bbk...
+building... 0.0899479 seconds
+solving... 4.83371 seconds
+total: 4.92366 seconds, maxflow: 22049282
+Maximum memory usage: 348.27 MB
+Average memory usage: 337.349 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.0001635317015077322 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.1998752231810134e-05
+CPU Energy (kWh): 0.0002121926025317
+RAM Energy (kWh): 0.0002676623876022
+Total Energy (kWh): 0.000479854990134
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_9.txt.bbk...
+building... 0.0625197 seconds
+solving... 2.37364 seconds
+total: 2.43616 seconds, maxflow: 22049282
+Maximum memory usage: 193.547 MB
+Average memory usage: 186.865 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 9.362788973188558e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5887777211548446e-05
+CPU Energy (kWh): 0.0001381125329899
+RAM Energy (kWh): 0.0001366220272778
+Total Energy (kWh): 0.0002747345602677
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_9.txt.bbk...
+building... 0.0647923 seconds
+init... 0.0837268 seconds
+solving... 0.661597 seconds
+total: 0.810116 seconds, maxflow: 22049282
+Maximum memory usage: 298.848 MB
+Average memory usage: 251.982 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.657292615198205e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.629868067717172e-05
+CPU Energy (kWh): 5.4573861714611593e-05
+RAM Energy (kWh): 5.2742951820785326e-05
+Total Energy (kWh): 0.0001073168135353
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_9.txt.bbk...
+building...0.122819 seconds
+init... 0.0792799 seconds
+solving... 0.0177506 seconds
+total: 0.21985 seconds, maxflow: 22049282
+Maximum memory usage: 383.031 MB
+Average memory usage: 224.688 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.4840058528249445e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.644256385134076e-05
+CPU Energy (kWh): 2.224998807775526e-05
+RAM Energy (kWh): 2.129555124585209e-05
+Total Energy (kWh): 4.354553932360736e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_9.txt.bbk...
+building...0.0438901 seconds
+init... 0.0862733 seconds
+solving... 0.0156669 seconds
+total: 0.14583 seconds, maxflow: 22049282
+Maximum memory usage: 284.137 MB
+Average memory usage: 165.893 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.1170641460866994e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.642368913376397e-05
+CPU Energy (kWh): 1.674723756444653e-05
+RAM Energy (kWh): 1.6031043335061667e-05
+Total Energy (kWh): 3.277828089950819e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_1/4/graph_2007_000033_9.txt.bbk...
+building...0.0443952 seconds
+init... 0.000610599 seconds
+solving... 0.0246069 seconds
+total: 0.0696127 seconds, maxflow: 22049282
+Maximum memory usage: 195.887 MB
+Average memory usage: 136.47 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 9.989810663645364e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2628899047983135e-05
+CPU Energy (kWh): 1.330970981442553e-05
+RAM Energy (kWh): 1.6003630982787344e-05
+Total Energy (kWh): 2.9313340797212877e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_16.txt.bbk...
+building... 0.170625 seconds
+solving... 7.19835 seconds
+total: 7.36897 seconds, maxflow: 14252838
+Maximum memory usage: 621.664 MB
+Average memory usage: 597.938 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.00026764249242257603 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.469892211812312e-05
+CPU Energy (kWh): 0.0003813541736942
+RAM Energy (kWh): 0.0004039956048305
+Total Energy (kWh): 0.0007853497785247
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_16.txt.bbk...
+building... 0.110395 seconds
+solving... 3.48028 seconds
+total: 3.59068 seconds, maxflow: 14252838
+Maximum memory usage: 342.871 MB
+Average memory usage: 327.737 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.00012803059645890175 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.27508018377286e-05
+CPU Energy (kWh): 0.0001709469817574
+RAM Energy (kWh): 0.0002047362651861
+Total Energy (kWh): 0.0003756832469436
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_16.txt.bbk...
+building... 0.115611 seconds
+init... 0.160776 seconds
+solving... 0.943308 seconds
+total: 1.2197 seconds, maxflow: 14252838
+Maximum memory usage: 535.215 MB
+Average memory usage: 436.135 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 5.404354492392957e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.585865809770598e-05
+CPU Energy (kWh): 7.966999845817127e-05
+RAM Energy (kWh): 7.891127035504014e-05
+Total Energy (kWh): 0.0001585812688132
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_16.txt.bbk...
+building...0.215389 seconds
+init... 0.153468 seconds
+solving... 0.0328498 seconds
+total: 0.401707 seconds, maxflow: 14252838
+Maximum memory usage: 681.594 MB
+Average memory usage: 400.156 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.530365780510372e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5811809204731895e-05
+CPU Energy (kWh): 3.727105259459379e-05
+RAM Energy (kWh): 3.697807680646293e-05
+Total Energy (kWh): 7.424912940105671e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_16.txt.bbk...
+building...0.0760479 seconds
+init... 0.144744 seconds
+solving... 0.0261747 seconds
+total: 0.246966 seconds, maxflow: 14252838
+Maximum memory usage: 579.152 MB
+Average memory usage: 315.316 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 2.177402010383921e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.590362245435948e-05
+CPU Energy (kWh): 3.215831600440755e-05
+RAM Energy (kWh): 3.173371291581759e-05
+Total Energy (kWh): 6.389202892022515e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_16.txt.bbk...
+building...0.0780256 seconds
+init... 0.000588536 seconds
+solving... 0.0563991 seconds
+total: 0.135013 seconds, maxflow: 14252838
+Maximum memory usage: 345.316 MB
+Average memory usage: 230.004 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.7900096315951367e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.534144438709007e-05
+CPU Energy (kWh): 2.6026565543457725e-05
+RAM Energy (kWh): 2.6498115982482776e-05
+Total Energy (kWh): 5.25246815259405e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_1.txt.bbk...
+building... 0.161449 seconds
+solving... 1.16555 seconds
+total: 1.327 seconds, maxflow: 23680288
+Maximum memory usage: 613.66 MB
+Average memory usage: 510.309 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 6.0252758073962665e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.529239855369702e-05
+CPU Energy (kWh): 8.74090563160769e-05
+RAM Energy (kWh): 8.939205542286999e-05
+Total Energy (kWh): 0.0001768011117389
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_1.txt.bbk...
+building... 0.111651 seconds
+solving... 0.786614 seconds
+total: 0.898265 seconds, maxflow: 23680288
+Maximum memory usage: 338.383 MB
+Average memory usage: 289.499 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 4.266210229046631e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5347614705393194e-05
+CPU Energy (kWh): 6.199823265410145e-05
+RAM Energy (kWh): 6.318619632782401e-05
+Total Energy (kWh): 0.0001251844289819
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_1.txt.bbk...
+building... 0.114302 seconds
+init... 0.154617 seconds
+solving... 0.366529 seconds
+total: 0.635449 seconds, maxflow: 23680288
+Maximum memory usage: 527.984 MB
+Average memory usage: 382.5 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.579025629475598e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5546743999193045e-05
+CPU Energy (kWh): 5.231468296282293e-05
+RAM Energy (kWh): 5.270552365688275e-05
+Total Energy (kWh): 0.0001050202066197
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_1.txt.bbk...
+building...0.212917 seconds
+init... 0.152083 seconds
+solving... 0.0955727 seconds
+total: 0.460573 seconds, maxflow: 23680288
+Maximum memory usage: 672.859 MB
+Average memory usage: 432.436 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.7581304649845836e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.417948883331068e-05
+CPU Energy (kWh): 3.869649234605754e-05
+RAM Energy (kWh): 4.22359907664557e-05
+Total Energy (kWh): 8.093248311251324e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_1.txt.bbk...
+building...0.0735163 seconds
+init... 0.145486 seconds
+solving... 0.0826108 seconds
+total: 0.301613 seconds, maxflow: 23680288
+Maximum memory usage: 571.359 MB
+Average memory usage: 316.493 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.9241862919650622e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.173879086156201e-05
+CPU Energy (kWh): 2.4739098957931444e-05
+RAM Energy (kWh): 3.172276046345104e-05
+Total Energy (kWh): 5.646185942138248e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_1.txt.bbk...
+building...0.0740864 seconds
+init... 0.00055555 seconds
+solving... 0.149711 seconds
+total: 0.224353 seconds, maxflow: 23680288
+Maximum memory usage: 341.359 MB
+Average memory usage: 232.79 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.5983144785822023e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.154924391175781e-05
+CPU Energy (kWh): 2.0396675761771843e-05
+RAM Energy (kWh): 2.650304895703784e-05
+Total Energy (kWh): 4.689972471880968e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_6.txt.bbk...
+building... 0.181962 seconds
+solving... 20.1091 seconds
+total: 20.2911 seconds, maxflow: 29533839
+Maximum memory usage: 690.184 MB
+Average memory usage: 679.869 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.0007147650815821882 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.466564742227944e-05
+CPU Energy (kWh): 0.0010173834294616
+RAM Energy (kWh): 0.0010799688759844
+Total Energy (kWh): 0.002097352305446
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_6.txt.bbk...
+building... 0.123284 seconds
+solving... 9.02083 seconds
+total: 9.14411 seconds, maxflow: 29533839
+Maximum memory usage: 380.445 MB
+Average memory usage: 373.013 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.0003199669936977735 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.3629745353880585e-05
+CPU Energy (kWh): 0.0004405500838286
+RAM Energy (kWh): 0.0004983367325406
+Total Energy (kWh): 0.0009388868163693
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_6.txt.bbk...
+building... 0.128281 seconds
+init... 0.18161 seconds
+solving... 2.99758 seconds
+total: 3.30747 seconds, maxflow: 29533839
+Maximum memory usage: 594.094 MB
+Average memory usage: 544.18 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 0.00013164461865864638 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.647735568509041e-05
+CPU Energy (kWh): 0.0001972830119929
+RAM Energy (kWh): 0.0001890049468873
+Total Energy (kWh): 0.0003862879588802
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_6.txt.bbk...
+building...0.241055 seconds
+init... 0.170642 seconds
+solving... 0.054592 seconds
+total: 0.466289 seconds, maxflow: 29533839
+Maximum memory usage: 755.984 MB
+Average memory usage: 461.592 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.939279461679423e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.643601577890969e-05
+CPU Energy (kWh): 4.402590299847076e-05
+RAM Energy (kWh): 4.222207852935612e-05
+Total Energy (kWh): 8.624798152782687e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_6.txt.bbk...
+building...0.0809826 seconds
+init... 0.157533 seconds
+solving... 0.044242 seconds
+total: 0.282758 seconds, maxflow: 29533839
+Maximum memory usage: 637.195 MB
+Average memory usage: 335.711 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 2.2179655293948907e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.655410249098844e-05
+CPU Energy (kWh): 3.333278305509349e-05
+RAM Energy (kWh): 3.1749510922936964e-05
+Total Energy (kWh): 6.508229397803045e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_6.txt.bbk...
+building...0.0825486 seconds
+init... 0.000553873 seconds
+solving... 0.13166 seconds
+total: 0.214762 seconds, maxflow: 29533839
+Maximum memory usage: 382.578 MB
+Average memory usage: 244.297 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.8467290338784865e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.647523817864829e-05
+CPU Energy (kWh): 2.7703859663070343e-05
+RAM Energy (kWh): 2.6485152874664663e-05
+Total Energy (kWh): 5.418901253773501e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_12.txt.bbk...
+building... 0.183437 seconds
+solving... 9.86023 seconds
+total: 10.0437 seconds, maxflow: 28844799
+Maximum memory usage: 701.906 MB
+Average memory usage: 680.838 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.00037587230166857984 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.60888206312944e-05
+CPU Energy (kWh): 0.0005574097550941
+RAM Energy (kWh): 0.0005455213460067
+Total Energy (kWh): 0.0011029311011008
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_12.txt.bbk...
+building... 0.126663 seconds
+solving... 4.94658 seconds
+total: 5.07325 seconds, maxflow: 28844799
+Maximum memory usage: 386.602 MB
+Average memory usage: 373.267 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.00019480346653523594 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.600377841742909e-05
+CPU Energy (kWh): 0.0002882373228118
+RAM Energy (kWh): 0.0002833791567482
+Total Energy (kWh): 0.0005716164795601
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_12.txt.bbk...
+building... 0.127567 seconds
+init... 0.18479 seconds
+solving... 1.38496 seconds
+total: 1.69732 seconds, maxflow: 28844799
+Maximum memory usage: 604.105 MB
+Average memory usage: 512.542 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.715143416326019e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.344386101975352e-05
+CPU Energy (kWh): 9.190377907852126e-05
+RAM Energy (kWh): 0.0001051402832091
+Total Energy (kWh): 0.0001970440622876
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_12.txt.bbk...
+building...0.242732 seconds
+init... 0.168796 seconds
+solving... 0.0400921 seconds
+total: 0.451621 seconds, maxflow: 28844799
+Maximum memory usage: 769.098 MB
+Average memory usage: 469.243 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.6076547526912293e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2335007127379485e-05
+CPU Energy (kWh): 3.4307410779241265e-05
+RAM Energy (kWh): 4.220962745180827e-05
+Total Energy (kWh): 7.651703823104954e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_12.txt.bbk...
+building...0.0865079 seconds
+init... 0.163964 seconds
+solving... 0.0336421 seconds
+total: 0.284114 seconds, maxflow: 28844799
+Maximum memory usage: 638.297 MB
+Average memory usage: 339.8 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.9572913680026787e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.228159773840996e-05
+CPU Energy (kWh): 2.5707436954822832e-05
+RAM Energy (kWh): 3.1725832645072674e-05
+Total Energy (kWh): 5.743326959989551e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_12.txt.bbk...
+building...0.082758 seconds
+init... 0.000564983 seconds
+solving... 0.0634283 seconds
+total: 0.146751 seconds, maxflow: 28844799
+Maximum memory usage: 389.039 MB
+Average memory usage: 247.443 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.857063653994929e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.664946831923276e-05
+CPU Energy (kWh): 2.7987316556499917e-05
+RAM Energy (kWh): 2.6504947215600795e-05
+Total Energy (kWh): 5.449226377210071e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_11.txt.bbk...
+building... 0.175029 seconds
+solving... 9.63453 seconds
+total: 9.80956 seconds, maxflow: 18959162
+Maximum memory usage: 673.57 MB
+Average memory usage: 653.347 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.000376570847864133 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.686228122075492e-05
+CPU Energy (kWh): 0.0005699116148178
+RAM Energy (kWh): 0.0005350692471226
+Total Energy (kWh): 0.0011049808619404
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_11.txt.bbk...
+building... 0.12819 seconds
+solving... 4.84993 seconds
+total: 4.97812 seconds, maxflow: 18959162
+Maximum memory usage: 371.141 MB
+Average memory usage: 358.193 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.00018158860269853192 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.420403348886788e-05
+CPU Energy (kWh): 0.0002547848093832
+RAM Energy (kWh): 0.0002780549785782
+Total Energy (kWh): 0.0005328397879614
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_11.txt.bbk...
+building... 0.123018 seconds
+init... 0.173693 seconds
+solving... 1.30699 seconds
+total: 1.6037 seconds, maxflow: 18959162
+Maximum memory usage: 579.918 MB
+Average memory usage: 490.457 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 7.114907933097607e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.729087586246055e-05
+CPU Energy (kWh): 0.0001088696745956
+RAM Energy (kWh): 9.990477369560438e-05
+Total Energy (kWh): 0.0002087744482912
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_11.txt.bbk...
+building...0.234528 seconds
+init... 0.162259 seconds
+solving... 0.0365489 seconds
+total: 0.433336 seconds, maxflow: 18959162
+Maximum memory usage: 738.059 MB
+Average memory usage: 457.253 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.0032930065896047e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.721201229825565e-05
+CPU Energy (kWh): 4.588575976413253e-05
+RAM Energy (kWh): 4.224058655034497e-05
+Total Energy (kWh): 8.81263463144775e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_11.txt.bbk...
+building...0.0794666 seconds
+init... 0.153695 seconds
+solving... 0.0285013 seconds
+total: 0.261663 seconds, maxflow: 18959162
+Maximum memory usage: 627.32 MB
+Average memory usage: 332.398 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 2.259660756514147e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.723064254399647e-05
+CPU Energy (kWh): 3.4546702359559284e-05
+RAM Energy (kWh): 3.175906465846765e-05
+Total Energy (kWh): 6.630576701802693e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_11.txt.bbk...
+building...0.0794253 seconds
+init... 0.000553653 seconds
+solving... 0.0583222 seconds
+total: 0.138301 seconds, maxflow: 18959162
+Maximum memory usage: 373.707 MB
+Average memory usage: 242.406 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.8817214427857536e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.715172177726444e-05
+CPU Energy (kWh): 2.871683797344912e-05
+RAM Energy (kWh): 2.649896520341884e-05
+Total Energy (kWh): 5.521580317686796e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_20.txt.bbk...
+building... 0.186144 seconds
+solving... 11.9257 seconds
+total: 12.1119 seconds, maxflow: 22194028
+Maximum memory usage: 674.27 MB
+Average memory usage: 657.706 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.000410227080171691 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.278080681807424e-05
+CPU Energy (kWh): 0.0005482670097243
+RAM Energy (kWh): 0.0006554721411165
+Total Energy (kWh): 0.0012037391508409
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_20.txt.bbk...
+building... 0.121046 seconds
+solving... 5.79778 seconds
+total: 5.91883 seconds, maxflow: 22194028
+Maximum memory usage: 371.75 MB
+Average memory usage: 360.772 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.00022682076220329766 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.651826977064074e-05
+CPU Energy (kWh): 0.0003402543585921
+RAM Energy (kWh): 0.0003253112388165
+Total Energy (kWh): 0.0006655655974086
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_20.txt.bbk...
+building... 0.124414 seconds
+init... 0.174497 seconds
+solving... 1.62651 seconds
+total: 1.92542 seconds, maxflow: 22194028
+Maximum memory usage: 580.449 MB
+Average memory usage: 506.213 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 8.48862235070651e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.677899192908304e-05
+CPU Energy (kWh): 0.0001282208200765
+RAM Energy (kWh): 0.0001208628595277
+Total Energy (kWh): 0.0002490836796042
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_20.txt.bbk...
+building...0.234433 seconds
+init... 0.160713 seconds
+solving... 0.0390204 seconds
+total: 0.434166 seconds, maxflow: 22194028
+Maximum memory usage: 738.844 MB
+Average memory usage: 457.396 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.959627326804102e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.670168159783931e-05
+CPU Energy (kWh): 4.463794904366672e-05
+RAM Energy (kWh): 4.220710476608645e-05
+Total Energy (kWh): 8.684505380975318e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_20.txt.bbk...
+building...0.0770391 seconds
+init... 0.153751 seconds
+solving... 0.0307236 seconds
+total: 0.261513 seconds, maxflow: 22194028
+Maximum memory usage: 628.098 MB
+Average memory usage: 333.337 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 2.2212074000382496e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.662775273844625e-05
+CPU Energy (kWh): 3.344663036839238e-05
+RAM Energy (kWh): 3.173079059671409e-05
+Total Energy (kWh): 6.517742096510647e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_20.txt.bbk...
+building...0.0791911 seconds
+init... 0.000554719 seconds
+solving... 0.0575388 seconds
+total: 0.137285 seconds, maxflow: 22194028
+Maximum memory usage: 373.898 MB
+Average memory usage: 242.873 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.8254825154948064e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.605486244697074e-05
+CPU Energy (kWh): 2.707913166329068e-05
+RAM Energy (kWh): 2.6486439194611936e-05
+Total Energy (kWh): 5.3565570857902615e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_7.txt.bbk...
+building... 0.160068 seconds
+solving... 3.63914 seconds
+total: 3.79921 seconds, maxflow: 10084866
+Maximum memory usage: 613.457 MB
+Average memory usage: 571.278 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.00014772571594062587 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5948146176322215e-05
+CPU Energy (kWh): 0.0002182547732147
+RAM Energy (kWh): 0.0002152203347408
+Total Energy (kWh): 0.0004334751079556
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_7.txt.bbk...
+building... 0.109912 seconds
+solving... 1.85583 seconds
+total: 1.96574 seconds, maxflow: 10084866
+Maximum memory usage: 338.07 MB
+Average memory usage: 312.896 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 8.264267354379834e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5806701874258314e-05
+CPU Energy (kWh): 0.000121639715645
+RAM Energy (kWh): 0.0001208606615441
+Total Energy (kWh): 0.0002425003771891
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_7.txt.bbk...
+building... 0.111891 seconds
+init... 0.155338 seconds
+solving... 0.514595 seconds
+total: 0.781824 seconds, maxflow: 10084866
+Maximum memory usage: 527.922 MB
+Average memory usage: 397.026 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 4.000966428125286e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.614660949418952e-05
+CPU Energy (kWh): 5.945575006456247e-05
+RAM Energy (kWh): 5.794556651158871e-05
+Total Energy (kWh): 0.0001174013165761
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_7.txt.bbk...
+building...0.211107 seconds
+init... 0.150109 seconds
+solving... 0.0339696 seconds
+total: 0.395186 seconds, maxflow: 10084866
+Maximum memory usage: 672.445 MB
+Average memory usage: 401.303 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.55031482181461e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.608806796574151e-05
+CPU Energy (kWh): 3.785203861493905e-05
+RAM Energy (kWh): 3.698246028511818e-05
+Total Energy (kWh): 7.483449890005722e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_7.txt.bbk...
+building...0.0744559 seconds
+init... 0.141312 seconds
+solving... 0.0269612 seconds
+total: 0.242729 seconds, maxflow: 10084866
+Maximum memory usage: 571.195 MB
+Average memory usage: 315.756 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 2.1920015228991706e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.614638885067364e-05
+CPU Energy (kWh): 3.258851134856425e-05
+RAM Energy (kWh): 3.173191456560005e-05
+Total Energy (kWh): 6.43204259141643e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_7.txt.bbk...
+building...0.0732696 seconds
+init... 0.000572628 seconds
+solving... 0.0526817 seconds
+total: 0.126524 seconds, maxflow: 10084866
+Maximum memory usage: 289.051 MB
+Average memory usage: 202.963 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.4695629479901226e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.614263420252962e-05
+CPU Energy (kWh): 2.18577699862034e-05
+RAM Energy (kWh): 2.126396772015653e-05
+Total Energy (kWh): 4.312173770635993e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_17.txt.bbk...
+building... 0.16134 seconds
+solving... 0.116399 seconds
+total: 0.277739 seconds, maxflow: 10196402
+Maximum memory usage: 581.215 MB
+Average memory usage: 312.947 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 2.186399844047141e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.604190103552301e-05
+CPU Energy (kWh): 3.241337481956624e-05
+RAM Energy (kWh): 3.174267968981894e-05
+Total Energy (kWh): 6.415605450938518e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_17.txt.bbk...
+building... 0.103738 seconds
+solving... 0.0557655 seconds
+total: 0.159503 seconds, maxflow: 10196402
+Maximum memory usage: 321.18 MB
+Average memory usage: 215.648 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 1.8685053754728172e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.689787706529563e-05
+CPU Energy (kWh): 2.8336928502858263e-05
+RAM Energy (kWh): 2.649107244413074e-05
+Total Energy (kWh): 5.4828000946989006e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_17.txt.bbk...
+building... 0.107406 seconds
+init... 0.143643 seconds
+solving... 0.021591 seconds
+total: 0.272641 seconds, maxflow: 10196402
+Maximum memory usage: 500.449 MB
+Average memory usage: 281.375 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 2.2430169157605018e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.697672154873957e-05
+CPU Energy (kWh): 3.407685115035253e-05
+RAM Energy (kWh): 3.174053166039244e-05
+Total Energy (kWh): 6.581738281074496e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_17.txt.bbk...
+building...0.203352 seconds
+init... 0.14535 seconds
+solving... 0.0301183 seconds
+total: 0.378821 seconds, maxflow: 10196402
+Maximum memory usage: 637.766 MB
+Average memory usage: 390.657 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.2742986633365418e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.218559811924948e-05
+CPU Energy (kWh): 2.975299269126347e-05
+RAM Energy (kWh): 3.6982297934056873e-05
+Total Energy (kWh): 6.673529062532034e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_17.txt.bbk...
+building...0.0695366 seconds
+init... 0.137624 seconds
+solving... 0.0241294 seconds
+total: 0.23129 seconds, maxflow: 10196402
+Maximum memory usage: 498.371 MB
+Average memory usage: 262.794 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.6343958396419957e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2270052213679846e-05
+CPU Energy (kWh): 2.1461601613714104e-05
+RAM Energy (kWh): 2.649686712816504e-05
+Total Energy (kWh): 4.795846874187914e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_17.txt.bbk...
+building...0.0697952 seconds
+init... 0.000535187 seconds
+solving... 0.0485693 seconds
+total: 0.1189 seconds, maxflow: 10196402
+Maximum memory usage: 309.516 MB
+Average memory usage: 202.7 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.2999340030984759e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.201344338690878e-05
+CPU Energy (kWh): 1.6905521579957394e-05
+RAM Energy (kWh): 2.1238753351481423e-05
+Total Energy (kWh): 3.8144274931438814e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_0.txt.bbk...
+building... 0.0484759 seconds
+solving... 0.458382 seconds
+total: 0.506858 seconds, maxflow: 4693998
+Maximum memory usage: 191.809 MB
+Average memory usage: 169.148 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 2.072517179424339e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.4138281202542565e-05
+CPU Energy (kWh): 2.904835990534191e-05
+RAM Energy (kWh): 3.176600828847427e-05
+Total Energy (kWh): 6.081436819381618e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_0.txt.bbk...
+building... 0.0340353 seconds
+solving... 0.304399 seconds
+total: 0.338434 seconds, maxflow: 4693998
+Maximum memory usage: 107.039 MB
+Average memory usage: 102.613 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 1.3033247088780553e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.207220190786732e-05
+CPU Energy (kWh): 1.699024192551926e-05
+RAM Energy (kWh): 2.1253527298060248e-05
+Total Energy (kWh): 3.824376922357951e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_0.txt.bbk...
+building... 0.0362358 seconds
+init... 0.0504536 seconds
+solving... 0.164439 seconds
+total: 0.251128 seconds, maxflow: 4693998
+Maximum memory usage: 165.316 MB
+Average memory usage: 134.837 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 1.3779225065307038e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.384632523477661e-05
+CPU Energy (kWh): 1.914211698034532e-05
+RAM Energy (kWh): 2.129059329421068e-05
+Total Energy (kWh): 4.0432710274556e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_0.txt.bbk...
+building...0.0648764 seconds
+init... 0.040354 seconds
+solving... 0.046549 seconds
+total: 0.151779 seconds, maxflow: 4693998
+Maximum memory usage: 210.719 MB
+Average memory usage: 160.133 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 1.1395288938185081e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.712914284982928e-05
+CPU Energy (kWh): 1.7396023083475487e-05
+RAM Energy (kWh): 1.604144629152842e-05
+Total Energy (kWh): 3.343746937500391e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_0.txt.bbk...
+building...0.0231599 seconds
+init... 0.0409886 seconds
+solving... 0.0408748 seconds
+total: 0.105023 seconds, maxflow: 4693998
+Maximum memory usage: 154.66 MB
+Average memory usage: 121.961 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 7.783927173715523e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.768002243666019e-05
+CPU Energy (kWh): 1.2055320755360172e-05
+RAM Energy (kWh): 1.078524326195094e-05
+Total Energy (kWh): 2.284056401731111e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_0.txt.bbk...
+building...0.0230275 seconds
+init... 0.000228542 seconds
+solving... 0.139327 seconds
+total: 0.162583 seconds, maxflow: 4693998
+Maximum memory usage: 109.012 MB
+Average memory usage: 102.395 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.1396292869206485e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.716503836005996e-05
+CPU Energy (kWh): 1.7411095317752118e-05
+RAM Energy (kWh): 1.6029319916103193e-05
+Total Energy (kWh): 3.344041523385531e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_5.txt.bbk...
+building... 0.211426 seconds
+solving... 10.4981 seconds
+total: 10.7095 seconds, maxflow: 46052607
+Maximum memory usage: 810.441 MB
+Average memory usage: 784.727 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.0004068278028595817 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.660107140566177e-05
+CPU Energy (kWh): 0.0006115750378707
+RAM Energy (kWh): 0.0005821895321028
+Total Energy (kWh): 0.0011937645699735
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_5.txt.bbk...
+building... 0.153307 seconds
+solving... 15.4968 seconds
+total: 15.6501 seconds, maxflow: 46052607
+Maximum memory usage: 445.969 MB
+Average memory usage: 440.08 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.0005765677155299783 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.598890821347586e-05
+CPU Energy (kWh): 0.0008527205316203
+RAM Energy (kWh): 0.0008391159312574
+Total Energy (kWh): 0.0016918364628778
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_5.txt.bbk...
+building... 0.145024 seconds
+init... 0.217915 seconds
+solving... 5.87111 seconds
+total: 6.23405 seconds, maxflow: 46052607
+Maximum memory usage: 697.953 MB
+Average memory usage: 663.102 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 0.0002155701927547408 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.260694652009017e-05
+CPU Energy (kWh): 0.0002862893893091
+RAM Energy (kWh): 0.0003462633925906
+Total Energy (kWh): 0.0006325527818997
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_5.txt.bbk...
+building...0.286494 seconds
+init... 0.20584 seconds
+solving... 0.0642615 seconds
+total: 0.556596 seconds, maxflow: 46052607
+Maximum memory usage: 887.27 MB
+Average memory usage: 548.565 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.935122899187166e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.235653518013571e-05
+CPU Energy (kWh): 3.864451091558502e-05
+RAM Energy (kWh): 4.748150360307335e-05
+Total Energy (kWh): 8.612601451865837e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_5.txt.bbk...
+building...0.0977496 seconds
+init... 0.183873 seconds
+solving... 0.0516174 seconds
+total: 0.33324 seconds, maxflow: 46052607
+Maximum memory usage: 754.852 MB
+Average memory usage: 404.51 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 2.5816457377425347e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.653559265413948e-05
+CPU Energy (kWh): 3.877544796477769e-05
+RAM Energy (kWh): 3.697840150858553e-05
+Total Energy (kWh): 7.575384947336322e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_5.txt.bbk...
+building...0.0958201 seconds
+init... 0.000602136 seconds
+solving... 0.0702331 seconds
+total: 0.166655 seconds, maxflow: 46052607
+Maximum memory usage: 447.871 MB
+Average memory usage: 276.324 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.8574642271655892e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.666827776774631e-05
+CPU Energy (kWh): 2.800354156948584e-05
+RAM Energy (kWh): 2.6500476317143297e-05
+Total Energy (kWh): 5.450401788662914e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_8.txt.bbk...
+building... 0.169934 seconds
+solving... 2.98085 seconds
+total: 3.15079 seconds, maxflow: 17550300
+Maximum memory usage: 651.43 MB
+Average memory usage: 596.259 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.0001280669716741252 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.649565763680492e-05
+CPU Energy (kWh): 0.0001920134152772
+RAM Energy (kWh): 0.0001837765683319
+Total Energy (kWh): 0.0003757899836092
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_8.txt.bbk...
+building... 0.116811 seconds
+solving... 1.49814 seconds
+total: 1.61495 seconds, maxflow: 17550300
+Maximum memory usage: 359.062 MB
+Average memory usage: 325.158 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.957990503378059e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.647674489273131e-05
+CPU Energy (kWh): 0.00010428626454
+RAM Energy (kWh): 9.988371801180734e-05
+Total Energy (kWh): 0.0002041699825518
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_8.txt.bbk...
+building... 0.119226 seconds
+init... 0.167741 seconds
+solving... 0.408594 seconds
+total: 0.695561 seconds, maxflow: 17550300
+Maximum memory usage: 561.102 MB
+Average memory usage: 401.627 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.700285455803614e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.67610241664383e-05
+CPU Energy (kWh): 5.5887013598463625e-05
+RAM Energy (kWh): 5.269134916037644e-05
+Total Energy (kWh): 0.0001085783627588
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_8.txt.bbk...
+building...0.224966 seconds
+init... 0.158594 seconds
+solving... 0.0335077 seconds
+total: 0.417068 seconds, maxflow: 17550300
+Maximum memory usage: 714.375 MB
+Average memory usage: 450.249 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.9569317987617904e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.664919511021933e-05
+CPU Energy (kWh): 4.453717340748703e-05
+RAM Energy (kWh): 4.222878487704236e-05
+Total Energy (kWh): 8.676595828452938e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_8.txt.bbk...
+building...0.0768668 seconds
+init... 0.15021 seconds
+solving... 0.027331 seconds
+total: 0.254407 seconds, maxflow: 17550300
+Maximum memory usage: 606.801 MB
+Average memory usage: 327.169 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 2.154449245636938e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.550651468553656e-05
+CPU Energy (kWh): 3.146829767462084e-05
+RAM Energy (kWh): 3.1750222769898075e-05
+Total Energy (kWh): 6.321852044451892e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_8.txt.bbk...
+building...0.0775029 seconds
+init... 0.000550271 seconds
+solving... 0.0557615 seconds
+total: 0.133815 seconds, maxflow: 17550300
+Maximum memory usage: 361.457 MB
+Average memory usage: 238.742 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.8460271621964364e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.645246631606404e-05
+CPU Energy (kWh): 2.767369825005389e-05
+RAM Energy (kWh): 2.6494719098738527e-05
+Total Energy (kWh): 5.416841734879242e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_9.txt.bbk...
+building... 0.223715 seconds
+solving... 14.6055 seconds
+total: 14.8293 seconds, maxflow: 60739798
+Maximum memory usage: 852.727 MB
+Average memory usage: 832.708 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.0005470239798915377 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.594534502682823e-05
+CPU Energy (kWh): 0.0008080643906176
+RAM Energy (kWh): 0.0007970811808757
+Total Energy (kWh): 0.0016051455714934
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_9.txt.bbk...
+building... 0.153607 seconds
+solving... 7.31411 seconds
+total: 7.46771 seconds, maxflow: 60739798
+Maximum memory usage: 468.887 MB
+Average memory usage: 456.088 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.00027738926877567566 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.550390211952903e-05
+CPU Energy (kWh): 0.0004047364974
+RAM Energy (kWh): 0.0004092134805211
+Total Energy (kWh): 0.0008139499779211
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_9.txt.bbk...
+building... 0.1569 seconds
+init... 0.226828 seconds
+solving... 1.97514 seconds
+total: 2.35887 seconds, maxflow: 60739798
+Maximum memory usage: 734.57 MB
+Average memory usage: 641.152 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 8.740984312276905e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.227831163439858e-05
+CPU Energy (kWh): 0.0001146739211835
+RAM Energy (kWh): 0.0001418148759278
+Total Energy (kWh): 0.0002564887971113
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_9.txt.bbk...
+building...0.297169 seconds
+init... 0.198721 seconds
+solving... 0.0461481 seconds
+total: 0.542038 seconds, maxflow: 60739798
+Maximum memory usage: 933.672 MB
+Average memory usage: 567.67 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.9280729875428614e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2292575774636595e-05
+CPU Energy (kWh): 3.84562515983039e-05
+RAM Energy (kWh): 4.746289567373908e-05
+Total Energy (kWh): 8.591914727204298e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_9.txt.bbk...
+building...0.100343 seconds
+init... 0.196336 seconds
+solving... 0.0400542 seconds
+total: 0.336733 seconds, maxflow: 60739798
+Maximum memory usage: 794.125 MB
+Average memory usage: 418.215 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 2.2786216908342187e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.225954471283973e-05
+CPU Energy (kWh): 2.9895729749894465e-05
+RAM Energy (kWh): 3.696641250713526e-05
+Total Energy (kWh): 6.686214225702972e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_9.txt.bbk...
+building...0.10035 seconds
+init... 0.000569837 seconds
+solving... 0.0716796 seconds
+total: 0.172599 seconds, maxflow: 60739798
+Maximum memory usage: 453.637 MB
+Average memory usage: 285.305 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.8736537318527228e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.695163099930505e-05
+CPU Energy (kWh): 2.845369192960856e-05
+RAM Energy (kWh): 2.6525378472238973e-05
+Total Energy (kWh): 5.4979070401847536e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_2.txt.bbk...
+building... 0.15589 seconds
+solving... 2.53522 seconds
+total: 2.69111 seconds, maxflow: 12011186
+Maximum memory usage: 602.094 MB
+Average memory usage: 546.103 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.00011185424977352697 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.717562129642781e-05
+CPU Energy (kWh): 0.000170646570406
+RAM Energy (kWh): 0.0001575700348555
+Total Energy (kWh): 0.0003282166052616
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_2.txt.bbk...
+building... 0.107175 seconds
+solving... 1.28106 seconds
+total: 1.38823 seconds, maxflow: 12011186
+Maximum memory usage: 331.938 MB
+Average memory usage: 298.96 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 6.369804602722924e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.728465426317506e-05
+CPU Energy (kWh): 9.74591893561777e-05
+RAM Energy (kWh): 8.945151337693745e-05
+Total Energy (kWh): 0.0001869107027331
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_2.txt.bbk...
+building... 0.11124 seconds
+init... 0.15285 seconds
+solving... 0.346148 seconds
+total: 0.610237 seconds, maxflow: 12011186
+Maximum memory usage: 517.578 MB
+Average memory usage: 362.243 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.3992086135311316e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.74760224839825e-05
+CPU Energy (kWh): 5.226734709162101e-05
+RAM Energy (kWh): 4.747644574308652e-05
+Total Energy (kWh): 9.974379283470752e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_2.txt.bbk...
+building...0.207122 seconds
+init... 0.145762 seconds
+solving... 0.0320965 seconds
+total: 0.384981 seconds, maxflow: 12011186
+Maximum memory usage: 659.945 MB
+Average memory usage: 397.629 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.6499089074171807e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.7483571037415406e-05
+CPU Energy (kWh): 4.076047705280084e-05
+RAM Energy (kWh): 3.6996434964933655e-05
+Total Energy (kWh): 7.775691201773449e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_2.txt.bbk...
+building...0.0700681 seconds
+init... 0.139966 seconds
+solving... 0.0260846 seconds
+total: 0.236119 seconds, maxflow: 12011186
+Maximum memory usage: 560.352 MB
+Average memory usage: 313.551 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 2.267986526549515e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.737065292303509e-05
+CPU Energy (kWh): 3.479540339185183e-05
+RAM Energy (kWh): 3.1754668691269214e-05
+Total Energy (kWh): 6.655007208312104e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_2.txt.bbk...
+building...0.0785188 seconds
+init... 0.000639496 seconds
+solving... 0.0526139 seconds
+total: 0.131772 seconds, maxflow: 12011186
+Maximum memory usage: 295.641 MB
+Average memory usage: 202.624 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.3172500310551951e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.243805636499433e-05
+CPU Energy (kWh): 1.7415028654238496e-05
+RAM Energy (kWh): 2.123735463464556e-05
+Total Energy (kWh): 3.865238328888405e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_14.txt.bbk...
+building... 0.162848 seconds
+solving... 0.252895 seconds
+total: 0.415743 seconds, maxflow: 8329603
+Maximum memory usage: 590.797 MB
+Average memory usage: 381.062 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 2.6041964719664522e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.227382387000985e-05
+CPU Energy (kWh): 3.4182492623748006e-05
+RAM Energy (kWh): 4.22330684473522e-05
+Total Energy (kWh): 7.64155610711002e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_14.txt.bbk...
+building... 0.105182 seconds
+solving... 0.117578 seconds
+total: 0.22276 seconds, maxflow: 8329603
+Maximum memory usage: 326.312 MB
+Average memory usage: 217.186 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 1.8764262806445312e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.704051641350727e-05
+CPU Energy (kWh): 2.8561910349514386e-05
+RAM Energy (kWh): 2.6498515615864447e-05
+Total Energy (kWh): 5.506042596537883e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_14.txt.bbk...
+building... 0.107403 seconds
+init... 0.146617 seconds
+solving... 0.0389937 seconds
+total: 0.293014 seconds, maxflow: 8329603
+Maximum memory usage: 508.469 MB
+Average memory usage: 282.74 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 2.254516963740834e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.716376126652975e-05
+CPU Energy (kWh): 3.441134002904467e-05
+RAM Energy (kWh): 3.174349144512548e-05
+Total Energy (kWh): 6.615483147417015e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_14.txt.bbk...
+building...0.202914 seconds
+init... 0.143213 seconds
+solving... 0.0299975 seconds
+total: 0.376125 seconds, maxflow: 8329603
+Maximum memory usage: 647.965 MB
+Average memory usage: 393.937 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.627302947297678e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.71491587145997e-05
+CPU Energy (kWh): 4.008363234465906e-05
+RAM Energy (kWh): 3.700994756865157e-05
+Total Energy (kWh): 7.709357991331063e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_14.txt.bbk...
+building...0.0740882 seconds
+init... 0.144178 seconds
+solving... 0.024819 seconds
+total: 0.243085 seconds, maxflow: 8329603
+Maximum memory usage: 550.5 MB
+Average memory usage: 305.357 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 2.0507916847146495e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.383026965582074e-05
+CPU Energy (kWh): 2.845618443159809e-05
+RAM Energy (kWh): 3.17206873652836e-05
+Total Energy (kWh): 6.017687179688168e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_14.txt.bbk...
+building...0.0722866 seconds
+init... 0.000619645 seconds
+solving... 0.0513294 seconds
+total: 0.124236 seconds, maxflow: 8329603
+Maximum memory usage: 302.293 MB
+Average memory usage: 202.564 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.3173012440397627e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.239262746099633e-05
+CPU Energy (kWh): 1.738564724183822e-05
+RAM Energy (kWh): 2.1268238801923196e-05
+Total Energy (kWh): 3.8653886043761416e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_4.txt.bbk...
+building... 0.194938 seconds
+solving... 8.66603 seconds
+total: 8.86097 seconds, maxflow: 41537449
+Maximum memory usage: 729.055 MB
+Average memory usage: 703.875 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.00032093426410624587 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.483277854166639e-05
+CPU Energy (kWh): 0.0004591443267596
+RAM Energy (kWh): 0.0004825807743461
+Total Energy (kWh): 0.0009417251011057
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_4.txt.bbk...
+building... 0.130273 seconds
+solving... 4.60417 seconds
+total: 4.73444 seconds, maxflow: 41537449
+Maximum memory usage: 401.738 MB
+Average memory usage: 386.792 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.000184613774088663 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.612603452880222e-05
+CPU Energy (kWh): 0.0002740694942554
+RAM Energy (kWh): 0.0002676471266025
+Total Energy (kWh): 0.0005417166208579
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_4.txt.bbk...
+building... 0.133827 seconds
+init... 0.189501 seconds
+solving... 1.47203 seconds
+total: 1.79536 seconds, maxflow: 41537449
+Maximum memory usage: 627.848 MB
+Average memory usage: 534.79 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 7.605465512718327e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.608198783701447e-05
+CPU Energy (kWh): 0.0001127944655132
+RAM Energy (kWh): 0.0001103745313798
+Total Energy (kWh): 0.000223168996893
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_4.txt.bbk...
+building...0.252368 seconds
+init... 0.178056 seconds
+solving... 0.0530863 seconds
+total: 0.48351 seconds, maxflow: 41537449
+Maximum memory usage: 798.871 MB
+Average memory usage: 478.774 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.919568644982713e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.619929321014283e-05
+CPU Energy (kWh): 4.345614087600258e-05
+RAM Energy (kWh): 4.2213461434563726e-05
+Total Energy (kWh): 8.56696023105663e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_4.txt.bbk...
+building...0.0848491 seconds
+init... 0.167014 seconds
+solving... 0.0432341 seconds
+total: 0.295097 seconds, maxflow: 41537449
+Maximum memory usage: 650.832 MB
+Average memory usage: 341.901 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 2.2003105143513903e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.627909767250627e-05
+CPU Energy (kWh): 3.2829938763925814e-05
+RAM Energy (kWh): 3.173429987734693e-05
+Total Energy (kWh): 6.456423864127275e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_4.txt.bbk...
+building...0.0859018 seconds
+init... 0.000568349 seconds
+solving... 0.106073 seconds
+total: 0.192544 seconds, maxflow: 41537449
+Maximum memory usage: 404.113 MB
+Average memory usage: 252.98 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.8329799289933045e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.618552832142457e-05
+CPU Energy (kWh): 2.7287515718885103e-05
+RAM Energy (kWh): 2.6498053539766888e-05
+Total Energy (kWh): 5.378556925865199e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_13.txt.bbk...
+building... 0.151835 seconds
+solving... 0.210809 seconds
+total: 0.362644 seconds, maxflow: 10451968
+Maximum memory usage: 581.719 MB
+Average memory usage: 357.461 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 2.5594881673274132e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.621683623040693e-05
+CPU Energy (kWh): 3.812020271835859e-05
+RAM Energy (kWh): 3.698347185711555e-05
+Total Energy (kWh): 7.510367457547414e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_13.txt.bbk...
+building... 0.104947 seconds
+solving... 0.11537 seconds
+total: 0.220317 seconds, maxflow: 10451968
+Maximum memory usage: 320.883 MB
+Average memory usage: 214.988 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 1.82924098194195e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.612633950674932e-05
+CPU Energy (kWh): 2.718723174976317e-05
+RAM Energy (kWh): 2.6488624689667976e-05
+Total Energy (kWh): 5.367585643943115e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_13.txt.bbk...
+building... 0.106442 seconds
+init... 0.144972 seconds
+solving... 0.0392295 seconds
+total: 0.290643 seconds, maxflow: 10451968
+Maximum memory usage: 500.531 MB
+Average memory usage: 281.679 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 2.1921384822575118e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.614132961281887e-05
+CPU Energy (kWh): 3.258883357105252e-05
+RAM Energy (kWh): 3.173561117438055e-05
+Total Energy (kWh): 6.432444474543307e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_13.txt.bbk...
+building...0.201409 seconds
+init... 0.142634 seconds
+solving... 0.0313509 seconds
+total: 0.375394 seconds, maxflow: 10451968
+Maximum memory usage: 637.727 MB
+Average memory usage: 391.718 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.5978591467169e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6752620160497096e-05
+CPU Energy (kWh): 3.923783916802426e-05
+RAM Energy (kWh): 3.699176424978532e-05
+Total Energy (kWh): 7.622960341780958e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_13.txt.bbk...
+building...0.0698068 seconds
+init... 0.136159 seconds
+solving... 0.0233269 seconds
+total: 0.229293 seconds, maxflow: 10451968
+Maximum memory usage: 499.449 MB
+Average memory usage: 263.01 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.6339140015280746e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2276537826427864e-05
+CPU Energy (kWh): 2.1462211891976057e-05
+RAM Energy (kWh): 2.648211815867256e-05
+Total Energy (kWh): 4.794433005064862e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_13.txt.bbk...
+building...0.0702792 seconds
+init... 0.000561556 seconds
+solving... 0.0484309 seconds
+total: 0.119272 seconds, maxflow: 10451968
+Maximum memory usage: 308.766 MB
+Average memory usage: 202.523 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.3009469562863766e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.202872320185728e-05
+CPU Energy (kWh): 1.6931885489950005e-05
+RAM Energy (kWh): 2.1242112769596132e-05
+Total Energy (kWh): 3.817399825954614e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_19.txt.bbk...
+building... 0.137882 seconds
+solving... 0.355488 seconds
+total: 0.49337 seconds, maxflow: 6436646
+Maximum memory usage: 524.066 MB
+Average memory usage: 365.817 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 2.5782644364111122e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.196961161089895e-05
+CPU Energy (kWh): 3.344529092288301e-05
+RAM Energy (kWh): 4.22093402153152e-05
+Total Energy (kWh): 7.565463113819821e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_19.txt.bbk...
+building... 0.0941748 seconds
+solving... 0.225859 seconds
+total: 0.320033 seconds, maxflow: 6436646
+Maximum memory usage: 289.621 MB
+Average memory usage: 221.543 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 1.9447980012326277e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.207119384893695e-05
+CPU Energy (kWh): 2.5334784156699763e-05
+RAM Energy (kWh): 3.17318895885137e-05
+Total Energy (kWh): 5.706667374521346e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_19.txt.bbk...
+building... 0.0964299 seconds
+init... 0.133655 seconds
+solving... 0.105929 seconds
+total: 0.336014 seconds, maxflow: 6436646
+Maximum memory usage: 450.465 MB
+Average memory usage: 276.57 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 1.9449324243084025e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.208072623719174e-05
+CPU Energy (kWh): 2.5348669445590662e-05
+RAM Energy (kWh): 3.172194870814451e-05
+Total Energy (kWh): 5.707061815373518e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_19.txt.bbk...
+building...0.181932 seconds
+init... 0.124337 seconds
+solving... 0.0330039 seconds
+total: 0.339273 seconds, maxflow: 6436646
+Maximum memory usage: 574.551 MB
+Average memory usage: 337.419 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.2349488812111206e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.681791629357748e-05
+CPU Energy (kWh): 3.3819690111284995e-05
+RAM Energy (kWh): 3.176095042848744e-05
+Total Energy (kWh): 6.558064053977243e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_19.txt.bbk...
+building...0.0615635 seconds
+init... 0.123652 seconds
+solving... 0.0266184 seconds
+total: 0.211834 seconds, maxflow: 6436646
+Maximum memory usage: 487.734 MB
+Average memory usage: 269.318 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.8770353980580394e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.702760296459681e-05
+CPU Energy (kWh): 2.855784145736756e-05
+RAM Energy (kWh): 2.6520457986227088e-05
+Total Energy (kWh): 5.507829944359465e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_19.txt.bbk...
+building...0.0623185 seconds
+init... 0.00055809 seconds
+solving... 0.0526955 seconds
+total: 0.115572 seconds, maxflow: 6436646
+Maximum memory usage: 291.891 MB
+Average memory usage: 188.141 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.5068368534980265e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.705576860078218e-05
+CPU Energy (kWh): 2.29483475253367e-05
+RAM Energy (kWh): 2.1267127321580404e-05
+Total Energy (kWh): 4.42154748469171e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_15.txt.bbk...
+building... 0.169495 seconds
+solving... 0.875201 seconds
+total: 1.0447 seconds, maxflow: 13398656
+Maximum memory usage: 655.969 MB
+Average memory usage: 515.933 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 5.200698042299198e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.693907788849528e-05
+CPU Energy (kWh): 7.889185255787606e-05
+RAM Energy (kWh): 7.37134762419032e-05
+Total Energy (kWh): 0.0001526053287997
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_15.txt.bbk...
+building... 0.116959 seconds
+solving... 0.451856 seconds
+total: 0.568815 seconds, maxflow: 13398656
+Maximum memory usage: 361.402 MB
+Average memory usage: 289.305 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.329798663744261e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.670238970848248e-05
+CPU Energy (kWh): 5.021999406484845e-05
+RAM Energy (kWh): 4.7487085981873634e-05
+Total Energy (kWh): 9.770708004672208e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_15.txt.bbk...
+building... 0.124446 seconds
+init... 0.176387 seconds
+solving... 0.14667 seconds
+total: 0.447503 seconds, maxflow: 13398656
+Maximum memory usage: 564.547 MB
+Average memory usage: 356.694 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 2.7152871928612005e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.367607463895196e-05
+CPU Energy (kWh): 3.747387525684931e-05
+RAM Energy (kWh): 4.2201447456027096e-05
+Total Energy (kWh): 7.967532271287641e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_15.txt.bbk...
+building...0.237244 seconds
+init... 0.166309 seconds
+solving... 0.0365246 seconds
+total: 0.440078 seconds, maxflow: 13398656
+Maximum memory usage: 718.734 MB
+Average memory usage: 449.206 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.6154224150670258e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.241735313386622e-05
+CPU Energy (kWh): 3.451764289186948e-05
+RAM Energy (kWh): 4.2227323717490606e-05
+Total Energy (kWh): 7.674496660936008e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_15.txt.bbk...
+building...0.0765275 seconds
+init... 0.150746 seconds
+solving... 0.0281711 seconds
+total: 0.255445 seconds, maxflow: 13398656
+Maximum memory usage: 610.523 MB
+Average memory usage: 327.854 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 2.2474836816964855e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.705469741304381e-05
+CPU Energy (kWh): 3.4213790148791834e-05
+RAM Energy (kWh): 3.173466204509907e-05
+Total Energy (kWh): 6.59484521938909e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_15.txt.bbk...
+building...0.0773336 seconds
+init... 0.000554727 seconds
+solving... 0.0551233 seconds
+total: 0.133012 seconds, maxflow: 13398656
+Maximum memory usage: 363.684 MB
+Average memory usage: 239.434 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.8719403864851743e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.695643520691125e-05
+CPU Energy (kWh): 2.8429667743710973e-05
+RAM Energy (kWh): 2.649912755448014e-05
+Total Energy (kWh): 5.492879529819111e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_3.txt.bbk...
+building... 0.190979 seconds
+solving... 8.57168 seconds
+total: 8.76266 seconds, maxflow: 40314727
+Maximum memory usage: 733.582 MB
+Average memory usage: 707.938 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.0002995620391612969 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.286835734770257e-05
+CPU Energy (kWh): 0.0004016493954859
+RAM Energy (kWh): 0.0004773626738618
+Total Energy (kWh): 0.0008790120693477
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_3.txt.bbk...
+building... 0.131292 seconds
+solving... 4.36326 seconds
+total: 4.49456 seconds, maxflow: 40314727
+Maximum memory usage: 404.098 MB
+Average memory usage: 387.993 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.00017333748837556232 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6035791071234976e-05
+CPU Energy (kWh): 0.0002567036328627
+RAM Energy (kWh): 0.000251924712635
+Total Energy (kWh): 0.0005086283454977
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_3.txt.bbk...
+building... 0.133892 seconds
+init... 0.195466 seconds
+solving... 1.17785 seconds
+total: 1.5072 seconds, maxflow: 40314727
+Maximum memory usage: 631.586 MB
+Average memory usage: 527.634 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 6.940858855794046e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.638242248232734e-05
+CPU Energy (kWh): 0.0001037713152392
+RAM Energy (kWh): 9.989596927266432e-05
+Total Energy (kWh): 0.0002036672845118
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_3.txt.bbk...
+building...0.254267 seconds
+init... 0.175572 seconds
+solving... 0.0396204 seconds
+total: 0.46946 seconds, maxflow: 40314727
+Maximum memory usage: 803.648 MB
+Average memory usage: 479.935 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.9333251492635753e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6362000500234696e-05
+CPU Energy (kWh): 4.385202091492652e-05
+RAM Energy (kWh): 4.222124179696323e-05
+Total Energy (kWh): 8.607326271188975e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_3.txt.bbk...
+building...0.0859541 seconds
+init... 0.168688 seconds
+solving... 0.032064 seconds
+total: 0.286706 seconds, maxflow: 40314727
+Maximum memory usage: 649.594 MB
+Average memory usage: 339.434 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 2.2055909302338857e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.636630503559891e-05
+CPU Energy (kWh): 3.298512055473213e-05
+RAM Energy (kWh): 3.173406259502656e-05
+Total Energy (kWh): 6.471918314975868e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_3.txt.bbk...
+building...0.0871246 seconds
+init... 0.000572925 seconds
+solving... 0.0660129 seconds
+total: 0.15371 seconds, maxflow: 40314727
+Maximum memory usage: 406.363 MB
+Average memory usage: 253.066 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.8207413201779196e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5959780392559784e-05
+CPU Energy (kWh): 2.6939734885114697e-05
+RAM Energy (kWh): 2.6486713942561835e-05
+Total Energy (kWh): 5.3426448827676535e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_18.txt.bbk...
+building... 0.201973 seconds
+solving... 21.7967 seconds
+total: 21.9987 seconds, maxflow: 46166693
+Maximum memory usage: 776.137 MB
+Average memory usage: 764.711 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.0007782997699558106 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.47062581767387e-05
+CPU Energy (kWh): 0.0011091863987373
+RAM Energy (kWh): 0.0011745972651646
+Total Energy (kWh): 0.0022837836639019
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_18.txt.bbk...
+building... 0.140157 seconds
+solving... 9.40874 seconds
+total: 9.5489 seconds, maxflow: 46166693
+Maximum memory usage: 426.965 MB
+Average memory usage: 418.41 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.0003595323972389744 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6263451323834826e-05
+CPU Energy (kWh): 0.0005356911957748
+RAM Energy (kWh): 0.0005192933322361
+Total Energy (kWh): 0.0010549845280109
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_18.txt.bbk...
+building... 0.141822 seconds
+init... 0.208947 seconds
+solving... 3.48535 seconds
+total: 3.83612 seconds, maxflow: 46166693
+Maximum memory usage: 668.074 MB
+Average memory usage: 616.654 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 0.00014241880941406694 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.38296974934023e-05
+CPU Energy (kWh): 0.0001974204426584
+RAM Energy (kWh): 0.0002204824823169
+Total Energy (kWh): 0.0004179029249754
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_18.txt.bbk...
+building...0.266593 seconds
+init... 0.187916 seconds
+solving... 0.0620368 seconds
+total: 0.516545 seconds, maxflow: 46166693
+Maximum memory usage: 849.848 MB
+Average memory usage: 537.75 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.3594297942121506e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.704071588873645e-05
+CPU Energy (kWh): 5.110386671639683e-05
+RAM Energy (kWh): 4.747268669159013e-05
+Total Energy (kWh): 9.857655340798696e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_18.txt.bbk...
+building...0.0951386 seconds
+init... 0.181796 seconds
+solving... 0.0520602 seconds
+total: 0.328995 seconds, maxflow: 46166693
+Maximum memory usage: 722.262 MB
+Average memory usage: 393.489 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 2.3455277253150615e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.32001426850792e-05
+CPU Energy (kWh): 3.185341214937548e-05
+RAM Energy (kWh): 3.697196990884919e-05
+Total Energy (kWh): 6.882538205822466e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_18.txt.bbk...
+building...0.0948887 seconds
+init... 0.000701705 seconds
+solving... 0.112781 seconds
+total: 0.208372 seconds, maxflow: 46166693
+Maximum memory usage: 430 MB
+Average memory usage: 293.151 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.958876338961673e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.229977510797148e-05
+CPU Energy (kWh): 2.5746177263592795e-05
+RAM Energy (kWh): 3.1733600518929e-05
+Total Energy (kWh): 5.74797777825218e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_21.txt.bbk...
+building... 0.00976203 seconds
+solving... 0.08275 seconds
+total: 0.0925121 seconds, maxflow: 112826144
+Maximum memory usage: 89.3008 MB
+Average memory usage: 89.3008 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 7.3798237091126465e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5802575553408536e-05
+CPU Energy (kWh): 1.089033121225852e-05
+RAM Energy (kWh): 1.0764462326103796e-05
+Total Energy (kWh): 2.165479353836232e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_21.txt.bbk...
+building... 0.00679789 seconds
+solving... 0.0711862 seconds
+total: 0.0779841 seconds, maxflow: 112826144
+Maximum memory usage: 89.3633 MB
+Average memory usage: 89.3633 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 3.825569914288299e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5987097599482966e-05
+CPU Energy (kWh): 5.690077052061815e-06
+RAM Energy (kWh): 5.535384412307565e-06
+Total Energy (kWh): 1.122546146436938e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_21.txt.bbk...
+building... 0.00684411 seconds
+init... 0.0086383 seconds
+solving... 0.0414413 seconds
+total: 0.0569237 seconds, maxflow: 112826144
+Maximum memory usage: 89.2188 MB
+Average memory usage: 89.2188 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 3.833673739465913e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.623676434495397e-05
+CPU Energy (kWh): 5.740244592190857e-06
+RAM Energy (kWh): 5.508996120573784e-06
+Total Energy (kWh): 1.1249240712764642e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_21.txt.bbk...
+building...0.013096 seconds
+init... 0.00570762 seconds
+solving... 0.0105647 seconds
+total: 0.0293683 seconds, maxflow: 112826144
+Maximum memory usage: 89.2227 MB
+Average memory usage: 89.2227 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 3.8123269858036812e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.596714680989964e-05
+CPU Energy (kWh): 5.666816200122771e-06
+RAM Energy (kWh): 5.5197862218790304e-06
+Total Energy (kWh): 1.11866024220018e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_21.txt.bbk...
+building...0.00452397 seconds
+init... 0.00769464 seconds
+solving... 0.0109416 seconds
+total: 0.0231602 seconds, maxflow: 112826144
+Maximum memory usage: 89.3828 MB
+Average memory usage: 89.3828 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 3.799565631555539e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.585376698687683e-05
+CPU Energy (kWh): 5.631093671534804e-06
+RAM Energy (kWh): 5.518062802920554e-06
+Total Energy (kWh): 1.1149156474455356e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_21.txt.bbk...
+building...0.00440358 seconds
+init... 6.2735e-05 seconds
+solving... 0.0165509 seconds
+total: 0.0210172 seconds, maxflow: 112826144
+Maximum memory usage: 89.2695 MB
+Average memory usage: 89.2695 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 3.7896057670144453e-06 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5640390126400875e-05
+CPU Energy (kWh): 5.58504613470262e-06
+RAM Energy (kWh): 5.534884870580471e-06
+Total Energy (kWh): 1.111993100528309e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_10.txt.bbk...
+building... 0.152461 seconds
+solving... 0.115272 seconds
+total: 0.267734 seconds, maxflow: 10376556
+Maximum memory usage: 582.215 MB
+Average memory usage: 321.656 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 2.1949206652344243e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6195906255125104e-05
+CPU Energy (kWh): 3.2676978363781195e-05
+RAM Energy (kWh): 3.1729104643385144e-05
+Total Energy (kWh): 6.440608300716633e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_10.txt.bbk...
+building... 0.102311 seconds
+solving... 0.0576089 seconds
+total: 0.15992 seconds, maxflow: 10376556
+Maximum memory usage: 321.359 MB
+Average memory usage: 216.647 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 1.697446095239149e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.3525558521336976e-05
+CPU Energy (kWh): 2.332144143491616e-05
+RAM Energy (kWh): 2.6487126064486685e-05
+Total Energy (kWh): 4.980856749940284e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_10.txt.bbk...
+building... 0.108416 seconds
+init... 0.149079 seconds
+solving... 0.0248969 seconds
+total: 0.282392 seconds, maxflow: 10376556
+Maximum memory usage: 501.066 MB
+Average memory usage: 282.29 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 1.9601555702850757e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.233084570781106e-05
+CPU Energy (kWh): 2.579561563648136e-05
+RAM Energy (kWh): 3.1721698937280966e-05
+Total Energy (kWh): 5.751731457376233e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_10.txt.bbk...
+building...0.201777 seconds
+init... 0.139698 seconds
+solving... 0.0306125 seconds
+total: 0.372087 seconds, maxflow: 10376556
+Maximum memory usage: 638.621 MB
+Average memory usage: 395.038 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 2.2667291949294535e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.2078952164108416e-05
+CPU Energy (kWh): 2.95350636280306e-05
+RAM Energy (kWh): 3.697811427209246e-05
+Total Energy (kWh): 6.651317790012305e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_10.txt.bbk...
+building...0.0680957 seconds
+init... 0.13466 seconds
+solving... 0.0223568 seconds
+total: 0.225113 seconds, maxflow: 10376556
+Maximum memory usage: 500.93 MB
+Average memory usage: 263.172 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 1.8817709954472194e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.7142349774908586e-05
+CPU Energy (kWh): 2.871482019406457e-05
+RAM Energy (kWh): 2.6502437018422143e-05
+Total Energy (kWh): 5.521725721248671e-05
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/density_runs_2/graph_2007_000033_10.txt.bbk...
+building...0.0691408 seconds
+init... 0.000581374 seconds
+solving... 0.0490011 seconds
+total: 0.118723 seconds, maxflow: 10376556
+Maximum memory usage: 308.672 MB
+Average memory usage: 202.712 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 1.5149660002951404e-05 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.724135479412147e-05
+CPU Energy (kWh): 2.31802640997536e-05
+RAM Energy (kWh): 2.127374624946441e-05
+Total Energy (kWh): 4.4454010349218015e-05
+Country: Italy
+CPU Count: 8

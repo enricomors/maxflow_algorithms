@@ -1,0 +1,504 @@
+Loading python/3.11.6--gcc--8.5.0
+  Loading requirement: bzip2/1.0.8-gp5wcz5 libmd/1.0.4-wja3f5q
+    libbsd/0.11.7-cgxjopl expat/2.5.0-bptl3xw ncurses/6.4-asx3jea
+    readline/8.2-nyw6mp6 gdbm/1.23-fs6otck libiconv/1.17-d7yvx2s
+    xz/5.4.1-hubmwr5 zlib-ng/2.1.4-6htiapk libxml2/2.10.3-5eeeokp
+    pigz/2.7-bopr5vp zstd/1.5.5-gawytfl tar/1.34-amqus5s gettext/0.22.3-2g7elif
+    libffi/3.4.4-6r7brdq libxcrypt/4.4.35-ss2rzin sqlite/3.43.2
+    util-linux-uuid/2.38.1-jkdi7kv
+Output from C++ program:
+reading data/export/bone.n26c100.max.bbk...
+building... 4.51114 seconds
+solving... 30.1229 seconds
+total: 34.634 seconds, maxflow: 83195
+Maximum memory usage: 17379.9 MB
+Average memory usage: 15324.1 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.001374638516780372 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.53887113535111e-05
+CPU Energy (kWh): 0.0019990519117402
+RAM Energy (kWh): 0.0020345828259029
+Total Energy (kWh): 0.0040336347376431
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n26c100.max.bbk...
+building... 3.10223 seconds
+solving... 20.5489 seconds
+total: 23.6511 seconds, maxflow: 83195
+Maximum memory usage: 9458.81 MB
+Average memory usage: 8596.16 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.0009166923508282435 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.469416589623616e-05
+CPU Energy (kWh): 0.0013059329125232
+RAM Energy (kWh): 0.0013839394174715
+Total Energy (kWh): 0.0026898723299947
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n26c100.max.bbk...
+building... 3.21078 seconds
+init... 7.46521 seconds
+solving... 8.27604 seconds
+total: 18.952 seconds, maxflow: 83195
+Maximum memory usage: 14873.4 MB
+Average memory usage: 11825.5 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 0.0007926268598452704 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6316660962101046e-05
+CPU Energy (kWh): 0.0011826568133469
+RAM Energy (kWh): 0.0011431671737105
+Total Energy (kWh): 0.0023258239870574
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n26c100.max.bbk...
+building...5.64247 seconds
+init... 3.71161 seconds
+solving... 7.05315 seconds
+total: 16.4072 seconds, maxflow: 83195
+Maximum memory usage: 19127.3 MB
+Average memory usage: 15430.7 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 0.0006765112078497522 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.520351485988092e-05
+CPU Energy (kWh): 0.0009785580006235
+RAM Energy (kWh): 0.0010065450465244
+Total Energy (kWh): 0.0019851030471479
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n26c100.max.bbk...
+building...1.98378 seconds
+init... 3.3828 seconds
+solving... 7.2142 seconds
+total: 12.5808 seconds, maxflow: 83195
+Maximum memory usage: 16149 MB
+Average memory usage: 12297.9 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 0.000560414450819748 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.659207428361496e-05
+CPU Energy (kWh): 0.0008422762307648
+RAM Energy (kWh): 0.0008021613204236
+Total Energy (kWh): 0.0016444375511885
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n26c100.max.bbk...
+building...2.02905 seconds
+init... 0.0221327 seconds
+solving... 22.778 seconds
+total: 24.8292 seconds, maxflow: 83195
+Maximum memory usage: 9544.41 MB
+Average memory usage: 8804.9 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 0.0009700429777799552 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.537414723820499e-05
+CPU Energy (kWh): 0.0014100799325074
+RAM Energy (kWh): 0.0014363404204915
+Total Energy (kWh): 0.002846420352999
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n26c10.max.bbk...
+building... 4.49548 seconds
+solving... 28.2628 seconds
+total: 32.7583 seconds, maxflow: 6593
+Maximum memory usage: 17379.8 MB
+Average memory usage: 15232.1 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.0013119987464056961 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.5525797264474616e-05
+CPU Energy (kWh): 0.0019154547654181
+RAM Energy (kWh): 0.0019343745930966
+Total Energy (kWh): 0.0038498293585148
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n26c10.max.bbk...
+building... 3.08475 seconds
+solving... 17.0229 seconds
+total: 20.1076 seconds, maxflow: 6593
+Maximum memory usage: 9458.8 MB
+Average memory usage: 8467.49 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.0008262128687989755 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.620577287829863e-05
+CPU Energy (kWh): 0.0012291154716249
+RAM Energy (kWh): 0.0011952607462632
+Total Energy (kWh): 0.0024243762178881
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n26c10.max.bbk...
+building... 3.18395 seconds
+init... 7.44882 seconds
+solving... 5.81392 seconds
+total: 16.4467 seconds, maxflow: 6593
+Maximum memory usage: 14873.5 MB
+Average memory usage: 11450.8 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 0.0006742160471297119 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.489729382261021e-05
+CPU Energy (kWh): 0.0009664352359253
+RAM Energy (kWh): 0.0010119330661272
+Total Energy (kWh): 0.0019783683020525
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n26c10.max.bbk...
+building...5.75916 seconds
+init... 3.69693 seconds
+solving... 6.1714 seconds
+total: 15.6275 seconds, maxflow: 6593
+Maximum memory usage: 19127.3 MB
+Average memory usage: 15202 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 0.0006701105206298426 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.638277511949613e-05
+CPU Energy (kWh): 0.001001619212128
+RAM Energy (kWh): 0.000964702145143
+Total Energy (kWh): 0.001966321357271
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n26c10.max.bbk...
+building...1.93747 seconds
+init... 3.33051 seconds
+solving... 6.26472 seconds
+total: 11.5327 seconds, maxflow: 6593
+Maximum memory usage: 16148.7 MB
+Average memory usage: 12075.9 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 0.0004918264970295438 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.4356555607720104e-05
+CPU Energy (kWh): 0.0006933653433029
+RAM Energy (kWh): 0.000749812931636
+Total Energy (kWh): 0.0014431782749389
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n26c10.max.bbk...
+building...2.00166 seconds
+init... 0.0212022 seconds
+solving... 20.4915 seconds
+total: 22.5144 seconds, maxflow: 6593
+Maximum memory usage: 9532.18 MB
+Average memory usage: 8739.13 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 0.0009124944736077987 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.632407841096042e-05
+CPU Energy (kWh): 0.0013617675210798
+RAM Energy (kWh): 0.0013157868772012
+Total Energy (kWh): 0.002677554398281
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n6c100.max.bbk...
+building... 1.19201 seconds
+solving... 7.47718 seconds
+total: 8.66919 seconds, maxflow: 71344
+Maximum memory usage: 4289.4 MB
+Average memory usage: 3707.99 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.00036233959315277114 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.619086217703543e-05
+CPU Energy (kWh): 0.0005388269730056
+RAM Energy (kWh): 0.0005243947772386
+Total Energy (kWh): 0.0010632217502443
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n6c100.max.bbk...
+building... 0.75643 seconds
+solving... 5.42715 seconds
+total: 6.18358 seconds, maxflow: 71344
+Maximum memory usage: 2318.47 MB
+Average memory usage: 2067.73 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.00025075207909300285 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.383684051071393e-05
+CPU Energy (kWh): 0.0003476493820081
+RAM Energy (kWh): 0.0003881384519707
+Total Energy (kWh): 0.0007357878339788
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n6c100.max.bbk...
+building... 0.770758 seconds
+init... 1.06604 seconds
+solving... 3.85365 seconds
+total: 5.69045 seconds, maxflow: 71344
+Maximum memory usage: 3568.36 MB
+Average memory usage: 2904.07 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 0.00024346959329472055 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.52317079746172e-05
+CPU Energy (kWh): 0.0003524738297566
+RAM Energy (kWh): 0.0003619448316479
+Total Energy (kWh): 0.0007144186614046
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n6c100.max.bbk...
+building...1.52159 seconds
+init... 0.875702 seconds
+solving... 2.14597 seconds
+total: 4.54327 seconds, maxflow: 71344
+Maximum memory usage: 4847.51 MB
+Average memory usage: 3704.8 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 0.00021985173160852424 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.783793154907599e-05
+CPU Energy (kWh): 0.0003408024023639
+RAM Energy (kWh): 0.0003043138015848
+Total Energy (kWh): 0.0006451162039487
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n6c100.max.bbk...
+building...0.530402 seconds
+init... 0.858937 seconds
+solving... 2.15006 seconds
+total: 3.5394 seconds, maxflow: 71344
+Maximum memory usage: 3951.27 MB
+Average memory usage: 2904.07 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 0.00016594394945214233 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.4503192198198584e-05
+CPU Energy (kWh): 0.0002350422260891
+RAM Energy (kWh): 0.0002518910809882
+Total Energy (kWh): 0.0004869333070774
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n6c100.max.bbk...
+building...0.521921 seconds
+init... 0.0210885 seconds
+solving... 4.08059 seconds
+total: 4.6236 seconds, maxflow: 71344
+Maximum memory usage: 2389.13 MB
+Average memory usage: 2069.62 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 0.0002148071582270564 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.697184659488236e-05
+CPU Energy (kWh): 0.0003260173738692
+RAM Energy (kWh): 0.0003042964175327
+Total Energy (kWh): 0.000630313791402
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n6c10.max.bbk...
+building... 1.19628 seconds
+solving... 6.15441 seconds
+total: 7.35069 seconds, maxflow: 5454
+Maximum memory usage: 4289.61 MB
+Average memory usage: 3639.64 MB
+
+Errors from C++ program:
+BK:
+
+Emissions: 0.000294511060771127 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.4199549556723075e-05
+CPU Energy (kWh): 0.0004131469066283
+RAM Energy (kWh): 0.000451043955802
+Total Energy (kWh): 0.0008641908624304
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n6c10.max.bbk...
+building... 0.760125 seconds
+solving... 4.11389 seconds
+total: 4.87402 seconds, maxflow: 5454
+Maximum memory usage: 2318.64 MB
+Average memory usage: 2016.22 MB
+
+Errors from C++ program:
+MBK:
+
+Emissions: 0.00021269523657233187 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.538551004454533e-05
+CPU Energy (kWh): 0.0003093006371625
+RAM Energy (kWh): 0.000314816091924
+Total Energy (kWh): 0.0006241167290865
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n6c10.max.bbk...
+building... 0.770182 seconds
+init... 1.07049 seconds
+solving... 2.41424 seconds
+total: 4.25491 seconds, maxflow: 5454
+Maximum memory usage: 3568.21 MB
+Average memory usage: 2736.33 MB
+
+Errors from C++ program:
+MBK2:
+
+Emissions: 0.00019891361948800535 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.677289555778859e-05
+CPU Energy (kWh): 0.0003003723622421
+RAM Energy (kWh): 0.0002833046376111
+Total Energy (kWh): 0.0005836769998532
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n6c10.max.bbk...
+building...1.5208 seconds
+init... 0.890866 seconds
+solving... 1.77156 seconds
+total: 4.18323 seconds, maxflow: 5454
+Maximum memory usage: 4847.57 MB
+Average memory usage: 3652.32 MB
+
+Errors from C++ program:
+EIBFS old:
+
+Emissions: 0.00019797638901363035 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.659679205110961e-05
+CPU Energy (kWh): 0.0002976021678037
+RAM Energy (kWh): 0.0002833246942114
+Total Energy (kWh): 0.0005809268620152
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n6c10.max.bbk...
+building...0.539287 seconds
+init... 0.873153 seconds
+solving... 1.77537 seconds
+total: 3.18781 seconds, maxflow: 5454
+Maximum memory usage: 3951.57 MB
+Average memory usage: 2826.52 MB
+
+Errors from C++ program:
+EIBFS new:
+
+Emissions: 0.00016033667623703077 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6363866355869054e-05
+CPU Energy (kWh): 0.0002395588197024
+RAM Energy (kWh): 0.0002309209312234
+Total Energy (kWh): 0.0004704797509258
+Country: Italy
+CPU Count: 8
+Output from C++ program:
+reading data/export/bone.n6c10.max.bbk...
+building...0.525572 seconds
+init... 0.0215503 seconds
+solving... 3.33979 seconds
+total: 3.88691 seconds, maxflow: 5454
+Maximum memory usage: 2382.81 MB
+Average memory usage: 2024.37 MB
+
+Errors from C++ program:
+EIBFS new2:
+
+Emissions: 0.0001815314313740273 kg CO2e
+
+Additional Metrics:
+CO2eRate (kg/s): 3.6242733881095166e-05
+CPU Energy (kWh): 0.0002703450340536
+RAM Energy (kWh): 0.0002623269947204
+Total Energy (kWh): 0.000532672028774
+Country: Italy
+CPU Count: 8

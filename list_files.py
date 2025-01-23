@@ -3,6 +3,7 @@ import os
 
 
 def list_files_with_paths_to_txt(directory, output_file):
+    
     try:
         # Get the list of all files in the directory
         files = os.listdir(directory)
@@ -20,7 +21,7 @@ def list_files_with_paths_to_txt(directory, output_file):
         print(f"An error occurred: {e}")
 
 
-if __name__ == "__name__":
+if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("directory", help="directory in which to read files")
     parser.add_argument("outfile", help="filepath in which to write file names")

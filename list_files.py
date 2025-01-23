@@ -23,9 +23,10 @@ def list_files_with_paths_to_txt(directory, output_file):
 if __name__ == "__name__":
     parser = argparse.ArgumentParser()
     parser.add_argument("directory", help="directory in which to read files")
+    parser.add_argument("outfile", help="filepath in which to write file names")
     args = parser.parse_args()
     # Specify the directory and the output file name
     directory_path = args.directory
-    output_txt = "file_names.txt"
+    output_txt = args.outfile
 
     list_files_with_paths_to_txt(directory_path, output_txt)

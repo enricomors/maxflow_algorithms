@@ -11,18 +11,6 @@
 
 module load python/3.11.6--gcc--8.5.0
 source hada_benchmark/bin/activate
-python3 main.py -e ./build/demo -d data/export/4Dpipe_5x200x360x199.bbk -a bk
-python3 main.py -e ./build/demo -d data/export/4Dpipe_5x200x360x199.bbk -a mbk
-python3 main.py -e ./build/demo -d data/export/4Dpipe_5x200x360x199.bbk -a mbk_r
-python3 main.py -e ./build/demo -d data/export/4Dpipe_5x200x360x199.bbk -a eibfs
-python3 main.py -e ./build/demo -d data/export/4Dpipe_5x200x360x199.bbk -a eibfs_i
-python3 main.py -e ./build/demo -d data/export/4Dpipe_5x200x360x199.bbk -a eibfs_i_nr
-python3 main.py -e ./build/demo -d data/export/4Dpipe_5x20x360x199.bbk -a bk
-python3 main.py -e ./build/demo -d data/export/4Dpipe_5x20x360x199.bbk -a mbk
-python3 main.py -e ./build/demo -d data/export/4Dpipe_5x20x360x199.bbk -a mbk_r
-python3 main.py -e ./build/demo -d data/export/4Dpipe_5x20x360x199.bbk -a eibfs
-python3 main.py -e ./build/demo -d data/export/4Dpipe_5x20x360x199.bbk -a eibfs_i
-python3 main.py -e ./build/demo -d data/export/4Dpipe_5x20x360x199.bbk -a eibfs_i_nr
 python3 main.py -e ./build/demo -d data/export/clean.orimrf.256.bbk -a bk
 python3 main.py -e ./build/demo -d data/export/clean.orimrf.256.bbk -a mbk
 python3 main.py -e ./build/demo -d data/export/clean.orimrf.256.bbk -a mbk_r

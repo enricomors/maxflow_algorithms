@@ -48,3 +48,4 @@ grid_cut/*.h
 
 # Python stuff
 __pycache__
+hada_benchmark/

@@ -3,8 +3,8 @@
 #SBATCH -A IscrC_FairLLM
 #SBATCH -p boost_usr_prod
 #SBATCH --time 24:00:00      # format: HH:MM:SS
-#SBATCH -N 1                 # 1 node
-#SBATCH --ntasks-per-node=8 # 8 tasks out of 32
+#SBATCH -N 2                 # 2 node
+#SBATCH --ntasks-per-node=16 # 16 tasks out of 32
 #SBATCH --job-name=hada_benchmark_txtflow
 #SBATCH --output=slurm-%j.out
 #SBATCH --error=slurm-%j.err
@@ -24,7 +24,6 @@ python3 main.py -e ./build/demo -d data/export/unet_mrfclean_1.c6.305.267.124.bb
 python3 main.py -e ./build/demo -d data/export/unet_mrfclean_1.c6.305.267.124.bbk.max -a eibfs_i
 python3 main.py -e ./build/demo -d data/export/unet_mrfclean_1.c6.305.267.124.bbk.max -a eibfs_i_nr
 python3 main.py -e ./build/demo -d data/export/unet_mrfclean_2.c6.289.262.108.bbk.max -a bk
-python3 main.py -e ./build/demo -d data/export/unet_mrfclean_2.c6.289.262.108.bbk.max -a mbk
 python3 main.py -e ./build/demo -d data/export/unet_mrfclean_2.c6.289.262.108.bbk.max -a mbk_r
 python3 main.py -e ./build/demo -d data/export/unet_mrfclean_2.c6.289.262.108.bbk.max -a eibfs
 python3 main.py -e ./build/demo -d data/export/unet_mrfclean_2.c6.289.262.108.bbk.max -a eibfs_i

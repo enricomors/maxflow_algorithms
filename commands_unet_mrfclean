@@ -1,0 +1,26 @@
+#!/bin/bash
+
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_8.c6.233.209.101.bbk -a bk >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_8.c6.233.209.101.bbk -a mbk >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_8.c6.233.209.101.bbk -a mbk_r >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_8.c6.233.209.101.bbk -a eibfs >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_8.c6.233.209.101.bbk -a eibfs_i >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_8.c6.233.209.101.bbk -a eibfs_i_nr >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_1.c6.305.267.124.bbk -a bk >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_1.c6.305.267.124.bbk -a mbk >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_1.c6.305.267.124.bbk -a mbk_r >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_1.c6.305.267.124.bbk -a eibfs >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_1.c6.305.267.124.bbk -a eibfs_i >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_1.c6.305.267.124.bbk -a eibfs_i_nr >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_2.c6.289.262.108.bbk -a bk >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_2.c6.289.262.108.bbk -a mbk >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_2.c6.289.262.108.bbk -a mbk_r >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_2.c6.289.262.108.bbk -a eibfs >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_2.c6.289.262.108.bbk -a eibfs_i >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_2.c6.289.262.108.bbk -a eibfs_i_nr >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_3.c6.271.244.241.bbk -a bk >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_3.c6.271.244.241.bbk -a mbk >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_3.c6.271.244.241.bbk -a mbk_r >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_3.c6.271.244.241.bbk -a eibfs >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_3.c6.271.244.241.bbk -a eibfs_i >> output.log 2>> error.log
+python3 main.py -e ./build/demo -d data/export/unet_mrfclean_3.c6.271.244.241.bbk -a eibfs_i_nr >> output.log 2>> error.log

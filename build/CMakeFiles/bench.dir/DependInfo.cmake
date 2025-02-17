@@ -8,15 +8,16 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/bench.cpp" "CMakeFiles/bench.dir/bench.cpp.o" "gcc" "CMakeFiles/bench.dir/bench.cpp.o.d"
-  "/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/graph_io.cpp" "CMakeFiles/bench.dir/graph_io.cpp.o" "gcc" "CMakeFiles/bench.dir/graph_io.cpp.o.d"
+  "/home/enricomorselli/git/maxflow_algorithms/bench.cpp" "CMakeFiles/bench.dir/bench.cpp.o" "gcc" "CMakeFiles/bench.dir/bench.cpp.o.d"
+  "/home/enricomorselli/git/maxflow_algorithms/graph_io.cpp" "CMakeFiles/bench.dir/graph_io.cpp.o" "gcc" "CMakeFiles/bench.dir/graph_io.cpp.o.d"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/snappy/CMakeFiles/snappy.dir/DependInfo.cmake"
-  "/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/hi_pr/CMakeFiles/hi_pr.dir/DependInfo.cmake"
-  "/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/sppr/CMakeFiles/sppr.dir/DependInfo.cmake"
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.

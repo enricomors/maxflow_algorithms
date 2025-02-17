@@ -26,7 +26,8 @@ if (maxflow_algos_vtune_instrumentation)
     message("VTune path: " "${VTUNE_PATH}")
 endif()
 
-file(TO_CMAKE_PATH "/leonardo/prod/spack/5.2/install/0.21/linux-rhel8-icelake/gcc-8.5.0/intel-oneapi-tbb-2021.10.0-4fmvi3yscdjydcrbrqly35emy6flami7" TBB_PATH) # Change this to your path!
+#file(TO_CMAKE_PATH "/leonardo/prod/spack/5.2/install/0.21/linux-rhel8-icelake/gcc-8.5.0/intel-oneapi-tbb-2021.10.0-4fmvi3yscdjydcrbrqly35emy6flami7" TBB_PATH) # Change this to your path!
+file(TO_CMAKE_PATH "/opt/intel/oneapi/tbb/latest" TBB_PATH) # Change this to your path!  
 #file(TO_CMAKE_PATH "C:/Program Files (x86)/IntelSWTools/compilers_and_libraries_2020.1.216/windows/tbb" TBB_PATH) # Change this to your path!
 if (EXISTS ${TBB_PATH})
     message("TBB path: " "${TBB_PATH}")

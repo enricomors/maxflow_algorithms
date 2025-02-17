@@ -39,6 +39,7 @@ out/
 # Data files
 *.max
 *.bbk
+*.bq
 
 # d_maxflow binary directory
 prd/bin
@@ -48,3 +49,9 @@ grid_cut/*.h
 
 # Python stuff
 __pycache__
+
+# Virtual environment
+pc_bench/
+
+# Emission file
+emissions.csv

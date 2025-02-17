@@ -1,4 +1,4 @@
-# Install script for directory: /leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms
+# Install script for directory: /home/enricomorselli/git/maxflow_algorithms
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -29,7 +29,7 @@ endif()
 
 # Install shared libraries without execute permission?
 if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
-  set(CMAKE_INSTALL_SO_NO_EXE "0")
+  set(CMAKE_INSTALL_SO_NO_EXE "1")
 endif()
 
 # Is this installation the result of a crosscompile?
@@ -44,11 +44,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/reimpls/cmake_install.cmake")
-  include("/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/bk/cmake_install.cmake")
-  include("/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/snappy/cmake_install.cmake")
-  include("/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/hi_pr/cmake_install.cmake")
-  include("/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/sppr/cmake_install.cmake")
+  include("/home/enricomorselli/git/maxflow_algorithms/build/reimpls/cmake_install.cmake")
+  include("/home/enricomorselli/git/maxflow_algorithms/build/bk/cmake_install.cmake")
+  include("/home/enricomorselli/git/maxflow_algorithms/build/snappy/cmake_install.cmake")
+  include("/home/enricomorselli/git/maxflow_algorithms/build/hi_pr/cmake_install.cmake")
+  include("/home/enricomorselli/git/maxflow_algorithms/build/sppr/cmake_install.cmake")
 
 endif()
 
@@ -60,5 +60,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/leonardo_scratch/fast/IscrC_FairLLM/maxflow_algorithms/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/enricomorselli/git/maxflow_algorithms/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
